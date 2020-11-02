@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic Page - Massively by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Home</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="index.html">About me</a></li>
+							<li class="active"><a href="showcase.html">Showcase</a></li>
+							<li><a href="visualizations.html">Visualisations</a></li>
+							<li><a href="other_projects.html">Other Projects</a></li>
+							<li><a href="cv.html">CV</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>Projects showcase</h1>
+								</header>
+							</section>
+							<section class="post">
+							<h2 id="FEM">Distribution of wires</h2>
+							<p>For various reasons, my friend needed to know the precise distribution of wires inside a cable.<br />
+							This cable consists of 6 bundle of wires twisted together around a central column. Each bundle consists of 416 strands of wires, and within each bundle these 416 wires are wrapped among themselves in a helical fashion as well.
+							</p>
+							<span class="image fit"><img src="contents/ITERCAD_sketch.gif" /></span>
+							<p>In the video above, the coloured lines denotes the sheaths of each bundle. The dot traces out the expected path of a single strand of wire within the cross-section of the cable as we move up the cable.</p>
+
+							<p>The problem was, a circular rotation pattern won't work for all 417 strands, as some wil collide with the sheath while others will leave a lot of emtpy spaces near the corners of the sheath.<br />
+							So the first attempt to make it useful
+							</p>
+							<video width="560" height="315" controls>
+							<source src="contents/EvenlyDistributed.mp4" type="video/mp4">
+							Please use a more modern browser if you're seeing this error message.
+							</video>
+
+
+							</section>
+							<section class="post">
+							<h2 id="fourier">Fourier transform a video</h2>
+							<p>Some years ago, while learning about Fourier transform, I was enamoured of the fact that every curve has a "dual".
+							<img src="images/fourier.gif" alt="fourier transform gif" title="A gif of fourier transform | Shared by Lucas Vieira on Wiki Commons under CC0"/>
+							</p>
+
+							<p>Therefore, when I saw the Arctic Monkey's music video "Do I Wanna Know", I trialed my Python skills with the challenge of fourier transforming that video.<br />
+							Play the following two videos <u><b>simultaneously</b></u> and you will see what I mean.</p>
+							</section>
+							<section class="posts">
+								<article>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/bpOSxM0rNPM?end=73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<p>The original video.</p>
+								</article>
+								<article>
+								<video width="560" height="315" controls>
+								<source src="contents/do_I_wanna_know_fft.mp4" type="video/mp4">
+								Please use a more modern browser if you're seeing this error message.
+								</video>
+								<p>The fourier transformed version of the video. Following the same art style, speed and layout.</p>
+								</article>
+							</section>
+							<section class="post">
+							<p>Each frame of the video is obtained by taking the fourier transform of the curve of the original video's frame, then removing the imaginary part. The left side of the frame corresponds to low frequencies (long wiggles) and the right side of the frame corresponds to high frequencies (short wiggles).<br />
+							I stopped before a second line started to appear on the original video. Including the second line would have made the project too complex to manage using the python skills I had at the time.</p>
+							</section>
+					</div>
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br />
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(000) 000-0000</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">info@untitled.tld</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
