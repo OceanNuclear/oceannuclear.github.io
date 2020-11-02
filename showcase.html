@@ -46,7 +46,7 @@
 								</header>
 							</section>
 							<section class="post">
-							<h2 id="FEM">Distribution of wires</h2>
+							<h2 id="FEM">FEM Distribution of wires</h2>
 							<p>For various reasons, my friend needed to know the precise distribution of wires inside a cable.<br />
 							This cable consists of 6 bundle of wires twisted together around a central column. Each bundle consists of 416 strands of wires, and within each bundle these 416 wires are wrapped among themselves in a helical fashion as well.
 							</p>
@@ -54,23 +54,131 @@
 							<p>In the video above, the coloured lines denote the sheaths wrapping around each bundle. The dot traces out the expected path of a single strand of wire within the cross-section of the cable as we move up the cable.</p>
 
 							<p>The problem was, a circular rotation pattern won't work for all 416 strands, as some wil collide with the sheath while others will leave a lot of emtpy spaces near the corners of the sheath.<br />
-							So the first attempt to even out the distribution of wires was to start with a rotating circle, tessellated with 416 smaller cirles, and then apply <a href="http://squircular.blogspot.com/2015/09/mapping-circle-to-square.html">elliptical grid mapping</a> to transform it into a square. (This is not the only way to "square a circle". Other types of circle-to-square transformations can be found <a href="https://arxiv.org/pdf/1509.06344.pdf">here</a>.) The square can then be mapped into the shape of the sheath (called a sextant). <br />
-							Both of these are area preserving transformation, to minimize the amount of 
+							So the first attempt to even out the distribution of wires was to start with a rotating circle, tessellated with 416 smaller cirles, and then apply <a href="http://squircular.blogspot.com/2015/09/mapping-circle-to-square.html">elliptical grid mapping</a> to transform it into a square. (This is not the only way to "square a circle". Other types of circle-to-square transformations can be found <a href="https://arxiv.org/pdf/1509.06344.pdf">here</a>.)
+							</p>
+							<!-- <video width="100%" controls>
+								<source src="contents/MappingCheck.webm" type="video/webm" />
+								<source src="contents/MappingCheck.mp4" type="video/mp4" />
+								<source src="contents/MappingCheck.ogv" type="video/ogv" />
+								<source src="contents/MappingCheck.ogg" type="video/ogg" />
+							Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+							</video> -->
+							<span class="image fit"><img src="contents/MappingCheck.gif" /></span>
+							<p>
+							The square can then be mapped into the shape of the sheath (called a sextant). <br />
+							This is done using an area-preserving transformation, to minimize the amount of distortion to the density distribution of wires. <br />
 							This gives the following expected distribution of wires as we move up the cable.
 							</p>
-							<video width="100%" controls>
+							<!-- <video width="100%" controls>
 								<source src="contents/EvenlyDistributed.webm" type="video/webm" />
 								<source src="contents/EvenlyDistributed.mp4" type="video/mp4" />
 								<source src="contents/EvenlyDistributed.ogv" type="video/ogv" />
 								<source src="contents/EvenlyDistributed.ogg" type="video/ogg" />
-							Please use a more modern browser if you're seeing this error message.
-							</video>
+							Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+							</video> -->
+							<span class="image fit"><img src="contents/EvenlyDistributed.gif" /></span>
 
 							<p>But this is still quite far from our intuitive expectation of the distribution of wires inside the cable: It is still empty near the corners, and too tightly packed near the center of each bundle.<br />
 							So my next idea was to pretend the center of each wire was a charged particle, repelling them from each other. <br />
-							To simplify the process, we consider the sextants to be identical copies of each other, and thus we can ignore the rotation and .
+							To simplify the process, we consider the sextants to be identical copies of each other, so that we can focus on only a single sextant.
 							</p>
-
+							<span class="image fit"><img src="contents/overrelaxed_cot.gif" width="60%" /></span>
+							<p>
+							Using special technique called <a href="https://en.wikipedia.org/wiki/Successive_over-relaxation">overrelaxation</a> to speed up the simulation, the distributions of the centre of the wires at each "slice" of the bundle were obtained. <br />
+							But if we scan across the bundle, we will notice something wrong:<br />
+							<span class="image left"><img src="contents/first_relax_scan.gif" width="40%" /></span>
+							The wires "jumps" and swap location with each other when we scan across the bundle!<br />
+							This is because we haven't implemented any restriction on how close the wire in the previous slice should be to the next slice. Therefore to achieve the lowest energy configuration, the distribution of wires in one slice may be very different from that of a neighbouring slice.<br />
+							To fix this issue, we can extend the repulsive force to neighbouring slices as well. Let's see how that turns out:
+							</p>
+							<span class="image fit"><img src="contents/short_repel.gif" /></span>
+							<p>
+							Well, that ... wasn't supposed to happen. Everything went out of bounds. The force was <i>too</i> strong with this one.
+							The repulsive force made everything go out of bounds.<br />
+							Reducing the repulsive force would only make each simulation more time consuming to run. But we tried it, and it still failed to converge.<br />
+							So we removed the repulsive force and added an attractive force, pulling the center of wires in neighbouring slices together. Still, no luck. Run it for long enough and the same divergence happened.<br />
+							</p>
+							<p>
+							After numerous time-consuming experiments, and days of pouring over the data, I found out the source of the problem:<br />
+							We imagined the repulsive force to get exponentially stronger as we approach the center.
+							Instead, a more mellow force profile (seen below) will lead to convergence more quickly:
+							</p>
+							<span class="image fit"><img src="contents/kernel_compare.png" /></span>
+							(y-axis: repulsive force strength; x-axis: distance to wire repelling it.)
+							<p>
+							The original profile (left) gives a solution with very samll region of stability: when the wires are far apart, they will repel each other and stay relatively motionless; but if any wire wanders close enough to another wire, it will be <i>launched</i> away from the latter with excessive force, barrelling into other wires, and causing a chain reaction that leads to chaos.
+							Whereas the newer force profile (right) has no such problem.<br />
+							This gives rise to the following result:
+							</p>
+							<video width="100%" height="100%" controls>
+								<source src="contents/repel_attract_skip3.webm" type="video/webm" />
+								<source src="contents/repel_attract_skip3.mp4" type="video/mp4" />
+								<source src="contents/repel_attract_skip3.ogv" type="video/ogv" />
+								<source src="contents/repel_attract_skip3.ogg" type="video/ogg" />
+							Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+							</video>
+							<p>Another interesting feature about my simulation is that it is memoryless, i.e. the wires "forget" the momentum it has gathered in the previous steps. Therefore it behaves like particles pushing on each other in a damping medium, like a viscous fluid.<br />
+							What I'm doing in this model is basically an <a href="https://mooseframework.inl.gov/">FEM simulation</a> (Finite Element Modelling), but at a much faster speed, and a much lower computational cost, leveraging on numpy's array operation abilities and branchless programming.<br />
+							And if you're wondering how does the entire model look...
+							</p>
+							<video width="100%" height="100%" controls>
+								<source src="contents/MattMedia/rotate_model-cropped.webm" type="video/webm" />
+								<source src="contents/MattMedia/rotate_model-cropped.mp4" type="video/mp4" />
+								<source src="contents/MattMedia/rotate_model-cropped.ogv" type="video/ogv" />
+								<source src="contents/MattMedia/rotate_model-cropped.ogg" type="video/ogg" />
+							Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+							</video>
+							<p>
+							Well, all I can say is, it's still pretty hard to see what's going on in 3D.
+							</p>
+							</section>
+							<section class="post">
+							<h2 id="WillML">Machine learning classification of items</h2>
+							<p>Another friend of mine needed to manually classify some products.</p>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item 1</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item 2</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item 3</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item 4</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item 5</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
 							</section>
 							<section class="post">
 							<h2 id="fourier">Fourier transform a video</h2>
@@ -92,7 +200,7 @@
 									<source src="contents/do_I_wanna_know_fft.mp4" type="video/mp4" />
 									<source src="contents/do_I_wanna_know_fft.ogv" type="video/ogv" />
 									<source src="contents/do_I_wanna_know_fft.ogg" type="video/ogg" />
-								Please use a more modern browser if you're seeing this error message.
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
 								</video>
 								<p>The fourier transformed version of the video. Following the same art style, speed and layout.</p>
 								</article>
