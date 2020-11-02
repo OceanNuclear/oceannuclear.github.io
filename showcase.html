@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic Page - Massively by HTML5 UP</title>
+		<title>Ocean Wong - project showcase</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -32,10 +32,7 @@
 							<li><a href="cv.html">CV</a></li>
 						</ul>
 						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.linkedin.com/in/ocean-wong-uk/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						</ul>
 					</nav>
 
@@ -54,17 +51,22 @@
 							This cable consists of 6 bundle of wires twisted together around a central column. Each bundle consists of 416 strands of wires, and within each bundle these 416 wires are wrapped among themselves in a helical fashion as well.
 							</p>
 							<span class="image fit"><img src="contents/ITERCAD_sketch.gif" /></span>
-							<p>In the video above, the coloured lines denotes the sheaths of each bundle. The dot traces out the expected path of a single strand of wire within the cross-section of the cable as we move up the cable.</p>
+							<p>In the video above, the coloured lines denote the sheaths wrapping around each bundle. The dot traces out the expected path of a single strand of wire within the cross-section of the cable as we move up the cable.</p>
 
 							<p>The problem was, a circular rotation pattern won't work for all 416 strands, as some wil collide with the sheath while others will leave a lot of emtpy spaces near the corners of the sheath.<br />
 							So the first attempt to even out the distribution of wires was to start with a rotating circle, tessellated with 416 smaller cirles, and then apply <a href="http://squircular.blogspot.com/2015/09/mapping-circle-to-square.html">elliptical grid mapping</a> to transform it into a square. (This is not the only way to "square a circle". Other types of circle-to-square transformations can be found <a href="https://arxiv.org/pdf/1509.06344.pdf">here</a>.) The square can then be mapped into the shape of the sheath (called a sextant). <br />
+							Both of these are area preserving transformation, to minimize the amount of 
 							This gives the following expected distribution of wires as we move up the cable.
 							</p>
 							<video width="1120" height="630" controls>
 							<source src="contents/EvenlyDistributed.mp4" type="video/mp4">
 							Please use a more modern browser if you're seeing this error message.
 							</video>
-							<p>But this is still quite far from our intuitive expectation of the distribution of wires inside the cable: It is still empty near the corners, and too tightly packed near the center of each bundle.</p>
+
+							<p>But this is still quite far from our intuitive expectation of the distribution of wires inside the cable: It is still empty near the corners, and too tightly packed near the center of each bundle.<br />
+							So my next idea was to pretend the center of each wire was a charged particle, repelling them from each other. <br />
+							To simplify the process, we consider the sextants to be identical copies of each other, and thus we can ignore the rotation and .
+							</p>
 
 							</section>
 							<section class="post">
