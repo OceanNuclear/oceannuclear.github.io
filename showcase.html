@@ -59,7 +59,9 @@
 							This gives the following expected distribution of wires as we move up the cable.
 							</p>
 							<video width="100%" controls>
-							<source src="contents/EvenlyDistributed.mp4" type="video/mp4">
+								<source src="contents/EvenlyDistributed.mp4" type="video/mp4" />
+								<source src="contents/EvenlyDistributed.ogv" type="video/ogv" />
+								<source src="contents/EvenlyDistributed.webm" type="video/webm" />
 							Please use a more modern browser if you're seeing this error message.
 							</video>
 
@@ -77,13 +79,21 @@
 
 							<p>Therefore, when I saw the Arctic Monkey's music video "Do I Wanna Know", I trialed my Python skills with the challenge of fourier transforming that video.<br />
 							Play the following two videos <u><b>simultaneously</b></u> and you will see what I mean.</p>
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/bpOSxM0rNPM?end=73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							<p>The original video.</p>
-							<video width="50%" controls>
-							<source src="contents/do_I_wanna_know_fft.mp4" type="video/mp4">
-							Please use a more modern browser if you're seeing this error message.
-							</video>
-							<p>The fourier transformed version of the video. Following the same art style, speed and layout.</p>
+							</section>
+							<section class="posts">
+								<article>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/bpOSxM0rNPM?end=73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<p>The original video.</p>
+								</article>
+								<article>
+								<video width="560" height="315" controls>
+									<source src="contents/do_I_wanna_know_fft.mp4" type="video/mp4" />
+									<source src="contents/do_I_wanna_know_fft.ogv" type="video/ogv" />
+									<source src="contents/do_I_wanna_know_fft.webm" type="video/webm" />
+								Please use a more modern browser if you're seeing this error message.
+								</video>
+								<p>The fourier transformed version of the video. Following the same art style, speed and layout.</p>
+								</article>
 							</section>
 							<section class="post">
 							<p>Each frame of the video is obtained by taking the fourier transform of the curve of the original video's frame, then removing the imaginary part. The left side of the frame corresponds to low frequencies (long wiggles) and the right side of the frame corresponds to high frequencies (short wiggles).<br />
