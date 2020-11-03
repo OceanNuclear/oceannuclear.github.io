@@ -3,7 +3,7 @@ Todo (Ocean):
 - Sync the footers across the pages
 # - The [MASSIVELY] logo should be changed to [home]
 # - nav bar change on all files
-- Change the <title> tags
+# - Change the <title> tags
 - create mini-index for showcase and visualization
 ____ From Massively author:
 Massively by HTML5 UP
