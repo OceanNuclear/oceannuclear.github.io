@@ -132,54 +132,7 @@
 							Well, all I can say is, it's still pretty hard to see what's going on in 3D.
 							</p>
 							</section>
-							<section class="post">
-							<h2 id="WillML">Machine learning classification of items</h2>
-							<p>Another friend of mine needed to manually classify some products.</p>
-									<div class="table-wrapper">
-										<table class="alt">
-											<thead>
-												<tr>
-													<th>Name</th>
-													<th>Description</th>
-													<th>Price</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td>Item 1</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item 2</td>
-													<td>Vis ac commodo adipiscing arcu aliquet.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item 3</td>
-													<td> Morbi faucibus arcu accumsan lorem.</td>
-													<td>29.99</td>
-												</tr>
-												<tr>
-													<td>Item 4</td>
-													<td>Vitae integer tempus condimentum.</td>
-													<td>19.99</td>
-												</tr>
-												<tr>
-													<td>Item 5</td>
-													<td>Ante turpis integer aliquet porttitor.</td>
-													<td>29.99</td>
-												</tr>
-											</tbody>
-											<tfoot>
-												<tr>
-													<td colspan="2"></td>
-													<td>100.00</td>
-												</tr>
-											</tfoot>
-										</table>
-									</div>
-							</section>
+							
 							<section class="post">
 							<h2 id="fourier">Fourier transform a video</h2>
 							<p>Some years ago, while learning about Fourier transform, I was enamoured of the fact that every curve has a "dual".
@@ -210,6 +163,209 @@
 						 	It follows the same art style, speed and layout.
 							I stopped before a second line started to appear on the original video. Including the second line would have made the project too complex to manage using the python skills I had at the time.</p>
 							</section>
+							<section class="post">
+								<h2 id="WillML">Machine learning classification of products</h2>
+								<p>Another friend of mine needed to manually classify up to several tens of thousands of products into the correct product categories, using only a simplified name given by the supplying company.<br />
+								He is given a list of product ID's with their shortened names and descriptions, and is told to fit them into N different preset categories.
+								</p>
+								<div class="table-wrapper">
+									<table class="alt">
+										<thread>
+											<tr>
+												<th>Product ID</th>
+												<th>Name</th>
+												<th>Description</th>
+												<th>required category (has to be manually inputted)</th>
+											</tr>
+										</thread>
+										<tbody>
+											<tr>
+												<td>1445245</td>
+												<td>Savage Rainbow sequin festival wings</td>
+												<td>Body Jewellery</td>
+												<td>Accessories</td>
+											</tr>
+											<tr>
+												<td>1418947</td>
+												<td>Yoki Straw Circle Cross Body Bag</td>
+												<td>nan</td>
+												<td>Bags ( Days bags and Backpacks)</td>
+											</tr>
+											<tr>
+												<td>1408225</td>
+												<td>Sass & Belle swan salt & pepper shaker set</td>
+												<td>Living</td>
+												<td>Bar and Kitchen Utensils</td>
+											</tr>
+											<tr>
+												<td>1492224</td>
+												<td>Miss Patisserie Mango Bath Slab</td>
+												<td>Beauty Body</td>
+												<td>Bath Fizzers and Bombs</td>
+											</tr>
+											<tr>
+												<td>1478389</td>
+												<td>Hollister braided leather belt</td>
+												<td>nan</td>
+												<td>Belts</td>
+											</tr>
+											<tr>
+												<td>1459198</td>
+												<td>Monki scoop neck bikini top in black</td>
+												<td>Swimwear</td>
+												<td>Bikini</td>
+											</tr>
+											<tr>
+												<td>1407710</td>
+												<td>ASOS DESIGN white pinstripe suit blazer</td>
+												<td>nan</td>
+												<td>Blazer</td>
+											</tr>
+											<tr>
+												<td>1356938</td>
+												<td>Laura Mercier Natural Cheek Colour Blush - Chai</td>
+												<td>Beauty Base</td>
+												<td>Blusher</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<p>The rightmost column is empty when the data is given.<br />
+								The currrent practise is ----.<br />
+								I suggested to use machine learning, which will have a much better effect as it can take advantage of existing information.<br />
+								The machine learning algorithm extracts the name and description of the product, break it down to individual words, and learn the correlation between individaul words and each category.
+								For example, the word "blazer" may appear in only few products, all of which are categorized as "Blazer". Therefore the machine-learning model will correlate the word "blazer" strongly with the category "Nlazer".
+								However, the word "short" may appear in products that aren't wearable shorts (e.g. short dress). Therefore the word "short", on its own, should not be strongly correlated with the category "shorts".<br />
+								<!-- Need to make a clearer example! -->
+								4 different machine learning techniques were tested: SVM, logistic regression, random forest, and naïve Bayes. In the end (linear) SVM was chosen as it came out on top with the highest accuracy, correctly predicting the category of the product 96% of the time. It also has the advantage of being the fastest among all of them and has no extraneous parameters to be tuned to optimize its performance: it works straight out of the box.<br />
+								You can see a demonstration of its ability below. After being trained on 7211 correctly labelled product entries, the model was given the following unlabelled data:
+								</p>
+								<div class="table-wrapper">
+									<table class="alt">
+										<thread>
+											<tr>
+												<th>Product ID</th>
+												<th>Name</th>
+												<th>Description</th>
+											</tr>
+										</thread>
+										<tbody>
+											<tr>
+												<td>1482522</td>
+												<td>Bershka slim fit jersey shorts in blue stripe</td>
+												<td>Shorts</td>
+											</tr>
+											<tr>
+												<td>1373686</td>
+												<td>Jeepers Peepers diamond sunglasses with blue lens</td>
+												<td>Mens</td>
+											</tr>
+											<tr>
+												<td>1407648</td>
+												<td>Moss Copenhagen button down maxi smock dress in vintage floral</td>
+												<td>Dresses - Day</td>
+											</tr>
+											<tr>
+												<td>1460135</td>
+												<td>ASOS DESIGN Plus fluro denim jacket in green</td>
+												<td>nan</td>
+											</tr>
+											<tr>
+												<td>1449771</td>
+												<td>Pour Moi Hot Spots ditsy padded underwired bikini top in black multi</td>
+												<td>Fuller Bust Bikinis</td>
+											</tr>
+											<tr>
+												<td>1460208</td>
+												<td>New Look Petite stripe linen crop trouser in cream pattern</td>
+												<td>Casual Bottoms</td>
+											</tr>
+											<tr>
+												<td>1443942</td>
+												<td>Boohoo crinkle high waist bikini bottoms with frill in khaki</td>
+												<td>Swimwear</td>
+											</tr>
+											<tr>
+												<td>1465396</td>
+												<td>Reclaimed Vintage inspired t-shirt with crystal print</td>
+												<td>Jersey Tops</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+								<p>Since it has learned the correlation between words in the name and description and the categories, it is able to categorize each element in the table above, assigning it a possible category and the confidence score for it to be categorized as that category.</p>
+								<div class="table-wrapper">
+									<table class="alt">
+										<thread>
+											<tr>
+												<th>Product ID</th>
+												<th>Most likely category</th>
+												<th>Confidence score</th>
+												<th>second most likely category</th>
+												<th>Confidence score</th>
+											</tr>
+										</thread>
+										<tbody>
+											<tr>
+												<td>1482522</td>
+												<td>Shorts</td>
+												<td>3.888540496683325</td>
+												<td>Swimwear</td>
+												<td>-0.791359085767619</td>
+											</tr>
+											<tr>
+												<td>1373686</td>
+												<td>Sunglasses</td>
+												<td>1.3341932961661953</td>
+												<td>Leggins / Jeggings</td>
+												<td>-0.9093674148743226</td>
+											</tr>
+											<tr>
+												<td>1407648</td>
+												<td>Dresses</td>
+												<td>2.1543932602501075</td>
+												<td>Skin Care with Glass</td>
+												<td>-1.0688194890538223</td>
+											</tr>
+											<tr>
+												<td>1460135</td>
+												<td>Coats / Jackets</td>
+												<td>1.249923199928676</td>
+												<td>Jewellery</td>
+												<td>-0.9958331476526012</td>
+											</tr>
+											<tr>
+												<td>1449771</td>
+												<td>Bikini</td>
+												<td>1.0576986345236594</td>
+												<td>Skin Care with Glass</td>
+												<td>-1.0439104987337329</td>
+											</tr>
+											<tr>
+												<td>1460208</td>
+												<td>Trousers (casual) / Jeans</td>
+												<td>0.5250788065435212</td>
+												<td>Pyjamas</td>
+												<td>-0.7996031592490555</td>
+											</tr>
+											<tr>
+												<td>1443942</td>
+												<td>Bikini</td>
+												<td>1.5026838844402144</td>
+												<td>Swimwear</td>
+												<td>-0.5166287623573032</td>
+											</tr>
+											<tr>
+												<td>1465396</td>
+												<td>T-shirts / Tops / Polos</td>
+												<td>1.5382531417881091</td>
+												<td>One Piece / Jumpsuit / Body Suit</td>
+												<td>-1.0075232111688528</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</section>	
 					</div>
 				<!-- Footer -->
 					<footer id="footer">
