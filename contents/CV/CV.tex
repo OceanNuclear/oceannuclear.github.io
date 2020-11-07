@@ -1,0 +1,247 @@
+%`
+%\nonstopmode
+\hbadness=100000
+\documentclass[a4paper, 12pt]{article}
+\usepackage{amsmath,amsfonts,caption,float,geometry,graphicx,mathtools,pythonhighlight,textcomp,url,verbatim,tabularx, longtable, ulem, hyperref, tikz, changepage, fontenc} %,parskip
+\geometry{ a4paper, total={170mm,257mm}, left=16mm, top=16mm}
+\newcommand{\matr}[1]{\underline{\underline{\textbf{#1}}}}
+\newcommand{\ve}[1]{\boldsymbol{#1}}
+\newcommand{\expentry}[3]{\emph{#1}\hfill{#2}---{#3}}
+\newcommand{\pythoncode}[2]{
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\begin{adjustwidth}{-1.3cm}{-1.3cm}
+\texttt{#1}
+\inputpython{#2}{1}{1500}
+\end{adjustwidth}
+}
+\usepackage[toc, page]{appendix}
+% \usepackage[dvipsnames]{xcolor}
+% \definecolor{subr}{rgb}{0.8, 0.33, 0.0}
+% \definecolor{func}{rgb}{0.76, 0.6, 0.42}
+
+\begin{document}
+\begin{table}[H]
+\centering
+\begin{tabular}{rl}
+&\textbf{Ocean Wong} (Hoi Yeung Wong)    \\
+PhD student in physics& (neutron spectrum unfolding) \\
+Organizations: &Culham Centre for Fusion Energy/ Sheffield Hallam University\\
+Supervisors: &Dr Robin Smith \&Dr Chantal Nobs\\
+\href{tel:07843872408}{+44(0)7843872408} & \href{mailto:Ocean.Y.Wong@student.shu.ac.uk}{Ocean.Y.Wong@student.shu.ac.uk} / \href{mailto:OceanWongUK@gmail.com}{OceanWongUK@gmail.com}
+\end{tabular}
+\end{table}
+\hrule
+% \hline
+% \twocolumn
+\begin{center}
+\chapter{PhD student with specialist knowledge in machine learning, inverse problems, analytical error propagation, iterative algorithms, and neutron spectrum measurement; as well as a strong aptitude and a unique approach to problem-solving.\\ %}
+% I am a strong advocate for intuitive understanding of the fundmanemtal science behind the problem rather than blind automation, 
+% but simultaneously advocate automation for replicability, accuracy and efficiency, usually in a pythonic manner.\\
+ % Python is my weapon-of-choice for attacking diffuclt real-world problems.\\
+% My career goal is to advance the development of fusion neutron spectrum measurement techniques, to facilitate the progress of fusion technology.
+}
+% Python is my weapon-of-choice for attacking difficult, real-world problems, when all mathematical approaches has been exhausted.}
+% Strong advocate for intuitive understanding of the fundamental science behind rather than blind automation\\
+% But simultaneously advocate automation for replicability and to remove menial tasks
+\end{center}
+\section{Research experience}
+\expentry{Neutron spectrum unfolding suite developer (using Neural Networks)}{Jun}{Sep 2019}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Developed a novel approach to the long-standing problem of inferring the neutron spectrum in a mathematically underdetermined system.
+    \item Collaborated with other programmers on the same repository using Git.
+    \item Developed and optimized a Neural Network using Google's TensorFlow framework, which is then incorporated into the unfolding suite along with the appropriate documentations.
+    \end{itemize}
+% \begin{adjustwidth}{-0.7cm}{-1.4cm} %Specifically for this line
+\expentry{Nuclear Physics Laboratory}{Oct}{Dec 2019, Oct---Dec 2018}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Identified unknown elements using neutron activation analysis and gamma spectroscopy using a High Purity Germanium detector.
+    \item Measured the neutron flux in neutron bath using a BF$_3$ detector.
+    \item Analysed the results using Python’s numerical processing capability; and then visualized them graphically via Python as well.
+    \end{itemize}
+\begin{adjustwidth}{-0.5cm}{-1.2cm} %Specifically for this line
+\expentry{Systematic study of the effect of neighbours on the evolution of intragrain misorientation}{Jun}{Dec 2018}
+\end{adjustwidth}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Extracted the simulation results from Abaqus, a commercial thermomechanical modelling software, using Python; and subsequently optimized the extraction speed.
+    \item Researched and investigated various mathematical methodologies for finding the average orientation, which is a previously un-explored problem in material science.
+    \item Reported simulation result and comparison with results in literature in a paper.
+    \item Gained theoretical understanding of and practical experience with Finite Element Modelling.
+    \end{itemize}
+\expentry{Modelling of void collapse in 316L stainless steel (final year project)}{Jan}{Mar 2018}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Developed the code for plotting (spatial and temporal) variation in grain orientation extracted from Abaqus and calibration of model parameters, as well as animation for the orientation evolution; all automated via Python.
+    \item Collaborated with other group members to steer the course of the project using the plotting results, as well as explained the relevant results in the group project report and viva.
+    \end{itemize}
+\expentry{Nuclear Talent course on Machine Learning and Data Analysis for Nuclear Physics}{}{Jul2020}
+    \begin{itemize}
+    \item A 2 weeks course on machine learning techniques applicable to nuclear physics.
+    \item Neural network: Universal approximation theorem, backprop, autoencoders, GANs
+    \item Supervised learning techniques: Random forest, logistic regression
+    \item Unsupervised learning techniques: PCA
+    \item Reinforced learning
+    \item Exercises include: Classifying the particle tracks found in a time projection chamber TPC, classifying the number and location of events in a detector
+    \end{itemize}
+\expentry{Culham Plasma Physics Summer School}{Jun}{Jul2017}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Learned about the relevant background knowledge in plasmas physics so to put the importance of fusion materials research in context.
+    \item Allows me to take on projects that require background understanding in plasma physics in the future.
+    \end{itemize}
+\expentry{Summer Physics internship, School of Physics and Astronomy, University of Birmingham}{Jul}{Aug 2018}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Worked on a group project to produce a working prototype of a radiation detection drone.
+    \item Gained relevant specialist knowledge about the workings of cyclotron, GPS and radiation detector, as well as radiation protection procedures.
+    \end{itemize}
+\expentry{Fusor Group Project, University of Birmingham}{Oct 2015}{Sep 2019}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Recruited as part of Fusor Project team, following from an interview selection process.
+    \item Worked with 7 other more senior students to build a Farsworth nuclear fusor.
+    \item Successfully applied for a grant of \pounds 2800 on behalf of the group to cover the cost of the power supply. 
+    % \item Gained experience of collaborating in a scientific group
+    \end{itemize}
+\expentry{Formula Student member, University of Birmingham}{Oct 2015}{Jul 2016}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Manufactured, shaped and resized steel and aluminium components of the test car (including Catch can holder, chassis and aluminium arches) based on the technical specification.
+    \item Researched the cost model and produced report to demonstrate manufacturing cost of a component.
+    \item Produced the cost report (in Microsoft Excel) and collected data for planning to set up factories in Europe.
+    \end{itemize}
+\expentry{Light Pollution Surveyor (social study project)}{Sep 2014}{Jan 2015}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Surveyed and reported the light pollution situation in Hung Shui Kiu (a region of Hong Kong). It involved using a scientific instrument (luxmeter) on site to collect data about the brightness of the vicinity, and distributing and recollecting questionnaire.
+    \item Gained valuable first-hand experience in designing and conducting a scientific investigation, building my positive attitude towards scientific investigation; and this gave me an intuitive understanding of how to operate scientific equipment with accuracy and consistency.
+    \end{itemize}
+\section{Software repertoire} % Should I use a different word
+    \begin{itemize}
+    \item Programming languages: Python, Fortran, Bash, R, C++, PowerShell
+    % \begin{itemize}
+    %     \item Notable python modules: Pandas, TensorFlow, 
+    % \end{itemize}
+    \item GIT: GitHub (\href{https://github.com/OceanNuclear}{@OceanNuclear}) and GitLab(\href{https://gitlab.com/OceanNuclear}{@OceanNuclear})
+    \item Markdown language: LaTeX
+    \item Propreitory software: Abaqus, Adobe Premiere Pro, Adobe InDesign, Vectr, Microsoft Excel, Word
+    \end{itemize}
+
+\section{Qualifications}
+\expentry{PhD Physics, Sheffield Hallam University}{Oct 2019}{Oct 2023}
+    
+    Title: ENFUSE: Effective Neutron Spectrometery for FUSion Environment
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Reviewed existing algorithms and developed new algorithms for neutron spectrum unfolding in underdetermined condition
+    \item Selected foils to be used according their unfolding effectiveness and feasibility
+    \item Expected to design a module for neutron activation foil irradiation inside fusion reactors as part of the degree.
+    \end{itemize}
+\begin{adjustwidth}{-0.3cm}{-0.7cm} %Specifically for this line
+\expentry{MSc Physics and Technology of Nuclear Reactors, University of Birmingham}{Oct 2018}{Oct 2019}
+\end{adjustwidth} %Specifically for this line
+
+    Results: \textbf{distinction}; modules:
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Nuclear Instrumentation, Radiation Dosimetry and Protection
+    \item Radiation Transport, Thermal Hydraulics and Reactor Engineering
+    \item Reactor Materials, Reactor System and NDE
+    \item Practical Skills
+    \item Research Project
+    \end{itemize}
+\expentry{BSc Nuclear Science and Materials, University of Birmingham} {Sep 2015}{Jul 2018}
+
+    Results: \textbf{2:1}; modules:
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Classical Mechanics and Relativity 1 \& 2
+    \item Electromagnetism I and Temperature and Matter (including Electric Circuits)
+    \item Statistical Physics and Entropy
+    \item Particles and Nuclei and Nuclear Physics
+    \item Mathematics for Physicist 1A \& 2
+    \item Physics Laboratory 1 \& 2
+    \item Physics Communication Skills (including C++ Computing)
+    \end{itemize}
+\expentry{Shung Tak Catholic English College (Hong Kong)}{Sep 2009}{Jul 2015}
+    
+    HKDSE (Hong Kong Diploma of Secondary Education exam)
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Physics 5**, English 5*, Algebra and Calculus 5, Chemistry 5, Mathematics 4, Biology 4
+    \item Equivalent to A*A*AABB in A levels
+    \end{itemize}
+\section{Other experiences}
+\expentry{Secretary of Parkour Society at University of Birmingham}{Sep 2017}{Jun 2019}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item As one of the three founding member of the society, built the foundation for the traceur community here at the University for through organizing the bi-weekly gatherings.
+    \end{itemize}
+\expentry{Library collection assistant, University of Birmingham Main Library}{Jan}{Sep 2017}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Carried out stock management tasks including re-locating stock, interfiling, re-boxing periodicals and searching for lost stock.
+    \item Worked in a motivated manner with minimal supervision
+    \end{itemize}
+\expentry{Global Buddy (UoB Guild of Student scheme)}{Sep 2016}{Jan 2017}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Act as the mentor and point of contact for four, newly arrived international students, by assisting them to adjust into their new social and physical environment
+    \item Received positive feedback from all four students
+    \end{itemize}
+\expentry{Student Librarian, Library club executive, Librarian Manager}{Sep 2009}{Aug 2014}
+    \begin{itemize}
+    \setlength\itemsep{0em}
+    \item Helped students to borrow and return books, assisted students with using the photocopying machine, stocked and retrieved items from the shelf, collaborated with other student librarians to organise activities.
+    \item Supervised other student librarians to perform their duties.
+    \end{itemize}
+\section{Extra courses and competitions taken outside of the curriculum}
+\begin{itemize}
+    \item Proactively taken, non-compulsory lecture courses
+    \begin{itemize}
+        \setlength\itemsep{0em}
+        \item Quantum Mechanics I \& II
+        \item Quantum Approach to Solids
+        \item Lagrangian Mechanics
+        \item Electromagnetism II
+        \item Eigenphysics
+    \end{itemize}
+    \item \expentry{Hong Kong Biology Olympiad (First Honour)}{}{Dec 2014}
+    \item \expentry{Mysteries in the Atomic World (CUHK Science Academy for Young Talents)}{}{Jul 2014}
+    \begin{itemize}
+        \item Course on Quantum Mechanics held for elite high school students
+    \end{itemize}
+    \item \expentry{Genetic Engineering Workshop}{}{Apr 2014}
+    \begin{itemize}
+        \item Learned biological labs skills and in-depth knowledge of genome
+    \end{itemize}
+    \item \expentry{`Nanomateirals and Renewable Energy' (HKU one-day course)}{}{Apr 2014}
+    \item Out of curiosity and drive for self-improvement, took online courses on various topics to broaden my vision
+    \begin{itemize}
+        \setlength\itemsep{0em}
+        \item Learnt R and Python in my leisure time
+        \item `Learning how to learn' on COURSERA
+        \item `Information Theory' on Khan Acadmey
+        \item `Nonlinear Dynamics and Chaos' on MITOpenCourseWare
+    \end{itemize}
+\end{itemize}
+
+% \begin{figure}[H]
+% \centering
+% \includegraphics[width=1\textwidth]{path/to/file.png} %Stupid latex doesn't allow two dots in the filename.
+% \caption{Short description} \label{somethingcatchy}
+% \end{figure}
+
+% \bibliographystyle{plain}
+% \bibliography{FACTIUNN}
+\end{document}
+
+\begin{appendices}
+\begin{longtable}{ccc}
+    1&2&3
+\end{longtable}
+\end{appendices}
+%`
