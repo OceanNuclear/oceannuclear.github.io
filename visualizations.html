@@ -48,29 +48,126 @@
 							</section>
 							<section>
 								<header>
-									<h2 id="Freebody">Rocket out of control</h2>
+									<h2 id="Freebody"><a href="https://mybinder.org/v2/gh/OceanNuclear/Freebody/HEAD?filepath=MalfunctioningRocket.ipynb">Rocket out of control</a></h2>
+									<p>Velocity and trajectory of a malfunctioning rocket</p>
 								</header>
+								<p>Have you ever wondered what happens if we launched a rocket, and it started spinning out of control, what kind of path will it trace out?<br />
+								Well, wonder no more! You can find out for yourself using this <a href="https://mybinder.org/v2/gh/OceanNuclear/Freebody/HEAD?filepath=MalfunctioningRocket.ipynb">jupyter notebook</a>!
+								<br />
+								Fun fact: This was my first ever python project!
+								</p>
+							</section>
+							<section>
+								<header>
+									<h2 id="1d_func">Visualizing 1D functions</h2>
+									<p>An alternative way of plotting a function</p>
+								</header>
+								<p>We are used to seeing functions represented by a graph: plotted on a grid of cartesian coordinates, where x = input, y = output. However, there is an alternative way fo plotting a function: make two parallel number lines, and draw arrows between them. </p>
+
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/CfW845LNObM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								<p>The number line at the top is the input, the number line at the bottom is the output.
+								This led to the creation of the following wonderful and beautiful plots:
+								</p>
+							</section>
+							<section class="posts">
+								<article><span class="image fit"><img src="images/sin(arccos(x)).png" /></span></article>
+								<article><span class="image fit"><img src="images/cos(arcsin(x)).png" /></span></article>
+								<article><span class="image fit"><img src="images/sin(2*x).png" /></span></article>
+								<article><span class="image fit"><img src="images/differentiate_sin(2*x).png" /></span></article>
+								<article><span class="image fit"><img src="images/differentiate_tan(x).png" /></span></article>
+								<article><span class="image fit"><img src="images/cos(x).png" /></span></article>
+								<article><span class="image fit"><img src="images/1_over_x +1.png" /></span></article>
+								<article><span class="image fit"><img src="images/integrate_1_over_x +1.png" /></span></article>
+								<article><span class="image fit"><img src="images/integratesin(2*x).png" /></span></article>
+								<article><span class="image fit"><img src="images/pi*sin(x)+x.png" /></span></article>
+								<article><span class="image fit"><img src="images/sin(x)+x.png" /></span></article>
+								<article>The code used to generate these plots can be found in my <a href="https://github.com/OceanNuclear/Python_projects/tree/master/FunctionVisualization">repository</a>.</article>
 							</section>
 							<section>
 								<header>
 									<h2 id="Chaos">Chaos theory</h2>
-									<p>bifurcation</p>
+									<p>Visualizing bifurcation</p>
 								</header>
-								<p>You can try this for yourself at <a href="https://mybinder.org/v2/gh/OceanNuclear/Chaos/HEAD?filepath=bifurcation.ipynb">this jupyter notebook</a>.
-								The source code to generate this video is found on my <a href="https://github.com/OceanNuclear/Chaos">github repo</a>.</p>
-								<!-- Insert video here -->
+								<p>The logistic map</p>
+								<p style="text-align:center">
+									x<sub>n+1</sub> = r(1-x<sub>n</sub>)x<sub>n</sub> <br/>
+								</p>
+								<p>
+								converges quickly to a stable value of x when we iterate from any initial values of x<sub>0</sub> when r is 3.<br />
+								However, it no longer converges onto a single value when x is larger than 3. <br />
+								This project investigates this behaviour more closely.
+								You can try this for yourself at <a href="https://mybinder.org/v2/gh/OceanNuclear/Chaos/HEAD?filepath=bifurcation.ipynb">this jupyter notebook</a>, and play around with the code as well.
+								The source code to generate this video is found on my <a href="https://github.com/OceanNuclear/Chaos">GitHub repo</a>.</p>
+								<video width="100%" controls>
+								<source src="contents/simple_sweep.webm" type="video/webm" />
+								<source src="contents/simple_sweep.mp4" type="video/mp4" />
+								<source src="contents/simple_sweep.ogv" type="video/ogv" />
+								<source src="contents/simple_sweep.ogg" type="video/ogg" />
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message.
+								</video>
 							</section>
 							<section>
 								<header>
 									<h2 id="string_impulse">Impulse on a string</h2>
-									<p>How a wave of an arbitrary shape propage across a light and infinitely flexible string</p>
+									<p>How does a wave of an arbitrary shape propagate across a light and infinitely flexible string</p>
 								</header>
-								<p>Description</p>
+								<p>In an ideal world with ideal strings, the wave on a length of string fixed at both ends should oscillate forever without losing energy. How would such a wave evolve over time?</p>
+								<video width="100%" controls>
+								<source src="contents/fullwave10.webm" type="video/webm" />
+								<source src="contents/fullwave10.mp4" type="video/mp4" />
+								<source src="contents/fullwave10.ogv" type="video/ogv" />
+								<source src="contents/fullwave10.ogg" type="video/ogg" />
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message.
+								</video>
+								<p>A rounded triangle wave.</p>
+								<video width="100%" controls>
+								<source src="contents/fullwave120_spaced_sawtooth.webm" type="video/webm" />
+								<source src="contents/fullwave120_spaced_sawtooth.mp4" type="video/mp4" />
+								<source src="contents/fullwave120_spaced_sawtooth.ogv" type="video/ogv" />
+								<source src="contents/fullwave120_spaced_sawtooth.ogg" type="video/ogg" />
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message.
+								</video>
+								<p>A sawtooth wave.</p>
+								<video width="100%" controls>
+								<source src="contents/fullwave200_duty_cycle_0.2.webm" type="video/webm" />
+								<source src="contents/fullwave200_duty_cycle_0.2.mp4" type="video/mp4" />
+								<source src="contents/fullwave200_duty_cycle_0.2.ogv" type="video/ogv" />
+								<source src="contents/fullwave200_duty_cycle_0.2.ogg" type="video/ogg" />
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message.
+								</video>
+								<p>A small square wave (duty cycle = 20%).</p>
+								<video width="100%" controls>
+								<source src="contents/fullwave200_Custom.webm" type="video/webm" />
+								<source src="contents/fullwave200_Custom.mp4" type="video/mp4" />
+								<source src="contents/fullwave200_Custom.ogv" type="video/ogv" />
+								<source src="contents/fullwave200_Custom.ogg" type="video/ogg" />
+								Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message.
+								</video>
+								<p>A custom, hand-drawn wave.</p>
+								<p>You can find the codes that generated these videos at <a href="https://github.com/OceanNuclear/Python_projects/tree/master/Evolution%20of%20string%20pulse">my GitHub repo</a>.</p>
 							</section>
 							<section>
 								<header>
-									<h2 id=""></h2>
+									<h2 id="functions">Various specialized functions</h2>
 								</header>
+								<p>Programming is also a useful way of generating specialized functions/interesting curves.</p>
+							</section>
+							<section class="posts">
+								<article><span class="image fit"><img src="images/Cycloid_0.5.png" /></span>
+								<p>Curtate cycloid</p></article>
+								<article><span class="image fit"><img src="images/Cycloid_1.png" /></span>
+								<p>Normal cycloid</p></article>
+								<article><span class="image fit"><img src="images/Cycloid_2.png" /></span>
+								<p>Prolate cycloid</p></article>
+								<article><span class="image fit"><img src="images/Cycloid_6piover4.png" /></span>
+								<p>Very prolate cycloid (drawing arm is 6π/4 times the length of the radius).</p></article>
+								<article><span class="image fit"><img src="images/eeix.png" /></span>
+								<p>exp(exp(i*x)) on the Argand diagram, for x between 0 to 2 π.</p></article>
+								<article><span class="image fit"><img src="images/eeeeix.png" /></span>
+								<p>exp(exp(exp(exp(i*x)))) on the Argand diagram, for x between 0 to 2 π.</p></article>
+								<article><span class="image fit"><img src="images/Bessel.png" /></span>
+								<p>The two branches of the Bessel function.</p></article>
+								<article><p>You can find the code that plotted all of these at <a href="https://github.com/OceanNuclear/Python_projects/tree/master/Various_short_specialized_Function">my GitHub repo</a>.</p></article>
 							</section>
 							<section class="post">
 								<header>
@@ -87,25 +184,49 @@
 							</section>
 							<section>
 								<header>
-									<h2 id=""></h2>
+									<h2 id="Mohrs_circle">Mohr's Circle</h2>
+									<p>Demystifying the Mohr's circle</p>
 								</header>
+								<p>Engineers have to learn about how shear stress and principal stress are related using the <a href="https://en.wikipedia.org/wiki/Mohr%27s_circle">Mohr's circle</a>. There are two approaches to doing so: rote learning (memorizing what mathematical operation to do with using the Mohr's circle) or intuitively understand why the Mohr's circle is used like so.<br />
+								As an advocate for understanding rather than blindly execution, I made a project on this, which you can find as a <a href="https://mybinder.org/v2/gh/oceannuclear/StressAnalysis/HEAD?filepath=DrawMohrsCircles.ipynb">jupyter notebook</a>.
+								</p>
 							</section>
 							<section>
 								<header>
-									<h2 id=""></h2>
+									<h2 id="materials">Materials Science</h2>
+									<p>Sometimes science is nice and beautiful. Sometimes science is ... hairy.</p>
 								</header>
+								<p>Materials Science rarely generate aesthetically pleasing plots; so I've cherry-picked only three out of the many plots that I have created from my materials science projects.<br />
+								These are what's known as <a href="https://en.wikipedia.org/wiki/Pole_figure">"Pole Figures"</a>, which can be used to mark the orientation of a crystal in 3D space. The first two heatmaps plot the Schmid factor, which states how much will a grain deform if it is oriented in that specific orientation. The third plots the evolution of a dozen grains' orientations throughout a few FEM simulations.
+								</p>
+							</section>
+							<section class="posts">
+								<article><span class="image fit"><img src="images/SchmidFactorPoleFigure.png" /></span></article>
+								<article><span class="image fit"><img src="images/SchmidFactorInversePoleFigure_highRes.png" /></span></article>
+								<article><span class="image fit"><img src="images/GOS_203.png" /></span></article>
+								<article>
+								<blockquote style="text-align:left;">
+								Day science employs reasoning that meshes like gears... One admires its majestic arrangement like a da Vinci painting or a Bach fugue. One walks about it as in a French formal garden...
+								<br />
+								Night science, on the other hand, wanders blindly. It hesitates, stumbles, falls back, sweats, wakes with a start. Doubting everything... It is a workshop of the possible... where thought proceeds along sensuous paths, tortuous streets, most often blind alleys.
+								<br />
+								- Francois Jacob, 1965 Medicine Nobel laureate
+								</blockquote>
+								</article>
 							</section>
 							<section>
 								<header>
-									<h2 id=""></h2>
+									<h2 id="nuclear_lab">Nuclear laboratory experiments</h2>
+									<p>Experimental data analysis and plotting were done using Python</p>
 								</header>
+								<p>Python is also a powerful tool for plotting and fitting experimental data. For the most part, the <a href="https://github.com/OceanNuclear/DataAnalysis-NLab">codes in this repository</a> are written for myself and therefore are not external-user friendly.<br />
+								However, I am still excited to show you one of the prettier plots I've generated using them.
+								</p>
+								<span class="image fit"><img src="images/Thm with 2 group fit with y=0 HeatMap with cutoff of z≥60.75 cm.png" /></span>
+								<p>The plot above shows the thermal neutron flux variation across a graphite stack in the basement of the physics building: as you can see, a neutron source was placed at the bottom, but neutrons stream across the entire 2+ meters tall graphite stack. <br />
+								The circles are the locations where the neutron flux are measured; they are coloured according to their measured neutron flux. Using these data points, a best-fit model of the neutron source intensity across the entire graphite stack was generated. This model is plotted onto the background, colouring in the rest of the graphite stack at locations where no neutron flux measurements had been taken.
+								</p>
 							</section>
-							<section>
-								<header>
-									<h2 id=""></h2>
-								</header>
-							</section>
-
 
 
 					</div>
@@ -150,10 +271,7 @@
 							<section>
 								<h3>Social</h3>
 								<ul class="icons alt">
-									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.linkedin.com/in/ocean-wong-uk/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 								</ul>
 							</section>
 						</section>
@@ -161,7 +279,7 @@
 
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+						<ul><li>&copy; </li><li>Template: <a href="https://html5up.net">HTML5 UP</a></li></ul>
 					</div>
 
 			</div>

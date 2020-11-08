@@ -7,6 +7,8 @@
 <html>
 	<head>
 		<title>Ocean Wong - project showcase</title>
+		<link rel="icon" type="image/png" href="images/icon.png" />
+		<!-- <link rel='icon' type='image/x-icon' href='icon.ico' /> -->
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -43,7 +45,6 @@
 							<section class="post">
 								<header class="major">
 									<h1>Projects showcase</h1>
-									<p>stuff</p>
 								</header>
 							</section>
 							<section class="post">
@@ -104,7 +105,7 @@
 							We thought the repulsive force should get exponentially stronger as we approach the centre.
 							Instead, a more mellow force profile (seen below) will lead to convergence more quickly:
 							</p>
-							<span class="image fit"><img src="contents/kernel_compare.png" /></span>
+							<span class="image fit"><img src="images/kernel_compare.png" /></span>
 							(y-axis: repulsive force strength; x-axis: distance to wire repelling it.)
 							<p>
 							The original profile (left) gives a solution with a very small region of stability: when the wires are far apart, they will repel each other and stay relatively motionless; but if any wire wanders close enough to another wire, it will be <i>launched</i> away from the latter with excessive force, barrelling into other wires, and causing a chain reaction that leads to chaos.
@@ -120,7 +121,7 @@
 							</video>
 							<p>Another interesting feature about my simulation is that it is memoryless, i.e. the wires "forget" the momentum it has gathered in the previous steps. Therefore it behaves like particles pushing on each other in a damping medium, like a viscous fluid.<br />
 							What I'm doing in this model is basically an <a href="https://mooseframework.inl.gov/">FEM simulation</a> (Finite Element Modelling), but at a much faster speed, and a much lower computational cost, leveraging on NumPy's array operation abilities and branchless programming.<br />
-							And if you're wondering how does the entire model look...
+							And if you're wondering how does the entire model look in 3D ...
 							</p>
 							<video width="100%" height="100%" controls>
 								<source src="contents/MattMedia/rotate_model-cropped.webm" type="video/webm" />
@@ -130,7 +131,7 @@
 							Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
 							</video>
 							<p>
-							Well, all I can say is, it's still pretty hard to see what's going on in 3D.
+							Well, all I can say is, it's pretty hard to see what's going on in 3D.
 							</p>
 							</section>
 							
@@ -232,13 +233,13 @@
 									</table>
 								</div>
 								<p>The rightmost column is empty when the data is given.<br />
-								The currrent practise is ----.<br />
-								I suggested to use machine learning, which will have a much better effect as it can take advantage of existing information.<br />
-								The machine learning algorithm extracts the name and description of the product, break it down to individual words, and learn the correlation between individaul words and each category.
-								For example, the word "blazer" may appear in only few products, all of which are categorized as "Blazer". Therefore the machine-learning model will correlate the word "blazer" strongly with the category "Nlazer".
-								However, the word "short" may appear in products that aren't wearable shorts (e.g. short dress). Therefore the word "short", on its own, should not be strongly correlated with the category "shorts".<br />
+								The current practice is to manually label some of them, and then use fuzzy matching to match the rest. However, fuzzy matching has a spectacularly poor track record, reaching classification accuracy of ... drum roll please... a whopping 50%.<br />
+								I suggested that perhaps fuzzy matching is an incorrect solution to the problem, and that he should instead use machine learning, which will have a much better effect as it can take advantage of existing information.<br />
+								The machine learning algorithm extracts the name and description of the product, break it down to individual words, and learn the correlation between individual words and each category.
+								For example, the word "blazer" may appear in only a few products, all of which are categorized as "Blazer". Therefore the machine-learning model will correlate the word "blazer" strongly with the category "Blazer".
+								However, the word "short" may also appear in products that aren't wearable shorts (e.g. "short dress"). Therefore the word "short", on its own, should not be strongly correlated with the category "shorts".<br />
 								<!-- Need to make a clearer example! -->
-								4 different machine learning techniques were tested: SVM, logistic regression, random forest, and naïve Bayes. In the end (linear) SVM was chosen as it came out on top with the highest accuracy, correctly predicting the category of the product 96% of the time. It also has the advantage of being the fastest among all of them and has no extraneous parameters to be tuned to optimize its performance: it works straight out of the box.<br />
+								4 different machine learning techniques were tested: SVM, logistic regression, random forest, and naïve Bayes. In the end, (linear) SVM was chosen as it came out on top with the highest accuracy, correctly predicting the category of the product 98% of the time. It also has the advantage of being the fastest among all of them and has no extraneous parameters to be tuned to optimize its performance: it works straight out of the box.<br />
 								You can see a demonstration of its ability below. After being trained on 7211 correctly labelled product entries, the model was given the following unlabelled data:
 								</p>
 								<div class="table-wrapper">
@@ -294,7 +295,7 @@
 										</tbody>
 									</table>
 								</div>
-								<p>Since it has learned the correlation between words in the name and description and the categories, it is able to categorize each element in the table above, assigning it a possible category and the confidence score for it to be categorized as that category.</p>
+								<p>Since it has learned the correlation between words in the name and description and the categories, it can categorize each element in the table above, assigning it a possible category and the confidence score for it to be categorized as that category.</p>
 								<div class="table-wrapper">
 									<table class="alt">
 										<thread>
@@ -366,6 +367,9 @@
 										</tbody>
 									</table>
 								</div>
+								<blockquote>
+									This is great ... we spend months trying to manually label the data ... and this program takes only [10 seconds]!
+								</blockquote>
 							</section>	
 					</div>
 				<!-- Footer -->
@@ -408,10 +412,7 @@
 							<section>
 								<h3>Social</h3>
 								<ul class="icons alt">
-									<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.linkedin.com/in/ocean-wong-uk/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 								</ul>
 							</section>
 						</section>
@@ -419,7 +420,7 @@
 
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+						<ul><li>&copy; </li><li>Template: <a href="https://html5up.net">HTML5 UP</a></li></ul>
 					</div>
 
 			</div>
