@@ -1,6 +1,8 @@
 # Todo (Ocean):
-- Make the footers (emailing) work; and then sync across the pages
 - create icon at the top (address bar)
+- Send message without redirect
+- create sitemap
+- move domain to overwrite oceannuclear.co.uk
 
 # DONE:
 - The [MASSIVELY] logo should be changed to [home]

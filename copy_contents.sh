@@ -17,3 +17,5 @@ pandoc contents/CV/CV_short.tex -o contents/CV/pandoc/CV_short.html
 cd contents/CV/
 htlatex CV.tex
 htlatex CV_short.tex
+
+cp /home/ocean/Documents/GitHubDir/ShirtDesign/icon.png .
