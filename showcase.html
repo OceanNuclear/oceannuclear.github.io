@@ -57,8 +57,96 @@
 									<h1>Projects showcase</h1>
 								</header>
 							</section>
+                            <section class="post">
+                            <h2 id="n-choose-k-sorting">Maximum sum search algorithm</h2>
+                            <video width="100%" controls>
+                                <source src="contents/9_choose_6.webm" type="video/webm" />
+                                <source src="contents/9_choose_6.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/9_choose_6.ogv" type="video/ogv" />
+                                <source src="contents/9_choose_6.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            <p>The video above is a spin-off from my PhD: While I was trying to maximize a sum of k numbers picked out of a given list of n real numbers, I came across the following problem:
+                            <blockquote>How to find the highest m sums formed by picking k numbers out of a given list of n numbers, in a computationally efficient manner?</blockquote>
+                            Let's break that question down with the help of an example.<br />
+                            Let's say you have a list of n=5 numbers, [0.1, 0.3, 5.5, 4.2, 8],<br />
+                            And you'd like to find the highest m=2 sums formed by picking out k=3 numbers from the list above.<br />
+                            For such a small number n, it's easy to see the solution:<br />
+                            highest sum = sum(8, 5.5, 4.2) = 17.1<br />
+                            2<sup>nd</sup> highest sum = sum(8, 5.5, 0.3) = 13.8<br />
+                            However, you might not be so sure about how to find the 3<sup>rd</sup> highest sum.
+
+                            Now, if you were a careless programmer, when you're asked to find the 3<sup>rd</sup> highest sum, you might just say "I'll use my trusty computer&trade; to check every single combination of 5 choose 3 for me, and sort those <sup>5</sup><sub>3</sub><b>C</b> = 10 sums obtained, then pick out the 3<sup>rd</sup> highest sum.".
+                            But this method is definitely not a scalable one: if your list has n=60 numbers, and you're asked to find the top m=20 sums by picking k=10 numbers out, you'd end up spending <sup>60</sup><sub>10</sub><b>C</b> = 75 billion calculations just to discard most of it, leaving only the top 20 results.<br />
+
+                            So instead I have devised the following method:
+                            <ol>
+                                <li>Sort the list into a descending order. [8, 5.5, 4.2, 0.3, 0.1]</li>
+                                <li>The highest sum must be formed by picking the leftmost 3 out of the 5 numbers in the list.</li>
+                                <li>The second highest sum must be formed by picking the 1<sup>st</sup>, 2<sup>nd</sup> and 4<sup>th</sup> numbers out of the 5 numbers in the list.</li>
+                            </ol>
+                            Let's re-write step 2 and step 3 into binary notation:<br />
+                            Step 2: Picking the leftmost 3 out of the 5 elements can be written as <blockquote>11100</blockquote>
+                            Step 3: Picking the 1<sup>st</sup>, 2<sup>nd</sup> and 4<sup>th</sup> numbers out of the 5 numbers can be represented as <blockquote>11010</blockquote>
+
+                            Step 4 is to find the 3<sup>rd</sup> highest sum: this would be either <blockquote>11001 OR 10110</blockquote>
+                            Step 5 is to deploy can deploy a sorting algorithm to find which of these two is higher: the sum obtained by the choice 11001, or that obtained by the choice 10110.
+                            <br />
+                            <br />
+                            While formulating this selection process in my head, I was also trying to pick a way to visualize this process. And this is what I came up with:
+                            <video width="100%" controls>
+                                <source src="contents/5_choose_3.webm" type="video/webm" />
+                                <source src="contents/5_choose_3.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/5_choose_3.ogv" type="video/ogv" />
+                                <source src="contents/5_choose_3.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            Represent each choice as a node.
+
+                            So starting with 11100 at the origin,
+                            <ul>
+                                <li>we can get to 11010 by moving the last "1"(connected by an edge that points down and right, since we're moving the "1" on the right), </li>
+                                <li>we can get from 11010 to 11001 by moving the right "1" again (connected by an edge that points down and right, since we're moving the "1" on the right), </li>
+                                <li>we can get from 11010 to 10110 by moving the middle "1" (connected by an edge that points downwards only, since we're moving the centre "1"), </li>
+                                <li>... etc.</li>
+                            </ul>
+                            This leads to the graph formed above. You can check for yourself that, indeed it does include every single 5 choose 3 combinations.<br />
+
+                            And if we reflect the right half of the graph to the left, and remove the text labels and legend, we can get back the 9 choose 6 video above.<br />
+                            And just for the fun of it, we can extend that to different integers of n and k, to see how it looks:
+                            <video width="100%" controls>
+                                <source src="contents/6_choose_4.webm" type="video/webm" />
+                                <source src="contents/6_choose_4.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/6_choose_4.ogv" type="video/ogv" />
+                                <source src="contents/6_choose_4.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            <video width="100%" controls>
+                                <source src="contents/8_choose_5.webm" type="video/webm" />
+                                <source src="contents/8_choose_5.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/8_choose_5.ogv" type="video/ogv" />
+                                <source src="contents/8_choose_5.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            <video width="100%" controls>
+                                <source src="contents/8_choose_6.webm" type="video/webm" />
+                                <source src="contents/8_choose_6.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/8_choose_6.ogv" type="video/ogv" />
+                                <source src="contents/8_choose_6.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            <video width="100%" controls>
+                                <source src="contents/10_choose_7.webm" type="video/webm" />
+                                <source src="contents/10_choose_7.mp4" type="video/mp4" autoplay controls="true" playsinline />
+                                <source src="contents/10_choose_7.ogv" type="video/ogv" />
+                                <source src="contents/10_choose_7.ogg" type="video/ogg" />
+                            Your browser doesn't support webm, mp4, ogv or ogg if you're seeing this message
+                            </video>
+                            Now, there is a caveat when applying the same rules to k&gt;3: two different nodes may overlap. But this doesn't stop us from getting the very nice pictures above.
+                            </p>
+                            </section>
 							<section class="post">
-							<h2 id="FEM">FEM Distribution of wires</h2>
+							<h2 id="FEM">Wire distribution modelling using nonconformal mapping and FEM</h2>
 							<p>For various reasons, my friend needed to know the precise distribution of wires inside a cable.<br />
 							This cable consists of 6 bundle of wires twisted together around a central column. Each bundle consists of 416 strands of wires, and within each bundle these 416 wires are wrapped among themselves in a helical fashion as well.
 							</p>
@@ -375,6 +463,7 @@
 										</tbody>
 									</table>
 								</div>
+                                Let's hear what our user have to say:
 								<blockquote>
 									This is great ... we spend months trying to manually label the data ... and this program takes only [10 seconds]!
 								</blockquote>
