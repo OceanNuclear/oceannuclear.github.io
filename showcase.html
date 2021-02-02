@@ -58,7 +58,7 @@
 								</header>
 							</section>
                             <section class="post">
-                            <h2 id="n-choose-k-sorting">Maximum sum search algorithm</h2>
+                            <h2 id="n-choose-k-sorting">Efficient maximum sums sort algorithm</h2>
                             <video width="100%" controls>
                                 <source src="contents/9_choose_6.webm" type="video/webm" />
                                 <source src="contents/9_choose_6.mp4" type="video/mp4" autoplay controls="true" playsinline />
@@ -144,6 +144,31 @@
                             </video>
                             Now, there is a caveat when applying the same rules to k&gt;3: two different nodes may overlap. But this doesn't stop us from getting the very nice pictures above.
                             </p>
+                            </section>
+                            <section class="post">
+                            <h2 id="fourier">Fourier transform a video</h2>
+                            <p>Some years ago, while learning about Fourier transform, I was enamoured of the fact that every curve has a "dual".
+                            <img src="images/fourier.gif" alt="fourier transform gif" title="A gif of fourier transform | Shared by Lucas Vieira on Wiki Commons under CC0"/>
+                            </p>
+
+                            <p>Therefore, when I saw the Arctic Monkey's music video "Do I Wanna Know", I trialled my Python skills with the challenge of Fourier transforming that video.<br />
+                            Play the following two videos <u><b>simultaneously</b></u> and you will see what I mean.</p>
+                            </section>
+                            <section class="posts">
+                                <article>
+                                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/bpOSxM0rNPM?end=73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p>The original video.</p>
+                                </article>
+
+                                <article>
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/FsvfQnuaWNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <p>The fourier transformed version of the video.</p>
+                                </article>
+                            </section>
+                            <section class="post">
+                            <p>Each frame of the video is obtained by taking the fourier transform of the curve of the original video's frame, then removing the imaginary part. The left side of the frame corresponds to low frequencies (long wiggles) and the right side of the frame corresponds to high frequencies (short wiggles).<br />
+                            It follows the same art style, speed and layout.
+                            I stopped before a second line started to appear on the original video. Including the second line would have made the project too complex to manage using the python skills I had at the time.</p>
                             </section>
 							<section class="post">
 							<h2 id="FEM">Wire distribution modelling using nonconformal mapping and FEM</h2>
@@ -236,31 +261,6 @@
 							</p>
 							</section>
 							
-							<section class="post">
-							<h2 id="fourier">Fourier transform a video</h2>
-							<p>Some years ago, while learning about Fourier transform, I was enamoured of the fact that every curve has a "dual".
-							<img src="images/fourier.gif" alt="fourier transform gif" title="A gif of fourier transform | Shared by Lucas Vieira on Wiki Commons under CC0"/>
-							</p>
-
-							<p>Therefore, when I saw the Arctic Monkey's music video "Do I Wanna Know", I trialled my Python skills with the challenge of Fourier transforming that video.<br />
-							Play the following two videos <u><b>simultaneously</b></u> and you will see what I mean.</p>
-							</section>
-							<section class="posts">
-								<article>
-								<iframe width="100%" height="100%" src="https://www.youtube.com/embed/bpOSxM0rNPM?end=73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<p>The original video.</p>
-								</article>
-
-								<article>
-								<iframe width="100%" height="315" src="https://www.youtube.com/embed/FsvfQnuaWNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								<p>The fourier transformed version of the video.</p>
-								</article>
-							</section>
-							<section class="post">
-							<p>Each frame of the video is obtained by taking the fourier transform of the curve of the original video's frame, then removing the imaginary part. The left side of the frame corresponds to low frequencies (long wiggles) and the right side of the frame corresponds to high frequencies (short wiggles).<br />
-						 	It follows the same art style, speed and layout.
-							I stopped before a second line started to appear on the original video. Including the second line would have made the project too complex to manage using the python skills I had at the time.</p>
-							</section>
 							<section class="post">
 								<h2 id="WillML">Machine learning classification of products</h2>
 								<p>Another friend of mine needed to manually classify up to several tens of thousands of products into the correct product categories, using only a simplified name given by the supplying company.<br />
