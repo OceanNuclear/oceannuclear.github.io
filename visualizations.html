@@ -58,6 +58,27 @@
 							</section>
 							<section>
 								<header>
+									<h2 id="PeakFinding"><a href="https://github.com/OceanNuclear/PeakFinding/#readme">Square-root scale plotting of histogramic data</a></h2>
+									<p>A way of visualizing particle spectra data that is simulatneously mathematically elegant and practical.</p>
+								</header>
+								<p>One common problem plaguing experimental physicists is the visualization of spectral data. Take gamma spectroscopy, for example. After acquisition, we'd end up with a spectrum with a finite number of discrete bins representing a continuous spectrum. The number of counts in each bin follows its own Poisson distribution.
+								<br />
+								Physicists are then often faced with the problem: how do we visualize this spectrum, when some parts of the spectrum bins have several thousands of counts per bin, while others have less than one count per bin?
+								<br />
+								We often use the off-the-shelf solution: applying log-scale. But this deminishes the peaks' apparent prominence at high-count-rate parts (left side of the figure below) of the spectrum, and make the low-count-rate parts of the spectrum seem noisier than it actually is.
+								</p>
+								<article><span class="image fit"><img src="images/Background_sample_scale_comparison.png" /></span>
+								<p>Figure 1: The same spectrum plotted in all three scales, side-by-side.</p></article>
+								<p>What I propose is to use the sqrt-scale. Assuming that each bin in the spectrum follows a Poissonian distribution, then the variance = counts = σ<sup>2</sup>, and standard deviation = σ = sqrt(counts). As a result, this gives us the following advantages:</p>
+								<ol>
+									<li>As you can see above, after taking sqrt-scale, the apparent "thickness" of the background noise stays constant throughout the entire spectrum, unlike log scale which exaggerages that thickness in the low-count regions.</li>
+									<li>The detection limit of is also proportional to σ=sqrt(counts). This makes peak-detection more intuitive: a peak that's 5-sigmas above the background should be assigned the same significance, regardless of what the background level is. And indeed you can achieve this using sqrt scale, as a 5-sigma peak would protrude from the background by the same apparent amount regardless of whether the background is 1 count (5-sigmas = 5 counts) or 10000 counts (5-sigmas = 500 counts). </li>
+									<!-- <li>The sqrt(x) curve gets flattened less abruptly than the log(x) curve; therefore it won't have the same effect of "squashing" the peaks at high-count-rates.</li> -->
+									<li>The sqrt(x) curve also doesn't &#8594;-&#8734; when x&#8594;0<sup>+</sup>, so we won't get horrible error messages whenever we plot in sqrt-scale, unlike log-scale.</li>
+								</ol>
+							</section>
+							<section>
+								<header>
 									<h2 id="Venn"><a href="https://github.com/OceanNuclear/Venn">Inscribed polygon art</a></h2>
 									<p>A Venn-diagram-like art</p>
 									<article><span class="image fit"><img src="images/equalized_rounded_polygon9_darkened.png" /></span></article>
@@ -71,7 +92,6 @@
 								<p>Have you ever wondered what happens if we launched a rocket, and it started spinning out of control, what kind of path will it trace out?<br />
 								Well, wonder no more! You can find out for yourself using this <a href="https://mybinder.org/v2/gh/OceanNuclear/Freebody/HEAD?filepath=MalfunctioningRocket.ipynb">jupyter notebook</a>!
 								<br />
-								Fun fact: This was my first ever python project!
 								</p>
 							</section>
 							<section>
