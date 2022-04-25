@@ -1,18 +1,19 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Monday:
-[]Make a plain html easteregg page of my personal website, and see how quickly it updates
-[]Scheduler.py Incorporate into website /home/ocean/Self/oceannuclear.github.io/showcase.html
-    []Add button to poke/remind myself (or tell me that I'm doing well?)
+[]Scheduler.py Incorporate into website /home/ocean/Self/oceannuclear.github.io/showcase.html (0 min)
+    []Make bas command to back-up to oceannuclear.co.uk + add vtask (20 days) (25 mins)
+    []Prettify vtask plot (30 mins)
+    []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
         []Test button
         []Implement a send-email form as well
         []Check other website's send-email form
-    []Prettify vtask plot
-[]Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
-    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
+11:53pm
 []Begin correction of my paper (40 mins)
 []Ninja Warrior application (TTS)(20 mins)
     - Read Jamie Fisher's profile link + Google searched application form
+[]Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
+    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 Tuesday:
 []The rest of the paper correction points (580 mins) (40 mins per point)
 []Finish Steve's recommendation paper: Michael Flemming's group structure optimization (45 mins)
