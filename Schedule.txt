@@ -1,14 +1,6 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Monday:
-[]Scheduler.py Incorporate into website /home/ocean/Self/oceannuclear.github.io/showcase.html (0 min)
-    []Make bas command to back-up to oceannuclear.co.uk + add vtask (20 days) (25 mins)
-    []Prettify vtask plot (30 mins)
-    []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
-        []Test button
-        []Implement a send-email form as well
-        []Check other website's send-email form
-11:53pm
 []Begin correction of my paper (40 mins)
 []Ninja Warrior application (TTS)(20 mins)
     - Read Jamie Fisher's profile link + Google searched application form
@@ -61,6 +53,10 @@ Foilselector experiment:
 Reorganize FoilSelector: /home/ocean/Self/foilselector/TODO
 
 Later:
+[]Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
+    []Implement a send-email form as well
+    []Check other website's send-email form and buttons
+    []Test button + email form
 []Bateman equation divided difference implementation
 []Make they played us for absolute fools meme for climbing?
 []FISPACT-II video
