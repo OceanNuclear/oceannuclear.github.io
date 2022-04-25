@@ -53,10 +53,11 @@ Foilselector experiment:
 Reorganize FoilSelector: /home/ocean/Self/foilselector/TODO
 
 Later:
-[]Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
-    []Implement a send-email form as well
-    []Check other website's send-email form and buttons
-    []Test button + email form
+[]Link to the accountability.html page by adding a link on the top of every page (10 mins)
+    []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
+        []Implement a send-email form as well
+        []Check other website's send-email form and buttons
+        []Test button + email form
 []Bateman equation divided difference implementation
 []Make they played us for absolute fools meme for climbing?
 []FISPACT-II video
