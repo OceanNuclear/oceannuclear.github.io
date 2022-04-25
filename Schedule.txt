@@ -1,5 +1,6 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
+Testday:
 Monday:
 []Make a plain html easteregg page of my personal website, and see how quickly it updates
 []Scheduler.py Incorporate into website /home/ocean/Self/oceannuclear.github.io/showcase.html
