@@ -1,0 +1,80 @@
+1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
+3. Use checklist of what materials and info needs to be at hand for each task.
+Monday:
+[]Make a plain html easteregg page of my personal website, and see how quickly it updates
+[]Scheduler.py Incorporate into website /home/ocean/Self/oceannuclear.github.io/showcase.html
+    []Add button to poke/remind myself (or tell me that I'm doing well?)
+        []Test button
+        []Implement a send-email form as well
+        []Check other website's send-email form
+    []Prettify vtask plot
+[]Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
+    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
+[]Begin correction of my paper (40 mins)
+[]Ninja Warrior application (TTS)(20 mins)
+    - Read Jamie Fisher's profile link + Google searched application form
+Tuesday:
+[]The rest of the paper correction points (580 mins) (40 mins per point)
+[]Finish Steve's recommendation paper: Michael Flemming's group structure optimization (45 mins)
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/Updated papers/fleming2016optimization.pdf
+[]Fix missing isotopes (250 minutes)
+[]Ignoring libraries (5 min)
+    []to ignore 511 (100 mins)
+    []to ignore both 511 + low yield (100 mins)
+[]Genie: using the newly calibrated .Spe files (20 mins)
+    []input MCNP new_calibration for 1 (10 mins)
+    []compare 1 MCNP against ISOCS (40 mins)
+[]Add the MNCP curves for each sample (300 mins)
+    []Write AHK script to do so
+Wednesday:
+[]Finish Ninja Warrior application (80 mins)
+[]MDA report(1 hour)
+Friday:
+Saturday:
+[]The Skate House (3 hours)
+[]Buy walking sticks (2.5 hours)
+Wednesday:
+[]Overlay APPROXIMATE expected spectrum with real spec
+    []Widen to FWHM
+    []Plot against real spectrum
+    []including the uncertainty calculation part
+
+Daily task:
+[]weekly goals document to Robin so that he stops asking questions
+[]One of the following learning things:
+    []MOOC (Coursera/ edX/ Academic Earth)
+    []SeptembRSE /home/ocean/Documents/PhD/Seminars_conferences/SeptembeRSE/sessions.ods
+    []nucleus /home/ocean/Documents/Culham/nucleus/nucleus.txt
+    []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
+    []Netflix Vox series
+    []Clean e-mailboxes
+
+Foilselector experiment:
+[]Compare Fispact result with foilselector result:
+    []Shape of gamma spec :fispact vs real
+    []Pathways: fispact vs foilselector (isotope list?)
+[]Fix step 2-4:
+    []step2/read_data.py and step4/rank_foils.py can be placed at openmcextension and optimizer respectively
+    []Put some functions to higher level (rather than script), even if they're single use.
+[]Add doc strings
+Reorganize FoilSelector: /home/ocean/Self/foilselector/TODO
+
+Later:
+[]Bateman equation divided difference implementation
+[]Make they played us for absolute fools meme for climbing?
+[]FISPACT-II video
+[]Straighten up sublime package management
+[]Sort the rest of the SeptemRSE lectures into calendar
+[]Trading stuff: see /home/ocean/Documents/Work/17.DailyThought/2021-08-13-trading
+Marcel:
+[]Try to show what happens when chi^2 is below the allowed limit.
+[]Read other stuff from Marcel
+[]Send Marcel an email about the error propagation idea.
+SHU activities:
+- Focus Thursday 2:30-4:30
+----Make the barrier to doing your fun recreational task as low as possible.
+Interesting/recreational/entertaining:
+[]openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
+[]implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
+[]Make arduino stuff!
+[]Physics world magazines
