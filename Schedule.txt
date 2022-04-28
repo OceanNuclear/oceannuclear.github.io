@@ -1,6 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Thursday:
+[]Reply to Outlook email on neutron sources (30 mins)
+[]Vertical workflow for 03-In - Compare all 5 stages (0.9 hours)
 []Begin correction of my paper (1 hour)
     []The rest of the paper correction points (580 mins) (40 mins per point)
     - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
@@ -8,26 +10,24 @@ Thursday:
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 []Finish Steve's recommendation paper: Michael Flemming's group structure optimization (45 mins)
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/Updated papers/fleming2016optimization.pdf
+
 []Fix missing isotopes (250 minutes)
 []Ignoring libraries (5 min)
     []to ignore 511 (100 mins)
     []to ignore both 511 + low yield (100 mins)
+Friday:
+8am
+[]Talk to HMCR and ask for what they need
+[]Robin's request
+    []Incorporate that column into xlsx (Using lookup table?)
 []Genie: using the newly calibrated .Spe files (20 mins)
-    []input MCNP new_calibration for 1 (10 mins)
     []compare 1 MCNP against ISOCS (40 mins)
-[]Add the MNCP curves for each sample (300 mins)
-    []Write AHK script to do so
-Thursday:
+[]MDA report(1 hour)
+Saturday:
 []Film Ninja warrior video by going to Nova City (2 hours)
     []Edit together a video (1 hour)
-[]MDA report(1 hour)
-Friday:
-[]Talk to HMCR and ask for what they need
 Saturday:
 []The Skate House (3 hours)
-[]Robin's request
-    [x]Add a column of "number of counts at max peak"
-    []Incorporate that column into xlsx (Using lookup table?)
 []Buy walking sticks (2.5 hours)
 Wednesday:
 []Overlay APPROXIMATE expected spectrum with real spec
