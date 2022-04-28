@@ -1,15 +1,16 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Thursday:
-[]Reply to Outlook email on neutron sources (30 mins)
+[]Metatask: Re-organize all fusion tasks in ScratchPad
 []Vertical workflow for 03-In - Compare all 5 stages (0.9 hours)
-[]Begin correction of my paper (1 hour)
-    []The rest of the paper correction points (580 mins) (40 mins per point)
-    - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
+[]Listen to https://www.bnl.gov/newsroom/news.php?a=219303 (20 mins)
 []Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 []Finish Steve's recommendation paper: Michael Flemming's group structure optimization (45 mins)
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/Updated papers/fleming2016optimization.pdf
+[]Begin correction of my paper (1 hour)
+[]The rest of the paper correction points (580 mins) (40 mins per point)
+    - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
 
 []Fix missing isotopes (250 minutes)
 []Ignoring libraries (5 min)
@@ -24,11 +25,10 @@ Friday:
     []compare 1 MCNP against ISOCS (40 mins)
 []MDA report(1 hour)
 Saturday:
-[]Film Ninja warrior video by going to Nova City (2 hours)
-    []Edit together a video (1 hour)
-Saturday:
 []The Skate House (3 hours)
 []Buy walking sticks (2.5 hours)
+[]Film Ninja warrior video by going to Nova City (2 hours)
+    []Edit together a video (1 hour)
 Wednesday:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
@@ -36,13 +36,12 @@ Wednesday:
     []including the uncertainty calculation part
 
 Daily task:
-[]weekly goals document to Robin so that he stops asking questions
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
     []SeptembRSE /home/ocean/Documents/PhD/Seminars_conferences/SeptembeRSE/sessions.ods
-    []nucleus /home/ocean/Documents/Culham/nucleus/nucleus.txt
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
-    []Netflix Vox series
+    []Social media & Sci+Math tab
+        []Netflix Vox series
     []Clean e-mailboxes
 
 Foilselector experiment:
@@ -53,7 +52,7 @@ Foilselector experiment:
     []step2/read_data.py and step4/rank_foils.py can be placed at openmcextension and optimizer respectively
     []Put some functions to higher level (rather than script), even if they're single use.
 []Add doc strings
-Reorganize FoilSelector: /home/ocean/Self/foilselector/TODO
+[]Reorganize FoilSelector: /home/ocean/Self/foilselector/TODO
 
 Later:
 []Link to the accountability.html page by adding a link on the top of every page (10 mins)
