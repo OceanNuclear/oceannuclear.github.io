@@ -1,20 +1,21 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
-Saturday:
-8am
-[]Talk to HMCR and ask for what they need
-[]Film climb
-[]The Skate House (3 hours)
+[]Compare the difference between the 4 stages of the 03-In analysis reports
+    - /media/ocean/OS/GENIE2K/REPFILES/stages-investigation
+Sunday:
 []Buy walking sticks (2.5 hours)
+[]Film climb
 []Film Ninja warrior video by going to Nova City (2 hours)
     []Edit together a video (1 hour)
-Sunday:
-[]Compare the difference between the 4 stages of the 03-In analysis reports
 Monday:
-[]Begin correction of my paper (1 hour)
-    [x]Set up new directory
-    []Denote which line should each correction go to (skip the hard ones?) (39 minutes)
+[]Begin correction of my paper (20 mins)
     - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
+    []Write provisional #responses and #additions to #### General comments
+    []Correct #### Style
+    []Correct #### General comments
+    []Correct #### Citations
+8am
+[]Talk to HMCR and ask for what they need
 []Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 []The rest of the paper correction points (580 mins) (40 mins per point)
@@ -35,6 +36,8 @@ Wednesday:
     []Widen to FWHM
     []Plot against real spectrum
     []including the uncertainty calculation part
+Saturday:
+[]The Skate House (3 hours)
 
 Daily task:
 []One of the following learning things:
