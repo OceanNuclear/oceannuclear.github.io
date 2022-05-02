@@ -1,12 +1,5 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
-[]Compare the difference between the 4 stages of the 03-In analysis reports
-    - /media/ocean/OS/GENIE2K/REPFILES/stages-investigation
-Sunday:
-[]Buy walking sticks (2.5 hours)
-[]Film climb
-[]Film Ninja warrior video by going to Nova City (2 hours)
-    []Edit together a video (1 hour)
 Monday:
 []Begin correction of my paper (20 mins)
     - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
@@ -14,28 +7,32 @@ Monday:
     []Correct #### Style
     []Correct #### General comments
     []Correct #### Citations
-8am
-[]Talk to HMCR and ask for what they need
+        []Find the 10^14 flux limit quote from 
+
 []Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 []The rest of the paper correction points (580 mins) (40 mins per point)
     - /home/ocean/Documents/PhD/JOFE_SI_PhDiaFusion/Revision1
+[]Clean gmail
 
-[]Robin's request
-    []Incorporate that column into xlsx (Using lookup table?)
-[]Genie: using the newly calibrated .Spe files (20 mins)
-    []compare 1 MCNP against ISOCS (40 mins)
-[]MDA report(1 hour)
-
-[]Fix missing isotopes (250 minutes)
-[]Ignoring libraries (5 min)
-    []to ignore 511 (100 mins)
-    []to ignore both 511 + low yield (100 mins)
+[]Buy walking sticks (2.5 hours)
+[]Film Ninja warrior video by going to Nova City (2 hours)
+    []Edit together a video (1 hour)
+Tuesday:
+8am
+[]Talk to HMCR and ask for what they need
 Wednesday:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
     []Plot against real spectrum
     []including the uncertainty calculation part
+Thursday:
+[]Fix missing isotopes (250 minutes)
+[]Ignoring libraries (5 min)
+    []to ignore 511 (100 mins)
+    []to ignore both 511 + low yield (100 mins)
+[]Robin's request
+    []Incorporate that column into xlsx (Using lookup table?)
 Saturday:
 []The Skate House (3 hours)
 
@@ -51,6 +48,7 @@ Daily task:
 Later:
 []Link to the accountability.html page by adding a link on the top of every page (10 mins)
     []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
+        - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit
         []Implement a send-email form as well
         []Check other website's send-email form and buttons
         []Test button + email form
