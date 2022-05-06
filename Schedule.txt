@@ -1,14 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Friday:
-[]Circulate the final version (10 mins)
-9:46pm
-[]Robin approval of meeting summary (1 hour)
-10:46pm
 []Make Ninja Warrior application (15 mins)
     []Make film (45 mins)
-11:46pm
-[]Clean gmail (1 hour)
 12:46am
 Saturday:
 []Robin's request
@@ -50,12 +44,12 @@ Later:
 []Make they played us for absolute fools meme for climbing?
 []Straighten up sublime package management
 []Sort the rest of the SeptemRSE lectures into calendar
-[]Trading stuff: see /home/ocean/Documents/Work/17.DailyThought/2021-08-13-trading
 
 SHU activities:
 - Focus Thursday 2:30-4:30
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]https://sigbovik.org/2022/proceedings.pdf
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
