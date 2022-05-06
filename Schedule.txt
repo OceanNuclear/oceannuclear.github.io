@@ -1,10 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
 Friday:
-[]Make Ninja Warrior application
-[]Clean gmail
-[]Circulate the final version
-[]Robin approval of meeting summary
+[]Circulate the final version (10 mins)
+9:46pm
+[]Robin approval of meeting summary (1 hour)
+10:46pm
+[]Make Ninja Warrior application (15 mins)
+    []Make film (45 mins)
+11:46pm
+[]Clean gmail (1 hour)
+12:46am
 Saturday:
 []Robin's request
     []Incorporate that column into xlsx (Using lookup table?)
