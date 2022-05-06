@@ -1,19 +1,11 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
+Friday:
+[]Make Ninja Warrior application
 []Clean gmail
-Thursday:
-8am
-[]Talk to HMCR and ask for what they need (1 hour)
-[]Collect student ID (20 mins)
-[]Overlay APPROXIMATE expected spectrum with real spec
-    []Widen to FWHM
-    []Plot against real spectrum
-    []including the uncertainty calculation part
-[]Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
-    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
-[]Film Ninja warrior video by going to Nova City (2 hours)
-    []Edit together a video (1 hour)
-
+[]Circulate the final version
+[]Robin approval of meeting summary
+Saturday:
 []Robin's request
     []Incorporate that column into xlsx (Using lookup table?)
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
@@ -21,8 +13,16 @@ Thursday:
 []Ignoring libraries (5 min)
     []to ignore 511 (100 mins)
     []to ignore both 511 + low yield (100 mins)
-Saturday:
-[]The Skate House (3 hours)
+
+[]Overlay APPROXIMATE expected spectrum with real spec
+    []Widen to FWHM
+    []Plot against real spectrum
+    []including the uncertainty calculation part
+[]Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
+    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
+Monday:
+8am
+[]Talk to HMCR and ask for what they need (1 hour)
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
