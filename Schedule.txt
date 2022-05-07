@@ -1,10 +1,18 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
-Friday:
-[]Make Ninja Warrior application (15 mins)
-    []Make film (45 mins)
-12:46am
 Saturday:
+[]Make Ninja Warrior application (15 mins)
+    []Choose skills to present
+        - Ascend (wall run)
+        - Ascend (the thing Alex filmed in London)
+        - Descend ?
+        - Dyno (Muirehead)
+        - Sideways dyno in Oxford Little Claredon
+    []Film MU?
+    []Make film (45 mins)
+[]Trackpad: fix acceleration profile?
+[]Take out trash + recycling
+
 []Robin's request
     []Incorporate that column into xlsx (Using lookup table?)
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
@@ -21,7 +29,7 @@ Saturday:
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
 Monday:
 8am
-[]Talk to HMCR and ask for what they need (1 hour)
+[]Talk to HMRC and ask for what they need (1 hour)
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
