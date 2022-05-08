@@ -1,15 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task.
-Saturday:
-[]Make Ninja Warrior application (15 mins)
-    []Choose skills to present
-        - Ascend (wall run)
-        - Ascend (the thing Alex filmed in London)
-        - Descend ?
-        - Dyno (Muirehead)
-        - Sideways dyno in Oxford Little Claredon
-    []Make film (45 mins)
-
+Sunday:
+6pm
 []Robin's request
     []Incorporate that column into xlsx (Using lookup table?)
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
