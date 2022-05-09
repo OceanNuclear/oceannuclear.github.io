@@ -1,9 +1,9 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Monday:
-[]Compare the cursor difference (10 mins)
-[]Create the 18 missing isotope docs using AHK (250 minutes)
+[x]Create the 41 missing isotope docs using AHK (250 minutes)
     - /media/ocean/OS/Genie/Genie/analysis/Populations/decay/
+[]Compare the cursor difference (10 mins)
 []Ignoring libraries (5 min)
     []3TrimLowYield(100 mins)
     []4Trim511 (100 mins)
