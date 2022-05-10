@@ -1,7 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
-[]Ignoring libraries (5 min)
+[]Make libraries (5 min)
     []2allIsotopes(50 mins)
     []3TrimLowYield(100 mins)
     []4Trim511 (100 mins)
