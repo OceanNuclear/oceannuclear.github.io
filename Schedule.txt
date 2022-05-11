@@ -1,6 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Tuesday:
+Wednesday:
+[]Fixflo
+    - https://sheffield-city.fixflo.com/Auth/HomeIssueCreate
+    - /media/ocean/OS/Users/user/Documents/PhD/Work/6.House/Sheffield/WestOne/MoveOutIssues.docx
+[]Lubricate chain
+[]Stick hook back on
+[]Make supervisor relationship meeting notes
+[]SITS complaint: who registered me and put my name in as Hoi Yeung Wong?
+[]Browser: port all
+Thursday:
 []Make libraries (5 min)
     []2allIsotopes(50 mins)
     []3TrimLowYield(100 mins)
