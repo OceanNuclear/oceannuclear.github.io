@@ -1,26 +1,17 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Wednesday:
+Thursday:
 []Fixflo
     - https://sheffield-city.fixflo.com/Auth/HomeIssueCreate
     - /media/ocean/OS/Users/user/Documents/PhD/Work/6.House/Sheffield/WestOne/MoveOutIssues.docx
-[]Lubricate chain
-[]Stick hook back on
-[]Make supervisor relationship meeting notes
 []SITS complaint: who registered me and put my name in as Hoi Yeung Wong?
-[]Browser: port all
-Thursday:
 []Make libraries (5 min)
-    []2allIsotopes(50 mins)
     []3TrimLowYield(100 mins)
     []4Trim511 (100 mins)
     []5TrimLowYield511 (100 mins)
 []Make
-    []6TrimLowYield511MaxCountThreshold (1 hour)
-        - /media/ocean/OS/Genie/Genie/analysis/Populations/.max_csv
-    []7TENDLallisotopes (2 hours)
+    []6TENDLTrimLowYield511 (50 mins)
         []copy/wraparound /media/ocean/OS/Genie/Genie/analysis/Populations/decay/extract_gamma_spec.py
-    []8TENDLTrimLowYield511 (50 mins)
 []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []Make fortnightly report
 
@@ -30,6 +21,8 @@ Thursday:
     []including the uncertainty calculation part
 []Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
+Friday:
+[]Lubricate chain
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
