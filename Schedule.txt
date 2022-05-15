@@ -1,14 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
-[]Generate all reports for 6 and 7 (60 mins)
-    []Generate the .geo files? for all foils (80 mins)
-[]House hunting
-[]Make ahk to create(1 hour)
-    []3TrimLowYield(50 mins)
-    []4Trim511 (50 mins)
-    []5TrimLowYield511 (50 mins)
+[]Handstands in Devonshire green (1 hour)
+[]Argument with Robin(20 mins)
+[]House hunting (1 hour 30 mins)
+
+[]Backup .NLB files etc. (40 mins)
+[]Is the 01-Cu.NLB written in the correct geometry (contact)? (Otherwise, discard!) (20 mins)
+
 Monday:
+[]Appropriate python script plot_activity.py below to extract .RPT files' activities only.
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
 Tuesday:
