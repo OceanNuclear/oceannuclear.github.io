@@ -1,20 +1,11 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Sunday:
-[]Handstands in Devonshire green (1 hour)
-8:37pm
-[]Argument with Robin(20 mins)
-8:57pm
-[]House hunting (1 hour 30 mins)
-10:27pm
-
-[]Backup .NLB files etc. (40 mins)
-[]Is the 01-Cu.NLB written in the correct geometry (contact)? (Otherwise, discard!) (20 mins)
-
 Monday:
 []Appropriate python script plot_activity.py below to extract .RPT files' activities only.
+[]House hunting (1 hour 30 mins)
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
+    []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
 Tuesday:
 []Schedule supervisory meeting?
     []/media/ocean/OS/Genie/Genie/analysis/Populations/max_sum/csv/compare_with_threshold.sh
