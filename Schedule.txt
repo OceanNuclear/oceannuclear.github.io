@@ -7,11 +7,13 @@ Tuesday:
     - /home/ocean/Documents/Work/43.SupervisionComplaint/supervision-complaint.txt
 []Found a hypothesis for GENIE's crashes! It's due to a single too-wide (too many matches) nuclide?
     []Re-make the .lst files with the number of unfiltered lines shown!
-    []Threshold differently? I.e. accept/reject lines according to *exactly* how many pulses they cause? ()
+    []Threshold differently? I.e. accept/reject lines according to *exactly* how many pulses they cause?
     []Rethink thresholding later if needed.
+[]Coursera notes
 []Incrementally delete nuclides in NLB
     - /media/ocean/OS/GENIE2K/CAMFILES/actifoils/8* and 9*
-
+[]Pinboard training
+    []Is my paper published as open access?
 []Appropriate python script plot_activity.py below to extract .RPT files' activities only.
     []Choose the .RPTs with most variety of nuclide identified using this script.
 
