@@ -5,6 +5,7 @@ Wednesday:
     []Re-make the .lst files with the number of unfiltered lines shown! (30 mins)
         - /media/ocean/OS/Genie/Genie/analysis/Populations/max_sum/csv/sort_threshold.py
         - /home/ocean/Self/FoilSelector/NewChipIR/709_short/Populations/make_csv.py
+        - /home/ocean/Self/FoilSelector/NewChipIR/709_short/Populations/*.csv
     []Threshold differently? I.e. accept/reject lines according to *exactly* how many pulses they cause?
     []Rethink thresholding later if needed.
 
