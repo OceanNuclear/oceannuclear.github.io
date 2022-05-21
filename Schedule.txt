@@ -1,17 +1,14 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Friday:
-[]Write script to extract the NID section from .RPT files (40 mins)
-    []IDENTIFY NID Section key lines ()
-    []boilet plate scripts (8 mins)
-    []
+Sunday:
+[]Send email about Thresholding
+    - either 48 or 64
 []New thresholding strategy
     []1.Inspect each spectrum, and find their background
         []Write backgroud files to a BG/ directory next to new_data
     []2. Acceptance threshold = Significance threshold extrapolated from Poisson distribution of BG
     []3. All lines > acceptance threshold = included
     []4. Nuclides with no lines = excluded from library
-[]Draft email to Kim about Genie's discovery
 []Tell Kristen to email HR
 []Incrementally delete nuclides in NLB
     - /media/ocean/OS/GENIE2K/CAMFILES/actifoils/8* and 9*
