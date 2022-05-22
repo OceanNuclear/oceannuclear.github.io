@@ -2,9 +2,9 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
 []New thresholding strategy
-    []1.Inspect each spectrum, and find their background
-        []Write backgroud files to a BG/ directory next to new_data
-    []2. Acceptance threshold = Significance threshold extrapolated from Poisson distribution of BG
+    - Assume FWHM = 1 bin
+    - Acceptance threshold = Poisson distribution of BG
+    []Include all lines with counts > count per bin
     []3. All lines > acceptance threshold = included
     []4. Nuclides with no lines = excluded from library
 []Incrementally delete nuclides in NLB
