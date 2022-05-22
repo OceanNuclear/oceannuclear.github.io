@@ -7,12 +7,6 @@ Sunday:
     []2. Acceptance threshold = Significance threshold extrapolated from Poisson distribution of BG
     []3. All lines > acceptance threshold = included
     []4. Nuclides with no lines = excluded from library
-[]Tell Kristen to email HR
-Windows compartment:
-[]Send email about Thresholding
-    - either 48 or 64
-[x]Swab Anthony Nolan
-    []Send off Anthony Nolan mail
 []Incrementally delete nuclides in NLB
     - /media/ocean/OS/GENIE2K/CAMFILES/actifoils/8* and 9*
 []Appropriate python script plot_activity.py below to extract .RPT files' activities only.
@@ -21,6 +15,8 @@ Windows compartment:
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
+Monday:
+[]Tell Kristen to email HR
 PhD:
 []Check Genie's manual for all four stages of the analysis methods that I used (2 hours)
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf 279-, 304, 321, 330, 339, 348, ?352 +4
