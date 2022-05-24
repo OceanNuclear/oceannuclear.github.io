@@ -28,7 +28,6 @@ Tuesday:
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
-[]Tell Kristen to email HR
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
