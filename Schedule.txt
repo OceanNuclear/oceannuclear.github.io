@@ -1,20 +1,14 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
-[]New thresholding strategy
-    - Assume FWHM = 1 bin
-    - Acceptance threshold = Poisson distribution of BG
-    []Include all lines with counts > count per bin
-    []3. All lines > acceptance threshold = included
-    []4. Nuclides with no lines = excluded from library
+[]Choose the .RPTs with most variety of nuclide identified using this script.
 []Incrementally delete nuclides in NLB
     - /media/ocean/OS/GENIE2K/CAMFILES/actifoils/8* and 9*
-[]Appropriate python script plot_activity.py below to extract .RPT files' activities only.
-    []Choose the .RPTs with most variety of nuclide identified using this script.
 
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
+    []Explain the process of cutting lines.
 Monday:
 []Tell Kristen to email HR
 PhD:
