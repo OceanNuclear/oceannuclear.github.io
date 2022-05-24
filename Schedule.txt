@@ -21,7 +21,8 @@ Tuesday:
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
     []Confirm that I'm not using "Air filter" or "Irradiated" (activated) samples option
         []Refer to operations manual
-[]Choose the .RPTs with most variety of nuclide identified using this script.
+[]Choose the .RPTs with most variety of nuclide identified using get_NID
+    - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py
 
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
