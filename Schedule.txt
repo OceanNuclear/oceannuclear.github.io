@@ -13,16 +13,15 @@ Tuesday:
     - N= max num lines
     - M= tot. num nuc
     - L= tot. num lines
-[]Check if I can get rid of the "V M S" section
+[]Genie procedure changes
+    []Check if I can get rid of the "V M S" section
+    []Should I enable critical level test?
+        []Compare the result when CLT is added
 []Account for Kc and Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
     []Confirm that I'm not using "Air filter" or "Irradiated" (activated) samples option
         []Refer to operations manual
-    []Should I enable critical level test?
-        []Compare the result when CLT is added
 []Choose the .RPTs with most variety of nuclide identified using this script.
-[]Incrementally delete nuclides in NLB
-    - /media/ocean/OS/GENIE2K/CAMFILES/actifoils/8* and 9*
 
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
