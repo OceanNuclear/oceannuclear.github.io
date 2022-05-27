@@ -1,17 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Thursday:
-[]Buy train ticket
-[]refund prev. train ticket
-[]Genie procedure changes
-    []Check if I can get rid of the "V M S" section
-    []Should I enable critical level test?
-        []Compare the result when CLT is added
-[]https://elements.shu.ac.uk/default.html
-[]Account for Kc and Kw?
-    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
+Friday:
+[]Genie procedure changes (0 mins)
+    []Check if I can get rid of the "V M S" section (15 mins)
+    []Should I enable critical level test? (15 mins)
+        []Compare the result when CLT is added (15 mins)
     []Confirm that I'm not using "Air filter" or "Irradiated" (activated) samples option
         []Refer to operations manual
+[]Bucket
+[]Account for Kc and Kw?
+    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
 []Choose the .RPTs with most variety of nuclide identified using get_NID
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py
 
