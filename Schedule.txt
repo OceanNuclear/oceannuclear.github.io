@@ -1,14 +1,20 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Friday:
+[]Fix USB by adding extender
+Saturday:
+[]Buy train tickets to London (15 mins)
+    []Contact Chris and Alex about it.
 []Genie result compare:
     []Check the effect of MDA
     []Check the effect of Acq-time decay correction
     []Check the effect of cascade correction
+[]Mail off train tickets to be refunded
+Sunday:
 []Account for Kc and Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
 []Choose the .RPTs with most variety of nuclide identified using get_NID
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
+Monday:
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
