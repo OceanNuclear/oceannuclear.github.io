@@ -1,14 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-[]Fix USB by adding extender
 Saturday:
+[]Mail off train tickets to be refunded
+[]Ask Alex about chalk bag choice
 []Buy train tickets to London (15 mins)
     []Contact Chris and Alex about it.
 []Genie result compare:
     []Check the effect of MDA
     []Check the effect of Acq-time decay correction
     []Check the effect of cascade correction
-[]Mail off train tickets to be refunded
+[]Fill in Tier 4 forms
 Sunday:
 []Account for Kc and Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
