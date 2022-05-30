@@ -1,7 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Monday:
-[]Green pass
+[]Gym
 []Link to the accountability.html page by adding a link on the top of every page (10 mins)
     []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
         - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit
@@ -26,6 +26,7 @@ Tuesday:
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
 []Contact Chris and Alex -> ask about when to buy their train tickets
+[]Planning Pennines trip
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
