@@ -1,6 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Monday:
+[]Green pass
 []Link to the accountability.html page by adding a link on the top of every page (10 mins)
     []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
         - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit
@@ -8,19 +9,16 @@ Monday:
         []Check other website's send-email form and buttons
         []Test button + email form
 []Read ligament tear recovery papers
-    []confirm it's not syndesmosis
-    - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128849/
+    [x]confirm it's not syndesmosis
+        - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128849/
+        - /home/ocean/Downloads/OAJSM-5-173-s.avi
     []Type II or III ligament sprain: what to do to recover?
         []And where is the injury?
-[]Fill in Tier 4 forms
-[]Genie result compare:
-    []Check the effect of MDA
-    []Check the effect of Acq-time decay correction
-    []Check the effect of cascade correction
-[]Account for Kc and Kw?
-    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
 []Choose the .RPTs with most variety of nuclide identified using get_NID
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
+[]Fill in Tier 4 forms
+[]Account for Kc OR Kw?
+    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
 
 Tuesday:
 []Make fortnightly report
