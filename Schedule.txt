@@ -1,32 +1,34 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Monday:
-[]Gym
 []Link to the accountability.html page by adding a link on the top of every page (10 mins)
     []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
         - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit
         []Implement a send-email form as well
         []Check other website's send-email form and buttons
         []Test button + email form
-[]Read ligament tear recovery papers
-    [x]confirm it's not syndesmosis
-        - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128849/
-        - /home/ocean/Downloads/OAJSM-5-173-s.avi
-    []Type II or III ligament sprain: what to do to recover?
+[]Read ligament tear recovery papers (10 mins)
+    []Type II or III ligament sprain: what to do to recover? (40 mins)
         []And where is the injury?
+        - https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=type+III+ligament+sprain&btnG=
+        - https://sportmedbc.com/article/ligament-sprains
 []Choose the .RPTs with most variety of nuclide identified using get_NID
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
-[]Fill in Tier 4 forms
 []Account for Kc OR Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
-
 Tuesday:
+[]Revolut: activate card
+    []Try Revolut Trading?
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
 []Contact Chris and Alex -> ask about when to buy their train tickets
 []Planning Pennines trip
+7pm
+[]Hair cut (30 mins)
+Wednesday:
+[]Circus
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
