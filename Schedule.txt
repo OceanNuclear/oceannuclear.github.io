@@ -7,18 +7,12 @@ Monday:
         []Implement a send-email form as well
         []Check other website's send-email form and buttons
         []Test button + email form
-[]Read ligament tear recovery papers (10 mins)
-    []Type II or III ligament sprain: what to do to recover? (40 mins)
-        []And where is the injury?
-        - https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=type+III+ligament+sprain&btnG=
-        - https://sportmedbc.com/article/ligament-sprains
 []Choose the .RPTs with most variety of nuclide identified using get_NID
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
 []Account for Kc OR Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
 Tuesday:
-[]Revolut: activate card
-    []Try Revolut Trading?
+[]Perhaps the mobile tabs are in windows' reading list?
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
@@ -28,6 +22,8 @@ Tuesday:
 7pm
 []Hair cut (30 mins)
 Wednesday:
+[]Revolut: activate card
+    []Try Revolut Trading?
 []Circus
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
