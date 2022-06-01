@@ -3,13 +3,13 @@
 Wednesday:
 []Soup(20 mins)
     []Washing up (10 mins)
-[]Build redirect web-page for all of my webpages' email form (35 mins)
-[]Revolut: activate card (30 mins)
-    []Try Revolut Trading? (30 mins)
 []Choose the .RPTs with most variety of nuclide identified using get_NID (20 mins)
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
+    - compare 1?BgInformative*/03*.RPT: is 14*/03*.RPT reliable?
 []Account for Kc OR Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
+[]Revolut: activate card (30 mins)
+    []Try Revolut Trading? (30 mins)
 6pm
 []Circus (2.9 hours)
 []Hair cut (30 mins)
