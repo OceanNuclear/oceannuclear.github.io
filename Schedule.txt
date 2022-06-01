@@ -1,20 +1,16 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-[]Soup(20 mins)
-    []Washing up (10 mins)
-[]Choose the .RPTs with most variety of nuclide identified using get_NID (20 mins)
-    - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
-    - compare 1?BgInformative*/03*.RPT: is 14*/03*.RPT reliable?
+[]Buy train ticket (3pm, possibly 5pm, of 15th June)
+[]Perhaps the mobile tabs are in windows' reading list? (10 mins)
+[]compare 1?BgInformative*/03*.RPT: is 14*/03*.RPT reliable?
+    - do so by modifying /media/ocean/OS/GENIE2K/REPFILES/get_NID.py
 []Account for Kc OR Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
+Thursday:
 []Revolut: activate card (30 mins)
     []Try Revolut Trading? (30 mins)
-6pm
-[]Circus (2.9 hours)
 []Hair cut (30 mins)
-Thursday:
-[]Perhaps the mobile tabs are in windows' reading list?
 []Planning Pennines trip (20 mins)
     []Message Emiliya to figure out a date for going on the walk (10 mins)
 []Make fortnightly report
