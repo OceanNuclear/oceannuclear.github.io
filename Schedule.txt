@@ -1,30 +1,28 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
-[]Link to the accountability.html page by adding a link on the top of every page (10 mins)
-    []Add button to poke/remind myself (or tell me that I'm doing well?) (50 mins)
-        - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit
-        []Implement a send-email form as well
-        []Check other website's send-email form and buttons
-        []Test button + email form
-[]Choose the .RPTs with most variety of nuclide identified using get_NID
+Wednesday:
+[]Soup(20 mins)
+    []Washing up (10 mins)
+[]Build redirect web-page for all of my webpages' email form (35 mins)
+[]Revolut: activate card (30 mins)
+    []Try Revolut Trading? (30 mins)
+[]Choose the .RPTs with most variety of nuclide identified using get_NID (20 mins)
     - /media/ocean/OS/GENIE2K/REPFILES/get_NID.py or check_nocrash_stats.py
 []Account for Kc OR Kw?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
-Tuesday:
+6pm
+[]Circus (2.9 hours)
+[]Hair cut (30 mins)
+Thursday:
 []Perhaps the mobile tabs are in windows' reading list?
+[]Planning Pennines trip (20 mins)
+    []Message Emiliya to figure out a date for going on the walk (10 mins)
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
-[]Contact Chris and Alex -> ask about when to buy their train tickets
-[]Planning Pennines trip
-7pm
-[]Hair cut (30 mins)
-Wednesday:
-[]Revolut: activate card
-    []Try Revolut Trading?
-[]Circus
+Tuesday:
+[]FFP2 mask
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
@@ -39,13 +37,11 @@ Daily task:
         []Netflix Vox series
     []Clean e-mailboxes
 Later:
-    []Consider changing them to days of the week?
 []All of the rest of the unfinished ideas in
     - /home/ocean/Documents/PhD/unfinished-work.txt
 []Make they played us for absolute fools meme for climbing?
 []Straighten up sublime package management
 []Sort the rest of the SeptemRSE lectures into calendar
-
 SHU activities:
 - Focus Thursday 2:30-4:30
 ----Make the barrier to doing your fun recreational task as low as possible.
