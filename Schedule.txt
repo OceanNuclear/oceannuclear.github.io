@@ -1,18 +1,19 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
-[]check if Kc or Kw is accounted for?
-    - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
-    []Just look into a few 15*/*.RPT, and write down/ do the maths manually. (2 hours)
-2:06pm
+[]Revolut: activate card (10 mins)
+    []Buy stuff from Poundland
+    []Try Revolut Trading? (30 mins)
+[]Add a few more test cases to /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (30 mins)
+[]Extract all number-of-decays into a single file! (10 mins)
+    []Write the extraction fuctionalities by reverse engineering /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (15 mins)
+    []Write if-branch to make sure *13BgInformative/07_PT.RPT is correctly extracted (15 mins)
+    []Save to file(15 mins)
 []Upload Pecha Kucah to Fusenet submission page (3 mins)
     []https://indico.fusenet.eu/event/35/attachments/17/644/Upload%20slides%20in%20Indico.pdf (5 mins)
     []read about presentation arrangements https://indico.cern.ch/event/844606/page/18548-posters-and-presentations (5 mins)
     []Check provisional program is unchanged https://indico.cern.ch/event/844606/page/18995 (5 mins)
 []Email: respond to Early Careers (25 mins)
-[]Revolut: activate card (10 mins)
-    []Buy stuff from Poundland
-    []Try Revolut Trading? (30 mins)
 []Planning Pennines trip (20 mins)
     []Message Emiliya to figure out a date for going to Edale (10 mins)
 []Make fortnightly report
