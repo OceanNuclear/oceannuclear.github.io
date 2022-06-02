@@ -1,19 +1,27 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
-[]compare 1?BgInformative*/03*.RPT: is 14*/03*.RPT reliable?
-    - do so by modifying /media/ocean/OS/GENIE2K/REPFILES/get_NID.py
-[]Account for Kc OR Kw?
+[]check if Kc or Kw is accounted for?
     - /media/ocean/OS/GENIE2K/pdfs/docs/Genie 2000 Customization Tools Manual.pdf p.347-348 (software page #)
-[]Revolut: activate card (30 mins)
+    []Just look into a few 15*/*.RPT, and write down/ do the maths manually. (2 hours)
+2:06pm
+[]Upload Pecha Kucah to Fusenet submission page (3 mins)
+    []https://indico.fusenet.eu/event/35/attachments/17/644/Upload%20slides%20in%20Indico.pdf (5 mins)
+    []read about presentation arrangements https://indico.cern.ch/event/844606/page/18548-posters-and-presentations (5 mins)
+    []Check provisional program is unchanged https://indico.cern.ch/event/844606/page/18995 (5 mins)
+[]Email: respond to Early Careers (25 mins)
+[]Revolut: activate card (10 mins)
+    []Buy stuff from Poundland
     []Try Revolut Trading? (30 mins)
-[]Hair cut (30 mins)
 []Planning Pennines trip (20 mins)
-    []Message Emiliya to figure out a date for going on the walk (10 mins)
+    []Message Emiliya to figure out a date for going to Edale (10 mins)
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
+    []Write this into a Genie abuse guide video?
+Friday:
+[]Hair cut (30 mins)
 Tuesday:
 []FFP2 mask
 PhD:
