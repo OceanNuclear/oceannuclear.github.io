@@ -1,12 +1,16 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
-[]Put on dishwasher
-    []take out trash
-    []Put on washing machine?
-[]Coursera (1 hour)
+[]Get wafer from Chinese supermarket (10 mins)
+    []retrieve letter from mailbox (3 mins)
+    []Other Tesco shop food stuff (25 mins)
+1:40pm
 []Record narration(30 mins)
     []Cut videos together (40 mins)
+2:50pm
+[]Check that freetrade is FCA regulated properly
+    - Using an FCA list?
+[]Coursera (1 hour)
 []Add a few more test cases to /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (20 mins)
     []Find .RPT with 80baH using check_nocrash_new_stats.py / custom python file.
     []Add more into /media/ocean/OS/GENIE2K/REPFILES/sanity-check/check.txt (20 mins)
