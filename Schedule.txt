@@ -1,6 +1,6 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Friday:
+Saturday:
 []Coursera (1 hour)
 []Record narration(30 mins)
     []Cut videos together (40 mins)
@@ -10,7 +10,6 @@ Friday:
     []Write the extraction fuctionalities by reverse engineering /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (15 mins)
     []Write if-branch to make sure *13BgInformative/07_PT.RPT is correctly extracted (15 mins)
     []extract from /media/ocean/OS/GENIE2K/REPFILES/chosen_RPT.txt and save to files(15 mins)
-Saturday:
 []Planning clinic
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
