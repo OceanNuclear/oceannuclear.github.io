@@ -11,12 +11,10 @@ Sunday:
     []Write the extraction fuctionalities by reverse engineering /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (15 mins)
     []Write if-branch to make sure *13BgInformative/07_PT.RPT is correctly extracted (15 mins)
     []extract from /media/ocean/OS/GENIE2K/REPFILES/chosen_RPT.txt and save to files(15 mins)
-[]Planning clinic
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
-[]Publish video on youtube (10 mins)
 []Hair cut (30 mins)
 Tuesday:
 []FFP2 mask
