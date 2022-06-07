@@ -1,18 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
-[]Add a few more test cases to /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (20 mins)
-    []Add more into /media/ocean/OS/GENIE2K/REPFILES/sanity-check/check.txt (20 mins)
-        []use 16Au, 14Mo, 13Er (higher energies)
-[]Verify that inhibit acq-time correction is still on
+Tuesday:
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
-[]Hair cut (30 mins)
-Tuesday:
-[]FFP2 mask
 []Coursera (1 hour)
+Wednesday:
+[]Make link for meetup with Chernobheads(1 hour)
+Sunday:
+[]Hair cut (30 mins)
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
