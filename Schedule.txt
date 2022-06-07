@@ -3,9 +3,7 @@
 Monday:
 []Add a few more test cases to /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (20 mins)
     []Add more into /media/ocean/OS/GENIE2K/REPFILES/sanity-check/check.txt (20 mins)
-[]Extract all number-of-decays into a single file! (10 mins)
-    []Write the extraction fuctionalities by reverse engineering /media/ocean/OS/GENIE2K/REPFILES/verify_Genie.py (15 mins)
-    []extract from /media/ocean/OS/GENIE2K/REPFILES/chosen_RPT.txt and save to files(15 mins)
+        []use 16Au, 14Mo, 13Er (higher energies)
 []Verify that inhibit acq-time correction is still on
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
