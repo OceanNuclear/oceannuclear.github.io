@@ -1,8 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
+[]Serialize papers that needs to be written (use A3 paper) (20 minutes)
 []Coursera: specific Mesh networking protocols (78 mins)
 []Make link for meetup with Chernobheads(1 hour)
+    []Check what's the previous poll format
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
