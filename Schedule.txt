@@ -1,8 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-[]Serialize papers that needs to be written (use A3 paper) (20 minutes)
 []Coursera: specific Mesh networking protocols (78 mins)
+[]Electric Razor: how to prevent corrosion
+    []Fix/throw away old one
+    []Buy new one (hopefully corrosion resistant/ can be used under water?)
 []Make link for meetup with Chernobheads(1 hour)
     []Check what's the previous poll format
 []Make fortnightly report
@@ -14,6 +16,9 @@ Thursday:
     []Make FISPACT attempt to unfold
         []Choose group structure?
         []Run the a priori once - highlight and discount nuclides that are consumed in large fraction by burn up
+    []Compare Fispact result with foilselector result
+        []Shape of gamma spec :fispact vs real
+        []Pathways: fispact vs foilselector (isotope list?)
 Thursday:
 []Walk in centre?
 Sunday:
