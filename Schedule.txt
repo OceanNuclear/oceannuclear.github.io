@@ -1,17 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Wednesday:
+Thursday:
 []Coursera: specific Mesh networking protocols (78 mins)
 []Electric Razor: how to prevent corrosion
     []Fix/throw away old one
     []Buy new one (hopefully corrosion resistant/ can be used under water?)
-[]Make link for meetup with Chernobheads(1 hour)
-    []Check what's the previous poll format
+[]Make link for meetup with Chernobheads(1 hour) (Google forms?)
 []Make fortnightly report
     []/media/ocean/OS/GENIE2K/REPFILES/plot_activity.py
     []/home/ocean/Documents/PhD/ExperimentalVerification/data/experiment*/data-quality-control
     []Explain the process of cutting lines.
-Thursday:
 []/home/ocean/Documents/PhD/ExperimentalVerification/results
     []Make FISPACT attempt to unfold
         []Choose group structure?
