@@ -1,8 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
+[]Return amazon post (1 hour)
 []Foilselector optimization
     - /home/ocean/Self/foilselector/TODO
+    []Flowchart
 []/home/ocean/Documents/PhD/ExperimentalVerification/results
     - sample files are in /home/ocean/Self/FoilSelector/fisp
     - executable is in /home/ocean/Others/FISPACT-II-3-20
@@ -12,7 +14,7 @@ Friday:
     []Compare Fispact result with foilselector result
         []Shape of gamma spec :fispact vs real
         []Pathways: fispact vs foilselector (isotope list?)
-Sunday:
+8pm
 []Hair cut (30 mins)
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
