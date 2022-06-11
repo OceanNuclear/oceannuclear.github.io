@@ -4,10 +4,11 @@ Friday:
 []Return amazon post (1 hour)
 []Foilselector optimization
     - /home/ocean/Self/foilselector/TODO
-    []Flowchart
+    []Flowchart on A3
 []/home/ocean/Documents/PhD/ExperimentalVerification/results
     - sample files are in /home/ocean/Self/FoilSelector/fisp
     - executable is in /home/ocean/Others/FISPACT-II-3-20
+    []Dig up Index.txt/ make new folder?
     []Make FISPACT attempt to unfold
         []Choose group structure?
         []Run the a priori once - highlight and discount nuclides that are consumed in large fraction by burn up
