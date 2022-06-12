@@ -43,4 +43,3 @@ Interesting/recreational/entertaining:
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
 []Read remaining books + build lego puzzle at home
-[]Tensor series from EigenChris
