@@ -1,20 +1,21 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Sunday:
+Monday:
 []Foilselector optimization
     - /home/ocean/Self/foilselector/TODO
     []Flowchart on A3
 []/home/ocean/Documents/PhD/ExperimentalVerification/results
     - sample files are in /home/ocean/Self/FoilSelector/fisp
     - executable is in /home/ocean/Others/FISPACT-II-3-20
-    []Dig up Index.txt/ make new folder?
+    []Dig up Index (Fispact-> Video) + make new folder
+    []Create FISPACT .o for the a priori and check the PATHWAY
+        []Run the a priori once - highlight and discount nuclides that are consumed in large fraction by burn up
+    []Create a dir for response matrix extraction
     []Make FISPACT attempt to unfold
         []Choose group structure?
-        []Run the a priori once - highlight and discount nuclides that are consumed in large fraction by burn up
     []Compare Fispact result with foilselector result
         []Shape of gamma spec :fispact vs real
         []Pathways: fispact vs foilselector (isotope list?)
-[]Hair cut (30 mins)
 PhD:
 []Overlay APPROXIMATE expected spectrum with real spec
     []Widen to FWHM
@@ -42,4 +43,4 @@ Interesting/recreational/entertaining:
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
-[]Read remaining books + build lego puzzle at home
+[]Read remaining books + driver's education + build lego puzzle at home
