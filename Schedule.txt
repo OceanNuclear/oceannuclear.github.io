@@ -1,26 +1,39 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Monday:
-[]Foilselector optimization
-    - /home/ocean/Self/foilselector/TODO
-    []Flowchart on A3
-[]/home/ocean/Documents/PhD/ExperimentalVerification/results
-    - sample files are in /home/ocean/Self/FoilSelector/fisp
-    - executable is in /home/ocean/Others/FISPACT-II-3-20
-    []Dig up Index (Fispact-> Video) + make new folder
-    []Create FISPACT .o for the a priori and check the PATHWAY
-        []Run the a priori once - highlight and discount nuclides that are consumed in large fraction by burn up
-    []Create a dir for response matrix extraction
-    []Make FISPACT attempt to unfold
-        []Choose group structure?
-    []Compare Fispact result with foilselector result
-        []Shape of gamma spec :fispact vs real
-        []Pathways: fispact vs foilselector (isotope list?)
-PhD:
-[]Overlay APPROXIMATE expected spectrum with real spec
+[]Rearrange razors (10 mins)
+[]edit together fispact video (3 hours)
+    []Record video (10 mins)
+        []Prep (30 mins)
+    []Narration (10 mins)
+[]Make ggbins that fit the existing gamma spectrum (10 mins)
+    []Check the ggbins format (5 mins)
+    []Make python script in ~/Doc*/PhD/Exp*/analysis/*.py (10 mins)
+[]/home/ocean/Documents/PhD/ExperimentalVerification/results (10 mins)
+    - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
+    - executable is in /home/ocean/Documents/FISPACT-II-3-20/fispact/exec/Ubuntu-14.04-X86/gfortran/fispact (already saved in fispact)
+    - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
+    - Saved to /home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/*/
+    []Configure the UNCERTAINTY and GRAPH keywords correctly
+    []Use foilselector/simulation/*.py to translate existing schedules into fispact schedules
+    []Compare the ATOMS SPECTRUM or STEP keywords
+    []Run the a priori once
+        []Create FISPACT .o for the a priori and check the PATHWAY
+        []highlight and discount nuclides that are consumed in large fraction by burn up
+        []Save the PATHWAY's list of number of decays
+        []Save the gamma specs
+[]Choose group structure:
+    []Convince myself that equal-lethargy is the most doable option
+        []See how far does the 709 or 110? native group structures deviate from this
+[]Shape of gamma spec overlay fispact vs real
     []Widen to FWHM
     []Plot against real spectrum
-    []including the uncertainty calculation part
+3pm
+[]Ankle rehab (15 mins)
+[]Abs and arms re-training (30 mins)
+Foilselector:
+[]optimized verision: Flowchart on A3
+    - /home/ocean/Self/foilselector/TODO
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
