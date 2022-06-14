@@ -1,6 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
+Tuesday:
+[]Google forms (15 mins)
 []Rearrange razors (10 mins)
 []edit together fispact video (3 hours)
     []Record video (10 mins)
@@ -14,23 +15,19 @@ Monday:
     - executable is in /home/ocean/Documents/FISPACT-II-3-20/fispact/exec/Ubuntu-14.04-X86/gfortran/fispact (already saved in fispact)
     - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
     - Saved to /home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/*/
-    []Configure the UNCERTAINTY and GRAPH keywords correctly
-    []Use foilselector/simulation/*.py to translate existing schedules into fispact schedules
-    []Compare the ATOMS SPECTRUM or STEP keywords
-    []Run the a priori once
-        []Create FISPACT .o for the a priori and check the PATHWAY
-        []highlight and discount nuclides that are consumed in large fraction by burn up
-        []Save the PATHWAY's list of number of decays
-        []Save the gamma specs
+    []Configure the UNCERTAINTY and GRAPH keywords correctly (25 mins)
+    []Use foilselector/simulation/*.py to translate existing schedules into fispact schedules (25 mins)
+    []Compare the ATOMS SPECTRUM or STEP keywords (10 mins)
+    []Run the a priori once (1 hour)
+        []Create FISPACT .o for the a priori and check the PATHWAY (1 hour)
+        []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
+        []Save the PATHWAY's list of number of decays (1 hour)
+[]Shape of gamma spec overlay fispact vs real (10 mins)
+    []Convolve -> widen to FWHM (0.75 hours)
+    []Plot against real spectrum (2 hours)
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
-[]Shape of gamma spec overlay fispact vs real
-    []Widen to FWHM
-    []Plot against real spectrum
-3pm
-[]Ankle rehab (15 mins)
-[]Abs and arms re-training (30 mins)
 Foilselector:
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
