@@ -4,6 +4,7 @@ Tuesday:
 []Make ggbins that fit the existing gamma spectrum (10 mins)
     []Check the ggbins format (5 mins)
     []Make python script in ~/Doc*/PhD/Exp*/analysis/*.py (10 mins)
+10:02pm
 []edit together fispact video (3 hours)
     []Record video (10 mins)
         []Prep (30 mins)
