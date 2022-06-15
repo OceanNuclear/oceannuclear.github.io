@@ -1,8 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
-[]plaster up myself
-[]Bring a book for the train (already took care of the SeptembRSE)
+[]Replace walking pole tip
+[]Answer Alison's email
+[]Add mobile tabs into browser
+[]Diagnose ankle
 []Make ggbins that fit the existing gamma spectrum (10 mins)
     []Check the ggbins format (5 mins)
     []Make python script in ~/Doc*/PhD/Exp*/analysis/*.py (10 mins)
