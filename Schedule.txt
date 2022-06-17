@@ -1,12 +1,9 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]Answer Alison's email (20 mins)
-6pm
 []Go to gym to fix ankle (1 hour)
 []/home/ocean/Documents/PhD/ExperimentalVerification/results (10 mins)
     - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
-    - executable is in /home/ocean/Documents/FISPACT-II-3-20/fispact/exec/Ubuntu-14.04-X86/gfortran/fispact (already saved in fispact)
     - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
     - Saved to /home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/*/
     []Configure the UNCERTAINTY and GRAPH keywords correctly (25 mins)
@@ -18,6 +15,7 @@ Friday:
         []Save the PATHWAY's list of number of decays (1 hour)
 []Shape of gamma spec overlay fispact vs real (10 mins)
     []Convolve -> widen to FWHM (0.75 hours)
+        []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
