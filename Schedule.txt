@@ -1,21 +1,22 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]/home/ocean/Documents/PhD/ExperimentalVerification/results (10 mins)
-    - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
-    - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
-    - Saved to /home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/*/
+[]/home/ocean/Documents/PhD/ExperimentalVerification/fispact/apriori/
+    []copy from ~/Self/FoilSelector/FispactInterfacing.py (1 hour)
     []Configure the UNCERTAINTY and GRAPH keywords correctly (25 mins)
-    []Use foilselector/simulation/*.py to translate existing schedules into fispact schedules (25 mins)
-    []Compare the ATOMS SPECTRUM or STEP keywords (10 mins)
-    []Run the a priori once (1 hour)
-        []Create FISPACT .o for the a priori and check the PATHWAY (1 hour)
+        []Configure the rest of the keywords too?
+    []fispact .o files: check each PATHWAY (1 hour)
         []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
         []Save the PATHWAY's list of number of decays (1 hour)
-[]Shape of gamma spec overlay fispact vs real (10 mins)
-    []Convolve -> widen to FWHM (0.75 hours)
-        []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
-    []Plot against real spectrum (2 hours)
+    []Shape of gamma spec overlay fispact vs real (10 mins)
+        []Convolve -> widen to FWHM (0.75 hours)
+            []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
+        []Plot against real spectrum (2 hours)
+    - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
+    - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
+[]Extract response matrix
+    []/home/ocean/Documents/PhD/ExperimentalVerification/results (10 mins)
+
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
