@@ -1,22 +1,30 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]/home/ocean/Documents/PhD/ExperimentalVerification/fispact/apriori/
-    []copy from ~/Self/FoilSelector/FispactInterfacing.py (1 hour)
-    []Configure the UNCERTAINTY and GRAPH keywords correctly (25 mins)
-        []Configure the rest of the keywords too?
-    []fispact .o files: check each PATHWAY (1 hour)
-        []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
-        []Save the PATHWAY's list of number of decays (1 hour)
-    []Shape of gamma spec overlay fispact vs real (10 mins)
-        []Convolve -> widen to FWHM (0.75 hours)
-            []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
-        []Plot against real spectrum (2 hours)
+[]Fix the special cases sample's irradiation lengths
+[]enter the right keywords copy into the template .i files and copy into the directories
+[]fispact .o files: check each PATHWAY (1 hour)
+    []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
+    []Save the PATHWAY's list of number of decays (1 hour)    
+[]Configure the UNCERTAINTY and GRAPH keywords correctly (25 mins)
+[]/home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/
+    []Apriori:
+        For each file, I need:
+        - READGG -> outputs to some file, I guess
+            - This is read by pypact
+        - TAB2
+        - extract the pathway from .o using pypact
+    []response:
+        For each file, I need
+        - tab2 only
     - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
     - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
-[]Extract response matrix
-    []/home/ocean/Documents/PhD/ExperimentalVerification/results (10 mins)
+[]Shape of gamma spec overlay fispact vs real (10 mins)
+    []Convolve -> widen to FWHM (0.75 hours)
+        []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
+    []Plot against real spectrum (2 hours)
 
+[]Rageroom: organize
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
