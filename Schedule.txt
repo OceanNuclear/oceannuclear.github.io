@@ -1,6 +1,9 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
+[]Bath
+[]Transcribe keep notes
+[]Go to SHU library to work on the rest
 []Keywords to look into:
     [x]Tab* tab2 for activity, tab4 for gamma
     [x]SPECTRUM, ATOMS, STEP: time averaged? (probably not)
