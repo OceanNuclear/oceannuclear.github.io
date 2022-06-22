@@ -8,7 +8,7 @@ Wednesday:
     []Need to integrate the activities to get the number of decays
 []Verify that the results are NOT time-averaged, but instanteneous
 []Email Francis Clegg for square pillar manufacturing
-
+[]Sew button
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
