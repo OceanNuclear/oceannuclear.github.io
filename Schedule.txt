@@ -1,13 +1,12 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-[]Clear emails
-[]enter the right keywords copy into the template .i files and copy into the directories using
-    - /home/ocean/Documents/PhD/ExperimentalVerification/fispact/FispactInterfacing2.py
-    - /home/ocean/Self/FoilSelector/NewChipIR/709_short/selected_foils.json
-    []Need to integrate the activities to get the number of decays
-[]Verify that the results are NOT time-averaged, but instanteneous
 []Email Francis Clegg for square pillar manufacturing
+[]Verify that the precision is terrible:
+    []TOLERANCE
+    []And what's the ideal number of integration?
+[x]UNCERTAINTY, GENERIC, TOLERANCE
+[]UKAEA 247learning course
 []Sew button
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
