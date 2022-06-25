@@ -2,15 +2,14 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
 []Outlook
-    []Email Francis Clegg for square pillar manufacturing
-    []UKAEA 247learning course
     []Answer Marghertia's email
-    []Say no to all hands talk?
-
+    []UKAEA 247learning course
+[]git add /home/ocean/Self/PartitionExponentialNumber
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
-[]Clean computer memory
+[]Clean computer memory: remove EAF etc. files that aren't used.
+    []There's a file somewhere giving a snapshot of what my computer memory usage is?
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
