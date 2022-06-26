@@ -1,15 +1,20 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
+[]109.5 degree investigation
+    []File away
+[]Answer Jack on messenger
+[]Order FPP2 mask
 []Outlook
     []Answer Marghertia's email
-    []UKAEA 247learning course
-[]git add /home/ocean/Self/PartitionExponentialNumber
+[]Answer my mom
+[]Clean computer memory: remove EAF etc. files that aren't used.
+    []There's a file somewhere giving a snapshot of what my computer memory usage is?
+[]Sew button
+
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
-[]Clean computer memory: remove EAF etc. files that aren't used.
-    []There's a file somewhere giving a snapshot of what my computer memory usage is?
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
@@ -30,7 +35,6 @@ Wednesday:
     []Convolve -> widen to FWHM (0.75 hours)
         []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
-[]Sew button
 
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
