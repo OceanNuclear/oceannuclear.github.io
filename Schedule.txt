@@ -1,14 +1,26 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Tuesday:
-[]Answer Matt
-[]Outlook
-    []Answer Marghertia's email
-[]Clean computer memory: remove EAF etc. files that aren't used.
-    []There's a file somewhere giving a snapshot of what my computer memory usage is?
-[]Add ATOMS keywords so to show the PATHWAYS in the middle
 Wednesday:
+8:30am
+[]Call GP
+[]Draft excluder as silencer on door
+[]Answer Marghertia's email
+[]Screenshot gym confirmation email? Or get gym access?
+[]Buy body wash
+[]Get Gascovin
+[]Review sushi place
+[]Find the "Type in symptom and crowd source cure" app
+[]Torch as night light
+[]Shelf expansion
+
+[]Gym access
+    []Test if walking in the other pair of shoes hurts or not on the treadmill
+
+[]Rest of the Outlook emails
+[]Clean computer memory: remove EAF etc. Files that aren't used.
+    []There's a file somewhere giving a snapshot of what my computer memory usage is?
 []Sew button
+[]Add ATOMS keywords so to show the PATHWAYS in the middle
 []File away 109.5 degrees investigation
     []Understand PATHWAYS properly
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
@@ -36,6 +48,10 @@ Wednesday:
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
+Sheffield exercise:
+[]Buy shoes
+    []Walking gait analysis
+[]Bike cover
 Foilselector:
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
