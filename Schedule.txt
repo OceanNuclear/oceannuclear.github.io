@@ -1,12 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-8:30am
-[x]Call GP
-[x]Meeting with Kris
-    [x]Reply to Artur's email
 []Draft excluder as silencer on door
 []Answer Marghertia's email
+[]Picture of the unknown non-extractor-fan module
+[]Meeting with Artur
 []Screenshot gym confirmation email? Or get gym access?
 []Buy body wash
 []Get Gascovin
