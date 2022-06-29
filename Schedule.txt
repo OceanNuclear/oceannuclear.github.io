@@ -2,14 +2,18 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
 8:30am
-[]Call GP
+[x]Call GP
+[x]Meeting with Kris
+    [x]Reply to Artur's email
 []Draft excluder as silencer on door
 []Answer Marghertia's email
 []Screenshot gym confirmation email? Or get gym access?
 []Buy body wash
 []Get Gascovin
 []Review sushi place
+    []Review GP
 []Find the "Type in symptom and crowd source cure" app
+    []Motion app
 []Torch as night light
 []Shelf expansion
 
