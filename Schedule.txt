@@ -6,11 +6,13 @@ Thursday:
 []Review sushi place
     []Review GP
 []Test if walking in the other pair of shoes hurts or not on the treadmill
+    []Test the elevation method, and how much to elevate
 []Tesco:
     []Buy body wash
     []Get Gascovin
-[]Bring back
-    - 4 items list sent to Joe, + bin + Lucy's bike
+[]House-moving:
+    []4 items list sent to Joe, + bin + Lucy's bike
+    []2 items list
 []Find the "Type in symptom and crowd source cure" app
     []Motion app
 []Rest of the Outlook emails
