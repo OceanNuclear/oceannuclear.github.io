@@ -1,22 +1,24 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
-[]Draft excluder as silencer on door
-[]Answer Marghertia's email
-[]Review sushi place
-    []Review GP
-[]Test if walking in the other pair of shoes hurts or not on the treadmill
-    []Test the elevation method, and how much to elevate
 []Tesco:
     []Buy body wash
     []Get Gascovin
 []House-moving:
     []4 items list sent to Joe, + bin + Lucy's bike
     []Pivoting sofa back out
+[]Test if walking in the other pair of shoes hurts or not on the treadmill
+    []Test the elevation method, and how much to elevate
+[]Answer Marghertia's email
 []Find the "Type in symptom and crowd source cure" app
     []Motion app
-[]Rest of the Outlook emails
+[]Artur email
+[]KLM travel details
+[]Rest of the firefox Outlook emails
 
+[]Review sushi place
+    []Review GP
+[]Draft excluder as silencer on door
 []Clean computer memory: remove EAF etc. Files that aren't used.
     []There's a file somewhere giving a snapshot of what my computer memory usage is?
 []Sew button
