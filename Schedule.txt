@@ -5,15 +5,13 @@ Saturday:
 []Flat arrangement:
     []Vacuum floor
     []Recycling
-    []Unpack shoes + books
-        []stack boxes into the boiler room
-[]Rehab
 
 []Buy online:
     []carpet gripper
     []shoe insert
-[]Sew button
 []Change all addresses
+    []Shell, police registration takes precedance
+    []Send email to Sheffield City Living
 []Review sushi place
     []Review GP
 []Find the "Type in symptom and crowd source cure" app
