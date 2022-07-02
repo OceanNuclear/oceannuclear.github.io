@@ -1,11 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
-[]Tesco:
-    []snacks
-    []eggs?
-[]KLM travel details
-    []Decide if ticket needs to be printed
+[]Tesco: Buy toothpaste
+[]Decide if ticket needs to be printed
 []Answer Marghertia's email
 []Test if walking in the other pair of shoes hurts or not on the treadmill
     []Test the elevation method, and how much to elevate
