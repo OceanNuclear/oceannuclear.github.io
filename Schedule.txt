@@ -1,19 +1,14 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
-[]Buy travel stuff:
-    []toothpaste
-    []Eye dropper
-[]Decide if ticket needs to be printed
 []Answer Marghertia's email
-[]Test if walking in the other pair of shoes hurts or not on the treadmill
-    []Test the elevation method, and how much to elevate
 []Flat arrangement:
     []Vacuum floor
     []Recycling
-    []Storage (9-5:30)
     []Unpack shoes + books
         []stack boxes into the boiler room
+[]Rehab
+
 []Buy online:
     []carpet gripper
     []shoe insert
