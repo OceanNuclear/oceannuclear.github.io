@@ -1,30 +1,27 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Saturday:
-[]Answer Marghertia's email
-[]Flat arrangement:
-    []Vacuum floor
-    []Recycling
-
-[]Buy online:
-    []carpet gripper
-    []shoe insert
+Sunday:
+[]Bookmark these:
+    []US Dat vis standard
+        - https://xdgov.github.io/data-design-standards/
+    []Cherenkov Telescope Array
+        - https://www.cta-observatory.org/wp-content/uploads/2020/10/CTA_ColourBlindness_BestPractices-1.pdf
+    []Colour Brewer: existing colour schemes
+        - https://colorbrewer2.org/
+    []colour blind simulator
+        - https://www.color-blindness.com/coblis-color-blindness-simulator/
+    []Matplotlib cycle through styles
+        - https://ranocha.de/blog/colors/
+[]Choose/ stick to 1-2 simple colour editing lines on mpl
+[]Clean computer memory: remove EAF etc. Files that aren't used.
+    []There's a file somewhere giving a snapshot of what my computer memory usage is?
+[]Motion app
+[]Add ATOMS keywords so to show the PATHWAYS in the middle
+    []Understand PATHWAYS properly
 []Change all addresses
     []Shell, police registration takes precedance
     []Send email to Sheffield City Living
-[]Review sushi place
-    []Review GP
-[]Find the "Type in symptom and crowd source cure" app
-    []Motion app
-[]Artur email
-[]Rest of the firefox Outlook emails
-
-[]Clean computer memory: remove EAF etc. Files that aren't used.
-    []There's a file somewhere giving a snapshot of what my computer memory usage is?
-[]Add ATOMS keywords so to show the PATHWAYS in the middle
-[]File away 109.5 degrees investigation
-    []Understand PATHWAYS properly
-[]Check if I should increase the step size (> 10s) for FISPACT to perform well
+    - https://keep.google.com/#LIST/1K24GtTt6n4IiIE4WgxekOEhXaMyEwSJRPCSwaMq0s4VosvxYcLg5ecqVDGzpYg
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
@@ -45,6 +42,17 @@ Saturday:
     []Convolve -> widen to FWHM (0.75 hours)
         []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
+[]Check if I should increase the step size (> 10s) for FISPACT to perform well
+            
+[]Artur email
+12/07:
+[]Buy online:
+    []carpet gripper
+    []shoe insert
+[]File away 109.5 degrees investigation
+[]Flat arrangement: ventilator?
+    []Vacuum floor
+    []Recycling
 
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
