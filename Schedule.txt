@@ -1,11 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-[]Change all addresses
-    - https://keep.google.com/#LIST/1K24GtTt6n4IiIE4WgxekOEhXaMyEwSJRPCSwaMq0s4VosvxYcLg5ecqVDGzpYg
-    []police registration takes precedance
-    []Then eBay, Google play, Amazon, Paypal
-        []Buy the mouse on amazon again
 Thursday:
+[]Buy mouse again on amazon + gel padding
+[]Clean computer memory: remove EAF etc. Files that aren't used.
+    []reallocate more windows memory to linux?
+[]Change the rest of the doable addresses
 []Bookmark these:
     []US Dat vis standard
         - https://xdgov.github.io/data-design-standards/
@@ -18,8 +17,7 @@ Thursday:
     []Matplotlib cycle through styles
         - https://ranocha.de/blog/colors/
 []Choose/ stick to 1-2 simple colour editing lines on mpl
-[]Clean computer memory: remove EAF etc. Files that aren't used.
-    []There's a file somewhere giving a snapshot of what my computer memory usage is?
+    []rm -rf ChipIR_TENDL ChipIR_sparse ChipIR ChipIR_175 JEFF ChipIR_fast
 []GitHub: Deal with the numpy security warnings
 
 []Add ATOMS keywords so to show the PATHWAYS in the middle
