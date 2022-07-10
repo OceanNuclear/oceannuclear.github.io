@@ -1,19 +1,13 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
-[]GitHub: Deal with the numpy security warnings
+[]Amsterdam trip planning
+    []Bike hire
+    []luggage Storage
+    []Motel?
+    []Plan departure times (florence and Amsterdam)
 []Clip fingernails
-[]Bookmark these:
-    []US Dat vis standard
-        - https://xdgov.github.io/data-design-standards/
-    []Cherenkov Telescope Array
-        - https://www.cta-observatory.org/wp-content/uploads/2020/10/CTA_ColourBlindness_BestPractices-1.pdf
-    []Colour Brewer: existing colour schemes
-        - https://colorbrewer2.org/
-    []colour blind simulator
-        - https://www.color-blindness.com/coblis-color-blindness-simulator/
-    []Matplotlib cycle through styles
-        - https://ranocha.de/blog/colors/
+[]GitHub: Deal with the numpy security warnings
 []Choose/ stick to 1-2 simple colour editing lines on mpl
 
 []Add ATOMS keywords so to show the PATHWAYS in the middle
