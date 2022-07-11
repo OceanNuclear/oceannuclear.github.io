@@ -5,7 +5,6 @@ Sunday:
     [x]Bike hire
     [x]luggage Storage
     [x]Hotel?
-    [x]Plan departure times (florence and Amsterdam)
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
@@ -29,15 +28,15 @@ Sunday:
         []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
+[]StuffThatWorks
 12/07:
 []reallocate more windows memory to linux?
 []Artur email
-[]Buy online:
-    []carpet gripper
 []File away 109.5 degrees investigation
 []Flat arrangement: ventilator?
     []Vacuum floor
     []Recycling
+    []Buy online: carpet gripper
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
