@@ -1,10 +1,25 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Sunday:
-[x]Amsterdam trip planning
-    [x]Bike hire
-    [x]luggage Storage
-    [x]Hotel?
+Tuesday:
+[]Reattach popsocket to bare phone
+[]Cauchy integral Theorem thing from Gulia
+[]Answer Friends about Devonshre green/ confirm all has been answered
+[]Reply to Bash
+[]StuffThatWorks
+[]reallocate more windows memory to linux?
+[]Artur email
+[]File away 109.5 degrees investigation
+[]Flat arrangement: ventilator?
+    []Vacuum floor
+    []Recycling
+    []Buy online: carpet gripper
+        []Plastic cover for passport
+Sheffield exercise:
+[]Buy shoes
+    []Buy rubber feet for thingy
+    []Walking gait analysis
+[]Bike cover
+
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
@@ -28,22 +43,10 @@ Sunday:
         []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
-[]StuffThatWorks
 12/07:
-[]reallocate more windows memory to linux?
-[]Artur email
-[]File away 109.5 degrees investigation
-[]Flat arrangement: ventilator?
-    []Vacuum floor
-    []Recycling
-    []Buy online: carpet gripper
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
-Sheffield exercise:
-[]Buy shoes
-    []Walking gait analysis
-[]Bike cover
 Foilselector:
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
