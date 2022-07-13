@@ -1,22 +1,18 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Tuesday:
-[]reallocate more windows memory to linux?
-[]Artur email
-[]Flat arrangement: ventilator?
-    []Vacuum floor
-    []Setup workspace
-        []File away 109.5 degrees investigation
-    []Recycling
-    []Buy online: carpet gripper/ try to use double sided tape instead
-        []Plastic cover for passport
-[]Ottoman disposal
-[]Rice cooker
+[]Paper stack rearrangement (25 mins)
+[]Ottoman disposal (1 hour)
+[]Rice cooker (1 hour)
 Sheffield exercise:
-[]Buy shoes
-    []Buy rubber feet for walking poles
-[]Walking gait analysis
+[]Setup workspace (40 mins)
+[]Maintenance team should come in?
+[]Buy shoes (30 mins)
+    []Buy rubber feet for walking poles (10 mins)
+[]Walking gait analysis (20 mins)
+8:24pm
+[]reallocate more windows memory to linux?
 
+[]Artur email
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
