@@ -1,23 +1,16 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Thursday:
-[]respond to Ninja Warrior call 020 7157 3507
-[]Cable management (20 mins)
-[]Bag rearrangement (10 mins)
-[]Reconsider space usage next to computer: re-arrange other boxes/ bags? (25 mins)
-[]Setup workspace (40 mins)
-[]Paralette + shoes under the sofa re-arrangement (40 mins)
-[]Maintenance team should come in? (20 mins)
-[]Rice cooker (1 hour)
+[]Claim money back from (50 mins)
+    []KLM care
+    []SHU
+Friday:
+[]Think of Ninja Warrior statement
 Sheffield exercise:
 []Buy shoes (30 mins)
     []Buy rubber feet for walking poles (10 mins)
 []Walking gait analysis (20 mins)
-[]reallocate more windows memory to linux?
+[]reallocate more windows memory to linux? (30 mins)
 []Check on Maria
-[]Claim money back from
-    []KLM care
-    []SHU
 
 []Artur email
 []Add ATOMS keywords so to show the PATHWAYS in the middle
@@ -26,6 +19,7 @@ Sheffield exercise:
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
     []Check the PATHWAYs word search on the FISPACT manual
+9:50pm
 []/home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/
     []Apriori:
         For each file, I need:
