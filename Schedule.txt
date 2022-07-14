@@ -1,30 +1,19 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
-[]Paper stack: into bedroom corner (10 mins)
-9:54am
+[]respond to Ninja Warrior call 020 7157 3507
 []Cable management (20 mins)
-10:14am
 []Bag rearrangement (10 mins)
-10:24am
 []Reconsider space usage next to computer: re-arrange other boxes/ bags? (25 mins)
-11:09am
 []Setup workspace (40 mins)
-11:49am
 []Paralette + shoes under the sofa re-arrangement (40 mins)
-12:09pm
 []Maintenance team should come in? (20 mins)
-12:49pm
 []Rice cooker (1 hour)
-1:49pm
 Sheffield exercise:
 []Buy shoes (30 mins)
     []Buy rubber feet for walking poles (10 mins)
-2:29pm
 []Walking gait analysis (20 mins)
-2:49pm
 []reallocate more windows memory to linux?
-3:09pm
 []Check on Maria
 []Claim money back from
     []KLM care
