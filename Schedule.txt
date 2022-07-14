@@ -19,7 +19,6 @@ Sheffield exercise:
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
     []Check the PATHWAYs word search on the FISPACT manual
-9:50pm
 []/home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/
     []Apriori:
         For each file, I need:
@@ -37,7 +36,6 @@ Sheffield exercise:
         []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
     []Plot against real spectrum (2 hours)
 []Check if I should increase the step size (> 10s) for FISPACT to perform well
-12/07:
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
