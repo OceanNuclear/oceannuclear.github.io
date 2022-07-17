@@ -2,8 +2,11 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
 []Read about taxes (1 hour)
+    []How much tax will I pay -> /home/ocean/Documents/Work/22.Finance/Vanguard/all-charges.txt
+[]Fix Kristen's earphones
 []Think of Ninja Warrior statement (20 mins)
 Monday:
+[]Withdraw £600 from the freetrade investment because I'm actually running out of money lol (use mobile data)
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
