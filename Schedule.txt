@@ -7,6 +7,7 @@ Monday:
 []Ankle treatment
 []Ninja Warrior
 []Collect lamp shade from Argos the Moor, Sainsburys FT217132 9393
+
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
