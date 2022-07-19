@@ -1,13 +1,13 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
+[]Collect bread
 Tuesday:
-[]Organize Swindon trip
-    []Call to make enquiries
-    []Include Hellen
 []Withdraw £600 from the freetrade investment because I'm actually running out of money lol (use mobile data)
-[]Gold Plated Pension
-    []Read the other two pinned tabs too
+Wednesday:
+[]Put white bag into storage
+    []Tidy storage
+[]Go to Swindon! Get to Oxford by 6pm
+Thursday:
 []Collect lamp shade from Argos the Moor, Sainsburys FT217132 9393
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
