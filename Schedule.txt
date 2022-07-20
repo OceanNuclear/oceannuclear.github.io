@@ -1,12 +1,16 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-[]Collect bread
-Tuesday:
-[]Withdraw £600 from the freetrade investment because I'm actually running out of money lol (use mobile data)
 Wednesday:
+[]Pack for the trip: power cord, book
+    []Glasses and contacts
+[]Answer Ross
+[]Buddy scheme discussion
 []Put white bag into storage
     []Tidy storage
+1:30pm
 []Go to Swindon! Get to Oxford by 6pm
+Friday:
+[]Film /home/ocean/Self/ParkourCalculations/Parkour-reduce-angular-momentum.py ?
 Thursday:
 []Collect lamp shade from Argos the Moor, Sainsburys FT217132 9393
 []Add ATOMS keywords so to show the PATHWAYS in the middle
@@ -39,6 +43,7 @@ Thursday:
 Foilselector:
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
+
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
