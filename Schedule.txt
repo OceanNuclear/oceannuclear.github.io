@@ -1,14 +1,9 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-[]Pack for the trip: power cord, book
-    []Glasses and contacts
-[]Answer Ross
-[]Buddy scheme discussion
 []Put white bag into storage
     []Tidy storage
 1:30pm
-[]Go to Swindon! Get to Oxford by 6pm
 Friday:
 []Film /home/ocean/Self/ParkourCalculations/Parkour-reduce-angular-momentum.py ?
 Thursday:
