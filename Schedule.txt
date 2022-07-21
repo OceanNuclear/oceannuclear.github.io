@@ -1,7 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Thursday:
+[]Answer Jarek, Ross
+[]Claim from GWR
 []Collect lamp shade from Argos the Moor, Sainsburys FT217132 9393
+[]Pump tyre
 []Put white bag into storage
     []Tidy storage
 []Film /home/ocean/Self/ParkourCalculations/Parkour-reduce-angular-momentum.py ?
