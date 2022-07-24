@@ -1,14 +1,20 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Thursday:
-[]Answer Jarek, Ross
-[]Claim from GWR
-[]Collect lamp shade from Argos the Moor, Sainsburys FT217132 9393
-[]Pump tyre
-[]Put white bag into storage
-    []Tidy storage
-[]Film /home/ocean/Self/ParkourCalculations/Parkour-reduce-angular-momentum.py ?
+Sunday:
+[o]Lache pdf (30 mins)
+    []Go outside to film some training(1 hour)
+[]Film at SHU (30 mins)
+    []Milk from Tesco (30 mins)
+[]Feedback with questions back to Flynn (20 mins)
+[]Make ad for the dumbbells(15 mins)
+5:04pm
+[]/home/ocean/Documents/Work/40.NinjaWarriorUK/Ninja Warrior UK Contestant Information.pdf (50 mins)
+    []Ask ITV team for clarifications when necessary
+    []Edit together videos and submit them (20 mins)
 
+[]Read email from Mitja
+[]optimized verision: Flowchart on A3
+    - /home/ocean/Self/foilselector/TODO
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
@@ -36,10 +42,6 @@ Thursday:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
 []Artur email
-Foilselector:
-[]optimized verision: Flowchart on A3
-    - /home/ocean/Self/foilselector/TODO
-
 Daily task:
 []One of the following learning things:
     []MOOC (Coursera/ edX/ Academic Earth)
