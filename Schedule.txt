@@ -1,18 +1,14 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
-[o]Lache pdf (30 mins)
-    []Go outside to film some training(1 hour)
-[]Film at SHU (30 mins)
-    []Milk from Tesco (30 mins)
-[]Feedback with questions back to Flynn (20 mins)
-[]Make ad for the dumbbells(15 mins)
-5:04pm
-[]/home/ocean/Documents/Work/40.NinjaWarriorUK/Ninja Warrior UK Contestant Information.pdf (50 mins)
-    []Ask ITV team for clarifications when necessary
-    []Edit together videos and submit them (20 mins)
+[]unload washing machine (15 mins)
+[]clean phone storage
 
 []Read email from Mitja
+[]Lache analysis with coach now
+    - https://www.instagram.com/p/CTPW3GgsXhW/
+    - https://www.youtube.com/watch?v=r-6SmrAvYsU
+
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
 []Add ATOMS keywords so to show the PATHWAYS in the middle
