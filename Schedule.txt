@@ -3,6 +3,7 @@
 Tuesday:
 []Vanquis upload documents for proof of income
     []vanquis: look at if any of the refunds could've happened on my credit card
+[]Chalk refill
 []Outlook: Robin flight booking
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
