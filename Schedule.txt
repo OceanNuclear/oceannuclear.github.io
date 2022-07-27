@@ -1,9 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
-[]Where is my wallet?
-
-[]use DIFF (so that I can see the pattern) in the heatmap (-p) options (15 mins)
+[]Vanquis upload documents for proof of income
+    []vanquis: look at if any of the refunds could've happened on my credit card
 []Outlook: Robin flight booking
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
