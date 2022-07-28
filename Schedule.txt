@@ -2,8 +2,6 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
 []Vanquis upload documents for proof of income
-[]Heightmap!
-    - /home/ocean/Self/FoilSelector/HariChohan (/Unfolding/unfold.py, or mail-draft2022-07-27.txt)
 []Chalk refill
 []Outlook: Robin flight booking
 []optimized verision: Flowchart on A3
@@ -55,6 +53,9 @@ SHU activities:
 - Focus Thursday 2:30-4:30
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]River crossing puzzles: bridge torch, dog sheep and cabbage, and jealous husband problem
+    []graph theory analysis for optimal strategy
+    []extend them to larger number of passengers
 []https://sigbovik.org/2022/proceedings.pdf
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
