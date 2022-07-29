@@ -1,8 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Tuesday:
-[]Vanquis upload documents for proof of income
-[]Chalk refill
+Friday:
+[]Vanquis upload documents for proof of income (15 mins)
 []Outlook: Robin flight booking
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
@@ -42,6 +41,7 @@ Daily task:
         []Netflix Vox series
     []Clean e-mailboxes
 Later:
+[]Donate bike (1.5 hours)
 []Walking gait analysis (20 mins)
 []All of the rest of the unfinished ideas in
     - /home/ocean/Documents/PhD/unfinished-work.txt
