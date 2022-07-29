@@ -1,8 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]Vanquis upload documents for proof of income (15 mins)
 []Outlook: Robin flight booking
+[]Vanquis upload documents for proof of income (15 mins)
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
 []Add ATOMS keywords so to show the PATHWAYS in the middle
