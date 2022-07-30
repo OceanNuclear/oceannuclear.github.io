@@ -1,7 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
-[]KLM answered me yet?
+[]Up and Running running gait analysis
 []Clothing repairs
     - blue hoodies x2
     - yoga pants x2
