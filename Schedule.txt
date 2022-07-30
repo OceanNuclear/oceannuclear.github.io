@@ -1,13 +1,6 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
-[]Up and Running running gait analysis
-[]Clothing repairs
-    - blue hoodies x2
-    - yoga pants x2
-    []order
-    []send parcel
-[]Vanquis upload documents for proof of income (15 mins)
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
 []Add ATOMS keywords so to show the PATHWAYS in the middle
@@ -47,7 +40,7 @@ Daily task:
     []Clean e-mailboxes
 Later:
 []Donate bike (1.5 hours)
-[]Walking gait analysis (20 mins)
+[]Walking gait analysis (1 hour)
 []All of the rest of the unfinished ideas in
     - /home/ocean/Documents/PhD/unfinished-work.txt
 []Reallocate a larger partition to linux (there are SERIOUS consequences if I'm not careful!)
