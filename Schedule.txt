@@ -1,6 +1,8 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Tuesday:
+[]Clear access to boiler
+[]Fill in the rest of my education and employment history for Alex Smith
 []Unfolding
     []Extract Hari's spectrum from Excel
     []Tweak the calibration equation and then re-run
@@ -10,11 +12,11 @@ Tuesday:
     - y-axis = histogram of # of response pulse
     - [optional] z-axis = amount of such incident neutron (i.e.unfolded spectrum) forming a 1d pie chart
 []Probe for access to the bar yard
+[]optimized verision: Flowchart on A3
+    - /home/ocean/Self/foilselector/TODO
 After Ninja Warrior:
 []Flynn's PDF
 
-[]optimized verision: Flowchart on A3
-    - /home/ocean/Self/foilselector/TODO
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
 []fispact .o files: check each PATHWAY (1 hour)
