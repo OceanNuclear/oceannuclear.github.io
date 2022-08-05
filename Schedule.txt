@@ -5,6 +5,7 @@ Friday:
 []Sign up to Flynn's social media
 []Re-run with Hari's spectrum
     []/home/ocean/Self/FoilSelector/HariChohan/supplementary/pick-and-mix.py
+[]Prove that FISPACT isn't needed
 []Produce a stacked bar chart of how each of them come from the neutron spectrum:
     - colour scale = incident neutron energy (need correctly spaced colour scale)
     - x-axis = response energy
@@ -12,7 +13,6 @@ Friday:
     - [optional] z-axis = amount of such incident neutron (i.e.unfolded spectrum) forming a 1d pie chart
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
-[]Prove that FISPACT isn't needed
 After Ninja Warrior:
 []Probe for access to the bar yard
 []Scan cert and upload to Verifile
