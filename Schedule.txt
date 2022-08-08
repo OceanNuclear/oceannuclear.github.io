@@ -6,8 +6,8 @@ Monday:
 []Sign up to Flynn's social media
 []Re-run with Hari's spectrum
     []/home/ocean/Self/FoilSelector/HariChohan/supplementary/pick-and-mix.py
-Tuesday:
 []Read Mitja's paper
+Tuesday:
 []Prove that FISPACT isn't needed
 []Produce a stacked bar chart of how each of them come from the neutron spectrum:
     - colour scale = incident neutron energy (need correctly spaced colour scale)
