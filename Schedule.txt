@@ -1,26 +1,21 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
-[]Check where is parcel
-[]Swing
-[]Sign up to Flynn's social media
+Tuesday:
+[]Swim
 []Re-run with Hari's spectrum
     []/home/ocean/Self/FoilSelector/HariChohan/supplementary/pick-and-mix.py
 []Read Mitja's paper
-Tuesday:
 []Prove that FISPACT isn't needed
+[]Sign up to Flynn's social media
+
 []Produce a stacked bar chart of how each of them come from the neutron spectrum:
     - colour scale = incident neutron energy (need correctly spaced colour scale)
     - x-axis = response energy
     - y-axis = histogram of # of response pulse
     - [optional] z-axis = amount of such incident neutron (i.e.unfolded spectrum) forming a 1d pie chart
+[]Order new water bottle
 []optimized verision: Flowchart on A3
     - /home/ocean/Self/foilselector/TODO
-After Ninja Warrior:
-[]Probe for access to the bar yard
-[]Scan cert and upload to Verifile
-    - https://secure.verifile.co.uk/login.aspx
-[]Flynn's PDF
 
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properly
