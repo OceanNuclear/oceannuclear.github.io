@@ -1,16 +1,19 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]Jelly babies + noodles from Tesco
-[]Delete Ninja Warrior video assets from computer
 []Prove that FISPACT isn't needed
-[]Read unfoldingsuite development stage
-[]Verifile needs signature?
+[]Verifile needs a signature: either physically signed or my passport Name?
 []Sign up to Flynn's social media
 []find tennis ball for foot rehab
-
-[]optimized verision: Flowchart on A3
+[]Create optimized foilselector flowchart on A3
     - /home/ocean/Self/foilselector/TODO
+[]Send Marcel an email on
+    []getting permission to name my algorithms AMAXED and IMAXED
+        []Come with a brief explanation
+    []Uncertainty propagation idea
+[]Dave (David Foster)
+    []Sand-II correction
+        []GRAVEL correction    
 
 []Add ATOMS keywords so to show the PATHWAYS in the middle
     []Understand PATHWAYS properlyf
