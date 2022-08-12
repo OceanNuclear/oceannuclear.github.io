@@ -1,16 +1,10 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Thursday:
-[]Produce a stacked bar chart of how each of them come from the neutron spectrum: (1 hour)
-    - colour scale = incident neutron energy (need correctly spaced colour scale)
-    - x-axis = response energy
-    - y-axis = histogram of # of response pulse
-    - [optional] z-axis = amount of such incident neutron (i.e.unfolded spectrum) forming a 1d pie chart
-[]Prove that FISPACT isn't needed
-7pm
+Friday:
+[]Pump bike
 []find tennis ball for foot rehab
 []Jelly babies + noodles from Tesco
-[]Pump bike
+[]Prove that FISPACT isn't needed
 []Read unfoldingsuite development stage
 []Sign up to Flynn's social media
 []Order new water bottle
@@ -19,7 +13,7 @@ Thursday:
     - /home/ocean/Self/foilselector/TODO
 
 []Add ATOMS keywords so to show the PATHWAYS in the middle
-    []Understand PATHWAYS properly
+    []Understand PATHWAYS properlyf
 []fispact .o files: check each PATHWAY (1 hour)
     []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
     []Save the PATHWAY's list of number of decays (1 hour)
