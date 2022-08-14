@@ -1,43 +1,22 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Friday:
-[]Prove that FISPACT isn't needed
-[]Verifile needs a signature: either physically signed or my passport Name?
-[]Sign up to Flynn's social media
-[]find tennis ball for foot rehab
+Saturday:
+[]Index properly
+[]Sign up to Flynn's social media (20 mins)
 []Create optimized foilselector flowchart on A3
     - /home/ocean/Self/foilselector/TODO
+[]Dave (David Foster)
+    []Sand-II correction
+        []GRAVEL correction    
 []Send Marcel an email on
     []getting permission to name my algorithms AMAXED and IMAXED
         []Come with a brief explanation
     []Uncertainty propagation idea
-[]Dave (David Foster)
-    []Sand-II correction
-        []GRAVEL correction    
+[]Discrete calculus to prove Bateman equation stuff!
+    - https://www.youtube.com/watch?v=D0EUFP7-P1M
+Monday:
+[]find tennis ball for foot rehab: storage
 
-[]Add ATOMS keywords so to show the PATHWAYS in the middle
-    []Understand PATHWAYS properlyf
-[]fispact .o files: check each PATHWAY (1 hour)
-    []highlight and discount nuclides that are consumed in large fraction by burn up (1 hour)
-    []Save the PATHWAY's list of number of decays (1 hour)
-    []Check the PATHWAYs word search on the FISPACT manual
-[]/home/ocean/Documents/PhD/ExperimentalVerification/fispact/*/
-    []Apriori:
-        For each file, I need:
-        - READGG -> outputs to some file, I guess
-            - This is read by pypact
-        - TAB2
-        - extract the pathway from .o using pypact
-    []response:
-        For each file, I need
-        - tab2 only
-    - sample files are in /home/ocean/Self/FoilSelector/ChipIR/fispact_simulation
-    - tutorial and docs are in /home/ocean/Others/FISPACT-II-3-20/TutorialTest/workshops/2019_manchester/exercises/doc
-[]Shape of gamma spec overlay fispact vs real (10 mins)
-    []Convolve -> widen to FWHM (0.75 hours)
-        []Find the efficiency curves and their functions (probably in ExperimentalVerification/efficiency)
-    []Plot against real spectrum (2 hours)
-[]Check if I should increase the step size (> 10s) for FISPACT to perform well
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
