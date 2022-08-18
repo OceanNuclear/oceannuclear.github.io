@@ -1,26 +1,29 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
-[]Mitja
-[]Dave (David Foster) (2.5 hours)
-    []SAND-II correction
-        []GRAVEL correction
+Friday:
+[](Choose starting with foil selector or paper) (1 hour)
+9am
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
-Tuesday:
-[]Sign employment letter
-[]find tennis ball for foot rehab: storage (40 mins)
-[]Fix bike (1 hour)
-    []Ankle brace (10 mins)
+[]Start IMAXED-AMAXED-Regularization paper
 []Send Marcel an email on
+    - /home/ocean/Documents/PhD/Algorithm
     []getting permission to name my algorithms AMAXED and IMAXED
         []Come with a brief explanation
     []Uncertainty propagation idea
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
+[]Measure dimensions of bar at roof exterior
+Sunday:
+[]Get more space on Windows for Prey
+[]Decathlon (1 hour)
+    []Ankle brace (10 mins)
+    []Tennis ball/ massage ball?
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
+Monday:
+[]Donate bike
 []Artur email
 Daily task:
 []One of the following learning things:
