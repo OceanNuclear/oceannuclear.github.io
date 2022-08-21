@@ -1,9 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Sunday:
-[]Answer Alex Pearce email
 []Measure dimensions of bar at roof exterior
-11am
 []Decathlon: hydraulic brake bleed and refill (1 hour)
 []Start IMAXED-AMAXED-Regularization paper
     - /home/ocean/Documents/PhD/Algorithm/Paper
