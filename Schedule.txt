@@ -1,26 +1,29 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Monday:
-[]Start IMAXED-AMAXED-Regularization paper
-    [x]Install the relevant .sty file
-        - https://www.elsevier.com/authors/policies-and-guidelines/latex-instructions
-        []What about the other sty file
+Wednesday:
+[]IMAXED-AMAXED-Regularization paper
     - /home/ocean/Documents/PhD/Algorithm/Paper
+    []Adding addresses and make a working title-page (1 hour)
+    []activate the Proofs and theorems features? (10 mins)
+[]Answer Andrew (10 mins)
 []Send Marcel an email on
     - /home/ocean/Documents/PhD/Algorithm
     []getting permission to name my algorithms AMAXED and IMAXED
         []Come with a brief explanation
     - uncertainty propagation idea
-[]What happened to my clothes (Sheffield Clothing repair)
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
 Wednesday:
+[]Broadfield Park parkour
 []Get more space on Windows for Prey
 []Donate bike
 []Artur email
+Thursday:
+[]Shop for Samsung phone
+[]Put stuff away into OneDrive?
 September:
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
@@ -34,17 +37,20 @@ Daily task:
 Later:
 []Donate bike (1.5 hours)
 []Walking gait analysis (1 hour)
+[]Build bar
 []All of the rest of the unfinished ideas in
     - /home/ocean/Documents/PhD/unfinished-work.txt
-[]Reallocate a larger partition to linux (there are SERIOUS consequences if I'm not careful!)
-[]Make they played us for absolute fools meme for climbing?
+[]Make climbing meme
 []Straighten up sublime package management
-[]Sort the rest of the SeptemRSE lectures into calendar
+[]Reallocate a larger partition to linux (there are SERIOUS consequences if I'm not careful!)
+[]Exercise/hobby:
+    []Skatehouse
+    []Broadfield park
+    []Sheffield Exploration tab
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []River crossing puzzles: bridge torch, dog sheep and cabbage, and jealous husband problem
     []graph theory analysis for optimal strategy
-    []extend them to larger number of passengers
 []vimtutor
 []https://sigbovik.org/2022/proceedings.pdf
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
