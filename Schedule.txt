@@ -1,15 +1,18 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Wednesday:
-[]draft skeleton of email to Supervisors (10 mins)
-[]Get Mitja's permission to use his data in the the unfolding algorithm paper (10 mins)
+Thursday:
+[]Literature review/ brain-storming by
+    []Two MAXED paper
+        []Preferably at least one related to Fusion/ foil activation
+    []Cite two gravel+SAND-II papers
+        []One about how it's meant for foils
+        []Another (I've seen before) about its tendency to amplify existing structures in the response matrix
+    
 []IMAXED-AMAXED-Regularization paper
     - /home/ocean/Documents/PhD/Algorithm/Paper
     []Adding addresses and make a working title-page (1 hour)
     []activate the Proofs and theorems features? (10 mins)
-[]Forward to the email about time required to Alex (20 mins)
-[]Answer Andrew (10 mins)
-[]Instagram repost
+
 []Send Marcel an email on
     - /home/ocean/Documents/PhD/Algorithm
     []getting permission to name my algorithms AMAXED and IMAXED
@@ -20,13 +23,12 @@ Wednesday:
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
-Wednesday:
+Friday:
+[]Shop for Samsung phone
 []Broadfield Park parkour
 []Get more space on Windows for Prey
 []Donate bike
-[]Artur email
-Thursday:
-[]Shop for Samsung phone
+Sunday:
 []Put stuff away into OneDrive?
 September:
 []Create optimized foilselector flowchart on A3 (1 hour)
@@ -39,7 +41,7 @@ Daily task:
         []Netflix Vox series
     []Clean e-mailboxes
 Later:
-[]Donate bike (1.5 hours)
+[]Artur email
 []Walking gait analysis (1 hour)
 []Build bar
 []All of the rest of the unfinished ideas in
