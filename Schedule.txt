@@ -1,19 +1,9 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Sunday:
-[]Make climbing meme
-
-[]Literature review/ brain-storming by
-    []Two MAXED paper
-        []Preferably at least one related to Fusion/ foil activation
-    []Cite two gravel+SAND-II papers
-        []One about how it's meant for foils
-        []Another (I've seen before) about its tendency to amplify existing structures in the response matrix
-    
-[]IMAXED-AMAXED-Regularization paper
-    - /home/ocean/Documents/PhD/Algorithm/Paper
-    []Adding addresses and make a working title-page (1 hour)
-    []activate the Proofs and theorems features? (10 mins)
+Thursday:
+[]Donate bike
+[]Is my description of Fisher correct?
+[]Merge section 2 and 2.1
 
 []Send Marcel an email on
     - /home/ocean/Documents/PhD/Algorithm
@@ -25,32 +15,28 @@ Sunday:
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
-Monday:
+Thursday:
+[]Post memes onto IG
 []Broadfield Park parkour
 []Get more space on Windows for Prey
-[]Donate bike
 Friday:
-[]Buy phone if bid failed
 []Fix watch
 September:
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
+[]Artur email
 Daily task:
+[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, scaffolding near me, Hangar, Foundry Climbing, Cross Fit Kelham
 []One of the following learning things:
+    []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
-    []Social media & Sci+Math tab
-        []Netflix Vox series
     []Clean e-mailboxes
 Later:
-[]Artur email
-[]Walking gait analysis (1 hour)
-[]Build bar
 []All of the rest of the unfinished ideas in
     - /home/ocean/Documents/PhD/unfinished-work.txt
 []Straighten up sublime package management
 []Reallocate a larger partition to linux (there are SERIOUS consequences if I'm not careful!)
-[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []River crossing puzzles: bridge torch, dog sheep and cabbage, and jealous husband problem
