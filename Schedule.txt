@@ -1,6 +1,7 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
+[]Alex email: ask about the new post
 []Wash up
 []take out the trash
 []Find ziplock to put sandpaper in
@@ -10,7 +11,6 @@ Saturday:
         []Find out about Bixby and other Samsung only apps
     []Set up device recovery
     []Import habits
-[]Alex email: ask about the new post
 []K: tgifs
 
 []Send Marcel an email on
