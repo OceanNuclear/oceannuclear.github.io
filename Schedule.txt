@@ -1,31 +1,42 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Thursday:
-[]Donate bike
-[]Is my description of Fisher correct?
-[]Merge section 2 and 2.1
+Saturday:
+[]Wash up
+[]Find ziplock to put sandpaper in
+[]Phone set-up:
+    []Ergonomic holder + stand?
+    []Sign up for Samsung pay
+        []Find out about Bixby and other Samsung only apps
+    []Set up device recovery
+    []Import habits
+[]Alex email: ask about the new post
+[]K: tgifs
 
 []Send Marcel an email on
     - /home/ocean/Documents/PhD/Algorithm
     []getting permission to name my algorithms AMAXED and IMAXED
         []Come with a brief explanation
     - uncertainty propagation idea
+[]Gravel convergence condition
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
+
+Monday:
+[]Post memes onto IG
+[]Soft bottle return
+Sunday:
+[]Get more space on Windows for Prey
+[]Fix watch
+Monday:
+[]Donate bike
+September:
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
-Thursday:
-[]Post memes onto IG
-[]Broadfield Park parkour
-[]Get more space on Windows for Prey
-Friday:
-[]Fix watch
-September:
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
 []Artur email
-Daily task:
+Daily task: One novel thing per day:
 []Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, scaffolding near me, Hangar, Foundry Climbing, Cross Fit Kelham
 []One of the following learning things:
     []Social media & Sci+Math tab
