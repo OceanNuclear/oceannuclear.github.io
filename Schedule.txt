@@ -2,6 +2,7 @@
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Saturday:
 []Wash up
+[]take out the trash
 []Find ziplock to put sandpaper in
 []Phone set-up:
     []Ergonomic holder + stand?
@@ -23,6 +24,7 @@ Saturday:
 
 Monday:
 []Post memes onto IG
+[]Rename all of the S to S^-1
 []Soft bottle return
 Sunday:
 []Get more space on Windows for Prey
