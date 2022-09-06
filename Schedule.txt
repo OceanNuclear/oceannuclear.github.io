@@ -1,17 +1,11 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Saturday:
-[]Alex email: ask about the new post
-[]Wash up
-[]take out the trash
-[]Find ziplock to put sandpaper in
-[]Phone set-up:
-    []Ergonomic holder + stand?
-    []Sign up for Samsung pay
-        []Find out about Bixby and other Samsung only apps
-    []Set up device recovery
-    []Import habits
 []K: tgifs
+[]Alex email: ask about the new post
+    []compare offer letter vs listing
+    - /home/ocean/Documents/Work/44.UKAEAGradScheme/Job Description - Graduate Fusion Technologist L4.pdf
+    - /home/ocean/Documents/Work/44.UKAEAGradScheme/CompetingSalary/FusionTechnologist _ Senior Fusion Technologist (2-Year FTA).pdf
+[]Choose phone background
 
 []Send Marcel an email on
     - /home/ocean/Documents/PhD/Algorithm
@@ -22,10 +16,13 @@ Saturday:
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 
-Monday:
+Wednesday:
+[]Haircut
 []Post memes onto IG
 []Rename all of the S to S^-1
 []Soft bottle return
+Thursday:
+[]Comic sans ???
 Sunday:
 []Get more space on Windows for Prey
 []Fix watch
