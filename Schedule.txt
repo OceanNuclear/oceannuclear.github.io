@@ -1,11 +1,15 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Wednesday:
-[]Meeting summary
-[]Haircut
+[]collect a second parcel
 []Choose phone background
+[]Haircut
 []K: tgifs
-
+[]Poundland, Wilko, Tesco:
+    []Big knife
+    []plate
+    []baking tray?
+    []dining knife, fork, spoon, small spoon
 []Post memes onto IG
 []Rename all of the S to S^-1
 []Cancel soft bottle return
