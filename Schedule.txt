@@ -1,25 +1,27 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-Wednesday:
-[]collect a second parcel
 []Choose phone background
-[]Haircut
 []K: tgifs
+Thursday:
+[]Rename all of the S to S^-1
+[]Answer Alex:
+    []Decide on whether to make an application or not, or just leave him hanging.
+        - Ask Matt about it
 []Poundland, Wilko, Tesco:
     []Big knife
     []plate
-    []baking tray?
     []dining knife, fork, spoon, small spoon
-[]Post memes onto IG
-[]Rename all of the S to S^-1
-[]Cancel soft bottle return
-Thursday:
+    []sponges
+[]Make use of the car to get some of the storage stuff out?
+[]Order lunch, make sure Kristen gets her medication out
+[]collect a second parcel
 []Comic sans ???
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
         []See how far does the 709 or 110? native group structures deviate from this
 []Response matrix extraction
 Sunday:
+[]Post memes onto IG
 []Get more space on Windows for Prey
 []Fix watch
 Monday:
