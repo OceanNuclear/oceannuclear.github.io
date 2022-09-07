@@ -1,37 +1,26 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
-[]K: tgifs
-[]Alex email: ask about the new post
-    []compare offer letter vs listing
-    - /home/ocean/Documents/Work/44.UKAEAGradScheme/Job Description - Graduate Fusion Technologist L4.pdf
-    - /home/ocean/Documents/Work/44.UKAEAGradScheme/CompetingSalary/FusionTechnologist _ Senior Fusion Technologist (2-Year FTA).pdf
-[]Choose phone background
-
-[]Send Marcel an email on
-    - /home/ocean/Documents/PhD/Algorithm
-    []getting permission to name my algorithms AMAXED and IMAXED
-        []Come with a brief explanation
-    - uncertainty propagation idea
-[]Gravel convergence condition
-[]Discrete calculus to prove Bateman equation stuff!
-    - https://www.youtube.com/watch?v=D0EUFP7-P1M
-
 Wednesday:
+[]Meeting summary
 []Haircut
+[]Choose phone background
+[]K: tgifs
+
 []Post memes onto IG
 []Rename all of the S to S^-1
-[]Soft bottle return
+[]Cancel soft bottle return
 Thursday:
 []Comic sans ???
+[]Choose group structure:
+    []Convince myself that equal-lethargy is the most doable option
+        []See how far does the 709 or 110? native group structures deviate from this
+[]Response matrix extraction
 Sunday:
 []Get more space on Windows for Prey
 []Fix watch
 Monday:
 []Donate bike
 September:
-[]Choose group structure:
-    []Convince myself that equal-lethargy is the most doable option
-        []See how far does the 709 or 110? native group structures deviate from this
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
 []Artur email
@@ -49,6 +38,9 @@ Later:
 []Reallocate a larger partition to linux (there are SERIOUS consequences if I'm not careful!)
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]Gravel convergence condition
+[]Discrete calculus to prove Bateman equation stuff!
+    - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []River crossing puzzles: bridge torch, dog sheep and cabbage, and jealous husband problem
     []graph theory analysis for optimal strategy
 []vimtutor
