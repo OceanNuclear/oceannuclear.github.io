@@ -1,16 +1,14 @@
 1. Serialize to the correct level. 2. Constraint deadline, maximize quality, rather than vice versa.
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four.
 Friday:
-[]Vacuum carpet
-[]Tidy toilet cupboard
-[]Tidy kitchen table pile
-[]Decide on whether to make an application or not, or just leave him hanging.
-    - Ask Matt about it
 []Poundland, Wilko, Tesco:
     []Big knife
     []plate
     []dining knife, fork, spoon, small spoon
     []sponges
+[]Shoe rack arrangement
+[]Tidy kitchen table pile
+[]Vacuum carpet
 []Go to a workable place
 []Choose group structure:
     []Convince myself that equal-lethargy is the most doable option
