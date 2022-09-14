@@ -3,13 +3,18 @@
 Wednesday:
 []Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected)
 []Standardize file names in foldermanagement
-
-[]Comic sans ???
+Thursday:
+7am
+[]Physio (3 hours)
+[]Donate to charity shop
+[]Take stuff out of storage
 []Plant pot
 []Society membership: see bookmarks bar
+[]Lubricate bike
 Friday:
 []Take out storage before 22nd
 Sunday:
+[]Comic sans ???
 []Get more space on Windows for Prey
 September:
 []Create optimized foilselector flowchart on A3 (1 hour)
