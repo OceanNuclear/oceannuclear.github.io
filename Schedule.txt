@@ -3,16 +3,21 @@
 Thursday:
 [x]Physio (3 hours)
 []Donate to charity shop(20 mins)
+1:51pm
 []Take stuff out of storage (1.5 hours)
+3:21pm
+[]Lubricate bike (30 mins)
+3:51pm
+[]Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected) (30 mins)
+4:21pm
 []Phone setup:
-    []eduroam password
+    []eduroam password (1 hour)
     [x]Transfer the unread documents from old phone to new
-[]Lubricate bike
+5:21pm
+9pm
+[]Standardize file names in foldermanagement
 []Society membership: see bookmarks bar
 []Plant pot
-9pm
-[]Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected)
-[]Standardize file names in foldermanagement
 Friday:
 []Take out storage before 22nd
 Sunday:
