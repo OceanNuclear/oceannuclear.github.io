@@ -1,16 +1,16 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
-Thursday:
-[]Standardize file names in foldermanagement
-[]Research price of guitar
-[]Society membership: see bookmarks bar
-[]Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected) (30 mins)
 Friday:
+[]Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected) (30 mins)
+    - /media/ocean/OS/Genie/Genie/notes.txt
+    []Find in windows
+    []Get more space on Windows for Prey
+[]Standardize file names in foldermanagement (1 hour)
+[]Society membership: see bookmarks bar
 []Text Will
-[]Take stuff out of storage before 22nd
+[]Research price of guitar
 Sunday:
 []Comic sans ???
-[]Get more space on Windows for Prey
 September:
 []Create optimized foilselector flowchart on A3 (1 hour)
     - /home/ocean/Self/foilselector/TODO
