@@ -1,12 +1,12 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
 Thursday:
-9pm
 []Standardize file names in foldermanagement
 []Research price of guitar
 []Society membership: see bookmarks bar
 []Confirm number of counts can be recovered by simply multiplying by activities (NOT decay corrected) (30 mins)
 Friday:
+[]Text Will
 []Take stuff out of storage before 22nd
 Sunday:
 []Comic sans ???
