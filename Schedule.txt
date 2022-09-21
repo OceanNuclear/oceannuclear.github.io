@@ -1,12 +1,12 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
-Tuesday:
-[]B65XJLH6
-[]climbing folks: grade the insurrection white house climb and name it
-[]Post pictures of guitar to sell
 Wednesday:
+[]write read_vector and save_vector
+
 []Consider pushing table to opposite side
 []Comic sans ???
+[]Post pictures of guitar to sell
+[]climbing folks: grade the insurrection white house climb and name it
 Thursday:
 []Buy ShUOC membership
 []Pay back Lucy?
