@@ -1,9 +1,11 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
 Wednesday:
+[]stash away laundry (5 mins)
+[]Email Alex about grad scheme
 []write meeting report:3 spectrum (15 mins)
 []Find the actual deadtime rate (10 mins)
-[]Pushing table to opposite side
+[]Pushing table to opposite side (30 mins)
 []Add deadtime rate, debug (20 mins)
 []Ask Sean and others to train w/
 
