@@ -1,24 +1,26 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
-Wednesday:
-[]stash away laundry (5 mins)
-[]Email Alex about grad scheme
-[]write meeting report:3 spectrum (15 mins)
+Saturday:
+[]Lock bike
+[]Laundry: put away
+[]Order saline
+[]Post pictures of guitar to sell
+
+[]Five emails left: read them (30 mins)
+[]Listen to lecture (1 hour)
 []Find the actual deadtime rate (10 mins)
-[]Pushing table to opposite side (30 mins)
 []Add deadtime rate, debug (20 mins)
+[]step 3 and 4 on PostHoc_tmp
+
+[]Find all GIAG activities that I'm interested in
 []Ask Sean and others to train w/
 
 []Comic sans ???
-[]Post pictures of guitar to sell
-[]climbing folks: grade the insurrection white house climb and name it
-Thursday:
+Saturday:
 []Plantology: collect plant
 []Buy ShUOC membership
-[]Pay back Lucy?
-September:
-[]Create optimized foilselector flowchart on A3 (1 hour)
-    - /home/ocean/Self/foilselector/TODO
+
+[]Cancel meeting, because I'm in the graduate scheme meeting
 []Artur email
 Daily task: One novel thing per day:
 []Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, scaffolding near me, Hangar, Foundry Climbing, Cross Fit Kelham
