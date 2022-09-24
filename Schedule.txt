@@ -1,26 +1,30 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
 Saturday:
-[]Lock bike
-[]Laundry: put away
-[]Order saline
-[]Post pictures of guitar to sell
+[]Get mail from mailbox (10 mins)
+[]Plantology: collect plant (20 mins)
+    []Put cloth/ towel underneath the plant
 
-[]Five emails left: read them (30 mins)
-[]Listen to lecture (1 hour)
+[]Laundry: put away (3 mins)
+[]Order saline (12 mins)
+[]Two wikipedia pins in chrome (1.3 hours)
+[]Take pictures of guitar to sell (40 mins)
+    []Write ad + Post on FB (20 mins)
+    []Post on gumtree (10 mins)
+[]Five emails left: read them (40 mins) (text to speech)
+[]Listen to lecture (20 mins)
+    - https://ukaeauk-my.sharepoint.com/personal/craig_hickman_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcraig%5Fhickman%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTech%20Talk%20%2D%20Pietro%20Mele%20%2D%20Spiking%20Neural%20Networks%20%2D%20Turing%20room%2D20220923%5F141803%2DMeeting%20Recording%2Emp4&ga=1
+
 []Find the actual deadtime rate (10 mins)
 []Add deadtime rate, debug (20 mins)
 []step 3 and 4 on PostHoc_tmp
 
+[]Buy ShUOC membership
 []Find all GIAG activities that I'm interested in
 []Ask Sean and others to train w/
 
 []Comic sans ???
-Saturday:
-[]Plantology: collect plant
-[]Buy ShUOC membership
 
-[]Cancel meeting, because I'm in the graduate scheme meeting
 []Artur email
 Daily task: One novel thing per day:
 []Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, scaffolding near me, Hangar, Foundry Climbing, Cross Fit Kelham
