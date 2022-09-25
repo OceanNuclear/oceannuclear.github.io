@@ -1,22 +1,14 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
 Saturday:
-[]Take pictures of guitar to sell (40 mins)
+[]film video (10 mins)
     []Change string (20 mins)
-        []Adjust neck?
-    []film video (10 mins)
-    [x]Write ad
-    []Post on FB (20 mins)
+        []Adjust Truss?
     []Post on gumtree (10 mins)
-5:28pm
-[]Climb/skate/mountain bike
+    []Post on FB (20 mins)
 []Find tweezers
     []eyebrow trim: search for a place to do that
 
-[]Find the actual deadtime rate (10 mins)
-[]Add deadtime rate, debug (20 mins)
-[]step 3 and 4 on PostHoc_tmp
-[]consider Tinder download
 Sunday:
 []Do 3 training courses on learning247 (1 hour 20 mins)
 []Shave
