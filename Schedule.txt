@@ -1,6 +1,27 @@
 1. Serialize to the correct level 2. Adjust BG stimulant (music, apps, Q's, etc.) to the correct level
 3. Use checklist of what materials and info needs to be at hand for each task. 4. Break day in four
-Saturday:
+Monday:
+[]Collect train ticket (20 mins)
+1:37pm
+1:36pm
+[]Clean receipts out of bag (5 mins)
+1:41pm
+1:41pm
+[]Buy ShUOC membership (20 mins)
+2:01pm
+2:01pm
+[]Find all GIAG activities that I'm interested in (45 mins)
+2:46pm
+[]Write Yelp/Google review for escape room (15 mins)
+3:01pm
+[]Identify the wrong isotopes' origin (30 mins)
+[]Write chosen_number_of_atoms.json (1 hour)
+[]Merge the dimension limits into .atomic_composition.json (2 hours)
+    - Does this go against my programming principles?
+    - Can I write the program in a way that order the . (hidden) files?
+[]Copy step6 into step4
+[]How did we even get those isotopes?
+Tuesday:
 []film video (10 mins)
     []Change string (20 mins)
         []Adjust Truss?
@@ -8,13 +29,6 @@ Saturday:
     []Post on FB (20 mins)
 []Find tweezers
     []eyebrow trim: search for a place to do that
-
-Sunday:
-[]Do 3 training courses on learning247 (1 hour 20 mins)
-[]Shave
-    []Wash razor
-[]Buy ShUOC membership
-[]Find all GIAG activities that I'm interested in
 []Ask Sean and others to train w/
 Tuesday:
 []Get mail from mailbox (10 mins)
