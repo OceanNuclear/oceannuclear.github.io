@@ -1,17 +1,13 @@
 1. Break tasks down to <20 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 Monday:
-[]Collect train ticket (20 mins)
-[]Write Yelp/Google review for escape room (15 mins)
-[]Clean receipts out of bag (5 mins)
-[]Buy ShUOC membership (20 mins)
-[]Find all GIAG activities that I'm interested in (45 mins)
 []film video (10 mins)
     []Change string (20 mins)
         []Adjust Truss?
     []Post on gumtree (10 mins)
     []Post on FB (20 mins)
-
+[]Exercise?
 Tuesday:
+[]Collect train ticket (20 mins)
 []Write chosen_number_of_atoms.json (1 hour)
 []Copy step6 into step4
 []Find tweezers
