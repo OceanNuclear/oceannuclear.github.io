@@ -1,22 +1,21 @@
 1. Break tasks down to <20 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 Tuesday:
-[]film video (20 mins)
-    []Change string (20 mins)
-        []Adjust Truss (10 mins)
-    []Post on gumtree (10 mins)
+[]Write brief email to all supervisors (10 mins)
+    []Send email (8 mins)
+    []Re-generate the graphs (5 mins)
+[]Answer Alex's email? (15 mins)
+[]Guitar (0 mins)
     []Post on FB (20 mins)
-[]RUN2 unfolding (100 mins)
-12pm
-[]Exercise? either floor walk or climbing
-[]Flu jab: register
-3:00pm
-[]Collect train ticket (20 mins) (catch train at 3:37)
+    []Post on gumtree (10 mins)
+[]Tinder profile: pick out pictures on Pixel, and put them into a folder? (30 mins)
+    []Investigate whether you can reach that folder
+    []Investigate if you can copy things into a folder
+    []If not, use laptop
 []Copy step6 into step4 (20 mins)
-    []Curvature is not as simple as "curvature per bin"!
+    []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or per PUL?
 []Write chosen_number_of_atoms.json (1 hour)
 Wednesday:
 []Ask Sean and others to train w/?
-[]Tinder profile
 Saturday:
 []Find tweezers
     []eyebrow trim: search for a place to do that
