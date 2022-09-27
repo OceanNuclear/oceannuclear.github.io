@@ -1,20 +1,27 @@
 1. Break tasks down to <20 minutes chunks. 2. Break day in four, separated by life-admin tasks.
-Monday:
-[]film video (10 mins)
+Tuesday:
+[]film video (20 mins)
     []Change string (20 mins)
-        []Adjust Truss?
+        []Adjust Truss (10 mins)
     []Post on gumtree (10 mins)
     []Post on FB (20 mins)
-[]Exercise?
-Tuesday:
-[]Collect train ticket (20 mins)
+[]RUN2 unfolding (100 mins)
+12pm
+[]Exercise? either floor walk or climbing
+[]Flu jab: register
+3:00pm
+[]Collect train ticket (20 mins) (catch train at 3:37)
+[]Copy step6 into step4 (20 mins)
+    []Curvature is not as simple as "curvature per bin"!
 []Write chosen_number_of_atoms.json (1 hour)
-[]Copy step6 into step4
+Wednesday:
+[]Ask Sean and others to train w/?
+[]Tinder profile
+Saturday:
 []Find tweezers
     []eyebrow trim: search for a place to do that
-[]Ask Sean and others to train w/
-Tuesday:
-[]Get mail from mailbox (10 mins)
+[]Retrieve sanitiser bottle
+
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
