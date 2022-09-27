@@ -1,30 +1,28 @@
 1. Break tasks down to <20 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 Tuesday:
-[]Write brief email to all supervisors (10 mins)
-    []Send email (8 mins)
-    []Re-generate the graphs (5 mins)
-[]Answer Alex's email? (15 mins)
+[]Copy step6 into step4 (20 mins)
+    []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or per PUL?
 []Guitar (0 mins)
     []Post on FB (20 mins)
     []Post on gumtree (10 mins)
-[]Tinder profile: pick out pictures on Pixel, and put them into a folder? (30 mins)
+[]Write chosen_number_of_atoms.json (1 hour)
+[]T profile: pick out pictures on Pixel, and put them into a folder? (30 mins)
     []Investigate whether you can reach that folder
     []Investigate if you can copy things into a folder
     []If not, use laptop
-[]Copy step6 into step4 (20 mins)
-    []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or per PUL?
-[]Write chosen_number_of_atoms.json (1 hour)
-Wednesday:
-[]Ask Sean and others to train w/?
+Friday:
+[]Organize the telegram saved message on GIAG activities
 Saturday:
 []Find tweezers
     []eyebrow trim: search for a place to do that
-[]Retrieve sanitiser bottle
 
+[]Retrieve sanitiser bottle
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
-[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, scaffolding near me, Hangar, Foundry Climbing, Cross Fit Kelham
+[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, Hangar, Foundry Climbing, Cross Fit Kelham
+    []Cyr wheel & Parkour in Nova
+        - Ask Sean and others to train w/?
 []One of the following learning things:
     []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
@@ -40,11 +38,12 @@ Interesting/recreational/entertaining:
 []Gravel convergence condition
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
-[]River crossing puzzles: bridge torch, dog sheep and cabbage, and jealous husband problem
-    []graph theory analysis for optimal strategy
+[]River crossing puzzles: graph theory analysis for optimal strategy in the bridge and torch problem
 []vimtutor
-[]https://sigbovik.org/2022/proceedings.pdf
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
-[]Read remaining books + driver's education + build lego puzzle at home
+[]Use remaining personal items at home
+    []build lego puzzle
+    []Read remaining books
+    []Driver's education
