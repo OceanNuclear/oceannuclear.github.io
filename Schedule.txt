@@ -1,4 +1,4 @@
-1. Break tasks down to <20 minutes chunks. 2. Break day in four, separated by life-admin tasks.
+1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 Tuesday:
 []Copy step6 into step4 (20 mins)
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or per PUL?
