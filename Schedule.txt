@@ -1,22 +1,21 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 Sunday:
-[]Guitar: download photos (10 mins)
-    []Post on FB (20 mins)
-    []Post on gumtree (10 mins)
+[]Hnge set up (45 mins)
 []Kayaking: send question to committee to see if I can join
     []Same for Assassin's Room Clear
     []Same for Pole 
         - https://su.sheffield.ac.uk/events/id/2035-pole-beginners
     []Same for Aikido
-[]Google poll for PTNR
-[]Retrieve sanitiser bottle
-[]Glue headphones
-[]Find tweezers
-    []eyebrow trim: search for a place to do that
-[]Hnge set up
-Tuesday:
-[]write comb-sum function that takes in a user-define function rather than using "sum" by default
-[]Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
+[]Hang up washing
+Monday:
+[]Vanquis pay up!
+[]Find tweezers, hand sanitizer chalk bottle
+[]Optimization:
+    []New metrics!
+        - response matrix that causes the largest covariance minimization?
+        - area under cdf(# of sv> threshold vs increasing threshold)?
+    []write comb-sum function that takes in a user-define function rather than using "sum" by default
+    []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
