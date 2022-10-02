@@ -1,6 +1,5 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
-Saturday:
-[]manicure
+Sunday:
 []Guitar (0 mins)
     []Post on FB (20 mins)
     []Post on gumtree (10 mins)
@@ -9,7 +8,7 @@ Saturday:
     []Same for Pole 
         - https://su.sheffield.ac.uk/events/id/2035-pole-beginners
     []Same for Aikido
-Sunday:
+
 []Retrieve sanitiser bottle
 []Glue headphones
 []Find tweezers
