@@ -1,15 +1,8 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
-Sunday:
+Tuesday:
 []Fill in finance claim form for UKAEA
     []Find it from Alex Smith
-[]What's my new pay
-    []And hopefully it'll be arriving on the 7th?
 []Add padding to shoes (20 mins)
-[]Hinge set up (45 mins)
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/NPL
-Monday:
-[]Hang up washing
-[]Vanquis pay up!
 []Find tweezers, hand sanitizer chalk bottle
 []Optimization:
     []New metrics!
@@ -17,6 +10,7 @@ Monday:
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
+Tuesday:
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
