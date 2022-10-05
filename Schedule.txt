@@ -1,12 +1,9 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
-Tuesday:
 []Add padding to shoes (20 mins)
-[]Find tweezers, hand sanitizer chalk bottle
 []https://ukaeauk-my.sharepoint.com/personal/fulvio_militello_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffulvio%5Fmilitello%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FGuest%20Seminar%20%2D%20Michela%20Massimi%20%2D%2D20221003%5F143034%2DMeeting%20Recording%2Emp4&ga=1
-[]Chernobheads poll: chase people up
+[]Investigate possible self-shielding?
 Wednesday:
-[]Buy train ticket
-
+[]PTNR poll: chase people up
 []COVID test
 1:45pm
 []Fell running
@@ -16,6 +13,7 @@ Wednesday:
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
+[]Buy train ticket
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
