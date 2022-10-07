@@ -1,19 +1,15 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
+3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 Friday:
-[]Tell PTNR chat about new time (5 mins)
-[]Reply to outlook mail about residential stay: confirm site pass is not needed (10 mins)
-    []See if I need to reply to Alison? (10 mins)
 []Clean effect of fellrunning (8 mins)
-[]Take picture of council tax for Kristen (4 mins)
-[]Robin:Forms! (14 mins)
+[]Fill in graduate self intro (25 mins)
 []UMG unfolding (40 mins)
     []Find file path: copy from which old .py file? (10 mins)
     []Check how many parameters does it accept: (8 mins)
         []Dig open interface.py in unfoldingsuite (2 mins)
-3:00pm
+
 []Climbing: Ankle rehab: w/ pad (2.5 hours)
     []Buy Old El Paso and snacks from big Tesco
-[]https://ukaeauk-my.sharepoint.com/personal/fulvio_militello_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffulvio%5Fmilitello%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FGuest%20Seminar%20%2D%20Michela%20Massimi%20%2D%2D20221003%5F143034%2DMeeting%20Recording%2Emp4&ga=1
 []Find scale factor for each foil!
 []Investigate possible self-shielding
 []Optimization:
@@ -35,6 +31,8 @@ Daily task: One novel thing per day:
     []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
+    []https://shuspace.shu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_328834_1&content_id=_11976285_1
+    []https://ukaeauk-my.sharepoint.com/personal/fulvio_militello_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffulvio%5Fmilitello%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FGuest%20Seminar%20%2D%20Michela%20Massimi%20%2D%2D20221003%5F143034%2DMeeting%20Recording%2Emp4&ga=1
     []Clean e-mailboxes
 Later:
 []All of the rest of the unfinished ideas in
