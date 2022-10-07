@@ -1,18 +1,22 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
-[]Add padding to shoes (20 mins)
+Friday:
+[]Tell PTNR chat about new time
+[]Reply to outlook mail about residential stay: does it need something
+[]Clean effect of fellrunning
+[]take picture of council tax for Kristen
+[]UMG unfolding
 []https://ukaeauk-my.sharepoint.com/personal/fulvio_militello_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffulvio%5Fmilitello%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FGuest%20Seminar%20%2D%20Michela%20Massimi%20%2D%2D20221003%5F143034%2DMeeting%20Recording%2Emp4&ga=1
-[]Investigate possible self-shielding?
-Wednesday:
-[]PTNR poll: chase people up
-[]COVID test
-1:45pm
-[]Fell running
+[]Robin:Forms!
+[]Find scale factor for each foil!
+[]Investigate possible self-shielding
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
+Friday:
+[]Ankle rehab: w/ pad
 []Buy train ticket
 []Comic sans ???
 []Artur email
