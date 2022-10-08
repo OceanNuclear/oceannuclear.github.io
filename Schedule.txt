@@ -1,28 +1,25 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 Saturday:
-[]Fill in graduate self intro (25 mins)
-3:34pm
 []UMG unfolding (40 mins)
     []Find file path: copy from which old .py file? (10 mins)
     []Check how many parameters does it accept: (8 mins)
         []Dig open interface.py in unfoldingsuite (2 mins)
-4:34pm
 []Find scale factor for each foil! (1.3 hours)
-5:52pm
 []Investigate possible self-shielding (40 mins)
     []Look into sigma_df matrix (20 mins)
-6:52pm
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
+[]Renew library card
 Sunday:
 []Climbing: Ankle rehab: w/ pad (2.5 hours)
     []Buy Old El Paso and snacks from big Tesco
-
+Monday:
+[]Tell ShUOC I want to race
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
