@@ -1,10 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 Saturday:
-[]Pick clothing cache (10 mins)
-[]Wash fellrunning effects, put fellrunning shoes back (20 mins)
-[]Clean Flynn's emails
-[]Laundry (20 mins)
+[]Clean Flynn's emails (20 mins)
 []UMG unfolding (40 mins)
     []It's all in /home/ocean/Others/unfoldinggroup/unfolding/unfoldingsuite/UMG3.3_source
 []Find scale factor for each foil! (1.3 hours)
@@ -17,6 +14,7 @@ Saturday:
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
 Sunday:
+[]Laundry (20 mins)
 []Climbing: Ankle rehab: w/ pad (2.5 hours)
     []Buy Old El Paso and snacks from big Tesco
 []Try selling guitar to Guitar Wizard
