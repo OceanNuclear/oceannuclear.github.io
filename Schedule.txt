@@ -11,13 +11,10 @@ Monday:
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
-Sunday:
-[]Laundry (20 mins)
-[]Climbing: Ankle rehab: w/ pad (2.5 hours)
-    []Buy Old El Paso and snacks from big Tesco
-[]Try selling guitar to Guitar Wizard
-Monday:
 []Tell ShUOC I want to race
+[]Laundry (20 mins)
+Tuesday:
+[]Try selling guitar to Guitar Wizard
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
