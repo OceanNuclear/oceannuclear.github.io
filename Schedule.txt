@@ -1,15 +1,17 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-Thursday:
+[]Laundry (3 hours and 30 mins)
+Monday:
+[]Do unfolding, by weeding out bad ones!
+[]Deal with KLM claim
+[]Try selling guitar to Guitar Wizard
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
-[]Laundry (20 mins)
 
-[]Try selling guitar to Guitar Wizard
 []Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
