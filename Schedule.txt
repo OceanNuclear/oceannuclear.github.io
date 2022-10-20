@@ -1,10 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-Monday:
-[]Search for Counter protest?
-[]Deal with KLM claim
-Wednesday:
+Thursday:
+[]Clean glasses
 []Summary of meeting
+[]Claim travel cost from UKAEA
+[]Get climate change book
+[]Fix watch
+
+[]Phone set up: attempt to fix Pixel battery drain
 []Try selling guitar to Guitar Wizard
 []Optimization:
     []New metrics!
