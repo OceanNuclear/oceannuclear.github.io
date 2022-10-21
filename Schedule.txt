@@ -1,7 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-[]Fix watch (30 mins)
 Friday:
+[]Send summary email
+[]Add steepness values
+[]Make cumdist curves of
+    []steepness values
+    []norm-factors
+[]Write fortnightly report
+Saturday:
 []Get climate change book
 []Try selling guitar to Guitar Wizard
 []Optimization:
@@ -36,6 +42,7 @@ Interesting/recreational/entertaining:
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []River crossing puzzles: graph theory analysis for optimal strategy in the bridge and torch problem
 []vimtutor
+[]Comptuer Science lectures recorded in SHU
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Read the graduate alumni phone book to find people to talk to about
     []Reading vs Oxford vs Didcot
