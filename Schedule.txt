@@ -1,9 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Stimulation level regulation by playing lectures in the background.
-Friday:
+Saturday:
+[x]Take out trash
+    [x]Go to restaurant
+[]Write a verify continuity function
+[]Buy belt
 []FUCK I have to redo the dodgy specs
-    []Remove dodgy spectra from the 01-Cu:
+    []Remove dodgy ones from the 01-Cu:
         []Re-plot counts_vs_time.py
         []Identify wrong specs
             []Dig deeper into which of the two lines are wrong. If any.
@@ -20,12 +24,12 @@ Friday:
     []Redo the Genie analysis for 01 and 15.
 []Try to rename everything used in the PostHocShorter/ (except final_name) to be '02-Cu-contact'
 []Read Hari's updated version of meeting minutes (~/Downloads)
-[]Like Ashley message
-Saturday:
 []Chat w/ Ashley
-[]Check guitar
-[]Find the stupid parcel
+[]Guitar re-list
+[x]Find the stupid parcel
     - https://www.parcelforce.com/track-trace?trackNumber=EG004084709HK
+[]Headphone testing
+[]Parcel sorting
 []Monthly Tier4 form
     []Reply to Alison
 []See if there's a correlation between half-lives, irradiation schedule,
