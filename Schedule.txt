@@ -2,27 +2,33 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Stimulation level regulation by playing lectures in the background.
 Saturday:
-[x]Take out trash
-    [x]Go to restaurant
 []Write a verify continuity function
 []Buy belt
 []FUCK I have to redo the dodgy specs
     []Remove dodgy ones from the 01-Cu:
-        []Re-plot counts_vs_time.py
-        []Identify wrong specs
+        [x]Re-plot counts_vs_time.py
+        [x]Identify wrong specs
             []Dig deeper into which of the two lines are wrong. If any.
             []Sum only within the 28.5- 2993 range
-        []Re-sum the spectrum
+            - Actually, the conclusion is that they're all fine, within acceptable fluctuation range.
         []Re-write the schedule
-    []Do you think all the dodgy one came from a single bin/ a series of low energy bins?
-    []Fix 15-Bi as well
-        []Re-plot counts_vs_time.py
-        []Identify wrong specs
+        []Re-extract # of decay pd.Series
+    - Do you think all the dodgy one came from a single bin/ a series of low energy bins?
+    [x]Fix 15-Bi-later as well?
+        [x]Re-plot counts_vs_time.py
+        [x]Identify wrong specs
             []Sum only within the 28.5- 2993 range
-        []Re-sum the spectrum
-        []Re-write the schedule
-    []Redo the Genie analysis for 01 and 15.
+        - I will NOT be re-summing the spectrum, because I won't need to use it anyways.
+        - The irradiation time is too long, thus I am expecting second generation products to interferer with my results.
+    []Redo the Genie analysis for 01?
+        - Probably not, let's see.
+[x]Add in 15-Bi-later into the analysis?
+    - No!
 []Try to rename everything used in the PostHocShorter/ (except final_name) to be '02-Cu-contact'
+    - .selected_foils.json
+    - irradiation_schedule.txt
+    - step6 -> response_matrix.csv
+    - step2 -> .atomic_composition.json (just fix the .json manually, don't go through step2.)
 []Read Hari's updated version of meeting minutes (~/Downloads)
 []Chat w/ Ashley
 []Guitar re-list
