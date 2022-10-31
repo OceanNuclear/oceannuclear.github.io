@@ -2,15 +2,41 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Monday:
+[]Answer Bash
+[]Answer Kristen
+[]Answer Ashley
 []Should choose 17-Er-ignoringoldirradiation! Because that's the .activity file present
     - /home/ocean/Documents/PhD/ExperimentalVerification/results/17_ER_bgsubtracted.activity
     - /home/ocean/Self/FoilSelector/NewChipIR/PostHocShorter
-[]Try to rename everything used in the PostHocShorter/ (except final_name) to be '02-Cu-contact'
+[]Try to rename everything used in the PostHocShorter/ (except final_name) to be '02-Cu-contact' etc.
     - /home/ocean/Self/FoilSelector/NewChipIR/PostHocShorter
     - .selected_foils.json
     - irradiation_schedule.txt
     - step6 -> response_matrix.csv
     - step2 -> .atomic_composition.json (just fix the .json manually, don't go through step2.)
+    []things to INCLUDE:
+        01-Cu
+        02-Cu-contact
+        03-In
+        04-Sn
+        05-Ge
+        06-Zn
+        07-Pt
+        08-Hf
+        10-Yb
+        11-Mo
+        12-Cd
+        13-Er
+        13-Er-decayed-w13
+        13-Er-decayed-w17
+        14-Nd
+        15-Bi
+        15-Bi2
+        16-Au
+        17-Er
+        17-Er-bgsubtracted
+        18-CdSnCd
+        19-W-decayed
 []Monthly Tier4 form
     []Reply to Alison
 []See if there's a correlation between half-lives, irradiation schedule,
