@@ -1,23 +1,17 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-4. Stimulation level regulation by playing lectures in the background.
-Saturday:
-[]Buy belt
-[]01-Cu:
-    []Re-write the schedule
-    []Re-extract # of decay pd.Series
-    - Redo the Genie analysis for 01? Hopefully not need
+4. regulate stimulus level by playing lectures in the background.
+Monday:
+[]Chest X-ray
+[]Should choose 17-Er-ignoringoldirradiation! Because that's the .activity file present
+    - /home/ocean/Documents/PhD/ExperimentalVerification/results/17_ER_bgsubtracted.activity
+    - /home/ocean/Self/FoilSelector/NewChipIR/PostHocShorter
 []Try to rename everything used in the PostHocShorter/ (except final_name) to be '02-Cu-contact'
+    - /home/ocean/Self/FoilSelector/NewChipIR/PostHocShorter
     - .selected_foils.json
     - irradiation_schedule.txt
     - step6 -> response_matrix.csv
     - step2 -> .atomic_composition.json (just fix the .json manually, don't go through step2.)
-[]Read Hari's updated version of meeting minutes (~/Downloads)
-[]Chat w/ Ashley
-[]Guitar re-list
-Sunday:
-[]Headphone testing
-[]Parcel sorting
 []Monthly Tier4 form
     []Reply to Alison
 []See if there's a correlation between half-lives, irradiation schedule,
@@ -25,6 +19,30 @@ Sunday:
     []Explain the convex hull problem
     []Make cumdist curves of norm-factors
     []show steepness values histograms
+
+[]Clean floor
+[]Clean table
+[]*icure
+[]Meal prep:
+    - chicken, with sauce already produced
+    - rice: freeze existing
+    - Shave
+    - kale/spinach
+    - leafy stemmy vegetables
+    - spring onions
+[]Shave
+[]Remove sandpaper
+[]Text Ashley
+[]Buy belt
+
+[]Consider adding insoles
+[]Guitar re-list
+Tuesday:
+[]RAIN's instagram
+[]Headphone testing
+[]Parcel sorting
+Wednesday:
+[]Read Hari's updated version of meeting minutes (~/Downloads)
 []Check Reading places to live (1 hour)
     []JC?
 []Optimization:
@@ -34,7 +52,6 @@ Sunday:
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not as simple as "curvature per bin"! It should be curvature per eV, or PUL?
 
-[]Comic sans ???
 []Artur email
 Daily task: One novel thing per day:
 []Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, Hangar, Foundry Climbing, Cross Fit Kelham
