@@ -2,19 +2,20 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Answer Ashley
-[]Try to fix unfolding again
+[]Unfolding:
+    []What bin number is 2.7908E7
+[]Write fortnightly report
+    []Explain the convex hull problem
+[]Transport the _supervisor_report.py stuff into unfold.py
+[]re-write unfolding algorithm to make it normalize at each step
 []Monthly Tier4 form
     []Reply to Alison
 []See if there's a correlation between half-lives, irradiation schedule,
-[]Write fortnightly report
-    []Explain the convex hull problem
-    []Make cumdist curves of norm-factors
-    []show steepness values histograms
 
 []Clean floor
 []Clean table
 []*icure
+[]JD gym
 []Meal prep:
     - chicken, with sauce already produced
     - rice: freeze existing
@@ -24,11 +25,10 @@ Tuesday:
     - spring onions
 []Shave
 []Remove sandpaper
-[]Text Ashley
 []Buy belt
 
 []Consider adding insoles
-[]Guitar re-list
+[x]Guitar re-list
 Tuesday:
 []RAIN's instagram
 []Headphone testing
