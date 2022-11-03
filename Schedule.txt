@@ -7,7 +7,9 @@ Tuesday:
 []See if there's a correlation between half-lives, schedule, and steepness
 []Read Hari's updated version of meeting minutes (~/Downloads)
 []Monthly Tier4 form
-
+[]Build script to quickly extract past n days of tasks done
+    []Print each task in chronological order, and then Use input() to accept/ reject current task
+    []print the final report
 []Clean floor
 []Clean table
 []*icure
