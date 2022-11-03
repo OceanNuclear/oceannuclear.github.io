@@ -2,14 +2,25 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]foil-by-foil unfolding
-[]See if there's a correlation between half-lives, schedule, and steepness
 []re-write unfolding algorithm to make it normalize at each step
+    []Re-do foil-by-foil unfolding
+[]See if there's a correlation between half-lives, schedule, and steepness
+[]Read Hari's updated version of meeting minutes (~/Downloads)
 []Monthly Tier4 form
 
 []Clean floor
 []Clean table
 []*icure
+[]Shave
+[]Consider adding insoles
+Tuesday:
+[]RAIN's instagram
+[]Headphone testing
+[]Parcel sorting
+Wednesday:
+[]Check Reading places to live (1 hour)
+    []JC?
+
 []JD gym
 []Meal prep:
     - chicken, with sauce already produced
@@ -18,18 +29,6 @@ Tuesday:
     - kale/spinach
     - leafy stemmy vegetables
     - spring onions
-[]Shave
-[]Remove sandpaper
-[]Buy belt
-[]Consider adding insoles
-Tuesday:
-[]RAIN's instagram
-[]Headphone testing
-[]Parcel sorting
-Wednesday:
-[]Read Hari's updated version of meeting minutes (~/Downloads)
-[]Check Reading places to live (1 hour)
-    []JC?
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
