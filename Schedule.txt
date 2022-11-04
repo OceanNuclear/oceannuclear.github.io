@@ -2,8 +2,7 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]*icure
-[]Monthly Tier4 form
+[]Monthly Tier4 form (20 mins)
 []Read Hari's updated version of meeting minutes (~/Downloads)
 []re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
@@ -12,16 +11,13 @@ Tuesday:
 []Build script to quickly extract past n days of tasks done
     []Print each task in chronological order, and then Use input() to accept/ reject current task
     []print the final report
-[]Pack for tomorrow
-[]Shave
+
 Return from Lake District:
 []Consider adding insoles
-[]RAIN's instagram
 []Headphone testing
-[]Parcel sorting
 []Check Reading places to live (1 hour)
     []JC?
-[]JD gym
+[]JD gym w/ Quan
 []Meal prep:
     - chicken, with sauce already produced
     - rice: freeze existing
