@@ -2,15 +2,24 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Monthly Tier4 form (20 mins)
-[]Read Hari's updated version of meeting minutes (~/Downloads)
+[]Build script to quickly extract past n days of tasks done (50 mins)
+    []Get the list of files with the appropriate date range
+    []Print each task in chronological order
+        []use input() to accept/ reject current task
+        []Format as this for the final report:
+            -   2022-11-04_14:01:29 -> 14:01:56
+                ├───[o]placeholder task
+                │       [x]placeholder subtask
+                └───[x]Shave
+            []end_time = dt.datetime.fromisofmt(file_name)
+            []start_time = .from_isoformat(filename) - dt.timedelta()
+            []start_time.isoformat(), "->", end_time.strftime("%h:%m:%s")
+    []print a separator line, perhaps a list of "-" or a screenwidth of solid blocks
+    []Print the final report
+[]Read Hari's updated version of meeting minutes (~/Downloads) (30 mins)
 []re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
 []What if I just cut away everything with >2 sigmas and see what's left
-
-[]Build script to quickly extract past n days of tasks done
-    []Print each task in chronological order, and then Use input() to accept/ reject current task
-    []print the final report
 
 Return from Lake District:
 []Consider adding insoles
