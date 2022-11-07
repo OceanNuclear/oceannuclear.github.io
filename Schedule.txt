@@ -1,7 +1,8 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Tuesday:
+Monday:
+[]Eat (10 mins)
 []Build script to quickly extract past n days of tasks done (50 mins)
     []Get the list of files with the appropriate date range
     []Print each task in chronological order
@@ -11,18 +12,19 @@ Tuesday:
                 ├───[o]placeholder task
                 │       [x]placeholder subtask
                 └───[x]Shave
-            []end_time = dt.datetime.fromisofmt(file_name)
-            []start_time = .from_isoformat(filename) - dt.timedelta()
+            []end_time = dt.datetime.fromisoformat(file_name)
+            []start_time = end_time - dt.timedelta()
             []start_time.isoformat(), "->", end_time.strftime("%h:%m:%s")
-    []print a separator line, perhaps a list of "-" or a screenwidth of solid blocks
-    []Print the final report
+    []print a separator line, perhaps a list of "-" or a screenwidth of solid blocks (5 mins)
+    []Print the final report (5 mins)
+[]Laundry #2 (add the extra pile in, 30 mins) (10 mins)
 []Read Hari's updated version of meeting minutes (~/Downloads) (30 mins)
 []re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
 []What if I just cut away everything with >2 sigmas and see what's left
-
+Wednesday:
+[]Consider/plan climbing on Friday! (clashing with Kim's meeting?)
 Return from Lake District:
-[]Consider adding insoles
 []Headphone testing
 []Check Reading places to live (1 hour)
     []JC?
