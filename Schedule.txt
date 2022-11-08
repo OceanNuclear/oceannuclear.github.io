@@ -2,7 +2,6 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Monday:
-[]Eat (10 mins)
 []Build script to quickly extract past n days of tasks done (50 mins)
     []Get the list of files with the appropriate date range
     []Print each task in chronological order
@@ -17,7 +16,9 @@ Monday:
             []start_time.isoformat(), "->", end_time.strftime("%h:%m:%s")
     []print a separator line, perhaps a list of "-" or a screenwidth of solid blocks (5 mins)
     []Print the final report (5 mins)
-[]Laundry #2 (add the extra pile in, 30 mins) (10 mins)
+2:32am
+Tuesday:
+[]fold dried laundry
 []Read Hari's updated version of meeting minutes (~/Downloads) (30 mins)
 []re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
