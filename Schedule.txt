@@ -1,22 +1,6 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Monday:
-[]Build script to quickly extract past n days of tasks done (50 mins)
-    []Get the list of files with the appropriate date range
-    []Print each task in chronological order
-        []use input() to accept/ reject current task
-        []Format as this for the final report:
-            -   2022-11-04_14:01:29 -> 14:01:56
-                ├───[o]placeholder task
-                │       [x]placeholder subtask
-                └───[x]Shave
-            []end_time = dt.datetime.fromisoformat(file_name)
-            []start_time = end_time - dt.timedelta()
-            []start_time.isoformat(), "->", end_time.strftime("%h:%m:%s")
-    []print a separator line, perhaps a list of "-" or a screenwidth of solid blocks (5 mins)
-    []Print the final report (5 mins)
-2:32am
 Tuesday:
 []fold dried laundry
 []Read Hari's updated version of meeting minutes (~/Downloads) (30 mins)
