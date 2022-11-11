@@ -1,7 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Tuesday:
+Thursday:
 []Headphone testing
 []Answer Alison: say yes to her suggestions
     []Ask about typical peak-to-total
@@ -9,14 +9,16 @@ Tuesday:
     []Tell her that I have to get started writing
 []Re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
-[]Check Reading places to live (1 hour)
-    []JC?
-[]Try to go to the gym
-
 []What if I just cut away everything with >2 sigmas and see what's left
 Friday:
 []Call GP what the fuck is going on with my lungs
 []*icure
+[]Check Reading places to live (1 hour)
+    []JC?
+[]Clean the table
+[]Learn the ropes (literally)
+Monday:
+[]JD gym
 []Meal prep:
     - chicken, with sauce already produced
     - rice: freeze existing
