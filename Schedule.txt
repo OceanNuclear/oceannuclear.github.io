@@ -3,7 +3,6 @@
 4. regulate stimulus level by playing lectures in the background.
 Sunday:
 [x]Ask about new monitor
-[x]VPN network setup
 []One draft of one chapter
 []craft-hub.com/collections/closing-collection
 []Vacuum kitchen
