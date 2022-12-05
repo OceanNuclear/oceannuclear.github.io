@@ -2,24 +2,24 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Sunday:
-[x]"Research Degree Thesis Guidelines 2019-20.docx" probably next to "MPhilandPhDRegulations2017_18.pdf"
-[x]Wakatime Fix
-[]Set the tab-reordering hotkeys in Sublime
-
-[]Ask about new monitor
+[x]Ask about new monitor
+[x]Set the tab-reordering hotkeys in Sublime
+[]One draft of one chapter
+[]craft-hub.com/collections/closing-collection
+[]Vacuum kitchen
 []Research Reading
-[]Reply to Robin's email about PhD funding
 
 []Try to download some python code to see if they can run properly on Windows
     - FoilSelector
     - unfoldingsuite
-
-Friday:
+[]Tier 4 summaries
+[]Reply to Robin's email about PhD funding
 []Re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
+Uhhh:
 []What if I just cut away everything with >2 sigmas and see what's left
 []Drop Greg an email
-- Systematic measuremests
+    - Systematic measurements
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
@@ -30,9 +30,8 @@ Friday:
 
 []Artur email
 Daily task: One novel thing per day:
-[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, Hangar, Foundry Climbing, Cross Fit Kelham
-    []Cyr wheel & Parkour in Nova
-        - Ask Sean and others to train w/?
+[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, Hangar, Foundry Climbing, Cross Fit Kelham, Cyr wheel
+
 []One of the following learning things:
     []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
