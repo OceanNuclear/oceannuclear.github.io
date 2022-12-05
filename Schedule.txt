@@ -1,21 +1,19 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Friday:
-[]"Research Degree Thesis Guidelines 2019-20.docx" probably next to "MPhilandPhDRegulations2017_18.pdf"
+Sunday:
+[x]"Research Degree Thesis Guidelines 2019-20.docx" probably next to "MPhilandPhDRegulations2017_18.pdf"
+[x]Wakatime Fix
 []Set the tab-reordering hotkeys in Sublime
-[]Ask about new monitor
-[]Find lecture about WASM and union
-    - Don't have to listen to the full thing, but skip to the important/novel parts
 
-[]Fix what Robin asked: get central plot points
-    - rough_organization.txt will help
+[]Ask about new monitor
 []Research Reading
 []Reply to Robin's email about PhD funding
 
 []Try to download some python code to see if they can run properly on Windows
     - FoilSelector
     - unfoldingsuite
+
 Friday:
 []Re-write unfolding algorithm to make it normalize at each step
     []Re-do foil-by-foil unfolding
