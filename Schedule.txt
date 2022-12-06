@@ -2,15 +2,17 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]ASUS laptop send off!
-[]A little trouble installing (acti)foilselector because of python versioning.
-    - https://python-poetry.org/docs/
+[]Remind Ashley of the flower messages
 []One draft of one chapter
     - E:\Self\Productivity\Thesis\KnowledgeBase
     - E:\Self\Unfolding_and_UnfoldingAlgorithms
-[]Remind Ashley of the flower messages
-
+[]Install these to fix foilselector
+    - seaborn
+    - uncertainties, openmc
+    []Worst case scenario: needs conda?
 []Research Reading
+Thursday:
+[]Investigate the possibility of transferring desktop onto bed
 []Reply to Robin's email about PhD funding
 Uhhh:
 []What if I just cut away everything with >2 sigmas and see what's left
@@ -33,6 +35,7 @@ Daily task: One novel thing per day:
     []Clean e-mailboxes
 Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
+[]ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
 []Buy SSD reader
 []craft-hub.com/collections/closing-collection
 
