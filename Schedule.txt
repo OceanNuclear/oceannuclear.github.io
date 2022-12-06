@@ -6,10 +6,6 @@ Tuesday:
 []One draft of one chapter
     - E:\Self\Productivity\Thesis\KnowledgeBase
     - E:\Self\Unfolding_and_UnfoldingAlgorithms
-[]Install these to fix foilselector
-    - seaborn
-    - uncertainties, openmc
-    []Worst case scenario: needs conda?
 []Research Reading
 Thursday:
 []Investigate the possibility of transferring desktop onto bed
