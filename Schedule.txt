@@ -2,13 +2,17 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Friday:
-[]Read the fortnightly reports on Chrome
-[]Read 3 papers
-    []Confirm history of activation foil unfolding started from reactors
+[x]Send thesis in current state
+[x]UkraineNow: tell them about dude from Ukraine who needs help Stepan
+[]Return keyboard
 []Read DailyThoughts
     - grep for thesis -i
-[]Scrape for usable LaTeX/ideas
-    - E:\Self\FromBackups\FortnightlyReports
+[]Clean the rice
+[]Buy juices and sparkling waters
+[]Talk to Kristen and agree with her
+    - https://www.zmescience.com/science/these-bumblebees-like-playing-and-its-the-sweetest-thing/
+    []Collect parcel
+[]Confirm history of activation foil unfolding started from reactors
 []One draft of one chapter
     - E:\Self\Productivity\Thesis\KnowledgeBase
     - E:\Self\Unfolding_and_UnfoldingAlgorithms
