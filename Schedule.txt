@@ -1,17 +1,8 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Friday:
-[]Read DailyThoughts
-    - grep for thesis -i
 []Clean the rice
-[]Talk to Kristen and agree with her
-    - https://www.zmescience.com/science/these-bumblebees-like-playing-and-its-the-sweetest-thing/
-    []Collect parcel
 Wednesday:
-[]haircut (1 hour)
-[]Iceskating (4 hours)
-
 []Confirm history of activation foil unfolding started from reactors
 []One draft of one chapter
     - E:\Self\Productivity\Thesis\KnowledgeBase
@@ -20,7 +11,6 @@ Wednesday:
     - E:\Self\FromBackups\LaptopLinux\home\ocean\Documents\PhD\Thesis
 []Research Reading
 []Buy alternative keyboard(s)
-
 []Reply to Robin's email about PhD funding
 Uhhh:
 []What if I just cut away everything with >2 sigmas and see what's left
