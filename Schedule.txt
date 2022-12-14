@@ -2,10 +2,6 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Friday:
-[x]*icure
-[]Return keyboard
-[]Msg Nat about ice skating
-[]Buy juices and sparkling waters
 []Read DailyThoughts
     - grep for thesis -i
 []Clean the rice
