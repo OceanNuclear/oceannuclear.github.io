@@ -1,11 +1,14 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Sunday:
+Monday:
+[]Ask sister question about divorce
+11am
+[]Have Doctor's appointment
 []Boots
-[]Reply to mom
 []Vacuum
-[]Merge NASfselect.tex intro section into something 1.Background-Intro
+
+[]Merge NASfselect.tex intro section into 1.Background-Intro
 []Research Reading
 []Buy alternative keyboard(s)
 []Reply to Robin's email about PhD funding
