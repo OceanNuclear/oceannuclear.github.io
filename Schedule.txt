@@ -3,10 +3,8 @@
 4. regulate stimulus level by playing lectures in the background.
 Saturday:
 []What is this interesting thing about benchmark
-    file:///E:/Self/FromBackups/LaptopLinux/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/Papers/Benchmarking/USUnfoldingMethodsReview.pdf
-    - https://inis.iaea.org/collection/NCLCollectionStore/_Public/08/296/8296962.pdf
-    - https://www.osti.gov/servlets/purl/7334130
-    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined)
+    \cite{Benchmarking1, oster1977review}
+    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good situation that covers all cases/ can't think of an a priori)
 []Merge NASfselect.tex intro section into 1.Background-Intro (20 mins)
 []Move desktop to bed (1 hour)
 
