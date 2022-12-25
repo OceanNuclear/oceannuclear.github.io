@@ -4,7 +4,7 @@
 Saturday:
 []What is this interesting thing about benchmark
     \cite{Benchmarking1, oster1977review}
-    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good situation that covers all cases/ can't think of an a priori)
+    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
 []Merge NASfselect.tex intro section into 1.Background-Intro (20 mins)
 []Move desktop to bed (1 hour)
 
