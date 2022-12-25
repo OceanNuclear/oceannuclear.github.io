@@ -2,8 +2,11 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Saturday:
-[x]Read Hari's email (10 mins)
-[]Fill in the comparison table (80 mins)
+[]What is this interesting thing about benchmark
+    file:///E:/Self/FromBackups/LaptopLinux/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/Papers/Benchmarking/USUnfoldingMethodsReview.pdf
+    - https://inis.iaea.org/collection/NCLCollectionStore/_Public/08/296/8296962.pdf
+    - https://www.osti.gov/servlets/purl/7334130
+    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined)
 []Merge NASfselect.tex intro section into 1.Background-Intro (20 mins)
 []Move desktop to bed (1 hour)
 
