@@ -1,17 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Saturday:
+Wednesday:
+[]Write on A2 to do this
 []What is this interesting thing about benchmark
     \cite{Benchmarking1, oster1977review}
     - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
-[]Merge NASfselect.tex intro section into 1.Background-Intro (20 mins)
-[]Move desktop to bed (1 hour)
-
 []Research Reading
 []Reply to Robin's email about PhD funding
-Saturday:
-[]Buy Bike light
 Uhhh:
 []Buy alternative keyboard(s)
 []What if I just cut away everything with >2 sigmas and see what's left
