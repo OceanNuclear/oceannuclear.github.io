@@ -1,28 +1,32 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Monday:
-[]Make PIL re-draw on desktop background everytime
-[]Fill out Tier 4 form or send off email to Robin about this
-[]Schedule meeting with Robin
-[]Reply to Jenny
-[]Reply to email from Fresh Property Group
-Tuesday:
-[]Draw mindmap of required sections in Chapter 3
+Thursday:
+[]Make PIL re-draw on desktop background everytime (steal from existing code) (15 mins)
+    []Testing (30 mins)
+[]Minor problem in Scheduler.py, need to align with behaviour of logtask.py?
+    []incomplete task with complete parent task needs to be overriden as completed?
+    - nah
+
+[]Buy train ticket
+[]Visa application
+[]A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT (15 mins)
+
+[]Schedule weekend: Sunday climb stuff
+[]Schedule weekend; Saturday night stay
+[]Reply to Tim's email
+
 []Plot Grid
 []Plot L-curve
-Wednesday:
-[]A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT
 []Plot PurelyIterativeDescent
+Friday:
+[]Plan around the AMAXED abstract submission for SOFE
 []What is this interesting thing about benchmark
     \cite{Benchmarking1, oster1977review}
     - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
-Thursday:
-[]Plan house moving
-[]Buy train ticket
-Friday:
-[]Robin's email about mugshot
+[]Draw mindmap of required sections in Chapter 3
 Monday:
+[]Worry about sending Abstract
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
 Before end of thesis:
