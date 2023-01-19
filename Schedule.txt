@@ -1,26 +1,31 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Late:
-[]Fill out Tier 4 form
-[]Reply to email from Fresh Property Group
-[]Make PIL re-draw on desktop background everytime
 Monday:
+[]Make PIL re-draw on desktop background everytime
+[]Fill out Tier 4 form or send off email to Robin about this
+[]Schedule meeting with Robin
+[]Reply to Jenny
+[]Reply to email from Fresh Property Group
+Tuesday:
 []Draw mindmap of required sections in Chapter 3
+[]Plot Grid
+[]Plot L-curve
+Wednesday:
+[]A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT
+[]Plot PurelyIterativeDescent
 []What is this interesting thing about benchmark
     \cite{Benchmarking1, oster1977review}
     - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
-[x]Draw diagram (to be replicated for later) of the min-chi2 diagrams
-[x]Draw the remaining 2 insertgraphics diagrams: L-curve and min-chi2
-[]Plot SampleFusionNSpec
-[]Plot PurelyIterativeDescent
-[]Plot Grid
-[]Plot L-curve
+Thursday:
+[]Plan house moving
+[]Buy train ticket
+Friday:
+[]Robin's email about mugshot
 Monday:
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
-Uhhh:
-[]Buy alternative keyboard(s)
+Before end of thesis:
 []What if I just cut away everything with >2 sigmas and see what's left
 []Optimization:
     []New metrics!
@@ -44,6 +49,7 @@ Later:
 []ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
 []Buy SSD reader
 []craft-hub.com/collections/closing-collection
+[]Buy alternative keyboard(s)
 
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
@@ -63,3 +69,4 @@ Interesting/recreational/entertaining:
     []build lego puzzle
     []Read remaining books
     []Driver's education
+fucking hell I could've used ax.set_yscale('function', functions=[sqrt, lambda x:x**2]) all along
