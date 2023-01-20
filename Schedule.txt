@@ -1,20 +1,14 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-[]Buy train ticket
-Thursday:
-[]Make PIL re-draw on desktop background everytime (steal from existing code) (15 mins)
-    []Testing (30 mins)
-[]Minor problem in Scheduler.py, need to align with behaviour of logtask.py?
-    []incomplete task with complete parent task needs to be overriden as completed?
-    - nah
-
-[]Visa application
+Friday:
 []A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT (15 mins)
 
-[]Schedule weekend: Sunday climb stuff
-[]Schedule weekend; Saturday night stay
-[]Reply to Tim's email
+[]Gym
+[]Schedule weekend
+    []Sunday climb stuff
+    []Schedule weekend; Saturday night stay
+    []Buy train ticket
 
 []Plot Grid
 []Plot L-curve
@@ -25,6 +19,8 @@ Friday:
     \cite{Benchmarking1, oster1977review}
     - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
 []Draw mindmap of required sections in Chapter 3
+Saturday:
+[]Finish the damn visa application
 Monday:
 []Worry about sending Abstract
 []Floral language guessing game(20 mins)
