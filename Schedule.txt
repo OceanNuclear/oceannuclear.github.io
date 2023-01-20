@@ -1,6 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
+[]Buy train ticket
 Thursday:
 []Make PIL re-draw on desktop background everytime (steal from existing code) (15 mins)
     []Testing (30 mins)
@@ -8,7 +9,6 @@ Thursday:
     []incomplete task with complete parent task needs to be overriden as completed?
     - nah
 
-[]Buy train ticket
 []Visa application
 []A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT (15 mins)
 
