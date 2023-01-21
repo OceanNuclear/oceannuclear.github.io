@@ -1,9 +1,6 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-[]Finish packing w/ Google keep list
-[]Shave
-[]waterfloss
 Saturday:
 []Buy rolling pin
 []WLN96758
@@ -18,6 +15,7 @@ Monday:
     - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
 []Read the relocation compenation/claims document
 []Gym
+[]waterfloss
 Tuesday:
 []Plan around the AMAXED abstract submission for SOFE
 
