@@ -1,11 +1,9 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-[x]Put on dish washer
-[x]Clean out flat
-    []Go for a short run
 []Finish packing w/ Google keep list
-    []Clean glasses lens too
+[]Shave
+[]waterfloss
 Saturday:
 []Buy rolling pin
 []WLN96758
