@@ -1,25 +1,34 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-[]waterfloss
 Monday:
-[]What is this interesting thing about benchmark
-    \cite{Benchmarking1, oster1977review}
-    - apparently they exist (but went nowhere, probably because this cannot generalize to underdetermined/ can't find a good spectrum that covers all cases/ can't think of an a priori)
-[]A demo of unidirectional irradiation and ambient irradiation made in Google Slides or PPT (15 mins)
+[]Gym
+[]Answer Marta
+[]Merge Obsidian 4.FoilSelector.md to 4-FoilSelector.tex
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
 []Read the relocation compenation/claims document
-[]Gym
+[]MS teams: clean out last messages
+[]waterfloss
 Tuesday:
+[]Notations and glossary: use different itemize dots
+[]Notations and glossary: write script to convert back to .md so to allow live editing.
+[]Send off emails for supervision team
+    []Give them a week to read, set up meeting for next week?
+[]Make call to immigration department
+    []Check that I can do the viva on Tier 2
+        -Immigration operations? Iona Bendell
+        -0114 225 4723
+        -Call them and check ASAP
+[]break Glossary into sections by inserting headers (of various levels)
 []Fight the delay compensation dude (fuck him)
 []Finish the damn visa application
 []Plan around the AMAXED abstract submission for SOFE
 Wednesday:
 []Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
+[]Reword the title
 Saturday:
-Friday:
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
 Before end of thesis:
