@@ -2,32 +2,36 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Monday:
-[]Gym
 []Answer Marta
-[]Merge Obsidian 4.FoilSelector.md to 4-FoilSelector.tex
-[]Plot Grid
-[]Plot L-curve
-[]Plot PurelyIterativeDescent
-[]Read the relocation compenation/claims document
-[]MS teams: clean out last messages
 []waterfloss
 Tuesday:
-[]Notations and glossary: use different itemize dots
-[]Notations and glossary: write script to convert back to .md so to allow live editing.
-[]Send off emails for supervision team
-    []Give them a week to read, set up meeting for next week?
-[]Make call to immigration department
+[]Make call to Immigrations team?
     []Check that I can do the viva on Tier 2
         -Immigration operations? Iona Bendell
         -0114 225 4723
         -Call them and check ASAP
-[]break Glossary into sections by inserting headers (of various levels)
-[]Fight the delay compensation dude (fuck him)
+    []Send off a second email to Imm OPs just to be extra sure
+[]Gym
+
+[]Glossary: add the names of the rest of the techniques/instruments
+[]Merge Obsidian 4.FoilSelector.md to 4-FoilSelector.tex
 []Finish the damn visa application
-[]Plan around the AMAXED abstract submission for SOFE
+[]Send off emails for supervision team
+    []Give them a week to read, set up meeting for next week?
+    []Talk about irradiation end graphics too - I want permission to use it.
+[]break Glossary into sections by inserting headers (of various levels)
 Wednesday:
+[]Plot Grid
+[]Plot L-curve
+[]Plot PurelyIterativeDescent
+[]Plan around the AMAXED abstract submission for SOFE
 []Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
 []Reword the title
+Thursday:
+[]Read the relocation compenation/claims document
+[]Notations and glossary: write script to convert back to .md so to allow live editing.
+Friday:
+[]Fight the delay compensation dude (fuck him)
 Saturday:
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
