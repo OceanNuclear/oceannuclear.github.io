@@ -1,33 +1,26 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Monday:
-[]Answer Marta
 []waterfloss
-Tuesday:
-[]Make call to Immigrations team?
-    []Check that I can do the viva on Tier 2
-        -Immigration operations? Iona Bendell
-        -0114 225 4723
-        -Call them and check ASAP
-    []Send off a second email to Imm OPs just to be extra sure
-[]Gym
-
-[]Glossary: add the names of the rest of the techniques/instruments
-[]Merge Obsidian 4.FoilSelector.md to 4-FoilSelector.tex
-[]Finish the damn visa application
-[]Send off emails for supervision team
-    []Give them a week to read, set up meeting for next week?
-    []Talk about irradiation end graphics too - I want permission to use it.
-[]break Glossary into sections by inserting headers (of various levels)
 Wednesday:
+[]System's engineering talk
+[]Finish the damn visa application
+    []Iona Bendell 0114 225 4723
+    []Call switchboard (0114 225 2222) for Immigration Operations/ UKVI compliance phone line()
+[]Translate 4-FoilSelector.tex to 4.Foil Selector.md
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
+[]Plot the factor plot
+
 []Plan around the AMAXED abstract submission for SOFE
+    []Send off emails for supervision team
+        []Give them a week to read, set up meeting for next week?
+        []Talk about irradiation end graphics too - I want permission to use it.
 []Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
 []Reword the title
 Thursday:
+[]Gym
 []Read the relocation compenation/claims document
 []Notations and glossary: write script to convert back to .md so to allow live editing.
 Friday:
