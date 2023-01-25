@@ -1,12 +1,18 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Wednesday:
+After shower:
 []Fold laundry (10 mins)
+    []Read through the terms of AnyVan (10 mins)
     []System's engineering talk (30 mins)
+[]Read the relocation compenation/claims document (25 mins)
 []Plot the factor relationship map (Tikz) (1.5 hours)
-[]Plot the timeline
-    []Use python all the way through! (20 mins)
+[]Plot the timeline (5 mins)
+    []Graph 1
+        []Figure out the correct plot axes method (5 mins)
+        []Figure out the labels (10 mins)
+        []Figure out how to use bars (10 mins)
+    []Duplicate to make Graph 2(25 mins)
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 
 []Plot Grid
@@ -19,10 +25,10 @@ Wednesday:
 []Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
 []Reword the title
 Thursday:
-[]Gym
-[]Read the relocation compenation/claims document
+[]Ask AnyVan (020 3514 0931) about whether I can hitch a ride on the moving van (booking ref: AV 772 0036)
 []Notations and glossary: write script to convert back to .md so to allow live editing.
 Friday:
+[]Gym
 []Fight the delay compensation dude (fuck him)
 Saturday:
 []Floral language guessing game(20 mins)
