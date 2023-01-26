@@ -1,12 +1,12 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-After shower:
+Thursday morning:
 []Fold laundry (10 mins)
-    []Read through the terms of AnyVan (10 mins)
     []System's engineering talk (30 mins)
 []Read the relocation compenation/claims document (25 mins)
 []Plot the factor relationship map (Tikz) (1.5 hours)
+    - try with [tikz]{standalone}
 []Plot the timeline (5 mins)
     []Graph 1
         []Figure out the correct plot axes method (5 mins)
@@ -14,6 +14,10 @@ After shower:
         []Figure out how to use bars (10 mins)
     []Duplicate to make Graph 2(25 mins)
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
+
+Thursday:
+[]Ask AnyVan (020 3514 0931) about whether I can hitch a ride on the moving van (booking ref: AV 772 0036)
+[]Call 03447 369123 for delay compensation repayment
 
 []Plot Grid
 []Plot L-curve
@@ -24,16 +28,13 @@ After shower:
         []Talk about irradiation end graphics too - I want permission to use it.
 []Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
 []Reword the title
-Thursday:
-[]Ask AnyVan (020 3514 0931) about whether I can hitch a ride on the moving van (booking ref: AV 772 0036)
-[]Notations and glossary: write script to convert back to .md so to allow live editing.
 Friday:
 []Gym
-[]Fight the delay compensation dude (fuck him)
 Saturday:
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
 Before end of thesis:
+[]Notations and glossary: write script to convert back to .md so to allow live editing.
 []What if I just cut away everything with >2 sigmas and see what's left
 []Optimization:
     []New metrics!
