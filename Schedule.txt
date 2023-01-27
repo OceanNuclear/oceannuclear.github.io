@@ -2,12 +2,9 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday morning:
-[]Duplicate plot 1 to make Graph 2(25 mins)
-[]Plot the factor relationship map/context diagram (Tikz) (1.5 hours)
+[]Plot the context diagram/factor relationship map (Tikz) (1.5 hours)
     - try with [tikz]{standalone}
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
-3pm
-[x]Gym
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
