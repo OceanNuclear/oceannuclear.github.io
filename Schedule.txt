@@ -2,23 +2,12 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday morning:
-[]Fold laundry (10 mins)
-    []System's engineering talk (30 mins)
-[]Read the relocation compenation/claims document (25 mins)
-[]Plot the factor relationship map (Tikz) (1.5 hours)
+[]Duplicate plot 1 to make Graph 2(25 mins)
+[]Plot the factor relationship map/context diagram (Tikz) (1.5 hours)
     - try with [tikz]{standalone}
-[]Plot the timeline (5 mins)
-    []Graph 1
-        []Figure out the correct plot axes method (5 mins)
-        []Figure out the labels (10 mins)
-        []Figure out how to use bars (10 mins)
-    []Duplicate to make Graph 2(25 mins)
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
-
-Thursday:
-[]Ask AnyVan (020 3514 0931) about whether I can hitch a ride on the moving van (booking ref: AV 772 0036)
-[]Call 03447 369123 for delay compensation repayment
-
+3pm
+[x]Gym
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
@@ -26,9 +15,9 @@ Thursday:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
-[]Go shopping in the Moor (boots:earplugs, flu test, rolling pin, £land chocolate)
 []Reword the title
 Friday:
+[]Call XC again, cause they're a fucking piece of shit that doesn't let me fill out my bank details for no fucking reason (03447 369 123)
 []Gym
 Saturday:
 []Floral language guessing game(20 mins)
