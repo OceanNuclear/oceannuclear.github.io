@@ -1,9 +1,45 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Thursday morning:
+Saturday:
+[]Wipe shoes
+[]Book birthday arrangements
+[]Tell Kristen about built model and eaten fruits
+[]Send photo of demonic orchids to Ashley
+[]Second laundry
+[]\section{Factors limiting the feasible range of parameters}
+    []\items
+    []Final paragraph
+[]\subsection{Assumption of linearity} back of the envelope calculation
+[]\subsubsection{Assumptions about self-shielding}
+    []Make plot for self-shielding: 1000 barn, N_d = 10^21, vs thickness in cm
+    []Show how to determine chosen thickness
+[]Progress update:
+    - Formulation and assumptions
+        1. eq:ProductionRateSummationEquation
+        2. eq:LinearizedSummation
+        3. conversion into R
+            3.1 Using Bateman equation
+            3.2 Bateman convolved
+            3.3 Bateman convolved and then integrated.
+            3.4 diagram
+            3.5 diagram
+        4. - Assumption of linearity
+            4.1 No significant downscattering
+            4.2 no depeltion
+            4.3 self-shielding
+                4.3.1 get thickness limit equation
+                4.3.2 show UniOmnidirectional graph
+        5. Radioisotope retention assumption
+        6. \textit{A priori} accuracy assumption
+    - Constraints inputted by the user 
+    - Parameters further fixed by the user
+
+    
 []Plot the context diagram/factor relationship map (Tikz) (1.5 hours)
     - try with [tikz]{standalone}
+    []WTH is a context diagram, and is mine one?
+    []Place at top of \section{Factors limiting the feasible range of parameters}
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 []Plot Grid
 []Plot L-curve
@@ -13,12 +49,9 @@ Thursday morning:
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
 []Reword the title
-Friday:
+Monday:
 []Call XC again, cause they're a fucking piece of shit that doesn't let me fill out my bank details for no fucking reason (03447 369 123)
 []Gym
-Saturday:
-[]Floral language guessing game(20 mins)
-[]Reply to Robin's email about PhD funding
 Before end of thesis:
 []Notations and glossary: write script to convert back to .md so to allow live editing.
 []What if I just cut away everything with >2 sigmas and see what's left
@@ -29,9 +62,12 @@ Before end of thesis:
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not 
     simple as "curvature per bin"! It should be curvature per eV, or PUL?
+After job start:
+[]Floral language guessing game(20 mins)
+[]Reply to Robin's email about PhD funding
 
 Daily task: One novel thing per day:
-[]Exercise/hobby: Skatehouse, Fellrunning, Broadfield park, Hangar, Foundry Climbing, Cross Fit Kelham, Cyr wheel
+[]Exercise/hobby: Skatehouse, Fellrunning, Foundry Climbing, Cross Fit Kelham, Broadfield park, Cyr wheel
 []One of the following learning things:
     []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
