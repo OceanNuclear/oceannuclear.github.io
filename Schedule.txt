@@ -1,12 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Saturday:
-[]Wipe shoes
-[]Book birthday arrangements
-[]Tell Kristen about built model and eaten fruits
-[]Send photo of demonic orchids to Ashley
-[]Second laundry
+Sunday:
 []\section{Factors limiting the feasible range of parameters}
     []\items
     []Final paragraph
@@ -14,7 +9,7 @@ Saturday:
 []\subsubsection{Assumptions about self-shielding}
     []Make plot for self-shielding: 1000 barn, N_d = 10^21, vs thickness in cm
     []Show how to determine chosen thickness
-[]Progress update:
+[]Thesis progress:
     - Formulation and assumptions
         1. eq:ProductionRateSummationEquation
         2. eq:LinearizedSummation
@@ -34,7 +29,7 @@ Saturday:
         6. \textit{A priori} accuracy assumption
     - Constraints inputted by the user 
     - Parameters further fixed by the user
-
+[]Check if I could've benefitted from a less efficient communication network (mentor-mentee)
     
 []Plot the context diagram/factor relationship map (Tikz) (1.5 hours)
     - try with [tikz]{standalone}
