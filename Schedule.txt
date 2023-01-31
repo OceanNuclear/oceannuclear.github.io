@@ -1,14 +1,14 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Sunday:
-[]\section{Factors limiting the feasible range of parameters}
-    []\items
-    []Final paragraph
-[]\subsection{Assumption of linearity} back of the envelope calculation
-[]\subsubsection{Assumptions about self-shielding}
-    []Make plot for self-shielding: 1000 barn, N_d = 10^21, vs thickness in cm
-    []Show how to determine chosen thickness
+Monday:
+[x]Peanut butter for Marta
+[]RUN. A. WHOLE. FOIL SELECTION PROCESS.
+[]Clean floor
+[]Buy train ticket to Birmingham! for Monday
+[]Gym
+    []Reword the title
+[]Wash bag
 []Thesis progress:
     - Formulation and assumptions
         1. eq:ProductionRateSummationEquation
@@ -29,13 +29,7 @@ Sunday:
         6. \textit{A priori} accuracy assumption
     - Constraints inputted by the user 
     - Parameters further fixed by the user
-[]Check if I could've benefitted from a less efficient communication network (mentor-mentee)
     
-[]Plot the context diagram/factor relationship map (Tikz) (1.5 hours)
-    - try with [tikz]{standalone}
-    []WTH is a context diagram, and is mine one?
-    []Place at top of \section{Factors limiting the feasible range of parameters}
-[]Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
@@ -43,25 +37,29 @@ Sunday:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
-[]Reword the title
-Monday:
+
+Tuesday:
 []Call XC again, cause they're a fucking piece of shit that doesn't let me fill out my bank details for no fucking reason (03447 369 123)
-[]Gym
 Before end of thesis:
-[]Notations and glossary: write script to convert back to .md so to allow live editing.
 []What if I just cut away everything with >2 sigmas and see what's left
+[]Notations and glossary: write script to convert back to .md so to allow live editing.
+[]Optimize the decision tree by using absolute positions
+    - E:\Self\Thesis\latexExp\AlgorithmCategorizationFlowChartReshaped.tex
+    - reference: E:\Self\Thesis\latexExp\ContextDiagramFlat.tex
 []Optimization:
     []New metrics!
         - response matrix that causes the largest covariance minimization?
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
-    []Curvature is not 
-    simple as "curvature per bin"! It should be curvature per eV, or PUL?
+    []Curvature is not simple as "curvature per bin"! It should be curvature per eV, or PUL?
+[]Check if I could've benefitted from a less efficient communication network (mentor-mentee)
+    - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
 After job start:
 []Floral language guessing game(20 mins)
 []Reply to Robin's email about PhD funding
 
 Daily task: One novel thing per day:
+[]Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 []Exercise/hobby: Skatehouse, Fellrunning, Foundry Climbing, Cross Fit Kelham, Broadfield park, Cyr wheel
 []One of the following learning things:
     []Social media & Sci+Math tab
