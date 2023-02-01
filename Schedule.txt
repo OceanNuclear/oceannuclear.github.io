@@ -1,14 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Monday:
-[x]Peanut butter for Marta
-[]RUN. A. WHOLE. FOIL SELECTION PROCESS.
-[]Clean floor
-[]Buy train ticket to Birmingham! for Monday
-[]Gym
-    []Reword the title
-[]Wash bag
+Tuesda:
 []Thesis progress:
     - Formulation and assumptions
         1. eq:ProductionRateSummationEquation
@@ -29,6 +22,8 @@ Monday:
         6. \textit{A priori} accuracy assumption
     - Constraints inputted by the user 
     - Parameters further fixed by the user
+[]Clean floor
+[]Wash bag
     
 []Plot Grid
 []Plot L-curve
@@ -37,9 +32,9 @@ Monday:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
-
-Tuesday:
-[]Call XC again, cause they're a fucking piece of shit that doesn't let me fill out my bank details for no fucking reason (03447 369 123)
+Friday:
+[]Gym
+    []Reword the title
 Before end of thesis:
 []What if I just cut away everything with >2 sigmas and see what's left
 []Notations and glossary: write script to convert back to .md so to allow live editing.
