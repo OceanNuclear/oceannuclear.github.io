@@ -22,9 +22,7 @@ Tuesda:
         6. \textit{A priori} accuracy assumption
     - Constraints inputted by the user 
     - Parameters further fixed by the user
-[]Clean floor
-[]Wash bag
-    
+
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
@@ -32,6 +30,11 @@ Tuesda:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
+Wednesday:
+[]Clean bike
+[]Pack 1 box
+[]Clean floor
+[]Wash bag
 Friday:
 []Gym
     []Reword the title
