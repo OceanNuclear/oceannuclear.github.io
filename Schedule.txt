@@ -1,28 +1,9 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Tuesda:
-[]Thesis progress:
-    - Formulation and assumptions
-        1. eq:ProductionRateSummationEquation
-        2. eq:LinearizedSummation
-        3. conversion into R
-            3.1 Using Bateman equation
-            3.2 Bateman convolved
-            3.3 Bateman convolved and then integrated.
-            3.4 diagram
-            3.5 diagram
-        4. - Assumption of linearity
-            4.1 No significant downscattering
-            4.2 no depeltion
-            4.3 self-shielding
-                4.3.1 get thickness limit equation
-                4.3.2 show UniOmnidirectional graph
-        5. Radioisotope retention assumption
-        6. \textit{A priori} accuracy assumption
-    - Constraints inputted by the user 
-    - Parameters further fixed by the user
-
+Wednesday:
+[]Quick gym downstairs
+Thurdsay:
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
@@ -30,7 +11,6 @@ Tuesda:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
-Wednesday:
 []Clean bike
 []Pack 1 box
 []Clean floor
