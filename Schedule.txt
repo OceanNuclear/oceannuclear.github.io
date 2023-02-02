@@ -3,6 +3,8 @@
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
 []Quick gym downstairs
+[]\cite{OceanNuclearFoilSelector}
+[]\cite{openmcPython}
 Thurdsay:
 []Plot Grid
 []Plot L-curve
