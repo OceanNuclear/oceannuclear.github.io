@@ -5,6 +5,17 @@ Wednesday:
 []Quick gym downstairs
 []\cite{OceanNuclearFoilSelector}
 []\cite{openmcPython}
+[]4-FoilSelector
+    []line 101-200
+    []line 201-300
+    []line 301-400
+    []line 401-500
+    []line 500+
+[]DecomposingTransmutationChain
+[]OverlappingTree
+[]Grad scheme professional development meeting
+    []Send email: had prior commitments, but still ask if there's recording, if not should I ask my fellow cohort mates to send me notes
+[]Adam's videos: https://www.instagram.com/direct/t/340282366841710300949128224117601304977
 Thurdsay:
 []Plot Grid
 []Plot L-curve
@@ -13,8 +24,8 @@ Thurdsay:
     []Send off emails for supervision team
         []Give them a week to read, set up meeting for next week?
         []Talk about irradiation end graphics too - I want permission to use it.
-[]Clean bike
 []Pack 1 box
+[]Clean bike
 []Clean floor
 []Wash bag
 Friday:
