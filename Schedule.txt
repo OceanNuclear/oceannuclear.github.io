@@ -1,12 +1,8 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Wednesday:
-[]Quick gym downstairs
-[]\cite{OceanNuclearFoilSelector}
-[]\cite{openmcPython}
+Friday:
 []4-FoilSelector
-    []line 101-200
     []line 201-300
     []line 301-400
     []line 401-500
@@ -15,7 +11,21 @@ Wednesday:
 []OverlappingTree
 []Grad scheme professional development meeting
     []Send email: had prior commitments, but still ask if there's recording, if not should I ask my fellow cohort mates to send me notes
-[]Adam's videos: https://www.instagram.com/direct/t/340282366841710300949128224117601304977
+[x]Adam's videos: https://www.instagram.com/direct/t/340282366841710300949128224117601304977
+[]Draft emails to Alison asking if I need can write \gamma-ray everywhere
+    - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
+    - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
+    - [gamma-ray detector] or gamma-detector
+    - gamma-ray line, gamma line or gamma-line? (referring specifically to a single entry on the decay data file recording one gamma line's energy and intensity) Should I write γ or gamma?
+        - like https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=60Co&unc=NDS#:~:text=6.3E%2D5%207-,1173.228,-3%C2%A0
+    []These things: Do I write γ or gamma?
+    - gamma-ray count(s)
+    - gamma-ray detection system
+    - gamma-ray detector(s)
+    - ... with no observable gamma-ray emission.
+    - ... the range of detectible gamma-ray energies that may be logged on the ADC.
+    - gamma-ray spectroscopy
+    - ... discarding any non-gamma-ray related decay information ...
 Thurdsay:
 []Plot Grid
 []Plot L-curve
@@ -61,11 +71,12 @@ Daily task: One novel thing per day:
     []Clean e-mailboxes
 Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
+[]https://devblogs.microsoft.com/commandline/new-experimental-console-features/#terminal-colors
 []ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
 []Buy SSD reader
 []craft-hub.com/collections/closing-collection
 []Buy alternative keyboard(s)
-
+[]Try Motion
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Gravel convergence condition
@@ -81,7 +92,6 @@ Interesting/recreational/entertaining:
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
 []Use remaining personal items at home
-    []build lego puzzle
     []Read remaining books
     []Driver's education
 fucking hell I could've used ax.set_yscale('function', functions=[sqrt, lambda x:x**2]) all along
