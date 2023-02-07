@@ -1,18 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Friday:
-[]4-FoilSelector
-    []line 301-400
-    []line 401-500
-    []line 500+
-[]These two sections sets out to outline, but not so precisely. Fairly comprehensive but not exhaustive starting checklist for other groups that may need to plan their unfolding experiments, as it is not possible to capture the needs of all types of unfolding experiments, past and future.
+[]Clear floor paper and dining table
+[]Send email to Alex Pearce
+[]Washing
+[]Tidy up the paper
+[]Ask Kristen if I should've broken the paragraph or not
 []Collect stories of breakdancing/ moments of inspirations from the past 3 months!
     []Try my best to ignore the nostalgia haha, unless they give me inspirations
-[]DecomposingTransmutationChain
-[]OverlappingTree
-[]Grad scheme professional development meeting
-    []Send email: had prior commitments, but still ask if there's recording, if not should I ask my fellow cohort mates to send me notes
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
     - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
@@ -27,23 +22,27 @@ Friday:
     - ... the range of detectible gamma-ray energies that may be logged on the ADC.
     - gamma-ray spectroscopy
     - ... discarding any non-gamma-ray related decay information ...
+[]Draft separate email to Chantal
+    []Talk about irradiation end graphics too - I want permission to use it.
+[]4-FoilSelector
+    []3.4
+    []3.6
+    []3.7
+    []3.5
+[]Wash bag
+[]Grad scheme professional development meeting
 Thurdsay:
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
-[]Plan around the AMAXED abstract submission for SOFE
-    []Send off emails for supervision team
-        []Give them a week to read, set up meeting for next week?
-        []Talk about irradiation end graphics too - I want permission to use it.
 []Pack 1 box
-[]Clean bike
-[]Clean floor
-[]Wash bag
+[x]Clean bike
 Friday:
-[]Gym
-    []Reword the title
+[x]Gym
+[]SH Free C
+[]Reword the title
 Before end of thesis:
-[]Re-order sec:ExpDesignParameters itemize points to follow the same ordering as ContextDiagram
+
 []What if I just cut away everything with >2 sigmas and see what's left
 []Notations and glossary: write script to convert back to .md so to allow live editing.
 []Optimize the decision tree by using absolute positions
