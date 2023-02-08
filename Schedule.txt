@@ -2,10 +2,10 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 []Clear floor paper and dining table
+    []Tidy up the paper
 []Send email to Alex Pearce
-[]Washing
-[]Tidy up the paper
-[]Ask Kristen if I should've broken the paragraph or not
+[]Pack 1 box
+[]Drying
 []Collect stories of breakdancing/ moments of inspirations from the past 3 months!
     []Try my best to ignore the nostalgia haha, unless they give me inspirations
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
@@ -25,7 +25,6 @@
 []Draft separate email to Chantal
     []Talk about irradiation end graphics too - I want permission to use it.
 []4-FoilSelector
-    []3.4
     []3.6
     []3.7
     []3.5
@@ -35,8 +34,6 @@ Thurdsay:
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
-[]Pack 1 box
-[x]Clean bike
 Friday:
 [x]Gym
 []SH Free C
