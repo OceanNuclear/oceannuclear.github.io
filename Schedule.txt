@@ -1,13 +1,7 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-[]Clear floor paper and dining table
-    []Tidy up the paper
-[]Send email to Alex Pearce
-[]Pack 1 box
-[]Drying
-[]Collect stories of breakdancing/ moments of inspirations from the past 3 months!
-    []Try my best to ignore the nostalgia haha, unless they give me inspirations
+Wednesday:
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
     - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
@@ -24,19 +18,27 @@
     - ... discarding any non-gamma-ray related decay information ...
 []Draft separate email to Chantal
     []Talk about irradiation end graphics too - I want permission to use it.
+[]Collect stories of breakdancing/ moments of inspirations from the past 3 months!
+    []Try my best to ignore the nostalgia haha, unless they give me inspirations
+[]Line 70-71 of 1-*tex
+Thursday:
+[]Find file of names of everyone on the team in my computer 
+[]Call Loxley: 
+    - I was waiting for it to take effect, but it never did, so I don't want to double pay
+    - Why bother?
+    - Create the fucking worset
+[]Call UKAEA
+Friday:
 []4-FoilSelector
     []3.6
     []3.7
     []3.5
 []Wash bag
-[]Grad scheme professional development meeting
 Thurdsay:
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
 Friday:
-[x]Gym
-[]SH Free C
 []Reword the title
 Before end of thesis:
 
@@ -59,7 +61,7 @@ After job start:
 
 Daily task: One novel thing per day:
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
-[]Exercise/hobby: Skatehouse, Fellrunning, Foundry Climbing, Cross Fit Kelham, Broadfield park, Cyr wheel
+[]Exercise/hobby: Skatehouse, Fellrunning
 []One of the following learning things:
     []Social media & Sci+Math tab
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
