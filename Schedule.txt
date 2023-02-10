@@ -4,7 +4,7 @@
 Wednesday:
 []Shower/wash face
 []Gym
-    []Update friends about dealy
+    []Update friends about delay
     []Reword the title
 []Make relevant changes to comments
     []Alison's
@@ -31,22 +31,18 @@ Sunday:
     []tick off outlook email
 Monday:
 []Find file of names of everyone on the PPT team in my computer
-[]Question for start date:
-    - should I be expecting my first day to be just setting up IT accounts & learning U4BW and Marval? And doing other online training courses? If not, would I be allocated time to familiarize myself to do these?
 []Collect stories of breakdancing/ moments of inspirations from the past 3 months!
     []Try my best to ignore the nostalgia haha, unless they give me inspirations
-Friday:
-[]Update friends on new date
+[]Wash bag
+Tuesday:
 []4-FoilSelector
     []3.6
     []3.7
     []3.5
-[]Wash bag
 Thurdsay:
 []Plot Grid
 []Plot L-curve
 []Plot PurelyIterativeDescent
-Friday:
 Before end of thesis:
 []Line 70-71 of 1-*tex
 []What if I just cut away everything with >2 sigmas and see what's left
