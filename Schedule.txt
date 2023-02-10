@@ -2,6 +2,10 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
+[]Shower/wash face
+[]Gym
+    []Update friends about dealy
+    []Reword the title
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
     - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
@@ -18,15 +22,16 @@ Wednesday:
     - ... discarding any non-gamma-ray related decay information ...
 []Draft separate email to Chantal
     []Talk about irradiation end graphics too - I want permission to use it.
-Friday:
 []Skern trip reply
-[x]Supervision form
-[]Find file of names of everyone on the team in my computer
+Sunday:
+[]Project management elearning247 course
+    []tick off outlook email
+Monday:
+[]Find file of names of everyone on the PPT team in my computer
 []Question for start date:
     - should I be expecting my first day to be just setting up IT accounts & learning U4BW and Marval? And doing other online training courses? If not, would I be allocated time to familiarize myself to do these?
 []Collect stories of breakdancing/ moments of inspirations from the past 3 months!
     []Try my best to ignore the nostalgia haha, unless they give me inspirations
-[]Line 70-71 of 1-*tex
 Friday:
 []Update friends on new date
 []4-FoilSelector
@@ -39,9 +44,8 @@ Thurdsay:
 []Plot L-curve
 []Plot PurelyIterativeDescent
 Friday:
-[]Reword the title
 Before end of thesis:
-
+[]Line 70-71 of 1-*tex
 []What if I just cut away everything with >2 sigmas and see what's left
 []Notations and glossary: write script to convert back to .md so to allow live editing.
 []Optimize the decision tree by using absolute positions
