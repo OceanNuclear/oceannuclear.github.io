@@ -1,9 +1,9 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Wednesday:
-[]Gym
-    []Reword the title
+Friday:
+[]Reword the title
+[]Worry about Vanquis: how much is left?
 []Make relevant changes to comments
     []Alison's
     []Chantal's
@@ -24,8 +24,7 @@ Wednesday:
 []Draft separate email to Chantal
     []Talk about irradiation end graphics too - I want permission to use it.
 Sunday:
-[]Project management elearning247 course
-    []tick off outlook email
+[x]Project management elearning247 course email
 Monday:
 []Find file of names of everyone on the PPT team in my computer
 []Collect stories of breakdancing/ moments of inspirations from the past 3 months!
