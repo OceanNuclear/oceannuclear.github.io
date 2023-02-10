@@ -6,6 +6,9 @@ Wednesday:
 []Gym
     []Update friends about dealy
     []Reword the title
+[]Make relevant changes to comments
+    []Alison's
+    []Chantal's
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
     - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
