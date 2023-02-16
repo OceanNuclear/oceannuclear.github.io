@@ -2,13 +2,25 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
-[]Try to charge bike torch if i can find it
-[]Read Chantal's email
-[]Schedule meeting w/ supervision team
+[]Shower
 []Make USB image of Linux
+[]Collect stories of breakdancing/ moments of inspirations from the past 3 months!
+    []Try my best to ignore the nostalgia haha, unless they give me inspirations
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
-[]Find file of names of everyone on the PPT team in my computer
+[]Sticker for mailbox
+[]Wash bag
+
+[]Schedule meeting w/ supervision team
+[]Reply to Chantal's email
+Friday:
+8am
+[]Send off print job for SHU (3 mins)
+[]Return Monitor to SHU (20 mins)
+    []Print letter (20 mins)
+    []Shred paper and card (5 mins)
+10:30
+[]Mentoring & Professional development meeting (35 mins)
 []Draft emails to Alison asking if I need can write \gamma-ray everywhere
     - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
@@ -23,20 +35,27 @@ Wednesday:
     - ... the range of detectible gamma-ray energies that may be logged on the ADC.
     - gamma-ray spectroscopy
     - ... discarding any non-gamma-ray related decay information ...
-Tuesday:
-[]Figure out something about the teaching lunch
-[]Organize climbing w/ Sean
-[]Wash bag
-[]Collect stories of breakdancing/ moments of inspirations from the past 3 months!
-    []Try my best to ignore the nostalgia haha, unless they give me inspirations
-Thurdsay:
+[]Find file of names of everyone on the PPT team in my computer
 []Answer Mitja
-Friday:
-[]Return screen to SHU
-    []Shred paper
-    []Buy chocolate wafer rolls
+    - Overeaf
 Saturday:
 []Edit chapter 1 - 3
+Monday checklist:
+[]Bring documents:
+    []Driving license, passport, and letter
+[]USB install of laptop
+[]New Starter Orientation Computer Based Training (CBT)
+[]U4BW
+    []Misc. (see Alex Smith Tmsg sent during ID check)
+    []Relocation claim
+[]Join Union
+    - free for 3 months! (Dean McGarrigle Tmsg)
+    []prospect.org.uk/join/
+    []Sophie Tmsg
+[]Talk to Hari about Dosimetry
+[]Save the tracker.xlsx
+[]Ask about Dosimetry courses
+[]Check the typical pay on the new Lv 4 openings
 Before end of thesis:
 []Line 70-71 of 1-*tex
 []Plot Grid
