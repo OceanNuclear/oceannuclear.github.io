@@ -2,10 +2,11 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
-[]Make USB image of Linux
-[]Sticker for mailbox
+[x]Make USB image of Linux
+[x]Sticker for mailbox
+[x]Ask reception how to get parking
 10:30
-[]Ask reception about parking
+[]Teams message + WhatsApp meeting about Czech Experiment
 []Mentoring & Professional development meeting (35 mins)
 []Send off print job for SHU (3 mins)
 []Return Monitor to SHU (20 mins)
