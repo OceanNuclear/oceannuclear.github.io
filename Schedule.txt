@@ -2,17 +2,10 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
-[]Shower
 []Make USB image of Linux
-[]Collect stories of breakdancing/ moments of inspirations from the past 3 months!
-    []Try my best to ignore the nostalgia haha, unless they give me inspirations
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
 []Sticker for mailbox
-[]Wash bag
-
-[]Schedule meeting w/ supervision team
-[]Reply to Chantal's email
 Friday:
 8am
 []Send off print job for SHU (3 mins)
@@ -55,6 +48,7 @@ Monday checklist:
 []Talk to Hari about Dosimetry
 []Save the tracker.xlsx
 []Ask about Dosimetry courses
+[]Get gym access
 []Check the typical pay on the new Lv 4 openings
 Before end of thesis:
 []Line 70-71 of 1-*tex
