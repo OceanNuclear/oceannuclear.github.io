@@ -13,7 +13,7 @@ Sunday:
     - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
     - [gamma-ray detector] or gamma-detector
     - gamma-ray line, gamma line or gamma-line? (referring specifically to a single entry on the decay data file recording one gamma line's energy and intensity) Should I write γ or gamma?
-        - like https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=60Co&unc=NDS#:~:text=6.3E%2D5%207-,1173.228,-3%C2%A0
+    - like https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=60Co&unc=NDS#:~:text=6.3E%2D5%207-,1173.228,-3%C2%A0
     []These things: Do I write γ or gamma?
     - gamma-ray count(s)
     - gamma-ray detection system
@@ -23,7 +23,7 @@ Sunday:
     - gamma-ray spectroscopy
     - ... discarding any non-gamma-ray related decay information ...
 Monday checklist:
-[]Bring documents:
+[x]Bring documents:
     []Driving license, passport, and letter
 []USB install of laptop
 []New Starter Orientation Computer Based Training (CBT)
@@ -37,7 +37,7 @@ Monday checklist:
 []Talk to Hari about Dosimetry
 []Save the tracker.xlsx
 []Ask about Dosimetry courses
-[]Get gym access
+[]get gym access
 []Check the typical pay on the new Lv 4 openings
 Before end of thesis:
 []Line 70-71 of 1-*tex
