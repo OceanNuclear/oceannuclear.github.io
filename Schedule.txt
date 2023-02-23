@@ -2,44 +2,36 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Wednesday:
+[]Answer Mitja
+    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
+[]Answer Grace Leader/ Health Physics
+[]Pay back Loxley via Stripe
+Monday checklist:
+[]Reply to Lauren Wood on the meeting invitation: rest of the documents
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
-[]Answer Mitja
-    - Overeaf
-Sunday:
-[]Edit chapter 1 - 3
-[]Draft emails to Alison asking if I need can write \gamma-ray everywhere
-    - gamma-ray spectrum or gamma-spectrum? Should I write γ or gamma?
-    - gamma-ray spectrum acquisition, gamma-spectrum acquisition, or gamma-acquisition? Should I write γ or gamma?
-    - [gamma-ray detector] or gamma-detector
-    - gamma-ray line, gamma line or gamma-line? (referring specifically to a single entry on the decay data file recording one gamma line's energy and intensity) Should I write γ or gamma?
-    - like https://www.nndc.bnl.gov/nudat3/decaysearchdirect.jsp?nuc=60Co&unc=NDS#:~:text=6.3E%2D5%207-,1173.228,-3%C2%A0
-    []These things: Do I write γ or gamma?
-    - gamma-ray count(s)
-    - gamma-ray detection system
-    - gamma-ray detector(s)
-    - ... with no observable gamma-ray emission.
-    - ... the range of detectible gamma-ray energies that may be logged on the ADC.
-    - gamma-ray spectroscopy
-    - ... discarding any non-gamma-ray related decay information ...
-Monday checklist:
-[x]Bring documents:
-    []Driving license, passport, and letter
-[]USB install of laptop
-[]New Starter Orientation Computer Based Training (CBT)
-[]U4BW
-    []Misc. (see Alex Smith Tmsg sent during ID check)
-    []Relocation claim
-[]Join Union
-    - free for 3 months! (Dean McGarrigle Tmsg)
-    []prospect.org.uk/join/
-    []Sophie Tmsg
-[]Talk to Hari about Dosimetry
-[]Save the tracker.xlsx
-[]Ask about Dosimetry courses
-[]get gym access
+Monday:
+[]inotifywaitActions.sh
+    []Repurpose the key so that I stop accidentally hitting # for enter!
+    []Put it into crontab
+    []Fix the add_text.py file
+        - found in /home/ocean/Pictures/BGs/add_text.py
+        - /home/ocean/.local/share/backgrounds/
+        - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
+Tuesday:
+[]Double Check Robin's work - i.e. itinerary of travel is sensible
 []Check the typical pay on the new Lv 4 openings
+[]Grad activities?
+    []Gradlympics
+[]Send off early Careers agreement form or something?
+[]Graduate scheme look over what duties I have
+    []When's the next learning lunch
+[]Climb in Swindon
+Wednesday:
+[]Organize climbing in Reading
+[]3D print to lock the num lock key
 Before end of thesis:
+[]Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
 []Plot Grid
 []Plot L-curve
