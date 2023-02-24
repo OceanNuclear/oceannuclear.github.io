@@ -2,17 +2,17 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
-[]FIND SSD reader etc. ebay parcel!
 []Google keep list: pack
-Friday:
-[]Install bluemira
+[]Bring two bags
+
+[]draft first timesheet!
+    []Submit by the end of the day
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
 []Answer Grace Leader/ Health Physics
-[]Bring two bags
-[]Keyboard shortcut to turn off trackpad
-    https://askubuntu.com/questions/67718/how-do-i-disable-a-touchpad-using-the-command-line
+[]Install bluemira
+
 []Wash/wipe coat
 []SLEEP GOOD
 Monday checklist:
@@ -20,6 +20,7 @@ Monday checklist:
 []The two acrostaff replacement
 []Location of the replacement
 Monday:
+[]Why is trackpad keyboard shortcut not working
 []inotifywaitActions.sh
     []Repurpose the key so that I stop accidentally hitting # for enter!
     []Put it into crontab
