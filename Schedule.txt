@@ -1,15 +1,23 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Wednesday:
+Thursday:
+[]FIND SSD reader etc. ebay parcel!
+[]Google keep list: pack
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
+    - /home/ocean/Documents/PhD/tmpMitja/
+[]Wash/wipe coat
+[]SLEEP GOOD
+Friday:
 []Answer Grace Leader/ Health Physics
-[]Pay back Loxley via Stripe
+[]Bring two bags
+[]Keyboard shortcut to turn off trackpad
+    https://askubuntu.com/questions/67718/how-do-i-disable-a-touchpad-using-the-command-line
 Monday checklist:
-[]Reply to Lauren Wood on the meeting invitation: rest of the documents
-[]Listen to fusion materials
-    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
+[]MRI: what date?
+[]The two acrostaff replacement
+[]Location of the replacement
 Monday:
 []inotifywaitActions.sh
     []Repurpose the key so that I stop accidentally hitting # for enter!
@@ -18,7 +26,10 @@ Monday:
         - found in /home/ocean/Pictures/BGs/add_text.py
         - /home/ocean/.local/share/backgrounds/
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
+        - maybe modify the actual image that I'm already using?
 Tuesday:
+[]Listen to fusion materials
+    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
 []Double Check Robin's work - i.e. itinerary of travel is sensible
 []Check the typical pay on the new Lv 4 openings
 []Grad activities?
@@ -30,6 +41,10 @@ Tuesday:
 Wednesday:
 []Organize climbing in Reading
 []3D print to lock the num lock key
+Thursday:
+[]Take thesis files out of computer
+[]Reply to Lauren Wood on the meeting invitation: rest of the documents
+    - /home/ocean/Documents/UKAEA/1.Induction/
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
