@@ -21,6 +21,8 @@ Monday checklist:
 []Location of the replacement
 Monday:
 []Why is trackpad keyboard shortcut not working
+    - /home/ocean/trackpad.sh
+    - shift+alt+p doesn't work ATM
 []inotifywaitActions.sh
     []Repurpose the key so that I stop accidentally hitting # for enter!
     []Put it into crontab
