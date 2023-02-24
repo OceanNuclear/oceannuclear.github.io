@@ -4,16 +4,17 @@
 Thursday:
 []FIND SSD reader etc. ebay parcel!
 []Google keep list: pack
+Friday:
+[]Install bluemira
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
-[]Wash/wipe coat
-[]SLEEP GOOD
-Friday:
 []Answer Grace Leader/ Health Physics
 []Bring two bags
 []Keyboard shortcut to turn off trackpad
     https://askubuntu.com/questions/67718/how-do-i-disable-a-touchpad-using-the-command-line
+[]Wash/wipe coat
+[]SLEEP GOOD
 Monday checklist:
 []MRI: what date?
 []The two acrostaff replacement
