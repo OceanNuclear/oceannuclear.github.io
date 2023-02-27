@@ -23,20 +23,22 @@ Monday:
         []See if this is evadable at all
     []Look up government assitances
         - There's one tab in your phone that can help with this.
-[]MRI: MSK B floor 10:20 Monday Hallamshire hospital
-[]Clean
+[]Clean (1 hour)
     - Google clean list
     []Discard rug
     []Clean out fridge foods
-[]Bring back items
+[]Bring back items (1 hour)
     []The two acrostaff replacement
     []Shampoo, toothpaste, shower scrunchie, toilet spray
+    []Lampshades
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
 []Answer Grace Leader/Health Physics
-[]install bluemira
+[]Install bluemira
 Tuesday:
+[]Register with GP
+    []Change address! Immediately!
 []Add .docx, .odf, .xlsx, .ods to ~/Templates
 []Fix bike shed door
 []stick retro-reflective marker bike tape onto the straps of my bag
@@ -82,7 +84,6 @@ Before end of thesis:
     - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
 After job start:
 []Floral language guessing game(20 mins)
-[]Reply to Robin's email about PhD funding
 
 Daily task: One novel thing per day:
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
@@ -96,10 +97,8 @@ Daily task: One novel thing per day:
     []Clean e-mailboxes
 Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
-[]https://devblogs.microsoft.com/commandline/new-experimental-console-features/#terminal-colors
 []ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
-[]Buy SSD reader
-[]craft-hub.com/collections/closing-collection
+[]Craft-hub.com/collections/closing-collection
 []Buy alternative keyboard(s)
 []Try Motion.ai
 []Sign up for Complex Analysis/control theory on MOOC or open U
