@@ -2,22 +2,30 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Monday:
-[]inotifywaitActions.sh
-    []Repurpose the key so that I stop accidentally hitting # for enter!
+[x]Cancel JD direct debit
+[x]Pay Jan Spregel
+[x]input remapper
+    [x]Repurpose the key so that I stop accidentally hitting # for enter!
         - the keypad '+' replaces the '#~' key
         - the keypad 'CE' '/' keys do home and end respectively
         - the keypad '+/-' '*' keys do page up and down respectively
         - Find a use for the - key (pgdn?)
+    [x]Always enable numlock
+        [x]Remap numlock as KEY_Home
+        []In case it got stuck at off, how to turn it back on
+[]Send screenshot of Unit4 timesheet to James Cook (3 mins)
+    []Then submit timesheet (3 mins)
+[]Read one of the docx attached in the email invitation of FTBU - OLT
+    - https://ukaeauk.sharepoint.com/:w:/s/FusionTechnologyBusinessUnit-OLT-sharedarea/EUltzlUHfkRGkfFcamq_6TQBV5WnoNH270HCKgvqZgzqHw?e=g6611d&CID=2095201b-7b4f-d779-5af7-0f6d65ff6688
+Tuesday:
+[]Lunchtime cycle meeting
+[]inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
         - /home/ocean/.local/share/backgrounds/
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
-        []maybe modify the actual image that I'm already using?
+        []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Read one of the docx attached in the email invitation of FTBU - OLT
-    - https://ukaeauk.sharepoint.com/:w:/s/FusionTechnologyBusinessUnit-OLT-sharedarea/EUltzlUHfkRGkfFcamq_6TQBV5WnoNH270HCKgvqZgzqHw?e=g6611d&CID=2095201b-7b4f-d779-5af7-0f6d65ff6688
-[]Send screenshot of Unit4 timesheet to James Cook (3 mins)
-    []Then submit timesheet (3 mins)
 []Pay the damn bills:
     []Look at how much I have to pay
         []See if this is evadable at all
