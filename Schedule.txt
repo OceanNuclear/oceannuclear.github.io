@@ -3,7 +3,7 @@
 4. regulate stimulus level by playing lectures in the background.
 Monday:
 []Install bluemira
-
+[x]Gym access: requested
 []Set up desktop
 []Clean home boxes
 Tuesday:
