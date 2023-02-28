@@ -3,8 +3,6 @@
 4. regulate stimulus level by playing lectures in the background.
 Monday:
 []Install bluemira
-[]Answer Grace Leader/Health Physics
-[]Lunchtime cycle meeting
 
 []Set up desktop
 []Clean home boxes
@@ -23,17 +21,16 @@ Tuesday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Double Check Robin's work - i.e. itinerary of travel is sensible
 []Grad activities?
     []Gradlympics
 Wednesday:
+[]Answer Mitja
+    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
+    - /home/ocean/Documents/PhD/tmpMitja/
 []Send off early Careers agreement form or something?
 []Graduate scheme look over what duties I have
     []When's the next learning lunch
 []Climb in Swindon
-[]Answer Mitja
-    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
-    - /home/ocean/Documents/PhD/tmpMitja/
 []Organize climbing in Reading
     []Check out Maker Space
 []Fix bike shed door
