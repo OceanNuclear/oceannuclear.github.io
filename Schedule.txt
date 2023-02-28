@@ -8,13 +8,6 @@ Wednesday:
 []Bring the SSD Reader + SSD
     []Add .docx, .odf, .xlsx, .ods to ~/Templates
 []Install bluemira
-[]inotifywaitActions.sh
-    []Fix the add_text.py file
-        - found in /home/ocean/Pictures/BGs/add_text.py
-        - /home/ocean/.local/share/backgrounds/
-        - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
-        []maybe directly modify the image that already on the screen?
-        - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
 []Pay the damn bills:
     []Look at how much I have to pay
         []See if this is evadable at all
@@ -36,13 +29,20 @@ Thursday:
 []stick retro-reflective marker bike tape onto the straps of my bag
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
-Thursday:
+Saturday:
 []Register with GP
     []Change address! Immediately!
+[]inotifywaitActions.sh
+    []Fix the add_text.py file
+        - found in /home/ocean/Pictures/BGs/add_text.py
+        - /home/ocean/.local/share/backgrounds/
+        - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
+        []maybe directly modify the image that already on the screen?
+        - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
 []Take thesis files out of computer
 []Reply to Lauren Wood on the meeting invitation: rest of the documents
     - /home/ocean/Documents/UKAEA/1.Induction/
-Friday:
+Sunday:
 []Consider the requirements of Scheduler.py and logtasks.py:
     - I shouldn't consider a task with fully completed subtasks as completed, right?
     []Consider git log fd716bd2c21363f7d95c6ba3bdf6291582fe8711
