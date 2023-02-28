@@ -1,19 +1,13 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Monday:
-[]Install bluemira
-[x]Gym access: requested
+Tuesday:
 []Set up desktop
 []Clean home boxes
-Tuesday:
-[]Bring the SSD Reader
-[]Add .docx, .odf, .xlsx, .ods to ~/Templates
-[]Pay the damn bills:
-    []Look at how much I have to pay
-        []See if this is evadable at all
-    []Look up government assitances
-        - There's one tab in your phone that can help with this.
+Wednesday:
+[]Bring the SSD Reader + SSD
+    []Add .docx, .odf, .xlsx, .ods to ~/Templates
+[]Install bluemira
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
@@ -21,9 +15,14 @@ Tuesday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
+[]Pay the damn bills:
+    []Look at how much I have to pay
+        []See if this is evadable at all
+    []Look up government assitances
+        - There's one tab in your phone that can help with this.
 []Grad activities?
     []Gradlympics
-Wednesday:
+Thursday:
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
