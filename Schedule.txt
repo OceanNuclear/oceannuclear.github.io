@@ -2,10 +2,20 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Monday:
-[]Read one of the docx attached in the email invitation of FTBU - OLT
-    - https://ukaeauk.sharepoint.com/:w:/s/FusionTechnologyBusinessUnit-OLT-sharedarea/EUltzlUHfkRGkfFcamq_6TQBV5WnoNH270HCKgvqZgzqHw?e=g6611d&CID=2095201b-7b4f-d779-5af7-0f6d65ff6688
-Tuesday:
+[]Install bluemira
+[]Answer Grace Leader/Health Physics
 []Lunchtime cycle meeting
+
+[]Set up desktop
+[]Clean home boxes
+Tuesday:
+[]Bring the SSD Reader
+[]Add .docx, .odf, .xlsx, .ods to ~/Templates
+[]Pay the damn bills:
+    []Look at how much I have to pay
+        []See if this is evadable at all
+    []Look up government assitances
+        - There's one tab in your phone that can help with this.
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
@@ -13,44 +23,26 @@ Tuesday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Pay the damn bills:
-    []Look at how much I have to pay
-        []See if this is evadable at all
-    []Look up government assitances
-        - There's one tab in your phone that can help with this.
-[]Clean (1 hour)
-    - Google clean list
-    []Discard rug
-    []Clean out fridge foods
-[]Bring back items (1 hour)
-    []The two acrostaff replacement
-    []Shampoo, toothpaste, shower scrunchie, toilet spray
-    []Lampshades
-[]Answer Mitja
-    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
-    - /home/ocean/Documents/PhD/tmpMitja/
-[]Answer Grace Leader/Health Physics
-[]Install bluemira
-Tuesday:
-[]Register with GP
-    []Change address! Immediately!
-[]Add .docx, .odf, .xlsx, .ods to ~/Templates
-[]Fix bike shed door
-[]stick retro-reflective marker bike tape onto the straps of my bag
-[]Listen to fusion materials
-    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
 []Double Check Robin's work - i.e. itinerary of travel is sensible
-[]Check the typical pay on the new Lv 4 openings
 []Grad activities?
     []Gradlympics
+Wednesday:
 []Send off early Careers agreement form or something?
 []Graduate scheme look over what duties I have
     []When's the next learning lunch
 []Climb in Swindon
-Wednesday:
+[]Answer Mitja
+    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
+    - /home/ocean/Documents/PhD/tmpMitja/
 []Organize climbing in Reading
-[]3D print to lock the num lock key
+    []Check out Maker Space
+[]Fix bike shed door
+[]stick retro-reflective marker bike tape onto the straps of my bag
+[]Listen to fusion materials
+    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
 Thursday:
+[]Register with GP
+    []Change address! Immediately!
 []Take thesis files out of computer
 []Reply to Lauren Wood on the meeting invitation: rest of the documents
     - /home/ocean/Documents/UKAEA/1.Induction/
@@ -58,6 +50,7 @@ Friday:
 []Consider the requirements of Scheduler.py and logtasks.py:
     - I shouldn't consider a task with fully completed subtasks as completed, right?
     []Consider git log fd716bd2c21363f7d95c6ba3bdf6291582fe8711
+[]Check the typical pay on the new Lv 4 openings
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
