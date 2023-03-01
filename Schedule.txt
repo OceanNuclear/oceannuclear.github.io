@@ -7,26 +7,23 @@ Wednesday:
 []Oxf parkour (2.5 hours)
 []Put small phone away
 []Organize weekend trip to Sheffield or not?
-Thursday:
-[]Bring mug
-[]Bring the SSD Reader + SSD
-[]Add .docx, .odf, .xlsx, .ods to ~/Templates
-
 []Call Loxley Heights at
     - 07880 925433
     - Dani 07879 848053
-[]Call Community Utilities at 0333 014 8461
+Thursday:
+[]Bring mug
+[]Bring the SSD Reader + SSD
+[]Add .docx, .odf, .xlsx, .ods etc. to ~/Templates
 
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
 
-[]Graduate scheme look over what duties I have
+[]Graduate scheme look over what duties I have (0 mins)
     []Read/ listen to file:///home/ocean/Documents/UKAEA/1.Induction/*.pdf (1 hour)
-    []Learn how to navigate the tracker spreadsheet
+    []Learn how to navigate the tracker spreadsheet (40 mins)
     []Who do I ask about what are my duties? -> put it into a .txt document
-    []When's the next learning lunch
-        []Can watching teaching lunch be put down to the WON?
+    []When's the next learning lunch (10 mins)
 []Check the list of Grad activities?
     []Gradlympics
 []Listen to fusion materials
@@ -59,10 +56,16 @@ Sunday:
 []Find diff between desktop, old laptop and new laptop
     []Merge into new laptop
 []backup everything using built-in .bashrc commands
+[]Sort email rules
 Monday:
 []Climb in Swindon
 []Organize climbing in Reading
     []Check out Maker Space
+Tuesday:
+[]See what training courses for are available on Unit4,
+    []and register for some
+    []Write them down on here /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
+    []Track on spreadsheet too
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
@@ -80,11 +83,10 @@ Before end of thesis:
         - area under cdf(# of sv> threshold vs increasing threshold)?
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not simple as "curvature per bin"! It should be curvature per eV, or PUL?
+Later (maybe June):
 []Check if I could've benefitted from a less efficient communication network (mentor-mentee)
     - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
-After job start:
 []Floral language guessing game(20 mins)
-
 Daily task: One novel thing per day:
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 []Exercise/hobby: Skatehouse, Fellrunning, breakdancing
