@@ -1,37 +1,40 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Tuesday:
-[]Set up desktop
-[]Clean home boxes
 Wednesday:
-[]Bring the SSD Reader + SSD
-    []Add .docx, .odf, .xlsx, .ods to ~/Templates
-[]Install bluemira
-[]Pay the damn bills:
-    []Look at how much I have to pay
-        []See if this is evadable at all
-    []Look up government assitances
-        - There's one tab in your phone that can help with this.
-[]Grad activities?
-    []Gradlympics
+[]As about the use of EC funding (25 mins)
+[]Reply to Lauren Wood on the meeting invitation (15 mins)
+    - /home/ocean/Documents/UKAEA/1.Induction/
+[]Finish the remaining tabs on bills help (25 mins)
+[]Install bluemira (1 hour)
+[]Read the rest of people's department's stuff (1 hour)
+[]Oxf parkour
+[]Fill out supervision form for SHU (20 mins)
+[]Put small phone away
 Thursday:
+[]Bring mug
+[]Bring the SSD Reader + SSD
+[]Add .docx, .odf, .xlsx, .ods to ~/Templates
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
-[]Send off early Careers agreement form or something?
 []Graduate scheme look over what duties I have
     []When's the next learning lunch
+[]Check the list of Grad activities?
+    []Gradlympics
 []Climb in Swindon
 []Organize climbing in Reading
     []Check out Maker Space
-[]Fix bike shed door
-[]stick retro-reflective marker bike tape onto the straps of my bag
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
 Saturday:
+[]Set up desktop
+    []Take thesis files out of computer
+[]Fix the bike shed door closing problem
+[]Stick retro-reflective marker bike tape onto the straps of my bag
 []Register with GP
     []Change address! Immediately!
+[]Change the rest of the addresses
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
@@ -39,9 +42,6 @@ Saturday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Take thesis files out of computer
-[]Reply to Lauren Wood on the meeting invitation: rest of the documents
-    - /home/ocean/Documents/UKAEA/1.Induction/
 Sunday:
 []Consider the requirements of Scheduler.py and logtasks.py:
     - I shouldn't consider a task with fully completed subtasks as completed, right?
@@ -71,31 +71,29 @@ After job start:
 
 Daily task: One novel thing per day:
 []Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
-[]Exercise/hobby: Skatehouse, Fellrunning
+[]Exercise/hobby: Skatehouse, Fellrunning, breakdancing
 []One of the following learning things:
-    []Social media & Sci+Math tab
+    []Clean e-mailboxes
+        []Make rules/filters for the inboxes so that they get sorted to the right places to begin with
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
-    []https://shuspace.shu.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_328834_1&content_id=_11976285_1
-    []https://ukaeauk-my.sharepoint.com/personal/fulvio_militello_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffulvio%5Fmilitello%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FGuest%20Seminar%20%2D%20Michela%20Massimi%20%2D%2D20221003%5F143034%2DMeeting%20Recording%2Emp4&ga=1
-    []Clean e-mailboxes
+    []Social media & Sci+Math tab
 Later:
-[]All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
-[]ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
-[]Craft-hub.com/collections/closing-collection
-[]Buy alternative keyboard(s)
 []Try Motion.ai
-[]Sign up for Complex Analysis/control theory on MOOC or open U
+[]ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
+[]All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
+[]Buy alternative keyboard(s)
+[]Sign up for Complex Analysis/control theory on MOOC or Open U
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Gravel convergence condition
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
-[]River crossing puzzles: graph theory analysis for optimal strategy in the bridge and torch problem
 []vimtutor
 []Comptuer Science lectures recorded in SHU
 []openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
 []Read the graduate alumni phone book to find people to talk to about
+    - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
     []Reading vs Oxford vs Didcot
     []General related hobbies (climbing)
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
