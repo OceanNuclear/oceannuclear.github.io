@@ -8,6 +8,7 @@ Wednesday:
 []Oxf parkour (2.5 hours)
 []Put small phone away
 []Organize weekend trip to Sheffield or not?
+[]Fill out 
 []Call Loxley Heights at
     - 07880 925433
     - Dani 07879 848053
@@ -21,6 +22,8 @@ Thursday:
     - /home/ocean/Documents/PhD/tmpMitja/
 
 []Graduate scheme look over what duties I have (0 mins)
+    []Fill out /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
+        - using /home/ocean/Documents/UKAEA/1.Induction/GraduateInduction2022.pdf
     []Read/ listen to file:///home/ocean/Documents/UKAEA/1.Induction/*.pdf (1 hour)
     []Learn how to navigate the tracker spreadsheet (40 mins)
     []Who do I ask about what are my duties? -> put it into a .txt document
@@ -57,6 +60,7 @@ Sunday:
 []Check the typical pay on the new Lv 4 openings
 []Find diff between desktop, old laptop and new laptop
     []Merge into new laptop
+[]clean .bashrc of anything that isn't worth using/ unusable
 []backup everything using built-in .bashrc commands
 []Sort email rules
 Monday:
