@@ -2,30 +2,21 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
-[]Change my email signature!
+[]People Induction Pack - July 2022.pdf (20 mins)
+[]Employee Handbook July 2022.pdf (30 mins)
+[]IntroductionProfessionalDevelopment/Introduction to Professional Development and Mentoring.pdf (10 mins)
 []SSD drive
     []Add .docx, .odf, .xlsx, .ods etc. to ~/Templates
-    []Update signature!
-
+    []Copy over signature pictures
+        []Reply to Lauren Wood on the meeting invitation (15 mins)
+            - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.docx
 []Graduate scheme look over what duties I have (0 mins)
-    []Fill out /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
-        - using /home/ocean/Documents/UKAEA/1.Induction/GraduateInduction2022.pdf
-    []Read/ listen to file:///home/ocean/Documents/UKAEA/1.Induction/*.pdf (1 hour)
+    [x]Fill out /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
     []Learn how to navigate the tracker spreadsheet (40 mins)
-    [x]When's the next learning lunch (10 mins)
-        - 21st March
-    []Who do I ask about what are my duties? -> put it into a .txt document
-[x]Check the list of Grad activities?
-    - ask Sophie
-[]Call Loxley Heights at
-    - 07880 925433
-    - Dani 07879 848053
-[]Listen to fusion materials
-    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
-    - https://ukaeauk-my.sharepoint.com/:v:/g/personal/abdi-rahim_elmi_ukaea_uk/Ee8j7A0jpGBIhN91NykV2BoBMfpA5WRuWTPt8LM69kTcrg
 
 []Install bluemira (1 hour)
     []Wait, Bluemira is running on Python 3.8?
+
 []Put small phone away
 []Organize weekend trip to Sheffield or not?
 Friday:
@@ -33,12 +24,12 @@ Friday:
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
 Saturday:
+[]Listen to Learning lunches
+    - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
+    - https://ukaeauk-my.sharepoint.com/:v:/g/personal/abdi-rahim_elmi_ukaea_uk/Ee8j7A0jpGBIhN91NykV2BoBMfpA5WRuWTPt8LM69kTcrg
 []Post about Peak District (30 mins)
 []Set up Desktop
     []Take thesis files out of computer
-    []Find signature
-        []Reply to Lauren Wood on the meeting invitation (15 mins)
-            - /home/ocean/Documents/UKAEA/1.Induction/
 []Fix the bike shed door closing problem
 []Stick retro-reflective marker bike tape onto the straps of my bag
 []Register with GP
@@ -62,14 +53,21 @@ Sunday:
 []backup everything using built-in .bashrc commands
 []Sort email rules
 Monday:
+[]Read about pensions on p.19
+    - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
+[]Read about Occupational Therapy help on site
+    - /home/ocean/Documents/UKAEA/1.Induction/EmployeeBenefit/PAM+OH_Promotional+Presentation+22.pdf
+[]Set up iPayView
+    - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 []Climb in Swindon
 []Organize climbing in Reading
     []Check out Maker Space
 Tuesday:
-[]See what training courses for are available on Unit4,
-    []and register for some
-    []Write them down on here /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
-    []Track on spreadsheet too
+[x]See what training courses for are available on Unit4,
+    [x]Write them down on here /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
+[]Track on spreadsheet too
+[]Read Yourhub/vivup benefits
+    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
