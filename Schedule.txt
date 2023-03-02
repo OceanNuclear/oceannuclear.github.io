@@ -3,31 +3,29 @@
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
 []Change my email signature!
-[]Install bluemira (1 hour)
-    []Wait, Bluemira is running on Python 3.8?
 []SSD drive
     []Add .docx, .odf, .xlsx, .ods etc. to ~/Templates
     []Update signature!
-[]Call Loxley Heights at
-    - 07880 925433
-    - Dani 07879 848053
 
 []Graduate scheme look over what duties I have (0 mins)
     []Fill out /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
         - using /home/ocean/Documents/UKAEA/1.Induction/GraduateInduction2022.pdf
     []Read/ listen to file:///home/ocean/Documents/UKAEA/1.Induction/*.pdf (1 hour)
     []Learn how to navigate the tracker spreadsheet (40 mins)
-    []When's the next learning lunch (10 mins)
+    [x]When's the next learning lunch (10 mins)
+        - 21st March
     []Who do I ask about what are my duties? -> put it into a .txt document
-    [x]Ask these questions at Elissa Turner
-        [x]re-directed to Sophie
-[]Check the list of Grad activities?
-    - Gradlympics
-    - Grad ball
-    - Abingdon walk
+[x]Check the list of Grad activities?
+    - ask Sophie
+[]Call Loxley Heights at
+    - 07880 925433
+    - Dani 07879 848053
 []Listen to fusion materials
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
     - https://ukaeauk-my.sharepoint.com/:v:/g/personal/abdi-rahim_elmi_ukaea_uk/Ee8j7A0jpGBIhN91NykV2BoBMfpA5WRuWTPt8LM69kTcrg
+
+[]Install bluemira (1 hour)
+    []Wait, Bluemira is running on Python 3.8?
 []Put small phone away
 []Organize weekend trip to Sheffield or not?
 Friday:
