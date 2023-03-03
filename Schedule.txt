@@ -2,23 +2,16 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
-[]Employee Handbook July 2022.pdf (30 mins)
-[]SSD drive
-    []Add .docx, .odf, .xlsx, .ods etc. to ~/Templates
-    []Copy over signature pictures
-        []Reply to Lauren Wood on the meeting invitation (15 mins)
-            - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.docx
 []Learn how to navigate the tracker spreadsheet (40 mins)
-
 []Install bluemira (1 hour)
     []Wait, Bluemira is running on Python 3.8?
-
-[]Put small phone away
 Friday:
+[]Put small phone away
+[]SSD transfer
+Saturday:
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
-Saturday:
 []Listen to Learning lunches
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
     - https://ukaeauk-my.sharepoint.com/:v:/g/personal/abdi-rahim_elmi_ukaea_uk/Ee8j7A0jpGBIhN91NykV2BoBMfpA5WRuWTPt8LM69kTcrg
@@ -53,6 +46,7 @@ Monday:
     - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 []Read about Occupational Therapy help on site
     - /home/ocean/Documents/UKAEA/1.Induction/EmployeeBenefit/PAM+OH_Promotional+Presentation+22.pdf
+    - Username:"UKAEA"; Password:"fusion"
 []Set up iPayView
     - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 []Climb in Swindon
