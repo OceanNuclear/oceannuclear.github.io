@@ -2,24 +2,18 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
-[x]People Induction Pack - July 2022.pdf (20 mins)
-    [x]New Starter Access and email guidance (found link to APS too)
 []Employee Handbook July 2022.pdf (30 mins)
-[]IntroductionProfessionalDevelopment/Introduction to Professional Development and Mentoring.pdf (10 mins)
 []SSD drive
     []Add .docx, .odf, .xlsx, .ods etc. to ~/Templates
     []Copy over signature pictures
         []Reply to Lauren Wood on the meeting invitation (15 mins)
             - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.docx
-[]Graduate scheme look over what duties I have (0 mins)
-    [x]Fill out /home/ocean/Documents/UKAEA/5.GraduateDevelopmentEtc/DutiesIhaveAsAGrad.txt
-    []Learn how to navigate the tracker spreadsheet (40 mins)
+[]Learn how to navigate the tracker spreadsheet (40 mins)
 
 []Install bluemira (1 hour)
     []Wait, Bluemira is running on Python 3.8?
 
 []Put small phone away
-[]Organize weekend trip to Sheffield or not?
 Friday:
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
