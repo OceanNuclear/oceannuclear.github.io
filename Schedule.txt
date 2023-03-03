@@ -2,7 +2,8 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
 Thursday:
-[]People Induction Pack - July 2022.pdf (20 mins)
+[x]People Induction Pack - July 2022.pdf (20 mins)
+    [x]New Starter Access and email guidance (found link to APS too)
 []Employee Handbook July 2022.pdf (30 mins)
 []IntroductionProfessionalDevelopment/Introduction to Professional Development and Mentoring.pdf (10 mins)
 []SSD drive
@@ -43,6 +44,7 @@ Saturday:
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
 Sunday:
+[]Tape together the two enter keys
 []Consider the requirements of Scheduler.py and logtasks.py:
     - I shouldn't consider a task with fully completed subtasks as completed, right?
     []Consider git log fd716bd2c21363f7d95c6ba3bdf6291582fe8711
