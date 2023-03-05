@@ -1,13 +1,12 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. regulate stimulus level by playing lectures in the background.
-Thursday:
-[]Learn how to navigate the tracker spreadsheet (40 mins)
+Friday:
+[x]Put small phone away
+[]SSD transfer
+[x]UNPACK. BOXES.
 []Install bluemira (1 hour)
     []Wait, Bluemira is running on Python 3.8?
-Friday:
-[]Put small phone away
-[]SSD transfer
 Saturday:
 []Answer Mitja
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
@@ -16,13 +15,16 @@ Saturday:
     - https://ukaeauk-my.sharepoint.com/personal/abdi-rahim_elmi_ukaea_uk/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabdi%2Drahim%5Felmi%5Fukaea%5Fuk%2FDocuments%2FRecordings%2FTeaching%20Lunch%20%2D%20Materials%20of%20Fusion%2D20230214%5F121154%2DMeeting%20Recording%2Emp4&ga=1
     - https://ukaeauk-my.sharepoint.com/:v:/g/personal/abdi-rahim_elmi_ukaea_uk/Ee8j7A0jpGBIhN91NykV2BoBMfpA5WRuWTPt8LM69kTcrg
 []Post about Peak District (30 mins)
-[]Set up Desktop
-    []Take thesis files out of computer
+[x]Set up Desktop
+[]Take thesis files out of desktop computer
+    []Find diff between desktop, old laptop and new laptop
+        []Merge into new laptop
 []Fix the bike shed door closing problem
 []Stick retro-reflective marker bike tape onto the straps of my bag
 []Register with GP
     []Change address! Immediately!
 []Change the rest of the addresses
+    []Order stuff from online
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
@@ -36,12 +38,14 @@ Sunday:
     - I shouldn't consider a task with fully completed subtasks as completed, right?
     []Consider git log fd716bd2c21363f7d95c6ba3bdf6291582fe8711
 []Check the typical pay on the new Lv 4 openings
-[]Find diff between desktop, old laptop and new laptop
-    []Merge into new laptop
 []clean .bashrc of anything that isn't worth using/ unusable
 []backup everything using built-in .bashrc commands
 []Sort email rules
 Monday:
+8:00
+[]Check nucleus permission status(25 mins)
+[]If nucleus permission appeared, look through UKAEA
+[]Set up foilselector and unfoldingsuite before start of meeting
 []Read about pensions on p.19
     - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 []Read about Occupational Therapy help on site
