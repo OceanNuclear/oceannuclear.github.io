@@ -5,11 +5,6 @@ Monday:
 []SSD transfer (1 hour 30 mins)
 []Clean .bashrc of anything that isn't worth using/ unusable (25 mins)
 []Backup everything using the built-in .bashrc commands (5 mins)
-[]Consider the requirements of Scheduler.py and logtasks.py: (1 hour)
-    - I shouldn't consider a task with fully completed subtasks as completed, right?
-    []Consider git log fd716bd2c21363f7d95c6ba3bdf6291582fe8711
-3pm
-[]CDG meeting (1 hour)
 Monday at home:
 []Answer Mitja (2 hours)
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
