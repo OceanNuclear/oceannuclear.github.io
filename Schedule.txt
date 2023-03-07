@@ -16,6 +16,7 @@ On the train:
 []Post about Peak District (30 mins)
 Wednesday:
 []Try hacking to print
+8:30am
 []CulBUG meeting
 []Add comments into the documentation
 []Set up iPayView
@@ -30,6 +31,7 @@ Wednesday:
 []Change the rest of the addresses
     []Order stuff from online
 []Sort all of the photo of classes, check for (break)dancing/ Yoga/ roller skate/ something else cool?
+[]Go climbing
 After the cubicle dividers arrive:
 []Unpacking:
     []Document boxes
