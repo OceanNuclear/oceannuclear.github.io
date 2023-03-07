@@ -2,25 +2,22 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
+On the train:
+[]Think about what Ashley needs/ how to prep for her arrival
+
 []Answer Mitja (2 hours)
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
-[x]Locate all gyms (complied list
-[x]Locate all classes/ open sessions found in community/activity centres around Didcot
-[x]Register at Woodlands medical centre by
-    - mailto:bobicb-ox.palscomplaints@nhs.net
-    - tel:01865 336800
-    - tel:08000526088
-[]Read Yourhub/vivup benefits
-    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
-[]Exercises in Didcot: compile list
-On the train
-[]Think about what Ashley needs/ how to prep for her arrival
 []SSD transfer (1 hour 30 mins)
 []Clean .bashrc of anything that isn't worth using/ unusable (25 mins)
 []Backup everything using the built-in .bashrc commands (5 mins)
-Wednesday:
+[]Read Yourhub/vivup benefits
+    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
 []Post about Peak District (30 mins)
+Wednesday:
+[]Try hacking to print
+[]CulBUG meeting
+[]Add comments into the documentation
 []Set up iPayView
     - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 []inotifywaitActions.sh
@@ -30,8 +27,6 @@ Wednesday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Register with GP
-    []Change address! Immediately!
 []Change the rest of the addresses
     []Order stuff from online
 []Sort all of the photo of classes, check for (break)dancing/ Yoga/ roller skate/ something else cool?
