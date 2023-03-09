@@ -2,29 +2,25 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Wednesday:
-[]Chat with James for what the bluemira work APS should be
-[]Try hacking to print (20 mins)
-[]Go climbing
-[]Think about what Ashley needs/ how to prep for her arrival
-[]Post about Peak District (30 mins)
-[]Change the rest of the addresses
-    []Order stuff from online
-[]Answer Mitja (2 hours)
+[x]Answer Community Utilities email
+[]SSD transfer (0 mins)
+    []Fix all broken links in PTNR (20 mins)
+    - /media/ocean/cc4d887d-94be-4693-9a14-df99f58df853/home/ocean/Self/MScPTNR/NumAnaReport/Link to Assessment2019.pdf
+    []And fix broken links in all other places
+        []Document all links (20 mins)
+[]Answer Mitja (1 hour)
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
+
 []Answer GP email
-After the cubicle dividers arrive:
-[]Unpacking:
-    []Document boxes
-    []Clear desk
 []Take thesis files out of desktop computer
     []Find diff between desktop, old laptop and new laptop, Merge into new laptop
-[]Update nucleus profile pic
-Thursday:
-[]SSD transfer (1 hour 30 mins)
-[]Clean .bashrc of anything that isn't worth using/ unusable (25 mins)
-[]Backup everything using the built-in .bashrc commands (5 mins)
-[]Read "payrollclaims" and "pay & benefits" of the "Pay" tab
+[]Think about what Ashley needs/ how to prep for her arrival
+[]Post about Peak District (30 mins)
+[]Water the succulent
+[]Clear desk
+[]Change the rest of the addresses
+    []Order stuff from online
 []WhatsApp Breakdance video
 Friday:
 []Login to instagram, Ctrl+E blacklist but only whitelist the inbox
@@ -35,11 +31,18 @@ Friday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]Check out Reading Maker Space
+[]stick tape/tactile pad over the KP_ZERO key
 []Look up laptop repairs locations
 []Read Yourhub/vivup benefits
     - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
+After the cubicle dividers arrive:
+[]Unpacking:
+    []Document boxes
+[]Clear desk
+[]Update nucleus profile pic
 Monday:
+[]Read "payrollclaims" and "pay & benefits" of the "Pay" tab
+[]Check out Reading Maker Space
 []Set up iPayView
     - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
 Before end of thesis:
@@ -95,4 +98,4 @@ Interesting/recreational/entertaining:
 []Use remaining personal items at home
     []Read remaining books
     []Driver's education
-fucking hell I could've used ax.set_yscale('function', functions=[sqrt, lambda x:x**2]) all along
+fucking hell I could've used ax.set_yscale('function', functions=[np.sqrt, lambda x:x**2]) all along
