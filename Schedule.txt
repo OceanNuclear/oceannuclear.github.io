@@ -2,34 +2,24 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Wednesday:
-[x]Answer Community Utilities email
-[]SSD transfer (0 mins)
+[x]Reply to Yoga
+[x]Close Nucleus issue about name
 []Answer Mitja (1 hour)
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - /home/ocean/Documents/PhD/tmpMitja/
-
-[]Answer GP email
 []Take thesis files out of desktop computer
     []Find diff between desktop, old laptop and new laptop, Merge into new laptop
 []Think about what Ashley needs/ how to prep for her arrival
-    []Clean toilet
-[]Email TAC @Sam
-[]Water the succulent
-[]Clear desk
+[]Send email 
 []Change the rest of the addresses
     []Order stuff from online
 []Post about Peak District (30 mins)
 []WhatsApp Breakdance video
-[]Update my student record
 Friday:
 []Fix all broken links (20 mins)
-    - ~/Self
-    - ~/Others
-    - ~/Documents
-    - ~/Pictures
-    - ~/tablet
     - find . -type l -ls
     []Document all links (20 mins)
+[]Fix/merge the ~/Documents/Work
 []Login to instagram, Ctrl+E blacklist but only whitelist the inbox
 []inotifywaitActions.sh
     []Fix the add_text.py file
