@@ -2,32 +2,27 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Monday:
+[]Laundry
 []Video of tokamak CAD to everyone
     - Marius
     - Cami
     - Marta
     - Kristen
-[]Add graphics into the PPTG-March-2023.pptx talk
-    - https://ukaeauk-my.sharepoint.com/:p:/g/personal/stuart_muldrew_ukaea_uk/EfBGZMg227RMhxuykClTqdEBsWGuwOwEeY_F7-5XWN8Brw
-[]Mountain Mania Cycle clean bike chain
-[]Laundry
-
 []Do 1 Bluemira example 
+[]Re-texture laptop KP_ZERO
+[]Update nucleus profile pic
+Tuesday:
+[]Oil up bike chain
+[]Look at vivup tab
 []Take thesis files out of desktop computer
     []Find diff between desktop, old laptop and new laptop, Merge into new laptop
     []Check on desktop if there's an equivalent address-record.txt file but with length of time encoded
         - /home/ocean/Documents/Work/6.House/address-record.txt
         []Then change DVLA address too.
 -%20July%202022.pdf
-[]Read Yourhub/vivup benefits
-    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
-Tuesday:
-[]Update nucleus profile pic
-[]Post about Peak District (30 mins)
-[]Re-texture laptop KP_ZERO
-[]Grab stuff from Session Buddy -> merge
-[]Ask the informal question @ Alex: 
+    []Grab stuff from Session Buddy -> merge
 Wednesday:
+[]Post about Peak District (30 mins)
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
