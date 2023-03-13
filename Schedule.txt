@@ -1,19 +1,33 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Wednesday:
+Monday:
+[]Video of tokamak CAD to everyone
+    - Marius
+    - Cami
+    - Marta
+    - Kristen
+[]Add graphics into the PPTG-March-2023.pptx talk
+    - https://ukaeauk-my.sharepoint.com/:p:/g/personal/stuart_muldrew_ukaea_uk/EfBGZMg227RMhxuykClTqdEBsWGuwOwEeY_F7-5XWN8Brw
+[]Mountain Mania Cycle clean bike chain
+[]Laundry
+
+[]Do 1 Bluemira example 
 []Take thesis files out of desktop computer
     []Find diff between desktop, old laptop and new laptop, Merge into new laptop
-[]Change the rest of the addresses
-    []Order stuff from online
+    []Check on desktop if there's an equivalent address-record.txt file but with length of time encoded
+        - /home/ocean/Documents/Work/6.House/address-record.txt
+        []Then change DVLA address too.
+-%20July%202022.pdf
+[]Read Yourhub/vivup benefits
+    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
+Tuesday:
+[]Update nucleus profile pic
 []Post about Peak District (30 mins)
-[]WhatsApp Breakdance video
-Friday:
-[]Fix all broken links (20 mins)
-    - find . -type l -ls
-    []Document all links (20 mins)
-[]Fix/merge the ~/Documents/Work
-[]Login to instagram, Ctrl+E blacklist but only whitelist the inbox
+[]Re-texture laptop KP_ZERO
+[]Grab stuff from Session Buddy -> merge
+[]Ask the informal question @ Alex: 
+Wednesday:
 []inotifywaitActions.sh
     []Fix the add_text.py file
         - found in /home/ocean/Pictures/BGs/add_text.py
@@ -21,20 +35,10 @@ Friday:
         - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
         []maybe directly modify the image that already on the screen?
         - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
-[]stick tape/tactile pad over the KP_ZERO key
-After the cubicle dividers arrive:
-[]Unpacking:
-    []Document boxes
-[]Clear desk
-[]Update nucleus profile pic
-Monday:
-[]Read "payrollclaims" and "pay & benefits" of the "Pay" tab
+Wednesday 22nd:
+[]Unpacking
+    []Document boxes too
 []Check out Reading Maker Space
-[]Set up iPayView
-    - file:///home/ocean/Documents/UKAEA/1.Induction/People%20Induction%20Pack%20-%20July%202022.pdf
-[]Read Yourhub/vivup benefits
-    - /home/ocean/Documents/UKAEA/1.Induction/People Induction Pack - July 2022.pdf
-[]Look up laptop repairs locations
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
@@ -53,20 +57,19 @@ Before end of thesis:
     []write comb-sum function that takes in a user-define function rather than using "sum" by default
     []Curvature is not simple as "curvature per bin"! It should be curvature per eV, or PUL?
 Later (maybe June):
+[]Try Motion.ai
+[]Look up laptop repairs locations
 []Check if I could've benefitted from a less efficient communication network (mentor-mentee)
     - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
 []Floral language guessing game(20 mins)
 Daily task: One novel thing per day:
-[]Translate 4-FoilSelector.tex to 4.Foil Selector.md (1 hour)
 []Exercise/hobby: Skatehouse, Fellrunning, breakdancing
 []One of the following learning things:
-    []Clean e-mailboxes
-        []Make rules/filters for the inboxes so that they get sorted to the right places to begin with
+    []Clean e-mailboxes, ~/Downloads, Photos
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
     []Social media & Sci+Math tab
 Later:
-[]Try Motion.ai
 []ASUS https://www.asus.com/uk/support/service-center/united%20kingdom
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
