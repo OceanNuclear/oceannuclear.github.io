@@ -2,25 +2,29 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Monday:
-[]Laundry
 []Video of tokamak CAD to everyone
     - Marius
     - Cami
     - Marta
     - Kristen
 []Do 1 Bluemira example 
-[]Re-texture laptop KP_ZERO
-[]Update nucleus profile pic
+[]Find out what the bluemira-2d-neutronics-testing does:
+    []install openmc correctly
+    []Implement issue #17??
 Tuesday:
 []Oil up bike chain
+
 []Look at vivup tab
+
 []Take thesis files out of desktop computer
     []Find diff between desktop, old laptop and new laptop, Merge into new laptop
     []Check on desktop if there's an equivalent address-record.txt file but with length of time encoded
         - /home/ocean/Documents/Work/6.House/address-record.txt
-        []Then change DVLA address too.
+        []Then change DVLA address too
+        []Fix experian address
 -%20July%202022.pdf
     []Grab stuff from Session Buddy -> merge
+[]Pack for Czech
 Wednesday:
 []Post about Peak District (30 mins)
 []inotifywaitActions.sh
