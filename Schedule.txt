@@ -1,28 +1,17 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-[]Answer messages: Kim
-Wednesday:
+Thursday:
 []Take thesis files out of desktop -> Laptop via USB
-[]Post about Peak District (30 mins)
-[]inotifywaitActions.sh
-    []Fix the add_text.py file
-        - found in /home/ocean/Pictures/BGs/add_text.py
-        - /home/ocean/.local/share/backgrounds/
-        - https://askubuntu.com/questions/1382764/automatically-update-desktop-background-when-underlying-image-file-is-modified
-        []maybe directly modify the image that already on the screen?
-        - https://www.google.com/search?q=ubuntu+see+stock+background+image+file+location&oq=ubuntu+see+stock+background+image+file+location&aqs=chrome..69i57.10284j0j7&sourceid=chrome&ie=UTF-8
+[]Grab stuff from Session Buddy -> merge
+[]Change DVLA address too
+[]Fix experian address
+bluemira:
 []Do 1 Bluemira example
 []Video of tokamak CAD to everyone
     - Marius
     - Cami
     - Marta
-[]Grab stuff from Session Buddy -> merge
-Stable wifi:
-[]Change DVLA address too
-[]Fix experian address
-
-bluemira:
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants needs to be imported from bluemira instead
@@ -31,6 +20,7 @@ bluemira:
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
 Wednesday 22nd:
+[]Post about Peak District (30 mins)
 []Unpacking
     []Document boxes too
 []Check desktop computer changes in $Linux/home/ocean/Documents/PTNR/CulhamFusion -> merge to laptop
