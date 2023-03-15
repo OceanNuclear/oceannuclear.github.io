@@ -4,7 +4,6 @@
 []Answer messages: Kim
 Wednesday:
 []Take thesis files out of desktop -> Laptop via USB
-[]Lens + glasses & case + shoes + waterproof jacket
 []Post about Peak District (30 mins)
 []inotifywaitActions.sh
     []Fix the add_text.py file
