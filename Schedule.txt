@@ -1,16 +1,9 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Tuesday:
 []Answer messages: Kim
-[]Take thesis files out of desktop computer
-    []Find diff between desktop, old laptop and new laptop, Merge into new laptop
-    []Check on desktop if there's an equivalent address-record.txt file but with length of time encoded
-        - /home/ocean/Documents/Work/6.House/address-record.txt
-        []Then change DVLA address too
-        []Fix experian address
--%20July%202022.pdf
 Wednesday:
+[]Take thesis files out of desktop -> Laptop via USB
 []Lens + glasses & case + shoes + waterproof jacket
 []Post about Peak District (30 mins)
 []inotifywaitActions.sh
@@ -25,6 +18,11 @@ Wednesday:
     - Marius
     - Cami
     - Marta
+[]Grab stuff from Session Buddy -> merge
+Stable wifi:
+[]Change DVLA address too
+[]Fix experian address
+
 bluemira:
 []Implement issue #17?
     []quick_tbr_heating.py
@@ -34,9 +32,9 @@ bluemira:
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
 Wednesday 22nd:
-[]Grab stuff from Session Buddy -> merge
 []Unpacking
     []Document boxes too
+[]Check desktop for changes in the $Linux/home/ocean/Documents/PTNR/CulhamFusion
 []Check out Reading Maker Space
 Before end of thesis:
 []Edit chapter 1 - 3
