@@ -34,7 +34,7 @@ bluemira:
 Wednesday 22nd:
 []Unpacking
     []Document boxes too
-[]Check desktop for changes in the $Linux/home/ocean/Documents/PTNR/CulhamFusion
+[]Check desktop computer changes in $Linux/home/ocean/Documents/PTNR/CulhamFusion -> merge to laptop
 []Check out Reading Maker Space
 Before end of thesis:
 []Edit chapter 1 - 3
