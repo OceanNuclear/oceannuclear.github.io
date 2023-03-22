@@ -1,14 +1,16 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Czech:
-[]Take thesis files out of desktop -> Laptop via USB
-[]Grab stuff from Session Buddy -> merge
-With stable wifi:
+[]Compile thesis once
+Wednesday at home with stable wifi:
+[]Download `ListOfPresentations.xlsx` from email -> ~/Documents/PhD/ and then ln at ~/Documents/Work/5.CV
+[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
+[]Clear emails
 []Submit timesheet
 []Change DVLA address too
 []Fix experian address
-[]Fix foilselector
+[]Fix foilselector: add the vs-time curves functionality
+
 bluemira:
 []Do 1 Bluemira example
 []Video of tokamak CAD to everyone
@@ -80,4 +82,4 @@ Interesting/recreational/entertaining:
 []Use remaining personal items at home
     []Read remaining books
     []Driver's education
-fucking hell I could've used ax.set_yscale('function', functions=[np.sqrt, lambda x:x**2]) all along
+fucking hell I could've used `ax.set_yscale('function', functions=[np.sqrt, lambda x:x**2])` all along
