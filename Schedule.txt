@@ -1,16 +1,15 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-[]Compile thesis once
 Wednesday at home with stable wifi:
-[]Download `ListOfPresentations.xlsx` from email -> ~/Documents/PhD/ and then ln at ~/Documents/Work/5.CV
+[]Submit timesheet
+[]Compile thesis once
 []Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
 []Clear emails
-[]Submit timesheet
 []Change DVLA address too
 []Fix experian address
-[]Fix foilselector: add the vs-time curves functionality
 
+[]Fix foilselector: add the vs-time curves functionality
 bluemira:
 []Do 1 Bluemira example
 []Video of tokamak CAD to everyone
