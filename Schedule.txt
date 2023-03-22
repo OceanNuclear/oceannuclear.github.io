@@ -2,12 +2,13 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Czech:
-[]Fix foilselector
-
 []Take thesis files out of desktop -> Laptop via USB
 []Grab stuff from Session Buddy -> merge
+With stable wifi:
+[]Submit timesheet
 []Change DVLA address too
 []Fix experian address
+[]Fix foilselector
 bluemira:
 []Do 1 Bluemira example
 []Video of tokamak CAD to everyone
