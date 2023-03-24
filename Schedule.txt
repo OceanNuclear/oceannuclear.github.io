@@ -1,21 +1,12 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Wednesday at home with stable wifi:
-[]Submit timesheet
-[]Compile thesis once
-[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
-[]Clear emails
-[]Change DVLA address too
-[]Fix experian address
-
-[]Fix foilselector: add the vs-time curves functionality
+[]Send question email to site security / HelpDesk Property Building whatever
+[]Shave
+[]Schedule ballpit date!
 bluemira:
+[]Download xs xml as James instructed
 []Do 1 Bluemira example
-[]Video of tokamak CAD to everyone
-    - Marius
-    - Cami
-    - Marta
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants needs to be imported from bluemira instead
@@ -23,6 +14,17 @@ bluemira:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
+Saturday:
+[]Build more cubicles
+    []Where the hell is my ruler
+[]Ask Stuart? how to add holidays
+[]Submit timesheet
+[]Receipts claim
+[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
+[]Change DVLA address too
+[]Fix experian address
+
+[]Fix foilselector: add the vs-time curves functionality
 Wednesday 22nd:
 []Post about Peak District (30 mins)
 []Unpacking
