@@ -2,8 +2,6 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
-
 []Send post stamp to Cami!
 []Bring tape!
 []WRITE THESIS!
@@ -14,6 +12,7 @@ Tuesday:
 []Unpack Document boxes
 []Kris' ML problem: prongs classification and VAE
 Tuesday:
+[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
 []Grad Scheme inbox: clear it!
 []Add some holidays in a meeting room
 []Have fun with breakpoints!
