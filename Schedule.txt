@@ -2,22 +2,29 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Shower and sleep well
-[]Laundry cleanup
-[]Properly schedule MRI appointment
-- I'm still in the midst of sorting the receipts
-[]Send question email to site security / Building and Facilities Management whatever
-[]debug the outlook logout issue
-    []Marval: raise issue
-[]Do we have any health insurance (Bupa) from UKAEA?
-[]Ask Stuart? how to add holidays
 []Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
 
+[]Send post stamp to Cami!
+[]Bring tape!
+[]WRITE THESIS!
+    []Justify going to EPFL
 []Build more cubicles
     []Where the hell is my ruler
 []Shave
 []Unpack Document boxes
 []Kris' ML problem: prongs classification and VAE
+Tuesday:
+[]Grad Scheme inbox: clear it!
+[]Add some holidays in a meeting room
+[]Have fun with breakpoints!
+    []Run it in interactive mode!
+Wednesday:
+[]Wash bike?
+6pm
+[]Yoga!
+Thursday:
+[]bing.sh (the link is already in the comments)
+
 bluemira:
 []Download xs xml as James instructed
 []Implement issue #17?
@@ -34,6 +41,7 @@ Friday:
     []Schedule ballpit date!
     - fellrunning, skateboarding, cycling to Manchester for the sake of it
 []Post about Peak District (30 mins)
+[]Re-tape up laptop property form?
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
