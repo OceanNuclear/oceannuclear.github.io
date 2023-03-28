@@ -17,11 +17,12 @@ Tuesday:
     []Do I need a mentor this early on? I'm already really really busy
 []Grad Scheme inbox: clear that too?
 []Add some holidays in a meeting room
+
 []Have fun with breakpoints!
     []Run it in interactive mode!
-Wednesday:
+
 []Wash bike?
-6pm
+4:30pm
 []Yoga!
 Thursday:
 []bing.sh (the link is already in the comments)
