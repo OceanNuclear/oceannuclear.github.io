@@ -3,7 +3,7 @@
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
 []Send post stamp to Cami!
-[]Bring tape!
+[]Bring tape, biscuits, yoga pants?
 []WRITE THESIS!
     []Justify going to EPFL
 []Build more cubicles
@@ -13,7 +13,9 @@ Tuesday:
 []Kris' ML problem: prongs classification and VAE
 Tuesday:
 []Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
-[]Grad Scheme inbox: clear it!
+[]Grad scheme: Mentor form (pinned unread email)
+    []Do I need a mentor this early on? I'm already really really busy
+[]Grad Scheme inbox: clear that too?
 []Add some holidays in a meeting room
 []Have fun with breakpoints!
     []Run it in interactive mode!
