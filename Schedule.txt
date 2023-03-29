@@ -2,31 +2,23 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Send post stamp to Cami!
-[]Bring tape, biscuits, yoga pants?
+[]Have fun with breakpoints!
+    []Run it in interactive mode!
+4:30pm
+[]Yoga!
+[]Wash bike?
+
+[]Remove excess cable, USB, some pens
 []WRITE THESIS!
     []Justify going to EPFL
 []Build more cubicles
     []Where the hell is my ruler
-[]Shave
 []Unpack Document boxes
-[]Kris' ML problem: prongs classification and VAE
-Tuesday:
-[]Grab stuff from Session Buddy -> merge (need to look up how to do this properly)
-[]Grad scheme: Mentor form (pinned unread email)
-    []Do I need a mentor this early on? I'm already really really busy
-[]Grad Scheme inbox: clear that too?
-[]Add some holidays in a meeting room
-
-[]Have fun with breakpoints!
-    []Run it in interactive mode!
-
-[]Wash bike?
-4:30pm
-[]Yoga!
 Thursday:
 []bing.sh (the link is already in the comments)
 
+[]Shave
+[]Kris' ML problem: prongs classification and VAE
 bluemira:
 []Download xs xml as James instructed
 []Implement issue #17?
