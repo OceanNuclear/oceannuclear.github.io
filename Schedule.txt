@@ -3,18 +3,22 @@
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
 []Have fun with breakpoints!
-    []Run it in interactive mode!
-4:30pm
-[]Yoga!
+[]Align sublime text keybindings with VSCode keybindings?!
 []Wash bike?
 
 []Remove excess cable, USB, some pens
+[]SHU staff account: Check if password works on desktop
+    []Find phone number of !Finance (expenses) if exists
+    []If not, schedule the following for tomorrow:
+        - log into SHU assyst for raising request
+            - /home/ocean/Documents/PhD/OtherAdmin/PasswordExpiry2023/
 []WRITE THESIS!
     []Justify going to EPFL
 []Build more cubicles
     []Where the hell is my ruler
 []Unpack Document boxes
 Thursday:
+[]Deal with the FUCKERY that is the !Finance(expenses)
 []bing.sh (the link is already in the comments)
 
 []Shave
