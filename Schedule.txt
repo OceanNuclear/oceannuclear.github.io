@@ -2,25 +2,21 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Tuesday:
-[]Have fun with breakpoints!
+[]Ask for unlocking of the bin area for cyclists
+    []Attach more photos of bike and RACE locked water tap supply
+[]HSF
+[]Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
+    []Send email to supervision team about the timescale available
 []Align sublime text keybindings with VSCode keybindings?!
-[]Wash bike?
 
-[]Remove excess cable, USB, some pens
-[]SHU staff account: Check if password works on desktop
-    []Find phone number of !Finance (expenses) if exists
-    []If not, schedule the following for tomorrow:
-        - log into SHU assyst for raising request
-            - /home/ocean/Documents/PhD/OtherAdmin/PasswordExpiry2023/
-[]WRITE THESIS!
-    []Justify going to EPFL
+[]Remove a few backgrounds and then download a few more
+[]Answer friends
+[]bing.sh (the link is already in the comments)
+[]Have fun with breakpoints!
+Thursday night:
 []Build more cubicles
     []Where the hell is my ruler
 []Unpack Document boxes
-Thursday:
-[]Deal with the FUCKERY that is the !Finance(expenses)
-[]bing.sh (the link is already in the comments)
-
 []Shave
 []Kris' ML problem: prongs classification and VAE
 bluemira:
@@ -34,8 +30,8 @@ bluemira:
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
 Friday:
 []Plan Sheffield Schedule: when does Cami leave?
+    []Log into a SHU machine and try to reset password + "Action Required on your IT account" email
     []make cards for flat!
-    []Make flat for cards
     []Schedule ballpit date!
     - fellrunning, skateboarding, cycling to Manchester for the sake of it
 []Post about Peak District (30 mins)
