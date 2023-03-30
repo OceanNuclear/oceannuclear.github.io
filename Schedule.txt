@@ -1,24 +1,20 @@
-1. Break tasks down to <30 minutes chunks. 2. Break day in four, separated by life-admin tasks.
+1. Break tasks down to <30 minutes chunks. 2. Break day in 4?
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-4. Regulate stimulus level by playing lectures in the background.
-Tuesday:
-[]Ask for unlocking of the bin area for cyclists
-    []Attach more photos of bike and RACE locked water tap supply
+4. Regulate stimulus level by playing lectures in the background. 5. 
+Thursday:
 []HSF
+[]bing.sh (the link is already in the comments)
+[]Fill in Monthly monitoring form
 []Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
     []Send email to supervision team about the timescale available
-[]Align sublime text keybindings with VSCode keybindings?!
-
-[]Remove a few backgrounds and then download a few more
-[]Answer friends
-[]bing.sh (the link is already in the comments)
-[]Have fun with breakpoints!
-Thursday night:
+Friday:
 []Build more cubicles
     []Where the hell is my ruler
 []Unpack Document boxes
 []Shave
-[]Kris' ML problem: prongs classification and VAE
+Sunday:
+[]Align sublime text keybindings with VSCode keybindings?!
+[]Have fun with breakpoints!
 bluemira:
 []Download xs xml as James instructed
 []Implement issue #17?
@@ -34,8 +30,12 @@ Friday:
     []make cards for flat!
     []Schedule ballpit date!
     - fellrunning, skateboarding, cycling to Manchester for the sake of it
+    []Research Endcliffe Bike shower!
 []Post about Peak District (30 mins)
+[]Figure out how to ban email
 []Re-tape up laptop property form?
+Monday:
+[]attempt to impose Email ban: 6 hours max
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
