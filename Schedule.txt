@@ -4,31 +4,29 @@
 Friday:
 []Fill in Monthly monitoring form (5 mins)
     []Submit (5 mins)
-12:00am
 []Tidy up bedroom (20 mins)
     []Finish laundry of bag (3 mins)
-12:23am
+[]Take out recycling + trash (15 mins)
+[]Bike maintenance (40 mins)
+
 []Build more cubicles
     []Where the hell is my ruler
 []Unpack Document boxes
 []Shave
-
 []Meal prep
-[]Take out recycling + trash
 []Post about Peak District (30 mins)
 []Plan Sheffield Schedule: when does Cami leave?
     []make cards for flat!
     []Schedule ballpit date!
     - fellrunning, skateboarding, cycling to Manchester for the sake of it
     []Research Endcliffe Bike shower!
-Saturday:
+Sunday:
 []Kris ML problem
 []HSF (90 mins)
 []Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
     []Send email to supervision team about the timescale available
 []bing.sh (the link is already in the comments)
 []Re-tape up laptop property form?
-Sunday:
 []Align sublime text keybindings with VSCode keybindings?!
 []Have fun with breakpoints!
 bluemira:
