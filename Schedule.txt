@@ -7,9 +7,8 @@ Saturday:
     []Message Nat (10 mins)
     []Buy train tickets (15 mins)
 []Shave (10 mins)
-[]Post about Peak District (30 mins)
 Monday:
-[]Reimagine curtain rail(15 mins)
+[]attempt to impose Email ban: 6 hours max
 []Go grab computer from Culham (2 hours)
 []Kris ML problem
 []HSF (90 mins)
@@ -19,6 +18,7 @@ Monday:
 []Re-tape up laptop property form?
 []Align sublime text keybindings with VSCode keybindings?!
 []Have fun with breakpoints!
+[]Post about Peak District (30 mins)
 bluemira:
 []Download xs xml as James instructed
 []Implement issue #17?
@@ -28,9 +28,6 @@ bluemira:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-Friday:
-Monday:
-[]attempt to impose Email ban: 6 hours max
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
