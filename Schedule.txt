@@ -1,17 +1,11 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Friday:
-[]Fill in Monthly monitoring form (5 mins)
-    - E:\Self\PhD\Forms\Tier4_SupervisoryReport
-    []Submit (5 mins)
-        - blackboard "research"
-[]Tidy up bedroom (5 mins)
-    []Finish laundry of bag (3 mins)
-    []Take out and unpack the box of cubicles and do a temporary unpack
-[]Take out recycling + trash (15 mins)
-[]Bike maintenance (40 mins)
-
+Saturday:
+[x]Take out recycling(15 mins)
+9:29pm
+[x]Bike maintenance (40 mins)
+10:09pm
 []Build cubicles (0 mins)
     []Calculate the number of expandable cubicles (2 mins)
     []Reassign cubicle usage (15 mins)
@@ -19,16 +13,22 @@ Friday:
         - consider reach-ability
     []unpack document boxes (10 mins)
     []Where the hell is my ruler (3 mins)
+10:39pm
 []Shave (10 mins)
+10:49pm
+[]Reimagine curtain rail(30 mins)
+11:19pm
 []Meal prep (2 hours)
+1:49am
 []Post about Peak District (30 mins)
-[]Plan Sheffield Schedule: when does Cami leave?
+[]Plan Sheffield Schedule
     []Message Nat
     []make cards for flat!
     []Schedule ballpit date!
     - fellrunning, skateboarding, cycling to Manchester for the sake of it
     []Research Endcliffe Bike shower!
 Sunday:
+[]Go grab computer from Culham (2 hours)
 []Kris ML problem
 []HSF (90 mins)
 []Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
