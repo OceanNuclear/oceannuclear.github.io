@@ -2,25 +2,14 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Saturday:
-[]Build cubicles (0 mins)
-    [x]Calculate the number of expandable cubicles (2 mins)
-    []Clean top
-    []Reassign cubicle usage (15 mins)
-        - consider load-bearing
-        - consider reach-ability
-    []unpack document boxes (10 mins)
-    []Where the hell is my ruler (3 mins)
-[]Shave (10 mins)
-[]Reimagine curtain rail(30 mins)
 []Meal prep (2 hours)
+[]Plan Sheffield Schedule (5 mins)
+    []Message Nat (10 mins)
+    []Buy train tickets (15 mins)
+[]Shave (10 mins)
 []Post about Peak District (30 mins)
-[]Plan Sheffield Schedule
-    []Message Nat
-    []make cards for flat!
-    []Schedule ballpit date!
-    - fellrunning, skateboarding, cycling to Manchester for the sake of it
-    []Research Endcliffe Bike shower!
-Sunday:
+Monday:
+[]Reimagine curtain rail(15 mins)
 []Go grab computer from Culham (2 hours)
 []Kris ML problem
 []HSF (90 mins)
@@ -64,13 +53,14 @@ Later (maybe June):
 []Check if I could've benefitted from a less efficient communication network (mentor-mentee)
     - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
 []Floral language guessing game(20 mins)
+[]Order 3D print of toothbrush stand
 Daily task: One novel thing per day:
-[]Exercise/hobby: Skatehouse, Fellrunning, breakdancing
 []One of the following learning things:
     []Clean e-mailboxes, ~/Downloads, Photos
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
     []Social media & Sci+Math tab
+[]Discard one item from belongings
 Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
