@@ -3,24 +3,24 @@
 4. Regulate stimulus level by playing lectures in the background.
 Saturday:
 []Shave (10 mins)
-[]Wash dish
+[]Wash dish (10 mins)
 Monday:
-[]Go to work
+[]Go to Culham
 []Attempt to impose Email ban: 6 hours max
-[]Try gym -> email Erika if not
+[]Try gym -> email Erika if not (25 mins)
 []HSF (90 mins)
 []Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
     []Send email to supervision team about the timescale available
 
-[]bing.sh (the link is already in the comments)
-[]Align sublime text keybindings with VSCode keybindings?!
-[]Have fun with breakpoints!
-[]Plan Sheffield Schedule (5 mins)
-    []Buy train tickets (15 mins)
-    []Train ticket for Tuesday too
+[]bing.sh (the link is already in the comments) (40 mins)
+[]Align sublime text keybindings with VSCode keybindings?! (40 mins)
+[]Have fun with breakpoints!(20 mins)
+[]Plan Sheffield Schedule(10 mins)
+    []Buy train tickets (10 mins)
+    []Train ticket for Tuesday too (15 mins)
 []Kris ML problem (2 hours)
 
-[]Clear box from hallway
+[]Clear box from hallway (10 mins)
 []Meal prep (2 hours)
 Tuesday:
 []Re-tape up laptop property form?
