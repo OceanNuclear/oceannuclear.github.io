@@ -2,22 +2,28 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Saturday:
-[]Meal prep (2 hours)
-[]Plan Sheffield Schedule (5 mins)
-    []Message Nat (10 mins)
-    []Buy train tickets (15 mins)
 []Shave (10 mins)
+[]Wash dish
 Monday:
-[]attempt to impose Email ban: 6 hours max
-[]Go grab computer from Culham (2 hours)
-[]Kris ML problem
+[]Go to work
+[]Attempt to impose Email ban: 6 hours max
+[]Try gym -> email Erika if not
 []HSF (90 mins)
 []Alex: ask for allocation of time to PhD because it will be more productive for both me and the role
     []Send email to supervision team about the timescale available
+
 []bing.sh (the link is already in the comments)
-[]Re-tape up laptop property form?
 []Align sublime text keybindings with VSCode keybindings?!
 []Have fun with breakpoints!
+[]Plan Sheffield Schedule (5 mins)
+    []Buy train tickets (15 mins)
+    []Train ticket for Tuesday too
+[]Kris ML problem (2 hours)
+
+[]Clear box from hallway
+[]Meal prep (2 hours)
+Tuesday:
+[]Re-tape up laptop property form?
 []Post about Peak District (30 mins)
 bluemira:
 []Download xs xml as James instructed
