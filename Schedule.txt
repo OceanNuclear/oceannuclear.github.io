@@ -2,17 +2,18 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
 Monday:
-[]Reply to Chantal - block out calendar! (15 mins)
-[]Have fun with breakpoints! (30 mins)
+[]Answer Mitja (1.3 hours)
+    - /home/ocean/Documents/PhD/Mitja/
+    - /home/ocean/Self/FoilSelector/HariChohan/
 
 []Change USB-C cable FFS (3 mins)
 []Bring Deoderant in big bag (2 mins)
 []Shave further (20 mins)
 []Clear box from hallway (10 mins)
-[]Answer Mitja (1.3 hours)
 []Kris ML problem (2 hours)
 Tuesday:
 []Align sublime text keybindings with VSCode keybindings?! (40 mins)
+[]Have fun with breakpoints! (30 mins)
 []Wipe shoes (20 mins)
 []Launder bedsheet
 []Meal prep (2 hours)
