@@ -1,29 +1,19 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. Regulate stimulus level by playing lectures in the background.
-Tuesday:
-[]Wipe shoes (20 mins)
-[]Clear box from hallway (10 mins)
-[]Re-tape up laptop property form? (10 mins)
-
-[]Answer Mitja (1.3 hours)
-    - /home/ocean/Documents/PhD/Mitja/
-    - /home/ocean/Self/FoilSelector/HariChohan/
-[]Kris ML problem (2 hours)
+Wednesday:
+[x]Top up mobile
+[]Attempt to impose Email ban(6 hours)
+[]Quick answer of Mitja's email
+[]Find out about current train ticket vs scheduled train ticket (20 mins)
 
 []Align sublime text keybindings with VSCode keybindings?! (40 mins)
 []Have fun with breakpoints! (30 mins)
-[]Meal prep (2 hours)
-Wednesday:
-[]Attempt to impose Email ban: 6 hours
-[]Organize med boxes: (30 mins)
-    []Orange box contains contusion/laceration stuff (divide the box in half)
-    []Glass box contains pain+flu meds + scissors
-    []plastic box contains gaviscon etc. too big to fit
-Saturday:
-[]Find helmet
-Sunday:
-[]Post about Peak District (30 mins)
+
+[]Eat orange (15 mins)
+[]Pack bag (20 mins)
+    []mask clips
+[]Wipe shoes (20 mins)
 bluemira:
 []Download xs xml as James instructed
 []Implement issue #17?
@@ -33,8 +23,24 @@ bluemira:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
+Thursday:
+[]Re-tape up laptop property form? (10 mins)
+[]Ask TCH Reading if they're gonna reset the white soon🥲
+Saturday:
+[]Answer Mitja (1.3 hours)
+    - /home/ocean/Documents/PhD/Mitja/
+    - /home/ocean/Self/FoilSelector/HariChohan/
+[]Find helmet
+Sunday:
+[]Kris ML problem (2 hours)
+[]Post about Peak District (30 mins)
 Wednesday:
+[]Organize med boxes: (30 mins)
+    []Orange box contains contusion/laceration stuff (divide the box in half)
+    []Glass box contains pain+flu meds + scissors
+    []plastic box contains gaviscon etc. too big to fit
 []Laundry
+[]Meal prep (2 hours)
 Before end of thesis:
 []Edit chapter 1 - 3
 []Line 70-71 of 1-*tex
