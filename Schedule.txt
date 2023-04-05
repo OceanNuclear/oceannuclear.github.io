@@ -3,9 +3,10 @@
 4. Regulate stimulus level by playing lectures in the background.
 5. Distraction sources: phone, email, fb+ig
 Wednesday:
-[]Find out how environment variables is actually set
-[]Align sublime text keybindings with VSCode keybindings?! (40 mins)
+[]Find out how environment variables is actually set by defining before calling the python script
+    []Bash syntax allow this?
 []Have fun with breakpoints! (30 mins)
+    []Align sublime text keybindings with VSCode keybindings?! (40 mins)
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants need to be imported from bluemira instead
