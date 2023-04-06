@@ -1,12 +1,49 @@
 1. Break tasks down to <30 minutes chunks. 2. Break day in four.
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-4. Regulate stimulus level by playing lectures in the background.
-5. Distraction sources: phone, email, fb+ig
+4. Regulate stimulus level by playing lectures in BG. 5. Distraction sources: phone, email, fb+ig
+Thursday:
+[]Eat orange + lunch
+[]Bearings on the longboard
+    []Look for helmets too
+[]Stretch in the gym
+[]Check out the bike shower
+
+[]MRI
+[]https://adhduk.co.uk/adult-adhd-screening-survey/
+[]Paper writing: proofread
+[]Some more exploratory bluemira work
+Friday Sheffield:
+[]Add this into laankejkbhbdhmipfmgcngdelahlfoji
+    - https://www.instagram.com/direct/inbox/
+[]Buy cards
+[]Tenacious Tape
+[]Crocs
+[]Vans shoes3
+[]H&M
+[]Gloves
+    - waterproof
+    - touchscreen
+    - skating
+[]Helmet
+[]Candles (40 mins)
+[]Floral language guessing game: export to somewhere(20 mins)
+Sunday:
+[]Kris ML problem (2 hours)
+Tuesday (upon returning home):
+[]Sync up the SSD Notepad with Productivity/
+    []Copy into 17.DailyThoughts/ or -> Thought/
+    []Place on desktop?
+        []Distill to only one or two useful files
+[]Organize med boxes: (30 mins)
+    []Orange box contains contusion/laceration stuff (divide the box in half)
+    []Glass box contains pain+flu meds + scissors
+    []plastic box contains gaviscon etc. too big to fit
+[]Wipe shoes (20 mins)
+[]Laundry
+[]Add mask clips
+[]Meal prep (2 hours)
 Wednesday:
-[]Find out how environment variables is actually set by defining before calling the python script
-    []Bash syntax allow this?
-[]Have fun with breakpoints! (30 mins)
-    []Align sublime text keybindings with VSCode keybindings?! (40 mins)
+[]Does launch.json even work?
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants need to be imported from bluemira instead
@@ -14,55 +51,16 @@ Wednesday:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
-
-[]Eat orange (15 mins)
-[]Pack bag (20 mins)
-    []mask clips
-[]Wipe shoes (20 mins)
-
-[]Reply to Ashley
-Thursday:
-[]Re-tape up laptop property form? (10 mins)
-[]Ask TCH Reading if they're gonna reset the white soon🥲
-[]Sync up the USB Notepad with Productivity/
-Saturday:
-[]Answer Mitja (1.3 hours)
-    - /home/ocean/Documents/PhD/Mitja/
-    - /home/ocean/Self/FoilSelector/HariChohan/
-[]Find helmet
-Sunday:
-[]Kris ML problem (2 hours)
-[]Post about Peak District (30 mins)
-Wednesday:
-[]Organize med boxes: (30 mins)
-    []Orange box contains contusion/laceration stuff (divide the box in half)
-    []Glass box contains pain+flu meds + scissors
-    []plastic box contains gaviscon etc. too big to fit
-[]Laundry
-[]Meal prep (2 hours)
-Before end of thesis:
+[]Align sublime text keybindings with VSCode keybindings?! (40 mins)
+Thursday
+[]Backup Google drive photos to SSD
+[]Read the graduate alumni phone book to find people to talk to about
+    - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []https://app.usemotion.com/web/#/
-[]Edit chapter 1 - 3
-[]Line 70-71 of 1-*tex
-[]Plot Grid
-[]Plot L-curve
-[]Plot PurelyIterativeDescent
-[]What if I just cut away everything with >2 sigmas and see what's left
-[]Notations and glossary: write script to convert back to .md so to allow live editing.
-[]Optimize the decision tree by using absolute positions
-    - E:\Self\Thesis\latexExp\AlgorithmCategorizationFlowChartReshaped.tex
-    - reference: E:\Self\Thesis\latexExp\ContextDiagramFlat.tex
-[]Optimization:
-    []New metrics!
-        - response matrix that causes the largest covariance minimization?
-        - area under cdf(# of sv> threshold vs increasing threshold)?
-    []write comb-sum function that takes in a user-define function rather than using "sum" by default
-    []Curvature is not simple as "curvature per bin"! It should be curvature per eV, or PUL?
+Thesis:
+[]/home/ocean/Self/PhDThesis/{to-do, organization}.txt
+[]/home/ocean/Self/Productivity/Thesis/{}.txt
 Later (maybe June):
-[]Check if I could've benefitted from a less efficient communication network (mentor-mentee)
-    - https://ndg.asc.upenn.edu/wp-content/uploads/2022/10/Centola_2022_TICS_Network_Science_of_Collective_Intelligence.pdf
-[]Floral language guessing game(20 mins)
 []Order 3D print of toothbrush stand
 Daily task: One novel thing per day:
 []One of the following learning things:
@@ -81,14 +79,8 @@ Interesting/recreational/entertaining:
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []vimtutor
-[]openmc developer guide https://docs.openmc.org/en/latest/devguide/styleguide.html
-[]Read the graduate alumni phone book to find people to talk to about
-    - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
-    []Reading vs Oxford vs Didcot
-    []General related hobbies (climbing)
-[]Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 []Make arduino stuff: use temperature sensor
-[]Use remaining personal items at home
-    []Read remaining books
+[]Read remaining books
     []Driver's education
+[]Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
 fucking hell I could've used `ax.set_yscale('function', functions=[np.sqrt, lambda x:x**2])` all along
