@@ -10,7 +10,7 @@ Saturday:
 []Some more exploratory bluemira work
 Sunday:
 []Converse swap heist
-[]SHU: do the IT actions
+[]Buy card for Cami
 []Hike
 Monday:
 []Thesis
@@ -20,6 +20,7 @@ Monday:
     - https://app.grammarly.com/ddocs/2003833430
     - /home/ocean/Self/FoilSelector/HariChohan/paper/
 Tuesday (upon returning home):
+[]SHU: do the IT actions
 []Sync up the SSD Notepad with Productivity/
     []Copy into 17.DailyThoughts/ or -> Thought/
     []Place on desktop?
