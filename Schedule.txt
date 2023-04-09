@@ -1,24 +1,21 @@
-1. Break tasks down to <30 minutes chunks. 2. Break day in four.
+1. Break tasks down to <30 minutes chunks. 5. Remove distraction sources: email, phone, FB+IG, 
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-4. Regulate stimulus level by playing lectures in BG. 5. Distraction sources: phone, email, fb+ig
-Saturday:
-[]Skate, climb, eat too?
-(Think about Kris' TPC problem while outside)
-[]Fix candles
-[]Floral language guessing game: export to a set file location?(20 mins)
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
-[]Some more exploratory bluemira work
+4. . 5. Regulate stimulus level by playing lectures in BG. 
 Sunday:
-[]Converse swap heist
-[]Buy card for Cami
-[]Hike
-Monday:
-[]Thesis
-[]Practise breakdancing + workout downstairs + stretch
+[]Floral language guessing game: continue with the incomplete two guesses
+    - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
+[]Hike/bike?
 []Paper writing: proofread
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - https://app.grammarly.com/ddocs/2003833430
     - /home/ocean/Self/FoilSelector/HariChohan/paper/
+[]Practise breakdancing + workout downstairs + stretch
+[]Thesis
+    - /home/ocean/Self/PhDThesis/
+[]https://adhduk.co.uk/adult-adhd-screening-survey/
+Monday:
+[]Buy card for Cami
+[]Some more exploratory bluemira work
 Tuesday (upon returning home):
 []SHU: do the IT actions
 []Sync up the SSD Notepad with Productivity/
@@ -50,6 +47,7 @@ Thursday
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []https://app.usemotion.com/web/#/
+Friday
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
