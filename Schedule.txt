@@ -2,8 +2,8 @@
 3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
 4. . 5. Regulate stimulus level by playing lectures in BG. 
 Sunday:
-[]Clean room
-[]Practise breakdancing + workout downstairs + stretch
+[]refund TGTG
+[]Guitar
 []Paper writing: proofread
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - https://app.grammarly.com/ddocs/2003833430
@@ -11,15 +11,12 @@ Sunday:
     - sublime
 []Thesis
     - /home/ocean/Self/PhDThesis/
-Monday:
 []Floral language guessing game: continue with the incomplete two guesses
     - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
+Monday:
 []https://adhduk.co.uk/adult-adhd-screening-survey/
-[]Hike/bike!
-[]Buy card for Cami
 []Some more exploratory bluemira work
 Tuesday (upon returning home):
-[]SHU: do the IT actions
 []Sync up the SSD Notepad with Productivity/
     []Copy into 17.DailyThoughts/ or -> Thought/
     []Place on desktop?
@@ -30,7 +27,7 @@ Tuesday (upon returning home):
     []plastic box contains gaviscon etc. too big to fit
 []Wipe shoes (20 mins)
 []Laundry
-[]Add mask clips
+[]Add mask clips to bag
 []Meal prep (2 hours)
 []Kris ML problem (2 hours)
     - /home/ocean/Others/RealData_mixedEnergy_530Tot/
