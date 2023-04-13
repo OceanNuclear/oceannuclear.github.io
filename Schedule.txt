@@ -1,9 +1,7 @@
-1. Break tasks down to <30 minutes chunks. 5. Remove distraction sources: email, phone, FB+IG, 
-3. Self-declare subtle incapacitation of executive funtion (task initiation function) early -> break.
-4. . 5. Regulate stimulus level by playing lectures in BG. 
-Sunday:
-[]refund TGTG
-[]Guitar
+1. Break tasks down to <30 minutes chunks.
+2. Add barriers to using resources for tasks other than the current one.
+    3. Remove distraction sources: email, phone, FB, IG.
+4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
 []Paper writing: proofread
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - https://app.grammarly.com/ddocs/2003833430
@@ -11,28 +9,14 @@ Sunday:
     - sublime
 []Thesis
     - /home/ocean/Self/PhDThesis/
-[]Floral language guessing game: continue with the incomplete two guesses
-    - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
-Monday:
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
-[]Some more exploratory bluemira work
-Tuesday (upon returning home):
-[]Sync up the SSD Notepad with Productivity/
-    []Copy into 17.DailyThoughts/ or -> Thought/
-    []Place on desktop?
-        []Distill to only one or two useful files
-[]Organize med boxes: (30 mins)
-    []Orange box contains contusion/laceration stuff (divide the box in half)
-    []Glass box contains pain+flu meds + scissors
-    []plastic box contains gaviscon etc. too big to fit
-[]Wipe shoes (20 mins)
-[]Laundry
-[]Add mask clips to bag
-[]Meal prep (2 hours)
+
 []Kris ML problem (2 hours)
     - /home/ocean/Others/RealData_mixedEnergy_530Tot/
-Wednesday:
+Thursday:
+[]Send off trousers (20 mins)
+[]Reply to the HSF
 []Does launch.json even work?
+[]Some more exploratory bluemira work
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants need to be imported from bluemira instead
@@ -40,13 +24,18 @@ Wednesday:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-[]Align sublime text keybindings with VSCode keybindings?! (40 mins)
-Thursday
+[]Align VSCode keybindings with sublime text keybindings(40 mins)
+
+[]Meal prep (2 hours)
+[]Floral language guessing game: continue with the incomplete two guesses
+    - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
 []Backup Google drive photos to SSD
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []https://app.usemotion.com/web/#/
-Friday
+Friday:
+[]Laundry: laundromat
+[]https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
