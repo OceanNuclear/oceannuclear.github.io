@@ -2,20 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
     3. Remove distraction sources: email, phone, FB, IG.
 4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
+Thursday:
+[]Send off trousers (20 mins)
 []Paper writing: proofread
     - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
     - https://app.grammarly.com/ddocs/2003833430
     - /home/ocean/Self/FoilSelector/HariChohan/paper/
     - sublime
-[]Thesis
-    - /home/ocean/Self/PhDThesis/
-
-[]Kris ML problem (2 hours)
-    - /home/ocean/Others/RealData_mixedEnergy_530Tot/
-Thursday:
-[]Send off trousers (20 mins)
-[]Reply to the HSF
-[]Does launch.json even work?
 []Some more exploratory bluemira work
 []Implement issue #17?
     []quick_tbr_heating.py
@@ -24,19 +17,26 @@ Thursday:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-[]Align VSCode keybindings with sublime text keybindings(40 mins)
+[]Kris ML problem (2 hours)
+    - /home/ocean/Others/RealData_mixedEnergy_530Tot/
 
+[]Merge some of the plastic box med supplies into the glass box cubicle (30 mins)
 []Meal prep (2 hours)
 []Floral language guessing game: continue with the incomplete two guesses
     - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
-[]Backup Google drive photos to SSD
+[]Backup Google drive photos to SSD (2 hours)
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
-[]https://app.usemotion.com/web/#/
-[]Merge some of the plastic box med supplies into the glass box cubicle
 Friday:
+[]Reply to the HSF
 []Laundry: laundromat
 []https://adhduk.co.uk/adult-adhd-screening-survey/
+[]Write cards for Kristen and Marta
+Saturday:
+[]https://app.usemotion.com/web/#/
+Sunday:
+[]Thesis
+    - /home/ocean/Self/PhDThesis/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
