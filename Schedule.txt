@@ -3,12 +3,6 @@
     3. Remove distraction sources: email, phone, FB, IG.
 4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
 Thursday:
-[]Send off trousers (20 mins)
-[]Paper writing: proofread
-    - https://www.overleaf.com/project/62bc2ada6a984654698f8e0e
-    - https://app.grammarly.com/ddocs/2003833430
-    - /home/ocean/Self/FoilSelector/HariChohan/paper/
-    - sublime
 []Some more exploratory bluemira work
 []Implement issue #17?
     []quick_tbr_heating.py
