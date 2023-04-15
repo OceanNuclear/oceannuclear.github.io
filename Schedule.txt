@@ -3,6 +3,7 @@
     3. Remove distraction sources: email, phone, FB, IG.
 4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
 Thursday:
+[]Clean table
 []Some more exploratory bluemira work
 []Implement issue #17?
     []quick_tbr_heating.py
@@ -11,17 +12,15 @@ Thursday:
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-[]Kris ML problem (2 hours)
-    - /home/ocean/Others/RealData_mixedEnergy_530Tot/
 
 []Merge some of the plastic box med supplies into the glass box cubicle (30 mins)
 []Meal prep (2 hours)
-[]Floral language guessing game: continue with the incomplete two guesses
+[]Floral language guessing game: continue with the incomplete two guesses (20 mins)
     - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
 []Backup Google drive photos to SSD (2 hours)
+[]Reply to the HSF
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
-[]Reply to the HSF
 Friday:
 []Laundry: laundromat
 []https://adhduk.co.uk/adult-adhd-screening-survey/
