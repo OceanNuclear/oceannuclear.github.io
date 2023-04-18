@@ -7,7 +7,6 @@ Tuesday:
 []Decide to go to rLab or Parkour
     - ??:20 hourly -> Oxford, ??:35 -> Didcot
     []Call GWR?
-[]unit4 unsubscribe
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants need to be imported from bluemira instead
@@ -19,6 +18,7 @@ Tuesday:
 []/home/ocean/Self/PhDThesis/Feedback/
 Tuesday night:
 []Merge some of the plastic box med supplies into the glass box cubicle (30 mins)
+[]Submit the rest of the GWR delay claims
 []Pay Cami
 []Meal prep (2 hours)
 []Floral language guessing game: continue with the incomplete two guesses (20 mins)
@@ -40,6 +40,7 @@ Thursday/Friday:
 []https://ukaea.elearning247.com/course/8105e45f-1730-4285-93b6-1ff1a1397151
     []Otherwise, unlog myself from the course
 []Reply to the HSF
+[]READY for Thesis meeting!
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []Laundry: laundromat
