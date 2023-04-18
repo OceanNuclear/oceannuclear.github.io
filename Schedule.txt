@@ -2,7 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
     3. Remove distraction sources: email, phone, FB, IG.
 4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
-[]Some more exploratory bluemira work
+Tuesday:
+1pm
+[]Decide to go to rLab or Parkour
+    - ??:20 hourly -> Oxford, ??:35 -> Didcot
+    []Call GWR?
+[]unit4 unsubscribe
 []Implement issue #17?
     []quick_tbr_heating.py
         []Constants need to be imported from bluemira instead
@@ -10,6 +15,7 @@
         []Look at if we need to make it OOP
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
+5pm
 []/home/ocean/Self/PhDThesis/Feedback/
 Tuesday night:
 []Merge some of the plastic box med supplies into the glass box cubicle (30 mins)
@@ -26,10 +32,16 @@ Wednesday:
     []Buy mailing label
     []Print mailing label
     []Put into mailbox
+Thursday/Friday:
+[]Call Vanquis to despute trainline charge.
+    - 03300993000
+        - 8:30am - 7:00pm
+        - 9:00am - 2:30pm
+[]https://ukaea.elearning247.com/course/8105e45f-1730-4285-93b6-1ff1a1397151
+    []Otherwise, unlog myself from the course
 []Reply to the HSF
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
-Wednesday:
 []Laundry: laundromat
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
