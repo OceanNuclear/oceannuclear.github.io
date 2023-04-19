@@ -2,14 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday:
-[]Put the weight belt back
+[x]Put the weight belt back
 []Put Kristen card into mailbox
 []Find ride (carshare)
 Wednesday:
 []Meal prep (2 hours)
 Wednesday night:
 []Pay Cami
-    - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
 []Figure out the meaning of flower messages
     - /home/ocean/Pictures/FloralLanguageGuessingGame/answer.txt
 []Backup Google drive photos to SSD (2 hours)
