@@ -3,45 +3,48 @@
     3. Remove distraction sources: email, phone, FB, IG.
 4. Break day into four. 5. Regulate stimulus level by playing lectures in BG.
 Tuesday:
-1pm
-[]Decide to go to rLab or Parkour
-    - ??:20 hourly -> Oxford, ??:35 -> Didcot
-    []Call GWR?
-[]Implement issue #17?
-    []quick_tbr_heating.py
-        []Constants need to be imported from bluemira instead
-        []maybe set the manually set constants to changable
-        []Look at if we need to make it OOP
+[]Write foilselector
+    []open the ******* repository first!
+    []Find out what steps.py are still missing
+    []List the tasks that still needs to be done
+
+[]quick_tbr_heating.py -> bluemira style
+    []Constants need to be imported from bluemira instead
+    []maybe set the manually set constants to changable
+    []Look at if we need to make it OOP
+    []a function has one major job
+    []Integration into our logging system (print should go through bluemira_print etc)
+    []Final produced data should be stored in some object making the data accessible (dataclass or similar)
+[]What do the rest of the .py files do
     []pps_api/ is used to make the PPS_OpenMC.so
         []See if I can swap the entire thing out with open-radiation-sources/parametric-plasma-source
-5pm
+[]Implement issue #1710
+
 []/home/ocean/Self/PhDThesis/Feedback/
-Tuesday night:
-[x]Write cards for Kristen
-[x]Submit the rest of the GWR delay claims
-[]Merge some of the plastic box med supplies into the glass box cubicle (30 mins)
+Wednesday:
+[]Meal prep (2 hours)
+[]Put Kristen card into mailbox
+[]Find ride (carshare)
+Wednesday night:
 []Pay Cami
-[]Floral language guessing game: continue with the incomplete two guesses (20 mins)
     - /home/ocean/Pictures/FloralLanguageGuessingGame/{4,3}.jpg
+[]Figure out the meaning of flower messages
+    - /home/ocean/Pictures/FloralLanguageGuessingGame/answer.txt
 []Backup Google drive photos to SSD (2 hours)
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 []https://app.usemotion.com/web/#/
-Wednesday:
-[]Meal prep (2 hours)
-[]Find ride (carshare)
-[]Send card for Kristen
-    []Buy mailing label
-    []Print mailing label
-    []Put into mailbox
-Thursday/Friday:
+Thursday:
 []Call Vanquis to despute trainline charge.
     - 03300993000
         - 8:30am - 7:00pm
         - 9:00am - 2:30pm
 []https://ukaea.elearning247.com/course/8105e45f-1730-4285-93b6-1ff1a1397151
     []Otherwise, unlog myself from the course
-[]Reply to the HSF
+Thursday night:
+[]FuseNet SIGN UP!
 []READY for Thesis meeting!
+Friday night:
+[]Reply to the HSF
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []Laundry: laundromat
