@@ -2,19 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday:
-[x]Bluemira:
-    [x]Identified the dependency graph
-    [x]Found the dependency graph
-    [x]Rewrote bits of the geometry plotter to make it more readable
-    - Reading and then changing someone else's code has a steeper curve than writing my own code
-    - Thanks for being patient!
-    [x]Damn the entire file is doooone!
-    [x]Summary dataclass
-    [x]How well should I hide the variable names?
-    [x]unit & constants
-        []SI-unit for all Designer-facing functions
-    [x]maybe remove dataframes?
-    [x]Constants need to be imported from bluemira instead
 []Write foilselector
     []open the ******* repository first!
     []Find out what steps.py are still missing
