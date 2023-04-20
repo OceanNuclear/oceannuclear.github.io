@@ -1,37 +1,36 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday:
-[x]Put the weight belt back
-[]Put Kristen card into mailbox
-[]Find ride (carshare)
-Wednesday:
-[]Meal prep (2 hours)
-Wednesday night:
-[]Pay Cami
-[]Figure out the meaning of flower messages
-    - /home/ocean/Pictures/FloralLanguageGuessingGame/answer.txt
-[]Backup Google drive photos to SSD (2 hours)
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
-[]https://app.usemotion.com/web/#/
 Thursday:
-[]/home/ocean/Self/PhDThesis/Feedback/
 []Call Vanquis to despute trainline charge.
     - 03300993000
         - 8:30am - 7:00pm
         - 9:00am - 2:30pm
-[]Write foilselector
-    []open the ******* repository first!
-    []Find out what steps.py are still missing
-    []List the tasks that still needs to be done
+[]/home/ocean/Self/PhDThesis/Feedback/
+[]Ashley photos!
+[]Buy mailing label for Marta
+Thursday night:
+[]Put Kristen card into mailbox
+[]FOI draft and request
+[]Snail mail Marta!
 Thursday night:
 []FuseNet SIGN UP!
 []READY for Thesis meeting!
 Friday night:
+[]https://adhduk.co.uk/adult-adhd-screening-survey/
+[]https://app.usemotion.com/web/#/
+[]Backup Google drive photos to SSD (2 hours)
 []Reply to the HSF
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []Laundry: laundromat
+Monday:
+[]Write foilselector
+    []open the ******* repository first!
+    []Find out what steps.py are still missing
+    []List the tasks that still needs to be done
+Saturday:
+[]Meal prep (2 hours)
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
