@@ -2,16 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Thursday:
-[]Reply to Hari with the spectra/isotopes
 []/home/ocean/Self/PhDThesis/Feedback/
-[]Ashley photos!
-    - Exercise area, thing
-    []Gym
 []Buy mailing label for Marta
 []Draft and send FOI request for bridges
 Thursday night:
 []Put Kristen card into mailbox
-[]Snail mail Marta!
+[]Write card for Marta!
 []FuseNet SIGN UP!
 []READY for Thesis meeting!
 Friday:
@@ -25,6 +21,8 @@ Friday night:
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []Laundry: laundromat
+Sunday:
+[]Climb in Reading!
 Monday:
 []Write foilselector
     []open the ******* repository first!
