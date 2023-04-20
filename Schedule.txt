@@ -2,12 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Thursday:
-[x]Set up payment for Matt
-[x]Fill in vanquis form
-[]/home/ocean/Self/PhDThesis/Feedback/
 []Reply to Hari with the spectra/isotopes
-[]Reply to 
+[]/home/ocean/Self/PhDThesis/Feedback/
 []Ashley photos!
+    - Exercise area, thing
+    []Gym
 []Buy mailing label for Marta
 []Draft and send FOI request for bridges
 Thursday night:
