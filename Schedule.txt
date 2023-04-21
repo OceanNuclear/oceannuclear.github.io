@@ -1,25 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[x]Summary:
-    - Know what the DKL and any other contentious decision, and know how to explain them, before the viva.
-    - Understanding != able to explain
-    - Rest of the points discussed in the meeting
-    - total flux normalization decision
-        - Discussion about having a diagnostic far-away or close-to the plasma: advantage vs disadvantage.
-    - Total flux normalization
-    [x]Submit as well
-[x]Print thesis as is
-[x]Buy mailing label for Marta
-[x]Print Marta mailing label
 Friday night:
-[]Send email to Chantal to ask for contacts of STEP designers
+[]Sew trouser hole
 []Write card for Marta
-    []Send
+    []Send card!
 []Kris' TPC help
 []Some bluemira
-[]Sew trouser hole
-[]Measure wheel diameter - get back to Saima
+
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 []https://app.usemotion.com/web/#/
 []FuseNet SIGN UP: look at what needs to be submitted/ sign up!
@@ -28,6 +16,7 @@ Friday night:
 []Read the graduate alumni phone book to find people to talk to about
     - http://tokamaktales.blogspot.com/2021/10/meet-2021-graduates-part-1.html
 []Laundry: laundromat
+[]Send email to Chantal to ask for contacts of STEP designers
 Sunday:
 []Climb in Reading!
 Monday:
@@ -37,6 +26,7 @@ Monday:
     []List the tasks that still needs to be done
 Saturday:
 []Meal prep (2 hours)
+[]Consider getting board!
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
