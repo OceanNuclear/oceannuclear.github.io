@@ -2,10 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Sunday:
-[]Send card!
-[x]Climb in Reading!
 []Reply to the HSF
-[]Backup Google drive photos to SSD (2 hours)
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Monday:
 []FuseNet SIGN UP: look at what needs to be submitted/ sign up!
@@ -16,8 +13,9 @@ Monday:
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
 Saturday:
+[]Backup Google drive photos to SSD (2 hours)
 []Meal prep (2 hours)
-[]Consider getting board!
+[]get board!
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
