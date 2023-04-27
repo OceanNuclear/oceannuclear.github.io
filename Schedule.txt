@@ -1,7 +1,8 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Sunday:
+Skern:
+[]Book holiday for Climbing and for Lausanne?
 []Reply to the HSF (60 mins)
     - /home/ocean/Documents/Work/6.House/Sheffield/Loxley/CostHelp/
     - https://mail.google.com/mail/u/0/#search/HSF/FMfcgzGsltShjTQrLLCPLbXZWGVTZlbh
@@ -9,15 +10,13 @@ Sunday:
     []Vanguard £1000 + £300
     []£955 to Loxley 
     []Payment to Vanquis
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
-Monday:
-[]FuseNet SIGN UP: look at what needs to be submitted/ sign up!
 []Some bluemira
 []Write foilselector
-    []open the ******* repository first!
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
+[]https://adhduk.co.uk/adult-adhd-screening-survey/
 Saturday:
+[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
 []Backup Google drive photos to SSD (2 hours)
 []Meal prep (2 hours)
 []Buy longboard!
