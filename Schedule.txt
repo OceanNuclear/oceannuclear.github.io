@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Skern:
-[]Book holiday for Climbing and for Lausanne?
 []Reply to the HSF (60 mins)
     - /home/ocean/Documents/Work/6.House/Sheffield/Loxley/CostHelp/
     - https://mail.google.com/mail/u/0/#search/HSF/FMfcgzGsltShjTQrLLCPLbXZWGVTZlbh
@@ -16,10 +15,15 @@ Skern:
     []List the tasks that still needs to be done
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Saturday:
+[]Santander: submit evidence for abuse of card transaction
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
 []Backup Google drive photos to SSD (2 hours)
+[]Sew trouser
 []Meal prep (2 hours)
 []Buy longboard!
+Monday:
+[]Fix outlook login problem
+[]Listen to the Nuclear Technology recording
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
