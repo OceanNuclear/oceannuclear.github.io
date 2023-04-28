@@ -2,17 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Skern:
-[]Reply to the HSF (60 mins)
-    - /home/ocean/Documents/Work/6.House/Sheffield/Loxley/CostHelp/
-    - https://mail.google.com/mail/u/0/#search/HSF/FMfcgzGsltShjTQrLLCPLbXZWGVTZlbh
-    []Loxley Heights for £847
-    []Vanguard £1000 + £300
-    []£955 to Loxley 
-    []Payment to Vanquis
-[]Some bluemira
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
+[]Some bluemira
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Saturday:
 []Santander: submit evidence for abuse of card transaction
