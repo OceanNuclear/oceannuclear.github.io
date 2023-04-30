@@ -1,8 +1,11 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Saturday:
-[]Buy longboard!
+Sunday:
+[]Buy bigger wheels for longboard
+[]Find front door keys
+[]Add food cubicle
+
 []Santander: submit evidence for abuse of card transaction
 []Write foilselector
     []Find out what steps.py are still missing
