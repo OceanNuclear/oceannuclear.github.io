@@ -2,8 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Monday:
-[]Cancel behavioural safety training -> push it somewhere else
-[]Laundry
+[]Laundry (2 hours)
 []Add food cubicle
 []Sew trouser
 []Shave
