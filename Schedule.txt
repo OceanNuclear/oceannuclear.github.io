@@ -1,22 +1,25 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Sunday:
-[]Buy bigger wheels for longboard
-[]Find front door keys
+Monday:
+[]Cancel behavioural safety training -> push it somewhere else
+[]Laundry
 []Add food cubicle
+[]Sew trouser
+[]Shave
+[]Order glass case for pressed flowers
 
-[]Santander: submit evidence for abuse of card transaction
+[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
-[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
+[]Find packaging for pebble
 []Some bluemira
 []Backup Google drive photos to SSD (2 hours)
-[]Sew trouser
 []Meal prep (2 hours)
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Tuesday:
+[]Santander: submit evidence for abuse of card transaction
 []Fix outlook login problem
 []Listen to the Nuclear Technology recording
 []Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
