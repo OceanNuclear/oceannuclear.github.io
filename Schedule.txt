@@ -9,7 +9,11 @@ Tuesday:
 []Some bluemira
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
 
-[]Add food cubicle
+[]Add food cubicle:
+    - below the coat hanging area
+    []merge together some documents/ place books elsewhere
+    []Reorganize the misc personal belongings (top-left)
+    []divide up trousers box?
 []Sew trouser
 []Meal prep (2 hours)
 []Shave
