@@ -2,12 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday:
-[]Fix outlook login problem
-[]Santander: submit evidence for abuse of card transaction
-[]Listen to the Nuclear Technology recording
-[]Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
-[]Some bluemira
+[]bluemira quick_tbr
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
+[]Santander: submit evidence for abuse of card transaction
 
 []Add food cubicle:
     - below the coat hanging area
@@ -17,16 +14,20 @@ Tuesday:
 []Sew trouser
 []Meal prep (2 hours)
 []Shave
-[]Manicure
 
 []Find packaging for pebble
 []Order glass case for pressed flowers
 Wednesday:
+[]Ask James about IDM
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
 Thursday:
+[]Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
+    - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
 []https://adhduk.co.uk/adult-adhd-screening-survey/
+[]Set up scholar alert
+    - https://ukaeauk-my.sharepoint.com/:x:/g/personal/alexander_pearce_ukaea_uk/Eepdg4JJ_zhJpBEHGt_yDl4BBMfioazFSWYscRGv1Iesag?e=WeSs6M
 Friday:
 []Laundry (2 hours)
 []Backup Google drive photos to SSD (2 hours)
