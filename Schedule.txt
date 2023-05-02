@@ -21,6 +21,7 @@ Wednesday:
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
+[]/home/ocean/Self/PhDThesis/Feedback/
 Thursday:
 []Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
     - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
