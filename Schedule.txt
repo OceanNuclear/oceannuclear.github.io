@@ -2,10 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday:
-[]bluemira quick_tbr
-[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
-[]Santander: submit evidence for abuse of card transaction
-
 []Add food cubicle:
     - below the coat hanging area
     []merge together some documents/ place books elsewhere
@@ -18,7 +14,10 @@ Tuesday:
 []Find packaging for pebble
 []Order glass case for pressed flowers
 Wednesday:
-[]Ask James about IDM
+[]Santander: submit evidence for abuse of card transaction (10 mins)
+[]Ask James about IDM access? (probably not needed, but ask anyways) (10 mins)
+[]Schedule in Graduate Project Discussion
+[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
