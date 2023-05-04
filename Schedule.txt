@@ -19,16 +19,15 @@ Wednesday night:
 []Sew trouser
 []Meal prep (2 hours)
 []Shave
-[]Find packaging for pebble
 []Order glass case for pressed flowers
 Thursday:
-[]Ask James about IDM access? (probably not needed, but ask anyways) (10 mins)
-[]Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
-    - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
 []https://adhduk.co.uk/adult-adhd-screening-survey/
-[]Set up scholar alert
+[]Set up Stork alert
     - https://ukaeauk-my.sharepoint.com/:x:/g/personal/alexander_pearce_ukaea_uk/Eepdg4JJ_zhJpBEHGt_yDl4BBMfioazFSWYscRGv1Iesag?e=WeSs6M
 Friday:
+[]Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
+    - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
+[]Ask James about IDM access? (probably not needed, but ask anyways) (10 mins)
 []Laundry (2 hours)
 []Backup Google drive photos to SSD (2 hours)
 []Re-Mount board!
