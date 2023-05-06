@@ -2,19 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday night:
-[]Buy bread
-[]Add food cubicle:
-    - below the coat hanging area
-    []merge together some documents/ place books elsewhere
-    []Reorganize the misc personal belongings (top-left)
-    []divide up trousers box?
 []Sew trouser
-[]Ask Ash about "the specific sentence used to describe"
-[]Re-Mount board!
+[]Cubicles
+    []divide up trousers box?
+    []Add food cubicle below the coat hanging area?
+    []Reorganize the misc personal belongings (top-left)
+    []merge together some documents/ place books elsewhere
+[]Ask Ash about "the specific sentence used to describe Robin's behaviour"
 
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
-    []Dammit I really have to get on with making some foilselector stuff
 []Write foilselector
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
@@ -22,8 +19,6 @@ Saturday:
 []Shave
 []Santander: submit evidence for abuse of card transaction (10 mins)
 []/home/ocean/Self/PhDThesis/Feedback/
-[]Order glass case for pressed flowers
-[]https://www.youtube.com/@MovementbyDavid/search?query=life%20was%20harder
 Sunday:
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 []Set up Stork alert
