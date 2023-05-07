@@ -12,7 +12,7 @@ Friday night:
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
 []Write foilselector
-    - Ctrl+K down down enter /home/ocean/Self/foilselector/foilselector/
+    - Alt+F down down enter /home/ocean/Self/foilselector/foilselector/
     - open /home/ocean/Self/FoilSelector/HariChohan/step*
     []Find out what steps.py are still missing
     []List the tasks that still needs to be done
