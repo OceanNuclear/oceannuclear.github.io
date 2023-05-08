@@ -1,43 +1,41 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday night:
-[]Cubicles: Merge more/ make more space without breaking categorization
-    - put less used stuff behind book shelf?
-    - put something below med box
-    []Discard nose rinse bottle
-    []B2, C2:
-        - straighten up
-        - place in different boxes
-    []Move the spike balls in D1 to somewhere else?
-    []Dismantle Column A
-    []put cubicle box back under bed
-[]Ask Ash about "the specific sentence used to describe Robin's behaviour"
-
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
 []Write foilselector
     - Alt+F down down enter /home/ocean/Self/foilselector/foilselector/
     - open /home/ocean/Self/FoilSelector/HariChohan/step*
-    []Find out what steps.py are still missing
-    []List the tasks that still needs to be done
-Saturday:
-[]Shave
-[]Santander: submit evidence for abuse of card transaction (10 mins)
+    []step5 -> Hari
+        []Create num_atoms.json (or something like that)
+        []Run in step5.py
+        []output the time-vs-counts curve too
+    []step4 -> Ross
 []/home/ocean/Self/PhDThesis/Feedback/
-Sunday:
+Monday:
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 []Set up Stork alert
     - https://ukaeauk-my.sharepoint.com/:x:/g/personal/alexander_pearce_ukaea_uk/Eepdg4JJ_zhJpBEHGt_yDl4BBMfioazFSWYscRGv1Iesag?e=WeSs6M
-[]Check and understand payslip for this month
 []Laundry (2 hours)
 []Meal prep (2 hours)
-Monday:
+[]Santander: submit evidence for abuse of card transaction (10 mins)
+Tuesday:
+[]Cubicles: Merge more/ make more space without breaking categorization
+    - put less used stuff behind book shelf?
+    - put something below med box
+    []B2, C2:
+        - straighten up
+        - place in different boxes
+    []A1, A2, E3:
+        []redistribute
+    []Move the spike balls in D1 to somewhere else?
+    [](Dismantle Column A)
 []Ask James about IDM access? (probably not needed, but ask anyways) (10 mins)
 []Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
     - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
 []Schedule in meeting with James Hagues
 []Backup Google drive photos to SSD (2 hours)
+[]Shave
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
 []/home/ocean/Self/Productivity/Thesis/{}.txt
