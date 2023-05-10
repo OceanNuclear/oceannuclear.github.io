@@ -10,11 +10,10 @@ Tuesday:
         []Run in step5.py
         []output the time-vs-counts curve too
     []step4 -> Ross
-[]Laundry (2 hours)
 
 Wednesday:
-[x]Radiation safety training
 []Talk to Jon Maddock about VMCON?
+[]Send email to Alex
 
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
