@@ -18,7 +18,6 @@ Wednesday:
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
 []/home/ocean/Self/PhDThesis/Feedback/
-[]Make appropriate teams for CCFE students
 []Set up Stork alert
     - https://ukaeauk-my.sharepoint.com/:x:/g/personal/alexander_pearce_ukaea_uk/Eepdg4JJ_zhJpBEHGt_yDl4BBMfioazFSWYscRGv1Iesag?e=WeSs6M
 []Meal prep (2 hours)
