@@ -1,28 +1,20 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday:
-[]Write foilselector
-    - Alt+F down down enter /home/ocean/Self/foilselector/foilselector/
-    - open /home/ocean/Self/FoilSelector/HariChohan/step*
-    []step5 -> Hari
-        []Create num_atoms.json (or something like that)
-        []Run in step5.py
-        []output the time-vs-counts curve too
-    []step4 -> Ross
-
-Wednesday:
-[]Talk to Jon Maddock about VMCON?
-[]Send email to Alex
-
+Friday:
+[]Laundry
+    []Put clothes hanger + bags away
+[]Send emails:
+    []Alex
+    []Robin: about my own travel
+    []Robin: about Kim's travel?
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
 []/home/ocean/Self/PhDThesis/Feedback/
-[]Set up Stork alert
-    - https://ukaeauk-my.sharepoint.com/:x:/g/personal/alexander_pearce_ukaea_uk/Eepdg4JJ_zhJpBEHGt_yDl4BBMfioazFSWYscRGv1Iesag?e=WeSs6M
-[]Meal prep (2 hours)
+[]Fix strap on bag
+[]Put condoms in bag
+Sunday:
 []Santander: submit evidence for abuse of card transaction (10 mins)
-
 []Cubicles: Merge more/ make more space without breaking categorization
     - put less used stuff behind book shelf?
     - put something below med box
@@ -33,16 +25,27 @@ Wednesday:
         []redistribute
     []Move the spike balls in D1 to somewhere else?
     [](Dismantle Column A)
+
+[]Write foilselector
+    - Alt+F down down enter /home/ocean/Self/foilselector/foilselector/
+    - open /home/ocean/Self/FoilSelector/HariChohan/step*
+    []step5 -> Hari
+        []Create num_atoms.json (or something like that)
+        []Run in step5.py
+        []output the time-vs-counts curve too
+    []step4 -> Ross
+
+Tuesday:
+[]Talk to Jon Maddock about VMCON?
+Wednesday:
 []Ask James about IDM access? (probably not needed, but ask anyways) (10 mins)
-[]Listen to Fusion Forum (Tritium extraction from molten breeders – H3AT’s approach)
-    - https://nucleus.ukaea.uk/Interact/Pages/Section/ContentListing.aspx?subsection=9725
 []Schedule in meeting with James Hagues
 []Backup Google drive photos to SSD (2 hours)
 []Shave
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
-[]/home/ocean/Self/Productivity/Thesis/{}.txt
+[]/home/ocean/Self/Productivity/Thesis/*.txt
 Later (maybe June):
 []Order 3D print of toothbrush stand
 Daily task: One novel thing per day:
