@@ -7,6 +7,7 @@ Friday:
 []/home/ocean/Self/PhDThesis/Feedback/
 []Fix strap on bag
 []Write about incident and then quarantine away
+    - /home/ocean/Documents/Work/17.DailyThought/2023-05-12
 Sunday:
 []Santander: submit evidence for abuse of card transaction (10 mins)
 []Cubicles: Merge more/ make more space without breaking categorization
