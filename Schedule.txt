@@ -34,7 +34,6 @@ Home (Wednesday):
     []Move the spike balls in D1 to somewhere else?
     [](Dismantle Column A)
 []Backup Google drive photos to SSD (2 hours)
-
 Friday:
 []Schedule in meeting with James Hagues
 []Write foilselector
@@ -45,8 +44,6 @@ Friday:
         []Run in step5.py
         []output the time-vs-counts curve too
     []step4 -> Ross
-
-
 []Shave
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
