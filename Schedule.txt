@@ -2,13 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]THESIS for half a day
-    - /home/ocean/Self/PhDThesis/Feedback/
-[]Foilselector William's
 []Reply to Chantal (30 mins)
     []Estimate time for the entire list
     - make sure this list is enough for me, and have enough leeway
+[]Thesis for half a day
+    - /home/ocean/Self/PhDThesis/Feedback/
+[]Foil selector William's
 Saturday night:
+[]Send message to Ashley
 []Santander: submit evidence of fraudulent card transaction (10 mins)
 []Hex key the whole bed
 []Cubicles: Merge more/ make more space without breaking categorization
