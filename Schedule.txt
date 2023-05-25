@@ -1,20 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Sunday:
-[]Foil selector William's
+[]Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
+    []Mass of atoms input format: how?
+[]Why are they all nones please fucking kill yourself
 []Thesis for half a day
     - /home/ocean/Self/PhDThesis/Feedback/
-Monday:
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
-[]Post santander dispute
-Tuesday:
-[]Save your conversations w/ Marta and delete them
-[]BetterHelp: type up a intro profile
-    []Send additional message
-Wednesday:
+[]Post Santander Dispute
+Sunday:
 []Wash sink; clean the rest of the kitchen counter
+Monday:
+[]Save your conversations w/ Marta and delete them
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
 []Make sure new bluemira-2d-neutronics result matches the old ones
