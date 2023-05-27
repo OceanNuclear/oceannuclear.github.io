@@ -2,10 +2,15 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 []Perform derivation
-    [x]Find the stack of paper
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Write as an algorithm
-[]Re-run the efficiency curve to make sure it's working
+Home:
+[]Cleaning (with headphones)
+    []load dishwasher
+    []take out recycling + trash
+    []put away laundry
+    []clean the rest of the kitchen counter
+    []Wash sink
 []Don't use the matrix multiplication form anymore - use a different method!
 []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
     []Mass of atoms input format: how?
@@ -14,7 +19,6 @@
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
 Monday:
-[]Wash sink; clean the rest of the kitchen counter
 Wednesday:
 []See if I can get CSSA to let me organize a soft-acrobatics self-study group
     - https://nucleus.ukaea.uk/Interact/Pages/Section/Default.aspx?Section=8439&utm_source=interact&utm_medium=general_search&utm_term=cssa
