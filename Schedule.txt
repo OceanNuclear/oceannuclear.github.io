@@ -2,10 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 []Perform derivation
-    []Find the stack of paper
+    [x]Find the stack of paper
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Write as an algorithm
-[]Fuck I gotta reopen the correct folder
+[]Re-run the efficiency curve to make sure it's working
 []Don't use the matrix multiplication form anymore - use a different method!
 []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
     []Mass of atoms input format: how?
