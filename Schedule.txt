@@ -4,6 +4,8 @@
 []Perform derivation
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Write as an algorithm
+    - p.48, p.64 has the necessary info. to continue derivation
+    - p.72+ has the relevant info to cross-check your thing with
 Home:
 []Cleaning (with headphones)
     []load dishwasher
