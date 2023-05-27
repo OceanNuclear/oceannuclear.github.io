@@ -6,8 +6,6 @@
     []Write as an algorithm
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]Fix the +/-nan issues
-    []The nans came from when reading in the decay_info.
 Home:
 []Cleaning (with headphones)
     []load dishwasher
