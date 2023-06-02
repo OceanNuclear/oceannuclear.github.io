@@ -1,36 +1,24 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Perform derivation
-    []Determine the 3D, 5D? etc. area where the limit needs to be applied
-    []Write as an algorithm
-    - p.48, p.64 has the necessary info. to continue derivation
-    - p.72+ has the relevant info to cross-check your matrix with/
-Home:
-[]Cleaning (with headphones)
-    []load dishwasher
-    []take out recycling + trash
-    []put away laundry
-    []clean the rest of the kitchen counter
-    []Wash sink
-[]Don't use the matrix multiplication form anymore - use a different method!
-[]Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
-    []Mass of atoms input format: how?
-[]Thesis for half a day
-    - /home/ocean/Self/PhDThesis/Feedback/
+Friday:
+[]Ask for ring back from campus security
+[]Write supervision report for May
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
-Monday:
-Wednesday:
-[]See if I can get CSSA to let me organize a soft-acrobatics self-study group
-    - https://nucleus.ukaea.uk/Interact/Pages/Section/Default.aspx?Section=8439&utm_source=interact&utm_medium=general_search&utm_term=cssa
+[]Schedule in grad time
+bluemira:
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
 []Make sure new bluemira-2d-neutronics result matches the old ones
 []Schedule in meeting with James Hagues
+
+Saturday:
+[]Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
+    []Write json ({foil_name:mass_in_grams}) for STEPbeamline
 []Write foilselector
-    - Win+4 Alt+F down down enter /home/ocean/Self/foilselector/foilselector/
-    - open /home/ocean/Self/FoilSelector/HariChohan/step*
+    []Upload to gitlab
+    []Remove the part that requires the user to input something
     []step1-4 -> William's foil selection
         - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
     []step5 -> Hari
@@ -38,16 +26,24 @@ Wednesday:
         []Run in step5.py
         []output the time-vs-counts curve too
     []step4 -> Ross
+[]Shave
+[]Add neutronics slides to James Morris' Thrust 5 slide deck
 []bluemira-training:
     []install rise
     []Add neutronics slide
     []Find issues to open
-[]Add neutronics slides to James Morris' Thrust 5 slide deck
 []Ask James Cook about IDM access? (probably not needed, but ask anyways) (10 mins)
     []Change print_df_decorator_with_title_string to logging into bluemira instead? (10 mins)
+Sunday:
+[]Thesis for half a day
+    - /home/ocean/Self/PhDThesis/Feedback/
 Later:
 []Backup Google drive photos to SSD (2 hours)
-[]Shave
+[]Don't use the matrix multiplication form anymore - use a different method!
+    []Determine the 3D, 5D? etc. area where the limit needs to be applied
+    []Implement as python code
+    - p.48, p.64 has the necessary info. to continue derivation
+    - p.72+ has the relevant info to cross-check your matrix with/
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do, organization}.txt
