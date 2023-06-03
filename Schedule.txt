@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Balance credit card
 []Pack
 []Add neutronics slides to James Morris' Thrust 5 slide deck
     - https://onedrive.live.com/edit.aspx?resid=A294A1BBC9C27600%2117599&ithint=file%2Cpptx&authkey=%21AMsAdTCVR59iEhc
