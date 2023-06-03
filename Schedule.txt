@@ -2,17 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Ask for ring back from campus security
+[]Balance credit card
+[]Pack
+[]Add neutronics slides to James Morris' Thrust 5 slide deck
+    - https://onedrive.live.com/edit.aspx?resid=A294A1BBC9C27600%2117599&ithint=file%2Cpptx&authkey=%21AMsAdTCVR59iEhc
 []Write supervision report for May
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
+Sunday:
+[]Ask for ring back from campus security
 []Schedule in grad time
 bluemira:
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
 []Make sure new bluemira-2d-neutronics result matches the old ones
 []Schedule in meeting with James Hagues
-
 Saturday:
 []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
     []Write json ({foil_name:mass_in_grams}) for STEPbeamline
@@ -27,7 +31,6 @@ Saturday:
         []output the time-vs-counts curve too
     []step4 -> Ross
 []Shave
-[]Add neutronics slides to James Morris' Thrust 5 slide deck
 []bluemira-training:
     []install rise
     []Add neutronics slide
