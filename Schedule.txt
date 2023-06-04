@@ -3,6 +3,9 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
 []Pack
+    []glasses case
+[]Check in online
+[]put in overtime requests
 []Add neutronics slides to James Morris' Thrust 5 slide deck
     - https://onedrive.live.com/edit.aspx?resid=A294A1BBC9C27600%2117599&ithint=file%2Cpptx&authkey=%21AMsAdTCVR59iEhc
 []Write supervision report for May
