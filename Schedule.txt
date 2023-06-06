@@ -2,26 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Pack
-    []glasses case
-[]Check in online
-[]put in overtime requests
-[]Add neutronics slides to James Morris' Thrust 5 slide deck
-    - https://onedrive.live.com/edit.aspx?resid=A294A1BBC9C27600%2117599&ithint=file%2Cpptx&authkey=%21AMsAdTCVR59iEhc
-[]Write supervision report for May
-[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
-    - /home/ocean/Documents/PhD/Presentations/FuseNet2023
-Sunday:
-[]Ask for ring back from campus security
-[]Schedule in grad time
-bluemira:
-[]Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
-    []Figure out which part of it deserves to be called "2D"
-[]Make sure new bluemira-2d-neutronics result matches the old ones
-[]Schedule in meeting with James Hagues
-Saturday:
-[]Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
-    []Write json ({foil_name:mass_in_grams}) for STEPbeamline
+[]Write supervision report for May (25 mins)
+[]Answer William Iliffe (1 hour)
+    []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
+        []Write json ({foil_name:mass_in_grams}) for STEPbeamline
 []Write foilselector
     []Upload to gitlab
     []Remove the part that requires the user to input something
@@ -32,6 +16,20 @@ Saturday:
         []Run in step5.py
         []output the time-vs-counts curve too
     []step4 -> Ross
+[]Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
+    - /home/ocean/Documents/PhD/Presentations/FuseNet2023
+[]Submit timesheet (5 mins)
+    []Check if message to Alex includes "has been approved by Mark"
+[]Ask for ring back from campus security
+
+Monday:
+[]Schedule in grad time
+bluemira:
+[]Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
+    []Figure out which part of it deserves to be called "2D"
+[]Make sure new bluemira-2d-neutronics result matches the old ones
+[]Schedule in meeting with James Hagues
+Saturday:
 []Shave
 []bluemira-training:
     []install rise
