@@ -2,19 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Write supervision report for May (25 mins)
 []Answer William Iliffe (1 hour)
     []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
         []Write json ({foil_name:mass_in_grams}) for STEPbeamline
 []Write foilselector
-    []Upload to gitlab
-    []Remove the part that requires the user to input something
     []step1-4 -> William's foil selection
         - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
     []step5 -> Hari
         []Create num_atoms.json (or something like that)
         []Run in step5.py
         []output the time-vs-counts curve too
+    []Upload to gitlab
+    []Remove the part that requires the user to input something
     []step4 -> Ross
 []Submit abstract for fusion neutron spectrum unfolding, focusing on the unfolding codes part
     - /home/ocean/Documents/PhD/Presentations/FuseNet2023
