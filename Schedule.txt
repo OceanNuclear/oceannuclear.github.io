@@ -3,8 +3,6 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
 []Answer William Iliffe (1 hour)
-    []Reach the point of updating step4 so that the user can directly provide the mass of each foil (in grams) rather than the number of atoms in the foil.
-        []Write json ({foil_name:mass_in_grams}) for STEPbeamline
 []Write foilselector
     []step1-4 -> William's foil selection
         - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
