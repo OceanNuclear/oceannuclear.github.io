@@ -8,9 +8,10 @@ Monday:
 Go home:
 []Bateman/ whatever algorithm to solve the large decay problem
 []Receipts
-[]Deal with the large blob of shit that's on my desk
+[]clear room of detritus! (20 mins)
+Tuesday:
 []Schedule in grad time
-[]Ask for ring back from campus security
+[]Read emails
 []Write foilselector
     []step1-4 -> William's foil selection
         - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
@@ -21,7 +22,6 @@ Go home:
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
-[]clear room of detritus! (20 mins)
 bluemira:
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
