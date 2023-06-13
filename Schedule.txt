@@ -2,8 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]PR!
 []clear room of detritus! (20 mins)
+[]PR to merge (30 mins)
+    []Find out how to rebase
 []Answer William Iliffe(1 hour)
     []draft beginning of emails
     []Figure out a damn solution!
