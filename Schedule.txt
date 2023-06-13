@@ -1,14 +1,14 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Monday at home:
-[]Answer William Iliffe (1 hour)
-    []draft beginning of email
-    []Figure out a damn solution!
-[]Bateman/ whatever algorithm to solve the large decay problem
-[]Receipts
+Wednesday:
+[]PR!
 []clear room of detritus! (20 mins)
-Tuesday:
+[]Answer William Iliffe(1 hour)
+    []draft beginning of emails
+    []Figure out a damn solution!
+Thursday:
+[]Bateman/ whatever algorithm to solve the large decay problem
 []Schedule in grad time
 []Read emails
 []Write foilselector
