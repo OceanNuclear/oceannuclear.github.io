@@ -2,12 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]clear room of detritus! (20 mins)
 []PR to merge (30 mins)
-    []Find out how to rebase
+[]Deal with the failed tests
 []Answer William Iliffe(1 hour)
     []draft beginning of emails
     []Figure out a damn solution!
+[]clear room of detritus! (20 mins)
 Thursday:
 []Bateman/ whatever algorithm to solve the large decay problem
 []Schedule in grad time
@@ -47,10 +47,11 @@ Later:
     - p.72+ has the relevant info to cross-check your matrix with/
 []https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
-[]/home/ocean/Self/PhDThesis/{to-do, organization}.txt
+[]/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
 Later (maybe June):
 []Order 3D print of toothbrush stand
+[]Order 3D print of air conditioner redirector
 Daily task: One novel thing per day:
 []One of the following learning things:
     []Clean e-mailboxes, ~/Downloads, Photos
