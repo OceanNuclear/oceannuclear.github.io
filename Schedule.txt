@@ -2,16 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]PR to merge (30 mins)
-[]Deal with the failed tests
 []Answer William Iliffe(1 hour)
     []draft beginning of emails
+    []Ask for more time
     []Figure out a damn solution!
+[]Deal with the failed tests (1 hour)
+[]PR to merge (30 mins)
 []clear room of detritus! (20 mins)
 Thursday:
 []Bateman/ whatever algorithm to solve the large decay problem
 []Schedule in grad time
 []Read emails
+[]Pedicure
 []Write foilselector
     []step1-4 -> William's foil selection
         - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
