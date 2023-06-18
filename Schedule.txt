@@ -2,58 +2,50 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
+[]Charge bike torch
 []clear room of detritus! (20 mins)
-[]Bateman/ whatever algorithm to solve the large decay problem
+[]Thesis for half a day
+    - /home/ocean/Self/PhDThesis/Feedback/
+    - See "Thesis:" below
 []Schedule in grad time
-[]Read emails
-[]Pedicure
-[]Write foilselector
-    []step1-4 -> William's foil selection
-        - /home/ocean/Self/FoilSelector/STEPBhamBeamline/
-    []step5 -> Hari
-        []Create num_atoms.json (or something like that)
-        []Run in step5.py
-        []output the time-vs-counts curve too
-    []Upload to gitlab
-    []Remove the part that requires the user to input something
-    []step4 -> Ross
 bluemira:
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
 []Make sure new bluemira-2d-neutronics result matches the old ones
 []Schedule in meeting with James Hagues
-Saturday:
-[]Shave
 []bluemira-training:
-    []install rise
+    []Install Rise
     []Add neutronics slide
     []Find issues to open
 []Ask James Cook about IDM access? (probably not needed, but ask anyways) (10 mins)
     []Change print_df_decorator_with_title_string to logging into bluemira instead? (10 mins)
-Sunday:
-[]Thesis for half a day
-    - /home/ocean/Self/PhDThesis/Feedback/
+[]3D print
+    []toothbrush stand
+    []air conditioner redirector
+    []parkour med-box
 Later:
+[]Write foilselector
+    []Bateman/ whatever algorithm to solve the large decay problem
+    []Upload to gitlab
+    []Remove the part that requires the user to input something
+    []step4 -> Ross
 []Backup Google drive photos to SSD (2 hours)
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]https://adhduk.co.uk/adult-adhd-screening-survey/
+[]ADHD screening
+    - https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
-Later (maybe June):
-[]Order 3D print of toothbrush stand
-[]Order 3D print of air conditioner redirector
 Daily task: One novel thing per day:
 []One of the following learning things:
     []Clean e-mailboxes, ~/Downloads, Photos
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
     []Social media & Sci+Math tab
-[]Discard one item from belongings
 Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
