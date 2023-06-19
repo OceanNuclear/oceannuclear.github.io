@@ -1,25 +1,25 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
-[]Charge bike torch
-[]Make AL request
-[]clear room of detritus! (20 mins)
+Monday:
+[]Clear room of detritus! (20 mins)
 []Thesis for half a day
     - /home/ocean/Self/PhDThesis/Feedback/
     - See "Thesis:" below
-[]Schedule in grad time
 bluemira:
 []Figure out what's the best way to turn `parametric plasma source` into python pip installable again?
     []Figure out which part of it deserves to be called "2D"
 []Make sure new bluemira-2d-neutronics result matches the old ones
 []Schedule in meeting with James Hagues
+Tuesday:
+[]Schedule in grad time (40 mins)
 []bluemira-training:
     []Install Rise
     []Add neutronics slide
     []Find issues to open
 []Ask James Cook about IDM access? (probably not needed, but ask anyways) (10 mins)
     []Change print_df_decorator_with_title_string to logging into bluemira instead? (10 mins)
+Monday:
 []3D print
     []toothbrush stand
     []air conditioner redirector
