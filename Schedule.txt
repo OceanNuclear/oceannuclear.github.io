@@ -1,15 +1,12 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
-[]Schedule in grad time (40 mins)
-bluemira:
-[]edit the .flake8 file
 Wednesday night:
 []Claim back money from GWR for Sunday (2023-06-18)
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Backup Google drive photos to SSD (2 hours)
 Friday:
+[]edit the .flake8 file
 []Schedule in meeting with James Hagues
 []bluemira-training:
     []Install Rise
@@ -35,8 +32,6 @@ Later:
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]ADHD screening
-    - https://adhduk.co.uk/adult-adhd-screening-survey/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
