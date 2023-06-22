@@ -5,6 +5,7 @@ Thursday:
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Backup Google drive photos to SSD (2 hours)
 Friday:
+[]Ask for better workflow than to re-commit every time
 []edit the .flake8 file
 []Schedule in meeting with James Hagues
 []bluemira-training:
