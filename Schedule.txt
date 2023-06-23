@@ -1,26 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Thursday:
-[]Maybe apologize to Zoe too? And Brendan. Damn.
-[]Backup Google drive photos to SSD (2 hours)
 Friday:
-[]Ask for better workflow than to re-commit every time
-[]edit the .flake8 file
-[]Schedule in meeting with James Hagues
-[]bluemira-training:
-    []Install Rise
-    []Add neutronics slide
-    []Find issues to open
-Wednesday:
 []Thesis for half a day
     - /home/ocean/Self/PhDThesis/Feedback/
     - See "Thesis:" below
+[]Find and repost the "real time keyboard speaking" thing on instagram
+[]Backup Google drive photos to SSD (2 hours)
+[]Ask for better workflow than to re-commit every time
+[]edit the .flake8 file
+[]Reset watch
+[]Fix website: accountability bit
+[]Maybe apologize to Zoe too? And Brendan. Damn.
 Monday:
 []3D print
     []toothbrush stand
     []air conditioner redirector
     []parkour med-box clip
+Wednesday:
+[]bluemira-training:
+    []Install Rise
+    []Add neutronics slide
+    []Find issues to open
+[]Schedule in meeting with James Hagues
 Later:
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
