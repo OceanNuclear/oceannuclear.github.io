@@ -5,6 +5,7 @@ Friday:
 []Thesis for half a day
     - /home/ocean/Self/PhDThesis/Feedback/
     - See "Thesis:" below
+[]ParameterFrame (do one/ all so that you don't forget about it by Monday)
 []Find and repost the "real time keyboard speaking" thing on instagram
 []Backup Google drive photos to SSD (2 hours)
 []Ask for better workflow than to re-commit every time
@@ -17,6 +18,9 @@ Monday:
     []toothbrush stand
     []air conditioner redirector
     []parkour med-box clip
+Tuesday:
+[]Early Careers Project description form
+[]Call with Darren & Charlie
 Wednesday:
 []bluemira-training:
     []Install Rise
