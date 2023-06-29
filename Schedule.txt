@@ -1,32 +1,34 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
-[]Thesis for half a day
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - See "Thesis:" below
-[]ParameterFrame (do one/ all so that you don't forget about it by Monday)
-[]Find and repost the "real time keyboard speaking" thing on instagram
-[]Backup Google drive photos to SSD (2 hours)
+Tuesday:
+[]Answer EC email: form to be filled out
+    - /home/ocean/Documents/UKAEA/20.GradProject/GradProjectChoices.txt
+[]Fill out form for extension
+    - /home/ocean/Documents/PhD/Forms/RF-BIS.docx
+[]Clear mailbox
+[]*icure
 []Ask for better workflow than to re-commit every time
 []edit the .flake8 file
-[]Reset watch
 []Fix website: accountability bit
-[]Maybe apologize to Zoe too? And Brendan. Damn.
-Monday:
-[]3D print
-    []toothbrush stand
-    []air conditioner redirector
-    []parkour med-box clip
-Tuesday:
-[]Early Careers Project description form
-[]Call with Darren & Charlie
-Wednesday:
+[]Find and repost the "real time keyboard speaking" thing on instagram
+Friday:
+[]pay the car repair fees
+[]Request GP for help with ankle
+[]Backup Google drive photos to SSD (2 hours)
 []bluemira-training:
     []Install Rise
     []Add neutronics slide
     []Find issues to open
+Saturday:
+[]Maybe apologize to Zoe too? And Brendan. Damn.
 []Schedule in meeting with James Hagues
+[]/home/ocean/Self/PhDThesis/Feedback/
+Wednesday:
+[]3D print
+    []toothbrush stand
+    []air conditioner redirector
+    []parkour med-box clip
 Later:
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
