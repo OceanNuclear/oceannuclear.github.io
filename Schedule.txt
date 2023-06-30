@@ -2,19 +2,17 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Answer EC email: form to be filled out
-    - /home/ocean/Documents/UKAEA/20.GradProject/GradProjectChoices.txt
-[]Fill out form for extension
-    - /home/ocean/Documents/PhD/Forms/RF-BIS.docx
 []Call up Iffley Sports Centre for hoodie back
     []Check if they got their phone back or not
 []Find and repost the "real time keyboard speaking" thing on instagram
-[]Fill in monitoring form
+[]Submit Grad Project preferences
+    - https://forms.office.com/e/AQeqae33KS
+    - /home/ocean/Documents/UKAEA/20.GradProject/GradProjectChoices.txt
 []*icure
-[]Request GP for help with ankle
 []Buy cable lock
 []Backup Google drive photos to SSD (2 hours)
 Saturday:
+[]Request GP for help with ankle
 []Fix website: accountability bit
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Schedule in meeting with James Hagues
@@ -24,6 +22,7 @@ Saturday:
 Monday:
 []Ask Oli for better workflow than to re-commit every time
 []edit the .flake8 file
+[]Submit Marval request for fixing the MS teams bug
 Wednesday:
 []bluemira-training:
     - https://github.com/je-cook/bluemira-training
