@@ -18,13 +18,15 @@ Saturday:
 []Fix website: accountability bit
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Schedule in meeting with James Hagues
-[]/home/ocean/Self/PhDThesis/Feedback/
-[]Analyse Bike to work survey
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]statistical analysis (and more) of the Bike to work survey
+    - https://ukaeauk-my.sharepoint.com/:x:/g/personal/yannik_dieudonne_ukaea_uk/EZsA00UJqw1Po-N2g0SHAC8BLTFgwe-PfS_vos49CRpuWw?e=atNEqL
 Monday:
-[]Ask for better workflow than to re-commit every time
+[]Ask Oli for better workflow than to re-commit every time
 []edit the .flake8 file
 Wednesday:
 []bluemira-training:
+    - https://github.com/je-cook/bluemira-training
     []Install Rise
     []Add neutronics slide
         []open issue
