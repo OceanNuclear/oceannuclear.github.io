@@ -1,16 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
-[]Call up Iffley Sports Centre for hoodie back
-    []Check if they got their phone back or not
+Sunday:
+[]*icure
+[]Backup Google drive photos to SSD (2 hours)
+[]Type my sister's food-for-thought up
+Monday:
 []Find and repost the "real time keyboard speaking" thing on instagram
 []Submit Grad Project preferences
     - https://forms.office.com/e/AQeqae33KS
     - /home/ocean/Documents/UKAEA/20.GradProject/GradProjectChoices.txt
-[]*icure
 []Buy cable lock
-[]Backup Google drive photos to SSD (2 hours)
 Saturday:
 []Request GP for help with ankle
 []Fix website: accountability bit
