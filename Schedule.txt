@@ -1,28 +1,30 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Sunday:
-[]*icure
-[]Backup Google drive photos to SSD (2 hours)
-[]Type my sister's food-for-thought up
-Monday:
-[]Check dosimetry badge return method/date
-    - outlook Grace Leader
-[]Find and repost the "real time keyboard speaking" thing on instagram
+Tuesday:
 []Submit Grad Project preferences
     - https://forms.office.com/e/AQeqae33KS
     - /home/ocean/Documents/UKAEA/20.GradProject/GradProjectChoices.txt
-[]Find if I got paid the bonus?
-[]Buy cable lock
-Monday evening:
-[]Request GP for help with ankle
+[]Type my sister's food-for-thought up
 []Fix website: accountability bit
+
+Monday evening:
+[]Clean room
+[]Check if it has a lift from the changing room to studio
+[]Buy cable lock
+[]Backup Google drive photos to SSD (2 hours)
+    - https://one.google.com/storage/management?utm_source=drive&utm_medium=web&utm_campaign=banner_ninety_five_percent
+[]Find and repost the "real time keyboard speaking" thing on instagram
+[]Request GP for help with ankle
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Schedule in meeting with James Hagues
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []statistical analysis (and more) of the Bike to work survey
     - https://ukaeauk-my.sharepoint.com/:x:/g/personal/yannik_dieudonne_ukaea_uk/EZsA00UJqw1Po-N2g0SHAC8BLTFgwe-PfS_vos49CRpuWw?e=atNEqL
-Monday:
+Tuesday:
+[]Confirm with Jack that we can do Crip Goch
+[]Confirm with Pete that I can fix his bike on Thursday
+
 []Ask Oli for better workflow than to re-commit every time
 []edit the .flake8 file
 []Submit Marval request for fixing the MS teams bug
