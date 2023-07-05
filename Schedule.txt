@@ -3,11 +3,11 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
 [x]See where else ParameterFrame is used, and then copy pattern
-[]Buy ticket to Bolzano!
 []Simple replace of all ParameterFrame in quick_tbr_heating.py
 []Ask Oli for better workflow than to re-commit every time
 []edit the .flake8 file
 Evening:
+[]Buy ticket to Bolzano!
 []Clean room
 []Buy cable lock
 []Backup Google drive photos to SSD (2 hours)
