@@ -2,15 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Laundry
-[]Take out recycling
-12:00
-[]Bring the pliers etc.
-[x]Simple replace of all ParameterFrame in quick_tbr_heating.py
-[]Fill out complain form
 []Clean room
+[]Meal Prep
 []Read the teams chat history
-[]Answer Dance etc. invitation email
 Evening:
 []Buy ticket to Bolzano!
 []Buy cable lock
@@ -19,6 +13,8 @@ Evening:
 []Find and repost the "real time keyboard speaking" thing on instagram
 []Maybe apologize to Zoe too? And Brendan. Damn.
 []Schedule in meeting with James Hagues
+Saturday:
+[]Modify facebook comment under Catherine's post to explain duties on the Parkour day
 Sunday:
 []Go through Woodlands registration again to get the EMIS Patient Access self-referral link
     - https://www.woodlandsmedicalcentre.com/online-access-application
