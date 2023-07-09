@@ -2,20 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Clean room
-[]Meal Prep
-[]Read the teams chat history
-Evening:
-[]Buy ticket to Bolzano!
-[]Buy cable lock
-[]Backup Google drive photos to SSD (2 hours)
-    - https://one.google.com/storage/management?utm_source=drive&utm_medium=web&utm_campaign=banner_ninety_five_percent
-[]Find and repost the "real time keyboard speaking" thing on instagram
-[]Maybe apologize to Zoe too? And Brendan. Damn.
-[]Schedule in meeting with James Hagues
-Saturday:
-[]Modify facebook comment under Catherine's post to explain duties on the Parkour day
-Sunday:
 []Go through Woodlands registration again to get the EMIS Patient Access self-referral link
     - https://www.woodlandsmedicalcentre.com/online-access-application
     - get linkage key in email
@@ -24,7 +10,17 @@ Sunday:
 []Self-referral for ankle
     - www.connecthealth.co.uk/services/oxfordshire
     - /home/ocean/Documents/Work/18.Health/AnkleAppointment2023/RoshanReferral-2971.pdf
+[]Modify facebook comment under Catherine's post to explain duties on the Parkour day
+
+[]Clean room
+[]Meal Prep
+Evening:
+[]Buy ticket to Bolzano!
+[]Buy cable lock + mud guard
+[]Find and repost the "real time keyboard speaking" thing on instagram
+[]Schedule in meeting with James Hagues
 Monday:
+[]Read the teams chat history
 []Ask Oli for better workflow than to re-commit every time
 []edit the .flake8 file
 Later:
