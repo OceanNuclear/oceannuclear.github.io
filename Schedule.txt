@@ -1,28 +1,20 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
-[]Go through Woodlands registration again to get the EMIS Patient Access self-referral link
-    - https://www.woodlandsmedicalcentre.com/online-access-application
-    - get linkage key in email
-    - https://app.patientaccess.com/registration/linkage
-    - python /home/ocean/Self/MemorableWord/word.py
-[]Self-referral for ankle
-    - www.connecthealth.co.uk/services/oxfordshire
-    - /home/ocean/Documents/Work/18.Health/AnkleAppointment2023/RoshanReferral-2971.pdf
-[]Modify facebook comment under Catherine's post to explain duties on the Parkour day
-
-[]Clean room
-[]Meal Prep
 Evening:
-[]Buy ticket to Bolzano!
-[]Buy cable lock + mud guard
-[]Find and repost the "real time keyboard speaking" thing on instagram
-[]Schedule in meeting with James Hagues
-Monday:
+[]Buy plane tickets for London -> Zurich,  Bolzano -> London
+Wednesday morning:
 []Read the teams chat history
 []Ask Oli for better workflow than to re-commit every time
-[]edit the .flake8 file
+[]Edit the .flake8 file
+[]Actually get some bluemira done
+Wednesday afternoon:
+[]Blood donation (1.8 hours)
+[]Buy cable lock + mud guard -> go climb (3 hours)
+[]Ausserferrara -> Bolzano ticket
+[]Find and repost the "charachorder + voicebox" post on instagram
+[]Schedule in meeting with James Hagues
+[]Organize transport for PhD FuseNet trip
 Later:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []bluemira-training:
