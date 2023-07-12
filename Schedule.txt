@@ -2,12 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday evening:
+[]Look at line 11 of pandas_df_function.py
+[]Separate into different modules
+[]Benchmark the result
 []Buy plane tickets for London -> Zurich,  Bolzano -> London
-Wednesday morning:
-[]Read the teams chat history
-[]Ask Oli for better workflow than to re-commit every time
-[]Edit the .flake8 file
-[]Actually get some bluemira done
 Wednesday afternoon:
 []Blood donation (1.8 hours)
 []Buy cable lock + mud guard -> go climb (3 hours)
