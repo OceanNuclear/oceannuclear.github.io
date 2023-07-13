@@ -1,14 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday evening:
+Thursday evening:
+[]Buy train ticke to Sheffield
 []Look at line 11 of pandas_df_function.py
 []Separate into different modules
 []Benchmark the result
 []Buy plane tickets for London -> Zurich,  Bolzano -> London
-Wednesday afternoon:
-[]Blood donation (1.8 hours)
-[]Buy cable lock + mud guard -> go climb (3 hours)
+Thursday afternoon:
 []Ausserferrara -> Bolzano ticket
 []Find and repost the "charachorder + voicebox" post on instagram
 []Schedule in meeting with James Hagues
