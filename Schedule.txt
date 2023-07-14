@@ -5,6 +5,7 @@ Friday:
 []Reset SHU password
 []https://portal.connecthealth.co.uk/signin?target=questionnaires 7138224702
 []Buy train ticket to Sheffield
+[]-> Crystal: how to align deraileur?
 []Ausserferrara -> Bolzano ticket
 []Buy plane tickets for London -> Zurich,  Bolzano -> London
 Sunday:
