@@ -4,16 +4,20 @@
 Wednesday:
 []Clean kitchen? (10 mins)
 []Clean room (10 mins)
-[]Look at line 11 of pandas_df_function.py
+[]Look at line 11 of pandas_df_function.py (30 mins)
+[]Timesheet (5 mins)
+    []Test double VPN thing (15 mins)
 []Watch meetings:
-    []July Graduate forum
-    []FT updates
+    []FT updates (45 mins)
+    []July Graduate forum (1 hour)
+    []https://gto76.github.io/python-cheatsheet/ (20 mins)
 []Fix the fucking phone
     []Buy a new phone!
-[]Fill out survey for Chernobheads
-[]Organize transport for PhD FuseNet trip
+[]Sign up for Frisbee on Gradlympics teams chat (5 mins)
+[]Fill out survey for Chernobheads (10 mins)
 []Ausserferrara -> Bolzano ticket
-[]deleted messages -> /home/ocean/Documents/Work/17.DailyThought/.hidden/Marta/2023-07-19
+[]Fill in RyanAir email form
+[]Organize transport for PhD FuseNet trip
 []Find and repost the "charachorder + voicebox" post on instagram
 []Schedule in meeting with James Hagues
 Later:
