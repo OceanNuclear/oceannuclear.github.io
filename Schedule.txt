@@ -1,14 +1,15 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]quick_tbr_heating.filter_cells -> filter_cells.py
-[]Look at line 11 of pandas_df_function.py
 Wednesday:
-[]Fix the fucking phone
-    []Buy a new phone!
+[]Clean kitchen? (10 mins)
+[]Clean room (10 mins)
+[]Look at line 11 of pandas_df_function.py
 []Watch meetings:
     []July Graduate forum
     []FT updates
+[]Fix the fucking phone
+    []Buy a new phone!
 []Fill out survey for Chernobheads
 []Organize transport for PhD FuseNet trip
 []Ausserferrara -> Bolzano ticket
