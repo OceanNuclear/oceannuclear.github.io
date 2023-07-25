@@ -2,21 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Saturday morning:
-[]Look at line 11 of pandas_df_function.py (30 mins)
 []Fix the fucking phone
-    []Update Habits app tracker
-    []Read Whatsapp messages
-    []Give to dealer
-[]Buy a new phone!
-[]Timesheet (5 mins)
-    []Test double VPN thing (15 mins)
+    []Give to phone fixing shop
+    []Buy a new phone!
+[]Fill in RyanAir email form
+[]Ausserferrara -> Bolzano ticket
+[]Test double VPN thing (15 mins)
 []Watch meetings:
     []FT updates (45 mins)
     []July Graduate forum (1 hour)
     []https://gto76.github.io/python-cheatsheet/ (20 mins)
 []Sign up for Frisbee on Gradlympics teams chat (5 mins)
-[]Ausserferrara -> Bolzano ticket
-[]Fill in RyanAir email form
+[]Blood donation sign up
 []Organize transport for PhD FuseNet trip
 []Find and repost the "charachorder + voicebox" post on instagram
 []Schedule in meeting with James Hagues
