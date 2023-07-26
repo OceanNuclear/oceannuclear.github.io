@@ -1,19 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday night:
-[]Fix the fucking phone
-    []Give to phone fixing shop
-    []Buy a new phone!
-[]Organize transport for PhD FuseNet trip
-[]Fill in RyanAir email form
-[]Ausserferrara -> Bolzano ticket
-[]Blood donation sign up
 Wednesday:
+[]Actual work, ofc
 []Watch meetings:
     []FT updates (45 mins)
     []July Graduate forum (1 hour)
     []https://gto76.github.io/python-cheatsheet/ (20 mins)
+[]Fill in RyanAir email form
+[]Organize transport for PhD FuseNet trip
+[]Ausserferrara -> Bolzano ticket
+[]Set brightness back to 40 before leaving
+Thursday:
+[]Blood donation sign up
 Sunday:
 []Schedule in meeting with James Hagues
 []Test double VPN thing (15 mins)
