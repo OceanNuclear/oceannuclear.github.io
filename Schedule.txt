@@ -4,10 +4,12 @@
 Wednesday:
 []Actual work, ofc
 []Fill in RyanAir email form
+    - https://onlineform.ryanair.com/ie/en/customer-verification
+    - use passport
 []Organize transport for PhD FuseNet trip
 []Ausserferrara -> Bolzano ticket
-
 []Data analysis for CulBUG
+    []AI to use emotion analyse each item in the Frequency v.s. Route grid
 Thursday:
 []Blood donation sign up
 Sunday:
