@@ -1,19 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
-[]Actual work, RIP
-    []copy all definitions into:
-        - fortran_api/structure.F90
-        - pps_api/structure.{cpp,h,F90}
-    []Draw diagram ON PAPER
-        - src/structure.{cpp,h,hpp}
-[]Organize transport for PhD FuseNet trip
+Thursday:
 []Ausserferrara -> Bolzano ticket
 []Data analysis for CulBUG
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
-Thursday:
-[]Blood donation sign up
+Friday:
+[]copy all definitions into:
+    - fortran_api/structure.F90
+    - pps_api/structure.{cpp,h,F90}
+[]Draw diagram ON PAPER
+    - src/structure.{cpp,h,hpp}
+[]email: reply to Skill booster feedback form
 Sunday:
 []Schedule in meeting with James Hagues
 []Test double VPN thing (15 mins)
@@ -26,7 +24,7 @@ Later:
     []Add neutronics slide
         []open issue
 []3D print
-    []toothbrush stand
+    []toothbrush + safety razor stand
     []air conditioner redirector
     []parkour med-box clip
 []Write foilselector
@@ -34,6 +32,7 @@ Later:
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
+[]Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
