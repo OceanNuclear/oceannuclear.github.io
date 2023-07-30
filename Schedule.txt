@@ -6,11 +6,6 @@ Saturday:
 []Write points for Ash
 []Data analysis for CulBUG
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
-[]Plan reading trip:
-    - waterproofs, gloves
-    - tools for chain, tyre
-    - Climbing shoes
-    - water, tofu
 []https://www.lefrecce.it/Channels.Website.WEB/#/
 []SV300
 []copy all definitions into:
@@ -23,6 +18,13 @@ Sunday:
 []Schedule in meeting with James Hagues
 []Test double VPN thing (15 mins)
 []Find and repost the "charachorder + voicebox" post on instagram
+Prep for trip:
+[]laundry
+[]Phone: make sure it's ready
+[]Pack non-essential:
+    []take out suitcase
+    []spare clothes
+    []look through Google Keep
 Later:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []bluemira-training:
