@@ -3,7 +3,8 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Saturday:
 []Wash Simon!
-[]Write points for Ash
+[x]Write points for Ash
+[]Reply to people
 []Data analysis for CulBUG
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
 []https://www.lefrecce.it/Channels.Website.WEB/#/
