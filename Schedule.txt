@@ -22,10 +22,6 @@ Thursday:
     []optional: Take photos?
 []Print ticket for OBB (Innsbruck-> Brenner)
 Prep for trip:
-Friday:
-[]Schedule in meeting with James Hagues
-[]Test double VPN thing (15 mins)
-[]Find and repost the "charachorder + voicebox" post on instagram
 []laundry
 []Phone: make sure it's ready
 []Charge watch
@@ -33,6 +29,11 @@ Friday:
     []take out suitcase
     []spare clothes
     []look through Google Keep
+[]Find time for getting to London, organize Friday transfer of Kristen stuff
+Friday:
+[]Schedule in meeting with James Hagues
+[]Test double VPN thing (15 mins)
+[]Find and repost the "charachorder + voicebox" post on instagram
 Later:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []bluemira-training:
