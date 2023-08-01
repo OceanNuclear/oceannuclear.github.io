@@ -2,27 +2,29 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Monday:
-[]Wipe jacket
-[]Bring laptop on train/bus
-[]Laundry
-[]SV300
-[]Wash Simon!
-[]Sticker on the "]" key
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
 []copy all definitions into:
     - fortran_api/structure.F90
     - pps_api/structure.{cpp,h,F90}
+[]FoilSelector revision
+    - outlook email from William Iliffe*
+[]fold Laundry
+[]Wash Simon!
+[]Sticker on the "]" key
 []Draw diagram ON PAPER
     - src/structure.{cpp,h,hpp}
-Tuesday:
+Thursday:
+[]Print ticket for OBB (Innsbruck-> Brenner)
+Prep for trip:
+Friday:
 []Schedule in meeting with James Hagues
 []Test double VPN thing (15 mins)
 []Find and repost the "charachorder + voicebox" post on instagram
-Prep for trip:
 []laundry
 []Phone: make sure it's ready
+[]Charge watch
 []Pack non-essential:
     []take out suitcase
     []spare clothes
