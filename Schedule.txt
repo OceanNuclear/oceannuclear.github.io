@@ -1,35 +1,34 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Monday:
-[]Data analysis for CulBUG
-    - /home/ocean/Documents/UKAEA/22.CulBUG/
-    []AI to use emotion analyse each item in the Frequency v.s. Route grid
-[]fold Laundry
+[]Fold laundry
 []Wash Simon!
-[]Sticker on the "]" key
-
+Wednesday:
+[]Phone: make sure it's ready
+    []organize Friday transfer of Kristen stuff
+    []Answer Jack: any time for climbing too on Friday?
+    []Reply to Alex about when to get to London
+[]FoilSelector revision
+    - outlook email from William Iliffe
 []copy all definitions into:
     - fortran_api/structure.F90
     - pps_api/structure.{cpp,h,F90}
 []Draw diagram ON PAPER
     - src/structure.{cpp,h,hpp}
-Wednesday:
-[]FoilSelector revision
-    - outlook email from William Iliffe*
+[]Data analysis for CulBUG
+    - /home/ocean/Documents/UKAEA/22.CulBUG/
+    []AI to use emotion analyse each item in the Frequency v.s. Route grid
 Thursday:
 []Put in RACE bike pump fix request
     []optional: Take photos?
 []Print ticket for OBB (Innsbruck-> Brenner)
 Prep for trip:
 []laundry
-[]Phone: make sure it's ready
 []Charge watch
 []Pack non-essential:
     []take out suitcase
     []spare clothes
     []look through Google Keep
-[]Find time for getting to London, organize Friday transfer of Kristen stuff
 Friday:
 []Schedule in meeting with James Hagues
 []Test double VPN thing (15 mins)
