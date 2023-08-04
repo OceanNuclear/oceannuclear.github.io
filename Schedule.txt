@@ -1,57 +1,56 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
-[]organize Friday transfer of Kristen stuff
-[]Answer Jack: any time for climbing too on Friday?
-[]Reply to Alex about when to get to London
-[]Data analysis for CulBUG
-    - /home/ocean/Documents/UKAEA/22.CulBUG/
-    []AI to use emotion analyse each item in the Frequency v.s. Route grid
-
+Friday:
+[]Cancel orthopedic appointment
 []copy all definitions into:
     - fortran_api/structure.F90
     - pps_api/structure.{cpp,h,F90}
 []Draw diagram ON PAPER
     - src/structure.{cpp,h,hpp}
-Thursday:
 []Put in RACE bike pump fix request
     []optional: Take photos?
 []Print ticket for OBB (Innsbruck-> Brenner)
-[]Choose whether to buy phone or not
 Prep for trip:
+[]Loofa
 []laundry
-[]Charge watch
 []Pack non-essential:
     []take out suitcase
     []spare clothes
     []look through Google Keep
-Friday:
-[]Schedule in meeting with James Hagues
-[]Test double VPN thing (15 mins)
-[]Find and repost the "charachorder + voicebox" post on instagram
-Later:
+[]Buy credit for trip
+[]Revolut: get Swiss Francs
+[]razors
+[]Crocs?
+Alps:
+[]Read announcement emails, letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
-[]bluemira-training:
-    - https://github.com/je-cook/bluemira-training
-    []Install Rise
-    []Add neutronics slide
-        []open issue
-[]3D print
-    []toothbrush + safety razor stand
-    []air conditioner redirector
-    []parkour med-box clip
+[]Data analysis for CulBUG
+    - /home/ocean/Documents/UKAEA/22.CulBUG/
+    []AI to use emotion analyse each item in the Frequency v.s. Route grid
+[]Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
-[]Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
+[]3D print
+    []toothbrush + safety razor stand
+    []air conditioner redirector
+    []parkour med-box clip
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
+Later:
+[]Schedule in meeting with James Hagues
+[]Find and repost the "charachorder + voicebox" post on instagram
+[]bluemira-training:
+    - https://github.com/je-cook/bluemira-training
+    []Install Rise
+    []Add neutronics slide
+        []open issue
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
