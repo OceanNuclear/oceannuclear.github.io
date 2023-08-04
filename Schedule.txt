@@ -1,28 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
-[]Cancel orthopedic appointment
-    - /home/ocean/Documents/Work/18.Health/AnkleAppointment2023/AnkleAppointment1.pdf
-[]copy all definitions into:
-    - fortran_api/structure.F90
-    - pps_api/structure.{cpp,h,F90}
-[]Draw diagram ON PAPER
-    - src/structure.{cpp,h,hpp}
-[]Put in RACE bike pump fix request
-    []optional: Take photos?
-[]Print ticket for OBB (Innsbruck-> Brenner)
 Prep for trip:
+[]Bring cables
 []Loofa
 []laundry
 []Pack non-essential:
     []take out suitcase
     []spare clothes
     []look through Google Keep
-[]Buy credit for trip
 []Revolut: get Swiss Francs
 []razors
 []Crocs?
+[]Check-in, download all the apps
 Alps:
 []Read announcement emails, letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
@@ -30,6 +20,7 @@ Alps:
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
 []Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
+[]Bug Robin about Lausanne transport
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -45,6 +36,10 @@ Alps:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Later:
+[]bluemira/neutronics
+    - pps_api/structure.{cpp,h,F90}
+    []Check the math
+    []Draw diagram if appropriate
 []Schedule in meeting with James Hagues
 []Find and repost the "charachorder + voicebox" post on instagram
 []bluemira-training:
