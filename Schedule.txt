@@ -3,6 +3,7 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
 []Cancel orthopedic appointment
+    - /home/ocean/Documents/Work/18.Health/AnkleAppointment2023/AnkleAppointment1.pdf
 []copy all definitions into:
     - fortran_api/structure.F90
     - pps_api/structure.{cpp,h,F90}
