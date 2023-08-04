@@ -2,17 +2,25 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Prep for trip:
-[]Bring cables
-[]Loofa
-[]laundry
-[]Pack non-essential:
-    []take out suitcase
+[]take out suitcase
+[]Clean cookery
+[]Test trousers
+[]Fucking clean room
+[]Check-in, download all the apps
+    []Swiss
+    []SBB
+    []OBB?
+    []Trenitalia?
+[]Asda: Loofa
+[]Bring:
+    []cables
+    []First aid
+    []Razors
+    []Crocs?
     []spare clothes
     []look through Google Keep
+[]do the laundry
 []Revolut: get Swiss Francs
-[]razors
-[]Crocs?
-[]Check-in, download all the apps
 Alps:
 []Read announcement emails, letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
