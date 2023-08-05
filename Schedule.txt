@@ -18,6 +18,7 @@ Prep for trip:
 1:59am
 Alps:
 []letstalk.oxfordshire.gov.uk/satn
+[]Set OOO email
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
