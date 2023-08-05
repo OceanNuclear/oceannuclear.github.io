@@ -2,29 +2,26 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Prep for trip:
-[]Fucking clean room (15 mins)
-11:49pm
 []Check-in, download all the apps (25 mins)
     []Swiss
     []SBB
     []OBB?
     []Trenitalia?
-12:14am
-[]First aid
-1:34am
-[]Answer council tax questions (15 mins)
-1:49am
+2:50am
+[]Fucking clean room (10 mins)
+3:00am
 []Revolut: get Swiss Francs (10 mins)
-1:59am
+3:10am
 Alps:
-[]letstalk.oxfordshire.gov.uk/satn
 []Set OOO email
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]Answer Council tax letter
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
 []Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
 []Bug Robin about Lausanne transport
+[]letstalk.oxfordshire.gov.uk/satn
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
