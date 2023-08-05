@@ -2,27 +2,22 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Prep for trip:
-[]take out suitcase
-[]Clean cookery
-[]Test trousers
-[]Fucking clean room
-[]Check-in, download all the apps
+[]Fucking clean room (15 mins)
+11:49pm
+[]Check-in, download all the apps (25 mins)
     []Swiss
     []SBB
     []OBB?
     []Trenitalia?
-[]Asda: Loofa
-[]Bring:
-    []cables
-    []First aid
-    []Razors
-    []Crocs?
-    []spare clothes
-    []look through Google Keep
-[]do the laundry
-[]Revolut: get Swiss Francs
+12:14am
+[]First aid
+1:34am
+[]Answer council tax questions (15 mins)
+1:49am
+[]Revolut: get Swiss Francs (10 mins)
+1:59am
 Alps:
-[]Read announcement emails, letstalk.oxfordshire.gov.uk/satn
+[]letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
