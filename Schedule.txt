@@ -5,9 +5,7 @@ Alps trip:
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
-1:41pm
 []Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
-5:41pm
 []Bug Robin about Lausanne transport
 []letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
