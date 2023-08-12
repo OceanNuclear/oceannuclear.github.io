@@ -5,7 +5,6 @@ Alps trip:
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
-[]Upload PechaKucha for FuseNet (on technology transfer of Unfolding)
 []Bug Robin about Lausanne transport
 []letstalk.oxfordshire.gov.uk/satn
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
@@ -23,6 +22,8 @@ Alps trip:
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
+[]Confirm Board is included
+    - https://indico.fusenet.eu/event/47/registrations/
 Later:
 []bluemira/neutronics
     - pps_api/structure.{cpp,h,F90}
