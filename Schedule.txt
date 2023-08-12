@@ -24,6 +24,7 @@ Alps trip:
     - p.72+ has the relevant info to cross-check your matrix with/
 []Confirm Board is included
     - https://indico.fusenet.eu/event/47/registrations/
+[]Obtain permission from Martin, William Iliffe
 Later:
 []bluemira/neutronics
     - pps_api/structure.{cpp,h,F90}
