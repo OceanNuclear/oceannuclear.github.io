@@ -5,14 +5,22 @@ Alps trip:
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI to use emotion analyse each item in the Frequency v.s. Route grid
-[]Bug Robin about Lausanne transport
-[]letstalk.oxfordshire.gov.uk/satn
+[]Reherse presentation
+[]Obtain permission from Martin, William Iliffe
+[]Bluemira: check to confirm the maths are the same
+
+[]Check in Sky Alps flight BQ1950
+    []https://uk.mytrip.com/rf/order-details/check-in
+        []Sky Alps booking ref:423ACD5B, Lastname: Wong, email hoi.yeung.wong1@tripdetailsnow.com
+        - booking.skyalps.com/ckpage
+
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
+[]letstalk.oxfordshire.gov.uk/satn
 []3D print
     []toothbrush + safety razor stand
     []air conditioner redirector
@@ -22,9 +30,6 @@ Alps trip:
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]Confirm Board is included
-    - https://indico.fusenet.eu/event/47/registrations/
-[]Obtain permission from Martin, William Iliffe
 Later:
 []bluemira/neutronics
     - pps_api/structure.{cpp,h,F90}
@@ -37,6 +42,7 @@ Later:
     []Install Rise
     []Add neutronics slide
         []open issue
+[]Remove dependency on nvidia at some point?
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
