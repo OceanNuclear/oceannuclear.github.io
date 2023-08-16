@@ -8,12 +8,10 @@ Alps trip:
 []Reherse presentation
 []Obtain permission from Martin, William Iliffe
 []Bluemira: check to confirm the maths are the same
-
-[]Check in Sky Alps flight BQ1950
-    []https://uk.mytrip.com/rf/order-details/check-in
-        []Sky Alps booking ref:423ACD5B, Lastname: Wong, email hoi.yeung.wong1@tripdetailsnow.com
-        - booking.skyalps.com/ckpage
-
+[]Check in Ryanair flight
+Upon returning:
+[]Buy Shampoo
+[]Do laundry
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
