@@ -6,7 +6,6 @@ Monday:
     []Post about the SPIDEX email: how to find the status of SPIDEX
     []Email Erika to mention the lack of a weight-belt
 []Bluemira: check to confirm the maths are the same
-[]Fix OS - attempt to use the open source driver again
 Monday night:
 []Check in in easyJet
     []Think about bringing board!
@@ -51,10 +50,8 @@ When back from Swiss:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Later:
-[]bluemira/neutronics
-    - pps_api/structure.{cpp,h,F90}
-    []Check the math
-    []Draw diagram if appropriate
+[]bluemira/neutronics: Check the math
+    []Write on A4
 []Schedule in meeting with James Hagues
 []Find and repost the "charachorder + voicebox" post on instagram
 []bluemira-training:
