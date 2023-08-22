@@ -1,29 +1,12 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Monday:
-[]Check RACE bike pump, gym for weight belt
-    []Post about the SPIDEX email: how to find the status of SPIDEX
-    []Email Erika to mention the lack of a weight-belt
-[]Bluemira: check to confirm the maths are the same
-Monday night:
-[]Check in in easyJet
-    []Think about bringing board!
-[]Buy craft knife from Robert Dyas
-[]Try Asda for lost properties
-[]used clothes -> 1 carrier bag; electronics -> 1 carrier bag
-    - https://www.southoxon.gov.uk/south-oxfordshire-district-council/recycling-rubbish-and-waste/what-goes-in-what-bin/electrical-items-textiles-batteries/
-
-[]Dry laundry
-[]PACK
-[]Order stuff online: pants? Axolie!
-[]Post on instagram
 Tuesday:
+[]Reherse presentation
+[]Post on instagram
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI summarize
-[]Reherse presentation
-[]Obtain permission from Martin, William Iliffe
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
@@ -31,6 +14,7 @@ Tuesday:
     []Remove the part that requires the user to input something
     []step4 -> Ross
 When back from Swiss:
+[]Order stuff online: pants? Axolie!
 []Pencil case content
     - new nailclipper
     []make new custom pen from Muji pen and parts
