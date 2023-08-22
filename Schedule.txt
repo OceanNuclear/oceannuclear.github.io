@@ -4,6 +4,7 @@
 Tuesday:
 []Reherse presentation
 []Post on instagram
+[]Culhambury wristband
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI summarize
