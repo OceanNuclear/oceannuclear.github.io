@@ -1,8 +1,24 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday:
-[]Culhambury wristband
+[]Pencil case content
+    - new nailclipper
+    []make new custom pen from Muji pen and parts
+        - FUCK new tricks may be needed
+    - USB
+    - ruler (20 cm)
+    - Muji sharp pen
+Friday:
+[]Get soil
+[]Superglue sole -> Cobbler @ "Re Vamp Mult-Serve"
+[]Buy shoes from Vivo
+
+[]Clean kitchen
+[]And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
+    - zipline
+    - Salamander (verify native to Switzerland)
+    - Shuffling down those stairs
+    - And maybe some post about longboard
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     []AI summarize
@@ -12,15 +28,9 @@ Tuesday:
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
-When back from Swiss:
+
 []Order stuff online: pants? Axolie!
-[]Pencil case content
-    - new nailclipper
-    []make new custom pen from Muji pen and parts
-        - FUCK new tricks may be needed
-    - USB
-    - ruler (20 cm)
-    - Muji sharp pen
+[]Change wallpaper to Ash
 []give new soil to plant
 []letstalk.oxfordshire.gov.uk/satn
 []3D print
