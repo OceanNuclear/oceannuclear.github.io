@@ -1,24 +1,26 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Zealous bearings, Dad bod wheels
-[]Pencil case content
+[]Vacuum floor
+[]Clean your fucking room
+[]Buy Pencil case content
     - new nailclipper
     []make new custom pen from Muji pen and parts
-        - FUCK new tricks may be needed
-    - USB
-    - ruler (20 cm)
+    - USB adaptors
     - Muji sharp pen
 Friday:
+[]Answer Carl
 []Get soil
-[]Superglue sole -> Cobbler @ "Re Vamp Mult-Serve"
+[]bluemira/neutronics: Check the math
+    []Write on A4
+[]Data analysis for cyclists
 
-[]Clean kitchen
+[]Superglue sole -> Cobbler @ "Re Vamp Mult-Serve"
 []And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
     - zipline
     - Salamander (verify native to Switzerland)
     - Shuffling down those stairs
-    - And maybe some post about longboard
+    - And maybe one page about longboard
     - quote about "Some day I want to give up hope on humanity. Some days I'm so ready to stop being kind. But it's hard to. I won't..."
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
@@ -30,9 +32,7 @@ Friday:
     []Remove the part that requires the user to input something
     []step4 -> Ross
 
-[]Order stuff online: pants? Axolie!
 []Change wallpaper to Ash
-[]give new soil to plant
 []letstalk.oxfordshire.gov.uk/satn
 []3D print
     []toothbrush + safety razor stand
@@ -44,8 +44,6 @@ Friday:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Later:
-[]bluemira/neutronics: Check the math
-    []Write on A4
 []Schedule in meeting with James Hagues
 []Find and repost the "charachorder + voicebox" post on instagram
 []bluemira-training:
