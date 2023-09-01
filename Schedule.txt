@@ -1,19 +1,21 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Vacuum floor
-[]Clean your fucking room
+Friday:
+[]Send something actually useful to James T
+[]Check yoga pants
 []Buy Pencil case content
     - new nailclipper
     []make new custom pen from Muji pen and parts
-    - USB adaptors
     - Muji sharp pen
-Friday:
 []Answer Carl
 []Get soil
+[]Process footage -> Send to PC Booth
+[]Reply to Teams message about Notion (UGV proj.)
 []bluemira/neutronics: Check the math
     []Write on A4
-[]Data analysis for cyclists
+[]Data analysis for CulBUG
+    - /home/ocean/Documents/UKAEA/22.CulBUG/
 
 []Superglue sole -> Cobbler @ "Re Vamp Mult-Serve"
 []And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
@@ -22,9 +24,6 @@ Friday:
     - Shuffling down those stairs
     - And maybe one page about longboard
     - quote about "Some day I want to give up hope on humanity. Some days I'm so ready to stop being kind. But it's hard to. I won't..."
-[]Data analysis for CulBUG
-    - /home/ocean/Documents/UKAEA/22.CulBUG/
-    []AI summarize
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
