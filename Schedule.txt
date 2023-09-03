@@ -2,12 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Send something actually useful to James T
-[]Answer Carl
 []Process footage -> Send to PC Booth
 []Reply to Teams message about Notion (UGV proj.)
 []Data analysis for CulBUG
     - /home/ocean/Documents/UKAEA/22.CulBUG/
+
+[]Send something actually useful to James T
+[]Answer Carl about MTB
 []bluemira/neutronics: Check the math
     []Write on A4
 []Buy Pencil case content
@@ -15,7 +16,6 @@ Friday:
     []make new custom pen from Muji pen and parts
     - Muji sharp pen
 
-[x]Superglue sole -> Cobbler @ "Re Vamp Mult-Serve"
 []And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
     - zipline
     - Salamander (verify native to Switzerland)
