@@ -2,13 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
+[]/home/ocean/Documents/UKAEA/22.CulBUG/
+    []Make one page for every route (list the pros and cons)
+        - /home/ocean/Documents/UKAEA/22.CulBUG/BikeToWorkSurveyMay-June2022_CampusDev.xlsx
+    []Add route map
+    []Use EmojiOne to add emoji in front of EACH ITEM in the report
 []Process footage -> Send to PC Booth
-[]Reply to Teams message about Notion (UGV proj.)
-[]Data analysis for CulBUG
-    - /home/ocean/Documents/UKAEA/22.CulBUG/
-
-[]Send something actually useful to James T
 []Answer Carl about MTB
+[]Send meeting request to Robin
+[]Send something actually useful to James T
+
 []bluemira/neutronics: Check the math
     []Write on A4
 []Buy Pencil case content
@@ -22,7 +25,7 @@ Friday:
     - Shuffling down those stairs
     - And maybe one page about longboard
     - quote about "Some day I want to give up hope on humanity. Some days I'm so ready to stop being kind. But it's hard to. I won't..."
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/t
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
