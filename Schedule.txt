@@ -1,30 +1,32 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
+Wednesday:
 []/home/ocean/Documents/UKAEA/22.CulBUG/
-    []Make one page for every route (list the pros and cons)
-        - /home/ocean/Documents/UKAEA/22.CulBUG/BikeToWorkSurveyMay-June2022_CampusDev.xlsx
     []Add route map
     []Use EmojiOne to add emoji in front of EACH ITEM in the report
-[]Process footage -> Send to PC Booth
-[]Answer Carl about MTB
+[]Get GP note?
+    []Find on Nucleus Doctor's note guidence
+[]Pump bike at MMC
+[]Get shoes back from shop
 []Send meeting request to Robin
 []Send something actually useful to James T
-
-[]bluemira/neutronics: Check the math
-    []Write on A4
-[]Buy Pencil case content
-    - new nailclipper
-    []make new custom pen from Muji pen and parts
-    - Muji sharp pen
-
+[]make new custom pen from Muji pen and parts
 []And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
     - zipline
     - Salamander (verify native to Switzerland)
     - Shuffling down those stairs
     - And maybe one page about longboard
     - quote about "Some day I want to give up hope on humanity. Some days I'm so ready to stop being kind. But it's hard to. I won't..."
+[]Change wallpaper to Ash
+
+[]bluemira/neutronics: Check the math
+    []Write on A4
+
+[]3D print
+    []toothbrush + safety razor stand
+    []Air conditioner redirector
+    []Parkour first aid box
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/t
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
@@ -32,12 +34,6 @@ Friday:
     []Remove the part that requires the user to input something
     []step4 -> Ross
 
-[]Change wallpaper to Ash
-[]letstalk.oxfordshire.gov.uk/satn
-[]3D print
-    []toothbrush + safety razor stand
-    []air conditioner redirector
-    []parkour med-box clip
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
