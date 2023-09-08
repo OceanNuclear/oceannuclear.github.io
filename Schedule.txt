@@ -1,35 +1,25 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Thursday:
-[]Get shampoo, toothpicks?, TGTG
-[]Pump bike
-[]/home/ocean/Documents/UKAEA/22.CulBUG/
-    []Add route map
-    []Use EmojiOne to add emoji in front of EACH ITEM in the report
-[]Get GP note?
-[]Disinfect the house
-
-[]make new custom pen from Muji pen and parts
+[]Swap around two labels on the pie chart
 []Send meeting request to Robin
 []Send something actually useful to James T
-
+    - PhD thesis
+    - foil selector doc
+    - what else?
+[]make new custom pen from Muji pen and parts
+[]Log in between 6:30pm - 7:30 pm for GP note
+    - https://www.woodlandsmedicalcentre.com/online-forms-index
 []Change wallpaper to Ash
-[]And some post about FuseNet hiking+Italy post both at once. I _have_ to make the  post, but maybe mix in some movement in there?
-    - zipline
-    - Salamander (verify native to Switzerland)
-    - Shuffling down those stairs
-    - And maybe one page about longboard
-    - quote about "Some day I want to give up hope on humanity. Some days I'm so ready to stop being kind. But it's hard to. I won't..."
-
+Monday:
 []bluemira/neutronics: Check the math
     []Write on A4
-
 []3D print
     []toothbrush + safety razor stand
     []Air conditioner redirector
     []Parkour first aid box
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/t
+Tuesday:
 []Catch up on the meetings
     - All hands (2023-09-07), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
