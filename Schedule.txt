@@ -1,26 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Saturday:
+Monday:
+[]Breakfast, meeting
 []bluemira/neutronics: Check the math
     []Write on A4
-[]Answer Chernobheads
+[]Answer Chernobheads: registration
+[]Change soil in pot
 
 []Send meeting request to Robin
 []Send something actually useful to James T
+    - Start with foil selector: analyse my folder layout
     - PhD thesis
-    - foil selector doc
     - what else?
 []Change wallpaper to Ash
-Monday:
+6:30pm
 []Log in between 6:30pm - 7:30 pm for GP note
     - https://www.woodlandsmedicalcentre.com/online-forms-index
+Tuesday:
 []3D print
     []toothbrush + safety razor stand
     []Air conditioner redirector
     []Parkour first aid box
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/t
-Tuesday:
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
     - All hands (2023-09-07), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
