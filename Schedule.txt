@@ -1,9 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
+Thursday:
+[]Ubuntu video card fail
+
 []Change wallpaper to Ash
 []bluemira/neutronics: Check the math
+[]git pull (ofunk?) --rebase
+[]Get money back from Bodhi
 
 []Send meeting request to Robin
 []3D print
