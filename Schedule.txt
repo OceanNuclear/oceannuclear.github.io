@@ -2,9 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]fold laundry + hang (10 mins)
 []Change wallpaper to Ash
 []bluemira/neutronics: Check the math
+
 []Send meeting request to Robin
 []3D print
     []toothbrush + safety razor stand
