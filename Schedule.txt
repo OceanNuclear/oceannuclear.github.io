@@ -2,21 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Thursday:
-[]Ubuntu video card fail
-
+[]Email James Hague CC:James Cook, Oli
 []Change wallpaper to Ash
-[]bluemira/neutronics: Check the math
-[]git pull (ofunk?) --rebase
-[]Get money back from Bodhi
-
 []Send meeting request to Robin
+[]Polyfill the wall
+
 []3D print
     []toothbrush + safety razor stand
     []Air conditioner redirector
     []Parkour first aid box
-Thursday:
-[]Polyfill the wall
-
+Sunday:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
     - All hands (2023-09-07), Sept Grad Forum (2023-09-06)
