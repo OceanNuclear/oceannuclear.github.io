@@ -1,15 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Draw the distribution of prt_erg=(qq1+qq2*t1...)**2 for DT reactions
-    - And possibly for DD & TT reactions too
-    []Email James Hague CC:James Cook, Oli
+[]Send email to finance
+    - accessory prices are in ~/Documents/Work/65.BikeTheft/accessory-list.txt
+[]Email James Hague CC:James Cook, Oli
+
 []Polyfill the wall
 []3D print
     []toothbrush + safety razor stand
     []Air conditioner redirector
     []Parkour first aid box
-Sunday:
+Wednesday:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
