@@ -12,7 +12,7 @@
 Sunday:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
-    - All hands (2023-09-07), Sept Grad Forum (2023-09-06)
+    - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
     - Tech Talk: My First Data Acquisition (16/08)
     - Fusion Forum
