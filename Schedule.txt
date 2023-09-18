@@ -4,6 +4,7 @@
 []Send email to finance
     - accessory prices are in ~/Documents/Work/65.BikeTheft/accessory-list.txt
 []Email James Hague CC:James Cook, Oli
+[]Submit timesheet
 
 []Polyfill the wall
 []3D print
