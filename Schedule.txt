@@ -2,6 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Tuesday:
+[]Cleanup kitchen
+
 []Email James Hague CC:James Cook, Oli
 []Re-install chrome
     - backup bookmarks, alt+S, and reading list
@@ -10,7 +12,6 @@ Tuesday:
     []toothbrush + safety razor stand
     []Air conditioner redirector
     []Parkour first aid box
-[]Cleanup kitchen
 Wednesday:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
