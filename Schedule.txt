@@ -2,11 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Thursday:
-[]James Tufnail email
-[]Email James Hague CC:James Cook, Oli
-[]Shower curtain rod
-    []Measure length before buying
+[]fix the fucking native interrupt problem (1 hour)
+    - /home/ocean/Documents/Linux/fault/2023-09-21-SpuriousNativeInterrupt/
+[]Shower curtain rod (10 mins)
+    []Measure length before buying (3 mins)
+[]James Tufnail email (1 hour)
 Friday:
+[]re-install chrome
+[]Monitor LED strip
 Saturday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
