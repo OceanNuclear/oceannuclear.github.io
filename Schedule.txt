@@ -8,7 +8,6 @@ Thursday:
     []Measure length before buying (3 mins)
 []James Tufnail email (1 hour)
 Friday:
-[]re-install chrome
 []Monitor LED strip
 Saturday:
 []3D print:
