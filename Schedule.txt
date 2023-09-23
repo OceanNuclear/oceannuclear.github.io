@@ -1,19 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Thursday:
+Saturday:
 []fix the fucking native interrupt problem (1 hour)
     - /home/ocean/Documents/Linux/fault/2023-09-21-SpuriousNativeInterrupt/
 []Shower curtain rod (10 mins)
     []Measure length before buying (3 mins)
 []James Tufnail email (1 hour)
-Friday:
 []Monitor LED strip
-Saturday:
+Sunday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
-[]monitor lights for mirror
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
+Monday:
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
@@ -31,8 +30,6 @@ Saturday:
     - p.72+ has the relevant info to cross-check your matrix with/
 []Monitored worker dosimetry badge?
 Later:
-[]Schedule in meeting with James Hagues
-[]Find and repost the "charachorder + voicebox" post on instagram
 []bluemira-training:
     - https://github.com/je-cook/bluemira-training
     []Install Rise
