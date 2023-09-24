@@ -4,11 +4,6 @@
 Saturday:
 []fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Monitor LED strip, shower curtain (space cat)
-[x]Switch bearings
-    [x]Add lube
-    [x]Wash wheels
-    [x]Superglue wheel
-    [x]Clean axle and components
 Sunday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
