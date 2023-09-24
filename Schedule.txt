@@ -3,7 +3,10 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Saturday:
 []fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
-[]Monitor LED strip, shower curtain (space cat)
+[]Monitor LED strip
+[]Repainting:
+    []bathroom wall
+    []behind door: apply eraser first?
 Sunday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
