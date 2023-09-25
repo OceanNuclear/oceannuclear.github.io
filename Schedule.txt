@@ -1,53 +1,59 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Saturday:
-[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
-[]Monitor LED strip
-[]Repainting:
-    []bathroom wall
-    []behind door: apply eraser first?
-Sunday:
-[]3D print:
-    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]Clean shoes
+[]Redecorating:
+    []Clean carpet in front of door!
+    []painting bathroom wall
+    []painting bathroom: under mirror
+    []painting behind door: apply eraser first?
 Monday:
+[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
     - Tech Talk: My First Data Acquisition (16/08)
     - Fusion Forum: Fjärrstyrning, Tritium
+[]Buy bike
+[]Write quote (tasks/canvas) on paper -> stick on wall
+[]DEMOLISH the list of readings in your browser tabs
+[]Clean out specific gmail boxes to minimize storage usage
+    - e.g. Lots of Amazon emails can be cut, only the receipts need to be kept while the rest (delivery notifications etc.) can go.
+Tuesday:
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
+[]3D print:
+    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]Monitored worker dosimetry badge?
-Later:
+Wednesday:
+[]Monitor LED strip/mirror extension
+bm:
 []bluemira-training:
     - https://github.com/je-cook/bluemira-training
     []Install Rise
     []Add neutronics slide
         []open issue
-[]Remove dependency on nvidia at some point?
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
 Daily task: One novel thing per day:
 []One of the following learning things:
-    []Clean e-mailboxes, ~/Downloads, Photos
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []http://software-training.gitpages.ccfe.ac.uk/software-best-practices/#32 (1 hour)
     []Social media & Sci+Math tab
 Later:
+[]Buy shoes and pants online (see mobile tabs and Google Keep)
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
-[]Sign up for Complex Analysis/control theory on MOOC or Open U
+[]Sign up for MIT/Cornell MOOC: Complex Analysis, Control theory
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Gravel convergence condition
