@@ -2,18 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 []Clean shoes
-[]Redecorating:
-    []Clean carpet in front of door!
-    []painting bathroom wall
-    []painting bathroom: under mirror
-    []painting behind door: apply eraser first?
 Monday:
-[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+[]Desktop browswer pinned tabs
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
     - Tech Talk: My First Data Acquisition (16/08)
     - Fusion Forum: Fjärrstyrning, Tritium
+[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+[]elearning
+
+[]Redecorating:
+    []Clean carpet in front of door!
+    []painting bathroom wall
+    []painting bathroom: under mirror
+    []painting behind door: apply eraser first?
 []Buy bike
 []Write quote (tasks/canvas) on paper -> stick on wall
 []DEMOLISH the list of readings in your browser tabs
