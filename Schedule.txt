@@ -3,32 +3,37 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Monday:
 []Fold laundry
+[]Clean carpet in front of door
+[]Write quote (tasks/canvas) on paper -> stick on wall
+Tuesday:
+[]Find out from the author of plasma_lib.F90: raise an issue about the
+    - Naming of the a_array and s_array
+    - the indexing problem: i+ip reaches up to 629, instead of staying bound to <=256
+    []`triangulation` should've been renamed to `triangularity`?
+        - /home/ocean/Others/pps-isotropic/src/plasma_OpenMC.cpp
+        - /home/ocean/Others/pps-isotropic/pps_isotropic/source.py
+    []Ask about the L.313 of the tallying file too.
+    []Ask about al2o3: mis-typed the number of atoms?
+    - explain what's the filter
 []Desktop browswer pinned tabs
+[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08) & Robots (21/03)
     - Tech Talk: My First Data Acquisition (16/08)
     - Fusion Forum: Fjärrstyrning, Tritium
-[]fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []elearning
-
-[]Redecorating:
-    []Clean carpet in front of door!
-    []painting bathroom wall
-    []painting bathroom: under mirror
-    []painting behind door: apply eraser first?
 
 []Clean shoes
     []Stick sticker back on
     []Then return them
 []Return trousers
 []Buy bike
-[]Write quote (tasks/canvas) on paper -> stick on wall
 []DEMOLISH the list of readings in your browser tabs
 []Clean out specific gmail boxes to minimize storage usage
     - e.g. Lots of Amazon emails can be cut, only the receipts need to be kept while the rest (delivery notifications etc.) can go.
-Tuesday:
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
+Wednesday:
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
