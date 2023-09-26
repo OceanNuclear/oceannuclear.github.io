@@ -10,7 +10,6 @@ Tuesday:
     - e.g. Lots of Amazon emails can be cut, only the receipts need to be kept while the rest (delivery notifications etc.) can go.
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 Wednesday:
-[]Read the diff between 
 []Write .rst for neutronics: explanation on neutronics.ex.py
 []Find out from the author of plasma_lib.F90: raise an issue about the
     - Naming of the a_array and s_array
