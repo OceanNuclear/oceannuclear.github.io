@@ -4,6 +4,7 @@
 []Return shoes
 []Probe bike options
 []Desktop browswer pinned tabs (See Telegram)
+[](Potentially put the Nautilus tabs into computer as well?)
 Thursday:
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
