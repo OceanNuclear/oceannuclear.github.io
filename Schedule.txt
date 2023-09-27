@@ -1,28 +1,20 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Tuesday:
-[]Write quote (tasks/canvas) on paper -> stick on wall
-[]Clean shower screen
-[]Return trousers
-[]DEMOLISH the list of readings in your browser tabs
-[]Clean out specific gmail boxes to minimize storage usage
-    - e.g. Lots of Amazon emails can be cut, only the receipts need to be kept while the rest (delivery notifications etc.) can go.
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
 Wednesday:
-[]Write .rst for neutronics: explanation on neutronics.ex.py
 []Find out from the author of plasma_lib.F90: raise an issue about the
     - Naming of the a_array and s_array
     - the indexing problem: i+ip reaches up to 629, instead of staying bound to <=256
-    []`triangulation` should've been renamed to `triangularity`?
-        - /home/ocean/Others/pps-isotropic/src/plasma_OpenMC.cpp
-        - /home/ocean/Others/pps-isotropic/pps_isotropic/source.py
     []Ask about the L.313 of the tallying file too.
     []Ask about al2o3: mis-typed the number of atoms?
     - explain what's the filter
 []Desktop browswer pinned tabs
 []Research literature (control/general demand of UGV) for grad project
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+
+[]Return trousers
+[]DEMOLISH the list of readings in your browser tabs
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Catch up on the meetings
     - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
     - Learning Lunch on SOFE (15/08)
@@ -47,6 +39,8 @@ Wednesday:
 []Cancel Amazon prime
 Monday:
 []Buy bike
+[]Example refactorable code from PROCESS?
+[]Highlight potential problem of missing isotope to James
 bm:
 []bluemira-training:
     - https://github.com/je-cook/bluemira-training
