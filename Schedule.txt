@@ -9,11 +9,9 @@ Wednesday:
 []Return trousers
 []DEMOLISH the list of readings in your browser tabs
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
-[]Catch up on the meetings
-    - All hands (2023-09-18, specifically the bit about bikes), Sept Grad Forum (2023-09-06)
-    - Learning Lunch on SOFE (15/08)
-    - Tech Talk: My First Data Acquisition (16/08)
-    - Fusion Forum: Fjärrstyrning, Tritium
+[]Learning Lunch on SOFE (15/08)
+[]Tech Talk: My First Data Acquisition (16/08)
+
 []elearning
 []Stick sticker back on shoe
     []Then return them
