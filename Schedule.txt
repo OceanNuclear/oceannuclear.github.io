@@ -1,20 +1,19 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
-[]Return trousers
-[]Stick sticker back on shoe
-    []Then return them
-
-[]Desktop browswer pinned tabs
-[]Research literature (control/general demand of UGV) for grad project
-[]Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
-[]DEMOLISH the list of readings in your browser tabs
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
-[]Learning Lunch on SOFE (15/08)
-[]Tech Talk: My First Data Acquisition (16/08)
-[]elearning
+[]Return shoes
+[]Probe bike options
+[]Desktop browswer pinned tabs (See Telegram)
 Thursday:
+[]Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]Research literature (control/general demand of UGV) for grad project
+
+[]Listen to talks:
+    []Learning Lunch on SOFE (15/08)
+    []Tech Talk: My First Data Acquisition (16/08)
+[]elearning
+
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
