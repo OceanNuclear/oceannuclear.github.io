@@ -2,12 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]Find out from the author of plasma_lib.F90: raise an issue about the
-    - Naming of the a_array and s_array
-    - the indexing problem: i+ip reaches up to 629, instead of staying bound to <=256
-    []Ask about the L.313 of the tallying file too.
-    []Ask about al2o3: mis-typed the number of atoms?
-    - explain what's the filter
 []Desktop browswer pinned tabs
 []Research literature (control/general demand of UGV) for grad project
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
