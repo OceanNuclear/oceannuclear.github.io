@@ -1,20 +1,25 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Return shoes
-[]Probe bike options
-[]Desktop browswer pinned tabs (See Telegram)
-[](Potentially put the Nautilus tabs into computer as well?)
 Thursday:
+[]Ask Vanquis about dispute status
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+[]PhD Meeting:
+    []re-enrol SHU
+    []Not actually gonna get kicked out from ow7367?
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
-[]Research literature (control/general demand of UGV) for grad project
-
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []elearning
-
+[]CulBUG website:
+    []Identify additions required
+    - /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
+    []Find out how to get access to editing the website
+[]Research literature (control/general demand of UGV) for grad project
+[]When AirBnB replies:
+    []buy train ticket from Brum to Didcot
+Friday:
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -22,17 +27,19 @@ Thursday:
     []step4 -> Ross
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
+[]Monitor LED strip/mirror extension
+[]Cancel Amazon prime
+[]Probe bike options
+[]Pack bag for Birmingham trip
+Monday:
+[]In meeting: Highlight potential problem of missing isotope to James
+    []Also get example refactorable code from PROCESS?
+[]Buy bike
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]Monitor LED strip/mirror extension
-[]Cancel Amazon prime
-Monday:
-[]Buy bike
-[]Example refactorable code from PROCESS?
-[]Highlight potential problem of missing isotope to James
 bm:
 []bluemira-training:
     - https://github.com/je-cook/bluemira-training
