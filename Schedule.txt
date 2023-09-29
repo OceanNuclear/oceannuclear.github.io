@@ -2,7 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]buy train ticket from Birmingham back to Didcot
+[]Buy train ticket from Birmingham back to Didcot
+[]Wash Bike
+[]Schedule time with Kristen and Chris+Faiz
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []CulBUG website:
     []Identify additions required
