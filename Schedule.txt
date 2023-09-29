@@ -11,7 +11,7 @@ Friday:
     []Identify additions required
     - /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
     []Find out how to get access to editing the website
-[]LFR-in-public pdf (browser tab)
+[]LFR-in-public pdf (browser pinned tab)
 []Research literature (control/general demand of UGV) for grad project
 []When AirBnB replies:
     []buy train ticket from Birmingham back to Didcot
