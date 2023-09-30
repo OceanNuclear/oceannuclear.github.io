@@ -2,19 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Wash Bike
-[]Probe bike options
+[]Pack bag for Birmingham trip (including headphones)
+[]Research Oppenheimer cinemas
 []Schedule time with Kristen and Chris+Faiz
+    []Schedule time to buy bike in Didcot
+[]LFR-in-public pdf (browser pinned tab)
+[]The various mobile tabs (Nautilus Magazine)
 []CulBUG website:
     []Identify additions required
     - /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
     []Find out how to get access to editing the website
-[]LFR-in-public pdf (browser pinned tab)
-[]The various mobile tabs (Nautilus Magazine)
 []Research literature (control/general demand of UGV) for grad project
 []Monitor LED strip/mirror extension
-[]Pack bag for Birmingham trip (including headphones)
 Monday:
+[]Wash Bike
+[]Email Zoe Green* to see what happens if I decrease the amount
+    []Go message some people on facebook market place!
+[]Find the right bike components
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
