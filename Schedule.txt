@@ -2,7 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Email back virtue gymnastics
+[]Write notes for the =+1 =-1 thing
 []Schedule time with Kristen and Chris+Faiz
 []CulBUG website:
     []Identify additions required
@@ -12,7 +12,6 @@ Friday:
 []The various mobile tabs (Nautilus Magazine)
 []Research literature (control/general demand of UGV) for grad project
 []Monitor LED strip/mirror extension
-[]Pack bag for Birmingham trip (including headphones)
 []New blood donation date
 Monday:
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
