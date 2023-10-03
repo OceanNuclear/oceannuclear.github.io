@@ -1,8 +1,9 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Friday:
+Tuesday:
 []Write notes for the =+1 =-1 thing
+[]Figure out what's wrong with the Grad scheme timesheet code
 []Schedule time with Kristen and Chris+Faiz
 []CulBUG website:
     []Identify additions required
@@ -13,12 +14,13 @@ Friday:
 []Research literature (control/general demand of UGV) for grad project
 []Monitor LED strip/mirror extension
 []New blood donation date
-Monday:
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []elearning
+
+[]Get .AHK script
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -28,8 +30,7 @@ Monday:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 Monday:
-[]In meeting: Highlight potential problem of missing isotope to James
-    []Also get example refactorable code from PROCESS?
+[]Also get example refactorable code from PROCESS?
 []Buy bike
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
