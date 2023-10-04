@@ -9,14 +9,13 @@ Wednesday:
 []LFR-in-public pdf (browser pinned tab)
 []The various mobile tabs (Nautilus Magazine)
 []Research literature (control/general demand of UGV) for grad project
-[]Monitor LED strip/mirror extension
-[]New blood donation date
+
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []elearning
-
+[]New blood donation date
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
