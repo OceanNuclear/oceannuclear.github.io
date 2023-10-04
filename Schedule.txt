@@ -2,20 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Wednesday:
-[]CulBUG website:
-    []Identify additions required
-    - /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
-    []Find out how to get access to editing the website
-[]LFR-in-public pdf (browser pinned tab)
+[]lfr-in-public pdf (browser pinned tab)
 []The various mobile tabs (Nautilus Magazine)
-[]Research literature (control/general demand of UGV) for grad project
-
+[]New blood donation date
+Thursday:
+[]Weekly meeting:
+    []Wearing UKAEA branded sweater and shirts out-of-site?
+    []Sick leave (planned)
 []Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []elearning
-[]New blood donation date
+[]Back up these directories
+    - /home/ocean/Documents/UKAEA/22.CulBUG/
+    - /home/ocean/Documents/UKAEA/25.BluemiraDocs/
+[]Research literature (control/general demand of UGV) for grad project
+    - 
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -48,6 +51,7 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
+[]Write CulBUG website at /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
 []Buy shoes and pants online (see mobile tabs and Google Keep)
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
