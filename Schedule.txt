@@ -1,24 +1,27 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Wednesday:
-[]lfr-in-public pdf (browser pinned tab)
-[]The various mobile tabs (Nautilus Magazine)
-[]New blood donation date
 Thursday:
-[]Weekly meeting:
-    []Wearing UKAEA branded sweater and shirts out-of-site?
-    []Sick leave (planned)
-[]Fix the fucking native interrupt problem (1 hour) /home/ocean/Documents/fault.log
+[]lfr pdf 2nd half
+[]The various mobile tabs (Nautilus Magazine)
+
+[]Fix the fucking native interrupt problem (1 hour)
+    - /home/ocean/documents/fault.log
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []elearning
+[]Post video, delete unused
+
 []Back up these directories
     - /home/ocean/Documents/UKAEA/22.CulBUG/
     - /home/ocean/Documents/UKAEA/25.BluemiraDocs/
 []Research literature (control/general demand of UGV) for grad project
-    - 
+[]pull sock out of bag
+[]Try the new clothes
+[]Fusion 360
+[]Halloween event: find events near me
+    - find skate event
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -39,10 +42,8 @@ Tuesday:
 []Modify chanpter 1-3 to align with comments on 
     []Put JOFE into thesis
 bm:
-[]bluemira-training:
-    - https://github.com/je-cook/bluemira-training
-    []Install Rise
-    []Add neutronics slide
+[]add neutronics to - https://github.com/je-cook/bluemira-training
+    []Install rise
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
