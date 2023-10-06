@@ -13,13 +13,8 @@ Thursday:
 []elearning
 []Post video, delete unused
 
-[]Back up these directories
-    - /home/ocean/Documents/UKAEA/22.CulBUG/
-    - /home/ocean/Documents/UKAEA/25.BluemiraDocs/
 []Research literature (control/general demand of UGV) for grad project
-[]pull sock out of bag
 []Try the new clothes
-[]Fusion 360
 []Halloween event: find events near me
     - find skate event
 []Write foilselector
