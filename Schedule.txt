@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
 Friday:
-[]Post video, delete unused
 []Fix Henry's phone
 []Thesis: /home/ocean/Self/PhDThesis/Feedback/
 []Write CulBUG website at /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
