@@ -1,32 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Thursday:
-[]lfr pdf 2nd half
-[]The various mobile tabs (Nautilus Magazine)
-
-[]Fix the fucking native interrupt problem (1 hour)
-    - /home/ocean/documents/fault.log
+Friday:
+[]Post video, delete unused
+[]Fix Henry's phone
+[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
+[]Write CulBUG website at /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
+[]3D print:
+    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
+Sunday:
+[]Halloween event: find events near me
+    - Find skate event
+Monday:
+[]Also get example refactorable code from PROCESS?
+[]Research literature (control/general demand of UGV) for grad project
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
-[]elearning
-[]Post video, delete unused
-
-[]Research literature (control/general demand of UGV) for grad project
-[]Try the new clothes
-[]Halloween event: find events near me
-    - find skate event
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
     []step4 -> Ross
-[]3D print:
-    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer, LED strip holder for mirror
-[]Thesis: /home/ocean/Self/PhDThesis/Feedback/
-Monday:
-[]Also get example refactorable code from PROCESS?
+
 []Buy bike
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
@@ -47,7 +43,6 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]Write CulBUG website at /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
 []Buy shoes and pants online (see mobile tabs and Google Keep)
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Buy alternative keyboard(s)
