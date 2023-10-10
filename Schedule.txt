@@ -4,6 +4,7 @@
 []Schedule in thesis time (for Tuesday)
 []Research literature (control/general demand of UGV) for grad project
 []Send bike photos
+[]Reword UKAEA etc. stuff about shower on CulBUG website
 Tuesday:
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
