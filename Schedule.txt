@@ -1,14 +1,14 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-[]Schedule in thesis time (for Wednesday)
-[]Research literature (control/general demand of UGV) for grad project
-Tuesday:
+Wednesday:
+[]Use J14 hose
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
+[]Schedule in thesis time (for Wednesday)
+[]Research literature (control/general demand of UGV) for grad project
 []Buy bike
-[]Use J14 hose
 []Modify chanpter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
