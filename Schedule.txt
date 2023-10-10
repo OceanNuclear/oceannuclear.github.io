@@ -1,21 +1,15 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in BG.
-Monday:
-[]Stick longboard wheel back together
-[]Change longboard wheel bearings
-[]Write CulBUG website at /home/ocean/Documents/UKAEA/22.CulBUG/CulBUG-website-action-list.txt
-[]3D print:
-    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
 []Schedule in thesis time (for Tuesday)
 []Research literature (control/general demand of UGV) for grad project
+[]Send bike photos
+Tuesday:
 []Listen to talks:
     []Learning Lunch on SOFE (15/08)
     []Tech Talk: My First Data Acquisition (16/08)
 []Buy bike
-    []Tomasz Swindon HYB 8.6
-
-Tuesday:
+[]Use J14 hose
 []Modify chanpter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
@@ -32,7 +26,10 @@ Tuesday:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Thursday:
+[]Tomasz Swindon HYB 8.6
 []Also get example refactorable code from PROCESS?
+[]3D print:
+    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
 bm:
 []add neutronics to - https://github.com/je-cook/bluemira-training
     []Install rise
