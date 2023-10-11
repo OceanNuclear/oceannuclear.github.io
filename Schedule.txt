@@ -24,8 +24,8 @@ Wednesday:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Thursday:
-[]Give bike, pump, bushing back to Pete
 []Schedule Halloween: Go to Digbeth
+[]Give bike, pump, bushing back to Pete
 []Return Shelf
 []Also get example refactorable code from PROCESS?
 []3D print:
