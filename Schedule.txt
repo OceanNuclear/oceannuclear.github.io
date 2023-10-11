@@ -9,8 +9,10 @@ Wednesday:
 []Modify chanpter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
+
 []Get mudguard, bell and tyre at Tilehurst Halfords.
-    []Research bike options
+    []Get oil too
+[]Find pump to return to Peter
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -22,6 +24,7 @@ Wednesday:
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
 Thursday:
+[]Give bike, pump, bushing back to Pete
 []Schedule Halloween: Go to Digbeth
 []Return Shelf
 []Also get example refactorable code from PROCESS?
