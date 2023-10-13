@@ -1,15 +1,12 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
-[]Give bike, pump, bushing back to Pete
-[]Bike Register: check bike!
-[]Research literature (control/general demand of UGV) for grad project
+Friday:
+[]Bell and Tyre from Halfords
+[]Schedule new meeting with Robin
 []Modify chapter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
-
-[]Buy chinos on - uk.dockers.com/cart
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -20,20 +17,14 @@ Wednesday:
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-Thursday:
-[]Schedule Halloween: Go to Digbeth
-[]Return Shelf
+[]Talk to Ashley about EDS
+Saturday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
-Friday:
-[]Bell and Tyre from Halfords
-[]Listen to talks:
-    []Learning Lunch on SOFE (15/08)
-    []Tech Talk: My First Data Acquisition (16/08)
+[]Schedule Halloween: Go to Digbeth
 Monday:
 []Matlab code translation
     []Also get example refactorable code from PROCESS?
-bm:
 []add neutronics to - https://github.com/je-cook/bluemira-training
     []Install rise
 Thesis:
