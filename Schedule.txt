@@ -2,6 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
+[]Book physio
 []Bell and Tyre from Halfords
 []Schedule new meeting with Robin
 []Modify chapter 1-3 to align with comments on 
@@ -17,11 +18,11 @@ Friday:
     []Implement as python code
     - p.48, p.64 has the necessary info. to continue derivation
     - p.72+ has the relevant info to cross-check your matrix with/
-[]Talk to Ashley about EDS
-Saturday:
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
 []Schedule Halloween: Go to Digbeth
+[]Talk to Ashley about EDS
+Saturday:
 Monday:
 []Matlab code translation
     []Also get example refactorable code from PROCESS?
