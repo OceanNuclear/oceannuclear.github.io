@@ -8,8 +8,10 @@ Monday:
 []Matlab code translation
     []octave rzip demo
 []Also get example refactorable code from PROCESS?
-[]Brake pad investigation
 
+[]Bike register
+[]Buy 3rd bike
+    []Sort out insurance
 []Modify chapter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
