@@ -4,7 +4,7 @@
 Monday:
 []Matlab code translation
 []Sort out insurance
-[]Buy tyre from Halfords?
+[]New fixture on bike
 []Modify chapter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
