@@ -2,6 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
+[]Make new branch, fix the four-line issue!
+    - (currently stuck at the max-line problem.)
 []Return cycle scheme stuff!
     - jacket, lights
     []Find their phone number on Cyclescheme.co.uk
