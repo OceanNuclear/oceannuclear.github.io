@@ -1,16 +1,23 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Matlab code translation
+Tuesday:
+[]Return cycle scheme stuff!
+    - jacket, lights
+    []Find their phone number on Cyclescheme.co.uk
 []Sort out insurance
-[]New fixture on bike
+    - "CYCLESCHEME" on BikeRegister for discount?
+    - Use outlook email discount too.
+    []Tile tracker
+[]Schedule new meeting with Robin
+[]Matlab code translation
+    []explore (then progressively draw) dependency graph
+    - Rename things properly
+    - move torch onto old bike
 []Modify chapter 1-3 to align with comments on 
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
-[]Schedule new meeting with Robin
 []Schedule Halloween: Go to Digbeth
-[]Schedule 3rd bike buying
 
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
