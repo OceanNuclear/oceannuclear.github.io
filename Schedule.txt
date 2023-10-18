@@ -4,6 +4,9 @@
 Tuesday:
 []Make new branch, fix the four-line issue!
     - (currently stuck at the max-line problem.)
+[]Follow up on UGV teams chat
+[]Disability panel thingy 
+
 []Return cycle scheme stuff!
     - jacket, lights
     []Find their phone number on Cyclescheme.co.uk
