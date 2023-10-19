@@ -1,10 +1,10 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Thursday:
 []Return cycle scheme (jacket, lights)
     []Call Tredz
 []Tile tracker
-Thursday:
 []Schedule new meeting with Robin
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -12,7 +12,6 @@ Thursday:
 []Matlab code translation
     []explore (then progressively draw) dependency graph
     - Rename things properly
-    - move torch onto old bike
 []Schedule Halloween: Go to Digbeth
 
 []Write foilselector
