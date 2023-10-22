@@ -2,10 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Return cycle scheme (jacket, lights)
-    []Call Tredz
 []Tile tracker
 []Schedule new meeting with Robin
+[]Return cycle scheme (jacket, lights)
+    []Call Tredz
+        - https://www.tredz.co.uk/help-advice/customer-service/contact-info/contact-us
 
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
