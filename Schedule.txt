@@ -5,6 +5,7 @@ Sunday:
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
+
 []Oil the bike cassette
 []Plan cycle holiday!
 []Bike tracker tracker
@@ -20,11 +21,11 @@ Monday:
 []Read Tiago's email
 []Matlab code translation
     - Rename things properly
+[]tidy up unfoldingsuite using git
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
-[]tidy up unfoldingsuite using git
 []LIBRITI reading list
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
