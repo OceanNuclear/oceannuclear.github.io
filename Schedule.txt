@@ -1,28 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
+Monday:
+[]Oil the bike cassette
+[]Monthly meeting report
+[]Gift cup to Hellen
+[]Ashley: what about pole? jelly?
+
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     []Put JOFE into thesis
-[]Deregister from Project Management Phase 1? (God I don't have enough time)
-[]Monthly meeting report
-
 []Return bike accessories (jacket + mud-guard):
     []Trade for two locks + mudguard
-    - maybe a spare set of tyre levers?    
-[]Oil the bike cassette
+    - maybe a spare set of tyre levers?
 []Bike tracker tracker
     - under-seat one (backpedal)'s cost?
     - bike handle one
     - Bikebac
 []Bike insurance: the one that I'm already using?
-[]Plan cycle holiday!
-Tuesday:
-[]Gift cup to Hellen
+Wednesday:
 []Read Tiago's email
 []Matlab code translation
     - Rename things properly
+[]Plan cycle holiday!
 []tidy up unfoldingsuite using git
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
