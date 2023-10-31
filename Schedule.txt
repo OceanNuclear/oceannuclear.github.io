@@ -7,12 +7,12 @@ Monday:
 []Gift cup to Hellen
 []Ashley: what about pole? jelly?
 
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    []Put JOFE into thesis
 []Return bike accessories (jacket + mud-guard):
     []Trade for two locks + mudguard
     - maybe a spare set of tyre levers?
+[]Modify chapter 1-3 to align with comments on
+    - /home/ocean/Self/PhDThesis/Feedback/
+    []Put JOFE into thesis
 []Bike tracker tracker
     - under-seat one (backpedal)'s cost?
     - bike handle one
