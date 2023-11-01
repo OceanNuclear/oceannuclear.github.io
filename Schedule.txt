@@ -2,24 +2,25 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
-[x]Oil the bike cassette
-[]Monthly meeting report
-[]Ashley: what about pole? jelly?
-
-[]Gift cup to Hellen
+[]Read Tiago's email
+[]Cross Country refund
+    []Ashley's ticket 03447369123
+    []My ticket on trainsplit
+[]Ashley: what about pole? jelly? I'm going on a solo cycling trip at some point
 []Return bike accessories (jacket + mud-guard):
     []Trade for two locks + mudguard
     - maybe a spare set of tyre levers?
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    []Put JOFE into thesis
+[]Bike insurance: the one that I'm already using?
 []Bike tracker tracker
     - under-seat one (backpedal)'s cost?
     - bike handle one
     - Bikebac
-[]Bike insurance: the one that I'm already using?
-Wednesday:
-[]Read Tiago's email
+Thursday:
+[]Find Book from LRDC
+[]Modify chapter 1-3 to align with comments on
+    - /home/ocean/Self/PhDThesis/Feedback/
+    []Put JOFE into thesis
+[]Gift cup to Hellen
 []Matlab code translation
     - Rename things properly
 []Plan cycle holiday!
