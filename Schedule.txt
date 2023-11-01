@@ -2,15 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
-[]Read Tiago's email
-[]Cross Country refund
-    []Ashley's ticket 03447369123
-    []My ticket on trainsplit
-[]Ashley: what about pole? jelly? I'm going on a solo cycling trip at some point
+[]Bike insurance: the one that I'm already using?
 []Return bike accessories (jacket + mud-guard):
     []Trade for two locks + mudguard
     - maybe a spare set of tyre levers?
-[]Bike insurance: the one that I'm already using?
+[]Read Tiago's email
+[]Ashley: what about pole? jelly? I'm going on a solo cycling trip at some point
 []Bike tracker tracker
     - under-seat one (backpedal)'s cost?
     - bike handle one
