@@ -12,9 +12,8 @@ Wednesday:
     - bike handle one
     - Bikebac
 Thursday:
-[]Return bike accessories (jacket + mud-guard):
-    []Trade for two locks + mudguard
-    - maybe a spare set of tyre levers?
+[]LIBRITI reading list
+[]Replace tyre
 []Find Book from LRDC
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -22,13 +21,17 @@ Thursday:
 []Gift cup to Hellen
 []Matlab code translation
     - Rename things properly
+Friday:
 []Plan cycle holiday!
+[]Return bike accessories (jacket + mud-guard):
+    []Trade for two locks + mudguard
+    - maybe a spare set of tyre levers?
 []tidy up unfoldingsuite using git
+
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
-[]LIBRITI reading list
 []Don't use the matrix multiplication form anymore - use a different method!
     []Determine the 3D, 5D? etc. area where the limit needs to be applied
     []Implement as python code
