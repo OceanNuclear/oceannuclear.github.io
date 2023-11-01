@@ -1,19 +1,20 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
+Wednesday:
+[]Ashley: what about pole? jelly? I'm going on a solo cycling trip at some point
 []Bike insurance: the one that I'm already using?
     []Look for new quotes too (compare)
-[]Return bike accessories (jacket + mud-guard):
-    []Trade for two locks + mudguard
-    - maybe a spare set of tyre levers?
-[]Read Tiago's email
-[]Ashley: what about pole? jelly? I'm going on a solo cycling trip at some point
-[]Bike tracker tracker
+[]Reply to Tiago
+    []Unzip file and figure out what's up
+[]Bike tracker
     - under-seat one (backpedal)'s cost?
     - bike handle one
     - Bikebac
 Thursday:
+[]Return bike accessories (jacket + mud-guard):
+    []Trade for two locks + mudguard
+    - maybe a spare set of tyre levers?
 []Find Book from LRDC
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
