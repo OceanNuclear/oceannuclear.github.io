@@ -1,25 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]UGV: Schedule meeting with Robert (5 mins)
-    - Find his schedule (5 mins)
-10:38pm
-[]Go out for a cycle (1.5 hours)
-    []How much am I willing to pay for bike insurance? (3 mins)
-        []Bike insurance: the one that I'm already using?
-            - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-12:11am
-[]Return bike accessories (jacket + mud-guard):
-    []Trade for two locks + mudguard
-    - maybe a spare set of tyre levers?
-
+Monday:
+[]Tell James I've said yes to STEP stuff
+[]Get Asda toyou return form from Tredz
+    - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
+    /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
+[]Do laundry of waterproof clothings
+Saturday:
+[]How much am I willing to pay for bike insurance? (3 mins)
+    []Bike insurance: the one that I'm already using?
+        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+[]Fucking therapy
+[]Gift cup to Hellen
+[]Plan cycle holiday!
+Sunday:
 []Look into ATCERANES
     []Reply to Tiago
+Monday:
+[]Find Book from LRDC
+    - See chat with Andrew Wise
 []Project Management Phase 1
-
-[]Fucking Trainline 03447369123
-    []Ashley ticket 29/10 refund
-    []my own ticket's refund 03447369123
+[]LIBRITI reading list
+[]UGV: overleaf
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []Modify chapter 1-3 to align with comments on
@@ -28,12 +31,12 @@
     []Put JOFE into thesis
 []Matlab code translation
     - Rename things properly
-[]LIBRITI reading list
-[]Find Book from LRDC
-Friday:
-[]Fucking therapy
-[]Gift cup to Hellen
-[]Plan cycle holiday!
+Wednesday:
+[]address Sarah's comments on CulBUG
+    []CulBUG: get website running
+[]Read outreach event documents
+    - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
+Monday(16/10):
 []tidy up unfoldingsuite using git
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
