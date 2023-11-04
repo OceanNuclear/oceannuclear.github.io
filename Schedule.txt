@@ -1,8 +1,7 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Tell James I've said yes to STEP stuff
+Friday:
 []Get Asda toyou return form from Tredz
     - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
     /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
@@ -14,15 +13,16 @@ Saturday:
 []Fucking therapy
 []Gift cup to Hellen
 []Plan cycle holiday!
-Sunday:
+Sunday/Monday:
+[]Project Management Phase 1
 []Look into ATCERANES
     []Reply to Tiago
+[]UGV: overleaf
+[]LIBRITI reading list
 Monday:
 []Find Book from LRDC
     - See chat with Andrew Wise
-[]Project Management Phase 1
-[]LIBRITI reading list
-[]UGV: overleaf
+[]Tell James I've said yes to STEP stuff
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []Modify chapter 1-3 to align with comments on
