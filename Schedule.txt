@@ -2,7 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
-[]Fucking therapy
+[]Look into ATCERANES
+    []Reply to Tiago
+    - /home/ocean/Others/ATCERANES/
+[]UGV: overleaf bookmark
 Saturday:
 []Get Asda toyou return form from Tredz
     - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
@@ -10,14 +13,13 @@ Saturday:
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+[]Check if I can sell bike at >250 without original documentation in Halfords
 []Gift cup to Hellen
 []Plan cycle holiday!
 Sunday/Monday:
-[]Look into ATCERANES
-    []Reply to Tiago
-[]UGV: overleaf
 []LIBRITI reading list
 Monday:
+[]Fucking therapy
 []Find Book from LRDC
     - See chat with Andrew Wise
 []Tell James I've said yes to STEP stuff
