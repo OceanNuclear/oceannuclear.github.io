@@ -1,43 +1,41 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]Look into ATCERANES
-    []Reply to Tiago
-    - /home/ocean/Others/ATCERANES/
+Monday:
+[]Find Book from LRDC
+    - See chat with Andrew Wise
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []UGV: overleaf bookmark
-Saturday:
-[]Get Asda toyou return form from Tredz
-    - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
-    - /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
+[]LIBRITI reading list
+[]Fucking therapy
+[]address Sarah's comments on CulBUG
+    []CulBUG: get website running
+
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-[]Check if I can sell bike at >250 without original documentation in Halfords
-[]Gift cup to Hellen
+[]Get Asda toyou return form from Tredz
+    - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
+    - /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
 []Plan cycle holiday!
-Sunday/Monday:
-[]LIBRITI reading list
-Monday:
-[]Fucking therapy
-[]Find Book from LRDC
-    - See chat with Andrew Wise
-[]Tell James I've said yes to STEP stuff
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]Gift cup to Hellen
+
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Matlab code translation
-    - Rename things properly
 Wednesday:
-[]address Sarah's comments on CulBUG
-    []CulBUG: get website running
+[]Tell James about this
+    - /home/ocean/Others/ATCERANES/2023-10-24 atceranes/READMEocean.txt
+    - I've said yes to STEP stuff
 []Read outreach event documents
     - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
-Monday(16/10):
+Friday:
 []tidy up unfoldingsuite using git
+Monday(16/10):
+[]Matlab code translation
+    - Rename things properly
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
