@@ -6,11 +6,11 @@ Monday:
     - See chat with Andrew Wise
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]address Sarah's comments on CulBUG
+    []CulBUG: get website running
 []UGV: overleaf bookmark
 []LIBRITI reading list
 []Fucking therapy
-[]address Sarah's comments on CulBUG
-    []CulBUG: get website running
 
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
@@ -34,7 +34,7 @@ Wednesday:
 Friday:
 []tidy up unfoldingsuite using git
 Monday(16/10):
-[]Matlab code translation
+[]Matlab code translation (Main job - James)
     - Rename things properly
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
@@ -47,7 +47,7 @@ Monday(16/10):
     - p.72+ has the relevant info to cross-check your matrix with/
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
-[]add neutronics to - https://github.com/je-cook/bluemira-training
+[]add neutronics to - https://github.com/je-cook/bluemira-training (Main job - James)
     []Install rise
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
