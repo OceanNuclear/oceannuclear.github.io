@@ -2,18 +2,17 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
-[]Wash bike (1 hour)
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
-[]Tell Doreen about what tickets to book
 []address Sarah's comments on CulBUG website:
     []Email reply
     []amend website
+[]Wash bike (1 hour)
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []UGV: overleaf bookmark
 []LIBRITI reading list
 []Fucking therapy
 
-[]Where the FUCK did I put the fucking tyre man
+[]Where the FUCK did I put the spare innertube, man
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
@@ -27,12 +26,15 @@ Monday:
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-Wednesday:
-[]Tell James about this
+Tuesday:
+[]Meeting with James about ATCERANES
     - /home/ocean/Others/ATCERANES/2023-10-24 atceranes/READMEocean.txt
     - I've said yes to STEP stuff
+    - BOOK BORROWED - How to LaTeX it? (with jupyter notebook?)
+Wednesday:
 []Read outreach event documents
     - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
+[]Watch the Learning Lunch talk on Mars ROVER
 Friday:
 []tidy up unfoldingsuite using git
 Monday(16/10):
