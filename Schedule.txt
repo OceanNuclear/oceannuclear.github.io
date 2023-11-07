@@ -2,21 +2,27 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]Address Sarah's comments on CulBUG website:
-    []Amend website
-    []Email reply
-[]Get Asda toyou return form from Tredz
+[]culbug.uk
+    []Address Sarah's comments on CulBUG website: (1 hour)
+        []Amend website
+        []Email reply
+[]Get Asda toyou return form from Tredz (3 mins)
     - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
     []Print
         - /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
         - /home/ocean/Documents/Work/65.BikeTheft/ASDAtoyou.pdf
-[]Meeting with James about ATCERANES
+    []Actually return it
+[]Meeting with James about ATCERANES (1 hour)
     - /home/ocean/Others/ATCERANES/2023-10-24 atceranes/READMEocean.txt
     - I've said yes to STEP stuff
     - BOOK BORROWED - How to LaTeX it? (with jupyter notebook?)
     - What is EQDSK again?
     - Are we using Agile?
 []Wash bike (1 hour)
+[]Choose bike for Cannock Chase (10 mins)
+
+[]Collect train ticket (10 mins)
+    - 4XGLX5W3
 
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
@@ -30,6 +36,7 @@ Tuesday:
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
+[]Save communities Utilities emails into cloud + SSD
 []Therapy
 Wednesday:
 []Read outreach event documents
@@ -64,6 +71,7 @@ Later:
 []Buy shoes and pants online (see mobile tabs and Google Keep)
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Dye hair
+[]Buy watch
 []Driver's education books
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
