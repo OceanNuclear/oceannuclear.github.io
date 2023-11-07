@@ -1,36 +1,36 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Where the FUCK did I put the spare innertube, man
-[]How much am I willing to pay for bike insurance? (3 mins)
-    []Bike insurance: the one that I'm already using?
-        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+Tuesday:
+[]Address Sarah's comments on CulBUG website:
+    []Amend website
+    []Email reply
 []Get Asda toyou return form from Tredz
     - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
-    - /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
-[]Plan cycle holiday!
-[]Gift cup to Hellen
-[]doublesided tape down sandpaper onto keyboard
-    []Clean keyboard
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
-[]Address Sarah's comments on CulBUG website:
-    []Email reply
-    []Amend website
-
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - Chapter 1.1 actually Chapter 2
-    []Put JOFE into thesis
-Tuesday:
-[]Wash bike (1 hour)
-[]Therapy
+    []Print
+        - /home/ocean/Documents/Work/65.BikeTheft/tredz-returns-form-a4-v28b-rb-web.pdf
+        - /home/ocean/Documents/Work/65.BikeTheft/ASDAtoyou.pdf
 []Meeting with James about ATCERANES
     - /home/ocean/Others/ATCERANES/2023-10-24 atceranes/READMEocean.txt
     - I've said yes to STEP stuff
     - BOOK BORROWED - How to LaTeX it? (with jupyter notebook?)
     - What is EQDSK again?
+    - Are we using Agile?
+[]Wash bike (1 hour)
+
+[]How much am I willing to pay for bike insurance? (3 mins)
+    []Bike insurance: the one that I'm already using?
+        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+[]Plan cycle holiday!
+[]Gift cup to Hellen
+[]doublesided tape down sandpaper onto keyboard
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]Modify chapter 1-3 to align with comments on
+    - /home/ocean/Self/PhDThesis/Feedback/
+    - Chapter 1.1 actually Chapter 2
+    []Put JOFE into thesis
+[]Therapy
 Wednesday:
 []Read outreach event documents
     - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
