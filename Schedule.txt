@@ -1,44 +1,36 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
+Wednesday:
 []culbug.uk
     []Address Sarah's comments on CulBUG website: (1 hour)
         []Amend website
         []Email reply
-[]Get Asda toyou return form from Tredz (3 mins)
-    - https://www.tredz.co.uk/help-advice/customer-service/delivery-returns/returns#sec4
-    []Actually return it
-    []call 01792 799508 for Warranty check on the mudguard
+[]Read outreach event documents
+    - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
+[]Watch the Learning Lunch talk on Mars ROVER
+[]Watch FT catch up
+[]Matlab code translation (Main job - James)
+    []Re-define the a,b,c docstrings everywhere in coil_magnetism
 []Wash bike (1 hour)
-
-[]Collect train ticket (10 mins)
-    - 4XGLX5W3
-[]Choose bike for Cannock Chase (10 mins)
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-
+[]doublesided tape down sandpaper onto keyboard
 []Plan cycle holiday!
 []Gift cup to Hellen
-[]doublesided tape down sandpaper onto keyboard
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Save communities Utilities emails into cloud + SSD
 []Therapy
-Wednesday:
-[]Read outreach event documents
-    - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
-[]Watch the Learning Lunch talk on Mars ROVER
+Thursday:
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]elearning
 Friday:
 []tidy up unfoldingsuite using git
 Monday(16/10):
-[]Matlab code translation (Main job - James)
-    - Rename things properly
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
