@@ -8,15 +8,26 @@ Wednesday:
         []Email reply
 []Read outreach event documents
     - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
-[]Watch the Learning Lunch talk on Mars ROVER
-[]Watch FT catch up
 []Matlab code translation (Main job - James)
-    []Re-define the a,b,c docstrings everywhere in coil_magnetism
+    []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
+        []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
+    []Remove all instances of newaxis (this is numpy, broadcasting should take care of this)
+    []offdiag_selector:
+        []verify application is correct
+        []rename
 []Wash bike (1 hour)
+[]Pay Matt Field for Christmas lunch
+    Name: Matthew Field
+    Account Number: 35804903
+    Sort Code: 60-83-71
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+
 []doublesided tape down sandpaper onto keyboard
+    - whole of backspace
+    - right arrow key
+    - right square bracket
 []Plan cycle holiday!
 []Gift cup to Hellen
 []Modify chapter 1-3 to align with comments on
