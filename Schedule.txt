@@ -6,15 +6,6 @@ Wednesday:
     []Address Sarah's comments on CulBUG website: (1 hour)
         []Amend website
         []Email reply
-[]Read outreach event documents
-    - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
-[]Matlab code translation (Main job - James)
-    []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
-        []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
-    []Remove all instances of newaxis (this is numpy, broadcasting should take care of this)
-    []offdiag_selector:
-        []verify application is correct
-        []rename
 []Wash bike (1 hour)
 []Pay Matt Field for Christmas lunch
     Name: Matthew Field
@@ -28,20 +19,30 @@ Wednesday:
     - whole of backspace
     - right arrow key
     - right square bracket
-[]Plan cycle holiday!
-[]Gift cup to Hellen
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Therapy
 Thursday:
+[]Read outreach event documents
+    - /home/ocean/Documents/UKAEA/30.Outreach/Brunel/*.docx
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []elearning
 Friday:
 []tidy up unfoldingsuite using git
-Monday(16/10):
+[]Therapy
+[]Plan cycle holiday!
+Tuesday(17/10):
+[]Matlab code translation (Main job - James)
+    []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
+        []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
+    []Remove all instances of np.newaxis (this is numpy, broadcasting should take care of this)
+    []offdiag_selector:
+        []Verify application of this function in rzip_lag.py is correct
+        []rename the function itself
+[]Gift cup to Hellen
+
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
