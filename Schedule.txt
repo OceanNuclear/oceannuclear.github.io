@@ -2,11 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
-[]culbug.uk
-    []Address Sarah's comments on CulBUG website: (1 hour)
-        []Amend website
-        []Email reply
-[]Wash bike (1 hour)
 []Pay Matt Field for Christmas lunch
     Name: Matthew Field
     Account Number: 35804903
@@ -19,7 +14,7 @@ Thursday:
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []elearning
 Friday:
-[]doublesided tape down sandpaper onto keyboard
+[]Doublesided tape down sandpaper onto keyboard
     - whole of backspace
     - right arrow key
     - right square bracket
@@ -30,6 +25,7 @@ Friday:
 []tidy up unfoldingsuite using git
 []Therapy
 []Plan cycle holiday!
+[]Back up Google drive Community Utilities .zip to SSD
 Tuesday(17/10):
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
