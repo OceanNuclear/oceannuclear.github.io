@@ -1,7 +1,8 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
+Friday:
+[]Submit EC feedback form
 []Pay Matt Field for Christmas lunch
     Name: Matthew Field
     Account Number: 35804903
@@ -13,16 +14,16 @@ Thursday:
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []elearning
-Friday:
-[]Doublesided tape down sandpaper onto keyboard
-    - whole of backspace
-    - right arrow key
-    - right square bracket
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
 []tidy up unfoldingsuite using git
+
+[]Doublesided tape down sandpaper onto keyboard
+    - whole of backspace
+    - right arrow key
+    - right square bracket
 []Therapy
 []Plan cycle holiday!
 []Back up Google drive Community Utilities .zip to SSD
