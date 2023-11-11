@@ -1,8 +1,25 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]Submit EC feedback form
+Friday at office:
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]Modify chapter 1-3 to align with comments on
+    - /home/ocean/Self/PhDThesis/Feedback/
+    - Chapter 1.1 actually Chapter 2
+    []Put JOFE into thesis
+Sunday:
+[]Return Robert Dyas Stanley knife
+[]UGV overleaf Section 3(.0), 3.1.*
+    - https://www.overleaf.com/project/6529299284df8dbfdd15fb9c
+    - /home/ocean/Documents/UKAEA/24.UGV/LitReview/MF3MF4ProjectDescription.pdf
+    - /home/ocean/Documents/UKAEA/24.UGV/LitReview/WalkRollDirtyWork.pdf
+[]Therapy
+[]Plan cycle holiday!
+Tuesday(17/10):
+[]Try pushing to oceannuclear.co.uk on wifi
+    - may need to reset eduroam credentials using ~/Pictures/Screenshots
+    []close the two tabs on pushing in http (May need to make new command according to the tabs)
 []Pay Matt Field for Christmas lunch
     Name: Matthew Field
     Account Number: 35804903
@@ -10,24 +27,7 @@ Friday:
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-Thursday:
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []elearning
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - Chapter 1.1 actually Chapter 2
-    []Put JOFE into thesis
-[]tidy up unfoldingsuite using git
-
-[]Doublesided tape down sandpaper onto keyboard
-    - whole of backspace
-    - right arrow key
-    - right square bracket
-[]Therapy
-[]Plan cycle holiday!
-[]Back up Google drive Community Utilities .zip to SSD
-Tuesday(17/10):
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
         []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
