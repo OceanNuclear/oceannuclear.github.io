@@ -1,33 +1,24 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday at office:
+[]Try pushing to oceannuclear.co.uk on wifi
+    - may need to reset eduroam credentials using ~/Pictures/Screenshots
+    []close the two tabs on pushing in http (May need to make new command according to the tabs)
+[]How much am I willing to pay for bike insurance? (3 mins)
+    []Bike insurance: the one that I'm already using?
+        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
+Monday:
+[]Plan cycle holiday!
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]elearning
+[]git tidy up peakfinding?
+    - Look at teams chat record
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-Sunday:
-[]Return Robert Dyas Stanley knife
-[]UGV overleaf Section 3(.0), 3.1.*
-    - https://www.overleaf.com/project/6529299284df8dbfdd15fb9c
-    - /home/ocean/Documents/UKAEA/24.UGV/LitReview/MF3MF4ProjectDescription.pdf
-    - /home/ocean/Documents/UKAEA/24.UGV/LitReview/WalkRollDirtyWork.pdf
-[]Therapy
-[]Plan cycle holiday!
 Tuesday(17/10):
-[]Try pushing to oceannuclear.co.uk on wifi
-    - may need to reset eduroam credentials using ~/Pictures/Screenshots
-    []close the two tabs on pushing in http (May need to make new command according to the tabs)
-[]Pay Matt Field for Christmas lunch
-    Name: Matthew Field
-    Account Number: 35804903
-    Sort Code: 60-83-71
-[]How much am I willing to pay for bike insurance? (3 mins)
-    []Bike insurance: the one that I'm already using?
-        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-[]elearning
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
         []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
@@ -36,7 +27,6 @@ Tuesday(17/10):
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
 []Gift cup to Hellen
-
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -58,10 +48,9 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]Buy shoes and pants online (see mobile tabs and Google Keep)
+[]Buy watch, shoes and pants online (see mobile tabs and Google Keep)
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Dye hair
-[]Buy watch
 []Driver's education books
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
