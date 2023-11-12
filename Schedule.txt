@@ -1,6 +1,7 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Sunday in the Office:
 []Try pushing to oceannuclear.co.uk on wifi
     - may need to reset eduroam credentials using ~/Pictures/Screenshots
     []close the two tabs on pushing in http (May need to make new command according to the tabs)
