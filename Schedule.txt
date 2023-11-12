@@ -1,15 +1,10 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday in the Office:
-[]Try pushing to oceannuclear.co.uk on wifi
-    - may need to reset eduroam credentials using ~/Pictures/Screenshots
-    []close the two tabs on pushing in http (May need to make new command according to the tabs)
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
 Monday:
-[]Plan cycle holiday!
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []elearning
@@ -20,6 +15,7 @@ Monday:
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
 Tuesday(17/10):
+[]Plan cycle holiday!
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
         []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
@@ -27,6 +23,9 @@ Tuesday(17/10):
     []offdiag_selector:
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
+Wednesday:
+[]Try push to personal website on wifi
+    - https://stackoverflow.com/questions/7953806/github-ssh-via-public-wifi-port-22-blocked
 []Gift cup to Hellen
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
