@@ -4,19 +4,11 @@
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-[]How to add training needs for Unit4 (psychological safety)
 Monday:
+[]git tidy up peakfinding?
+[]Choose what paper to read from JOFE/FusEngDes
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
-[]elearning
-[]git tidy up peakfinding?
-    - Look at teams chat record
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - Chapter 1.1 actually Chapter 2
-    []Put JOFE into thesis
-Tuesday(17/10):
-[]Plan cycle holiday!
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
         []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
@@ -24,7 +16,13 @@ Tuesday(17/10):
     []offdiag_selector:
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
+[]Modify chapter 1-3 to align with comments on
+    - /home/ocean/Self/PhDThesis/Feedback/
+    - Chapter 1.1 actually Chapter 2
+    []Put JOFE into thesis
+[]Papercuts
 Wednesday:
+[]Plan cycle holiday!
 []Try push to personal website on wifi
     - https://stackoverflow.com/questions/7953806/github-ssh-via-public-wifi-port-22-blocked
 []Gift cup to Hellen
