@@ -4,11 +4,10 @@
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-Monday:
-[]git tidy up peakfinding?
+Tuesday:
+[]_setup_fig() and _teardown_fig() as context managers
 []Choose what paper to read from JOFE/FusEngDes
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+    - /home/ocean/Documents/UKAEA/32.JournalClub/
 []Matlab code translation (Main job - James)
     []Copy-and-paste the a, b, c docstring definitions in coil_magnetism
         []Make the docstring wordings all consistent (`filament' vs `loop') and sensible/meaningful
@@ -21,6 +20,8 @@ Monday:
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
 []Papercuts
+[]Reply to Doreen's email
+    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 Wednesday:
 []Plan cycle holiday!
 []Try push to personal website on wifi
