@@ -1,23 +1,35 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Clean alt+S
-Friday:
+Monday:
+[]Ask about bike hire
+[]Write TSVV slide
+[]papercut
+[]Finish Chantal's comments
+[]Tsi Weng
 []How much am I willing to pay for bike insurance? (3 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-[]Papercut: tf_coils.py
-[]Plan cycle holiday!
+[]PhD meeting: raise point about "references"
+
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Callback to PAM assist
+[]Thesis: Make
+    []second to-do list tracker
+    []Progress bar display
+Thesis:
+[]/home/ocean/Self/PhDThesis/{to-do,organization}.txt
+[]/home/ocean/Self/Productivity/Thesis/*.txt
 Monday(20/11):
+[]Callback to PAM assist
+[]Papercut: tf_coils.py
+    []"Do I need to write tests for this?"
+    []"What about eudemo/eudemo/tf_coil/tf_coils.py"
 []pavi docker
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
-[]Read Petition and response email
 []rzip: do the comparative print statement (print both matlab and python) thing
     []write shell script to test the function across matlab and python.
     []rzip_lag.py: offdiag_selector:
@@ -26,6 +38,7 @@ Monday(20/11):
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
 Wednesday:
+[]Plan cycle holiday!
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
@@ -37,11 +50,6 @@ Wednesday:
     - p.72+ has the relevant info to cross-check your matrix with/
 []3D print:
     - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
-[]add neutronics to - https://github.com/je-cook/bluemira-training (Main job - James)
-    []Install rise
-Thesis:
-[]/home/ocean/Self/PhDThesis/{to-do,organization}.txt
-[]/home/ocean/Self/Productivity/Thesis/*.txt
 Daily task: One novel thing per day:
 []One of the following learning things:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
@@ -58,7 +66,6 @@ Interesting/recreational/entertaining:
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []vimtutor
 []Buy alternative keyboard(s)
-[]Sign up for MIT/Cornell MOOC: Complex Analysis, Control theory
+[]Grad time to do MOOC learning (Pinned email to myself)
 []Make arduino stuff: use temperature sensor
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
-fucking hell I could've used `ax.set_yscale('function', functions=[np.sqrt, lambda x:x**2])` all along
