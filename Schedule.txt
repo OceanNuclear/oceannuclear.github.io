@@ -1,19 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Buy flowers for Ashley
-[]Wash jacket + bag
-[]Tsi Weng
-[]How much am I willing to pay for bike insurance? (3 mins)
+[]Tsi Weng (20 mins)
+[]Ask about bike hire/ stabilizers/ any magic to make Ashley ride the bike easier (10 mins)
+    []Any other solution from elsewhere:
+        []Adult stabilizer wheels?
+[]How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
         - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
 []Thesis: Make progress bar
     []second to-do list tracker
     []Progress bar display
 Tuesday:
-[]Write TSVV slide
-[]Papercut: tf_coils.py
-[]Ask about bike hire/ stabilizers/ any magic to make Ashley ride the bike easier
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -24,6 +22,8 @@ Tuesday:
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
 []Order Tredz stuff
 Monday:
+[]Watch All Hands:
+    - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=11205
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
