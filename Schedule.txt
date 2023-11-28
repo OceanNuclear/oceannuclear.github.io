@@ -12,24 +12,25 @@ Tuesday:
         []Bike insurance: the one that I'm already using?
         []Reply to backpedal.co James :)
 []Undo Amazon parcel return (previously planned for COOP)
+Wednesday:
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-Wednesday:
-[]Plan cycle holiday!
-[]Choose what paper to read from JOFE/FusEngDes
-    - /home/ocean/Documents/UKAEA/32.JournalClub/
+[]PAIV: ask about how to do the cut plane again.
+[]Thesis: Make progress bar
+    []second to-do list tracker
+    []Progress bar display
 []rzip: do the comparative print statement (print both matlab and python) thing
     []write shell script to test the function across matlab and python.
     []rzip_lag.py: offdiag_selector:
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
 Thursday:
-[]Thesis: Make progress bar
-    []second to-do list tracker
-    []Progress bar display
+[]Plan cycle holiday!
+[]Choose what paper to read from JOFE/FusEngDes
+    - /home/ocean/Documents/UKAEA/32.JournalClub/
 []Tsi Weng (20 mins)
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
