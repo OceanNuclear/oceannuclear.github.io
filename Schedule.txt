@@ -1,18 +1,23 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
-[]Order Tredz stuff
+Monday:
+[]Papercut
 []Thesis: Make progress bar
     []second to-do list tracker
     []Progress bar display
-[]Tsi Weng (20 mins)
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
-        - https://cycle.gocompare.com/cycle/results?newUser=true&quoteId=8E2EC04122D844E8971D3933685F0F
-Monday:
-[]Return amazon parcel at COOP(no printer required)
+    []Reply to backpedal.co James :)
+[]Undo Amazon parcel return (previously planned for COOP)
+[]Bike fix-up
+    []Re-align front brakes
+    []zip tie up brake line
+    []replace rear wheel skewer
+        []Re-index gears
+        []Re-align rear brakes
 Tuesday:
+[]Replace HYB 8.8 chain at Swindon Halfords
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -21,6 +26,7 @@ Tuesday:
 []paiv docker
 []Reply to Doreen's email
     - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
+[]Tsi Weng (20 mins)
 Monday:
 []Watch All Hands:
     - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=11205
