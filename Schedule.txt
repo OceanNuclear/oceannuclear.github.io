@@ -3,33 +3,25 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
 []Papercut
-[]Thesis: Make progress bar
-    []second to-do list tracker
-    []Progress bar display
-[]How much am I willing to pay for bike insurance? (15 mins)
-    []Bike insurance: the one that I'm already using?
-    []Reply to backpedal.co James :)
-[]Undo Amazon parcel return (previously planned for COOP)
-[]Bike fix-up
-    []Re-align front brakes
-    []zip tie up brake line
-    []replace rear wheel skewer
-        []Re-index gears
-        []Re-align rear brakes
-Tuesday:
-[]Replace HYB 8.8 chain at Swindon Halfords
+    - https://github.com/Fusion-Power-Plant-Framework/bluemira/pull/2793
+[]Watch All Hands:
+    - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=11205
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]paiv docker
-[]Reply to Doreen's email
-    - /home/ocean/Documents/UKAEA/28.HeadshotPhotos/Photo/
-[]Tsi Weng (20 mins)
-Monday:
-[]Watch All Hands:
-    - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=11205
+[]Replace HYB 8.8 chain at Swindon Halfords
+    []Re-align front brakes
+    []zip tie up brake line
+    []replace rear wheel skewer
+        []Re-index gears
+        []Re-align rear brakes
+    []How much am I willing to pay for bike insurance? (15 mins)
+        []Bike insurance: the one that I'm already using?
+        []Reply to backpedal.co James :)
+[]Undo Amazon parcel return (previously planned for COOP)
+Wednesday:
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
@@ -38,6 +30,11 @@ Monday:
     []rzip_lag.py: offdiag_selector:
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
+Thursday:
+[]Thesis: Make progress bar
+    []second to-do list tracker
+    []Progress bar display
+[]Tsi Weng (20 mins)
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
