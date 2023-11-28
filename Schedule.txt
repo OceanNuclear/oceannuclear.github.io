@@ -1,18 +1,7 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Papercut
-    - https://github.com/Fusion-Power-Plant-Framework/bluemira/pull/2793
-[]Watch All Hands:
-    - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=11205
-[]Figure out remote desktop
-[]Fix docker permission
-[]Modify chapter 1-3 to align with comments on
-    []Chantal's comments as well
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - Chapter 1.1 actually Chapter 2
-    []Put JOFE into thesis
+Tuesday:
 []Replace HYB 8.8 chain at Swindon Halfords
     []Re-align front brakes
     []zip tie up brake line
@@ -23,6 +12,11 @@ Monday:
         []Bike insurance: the one that I'm already using?
         []Reply to backpedal.co James :)
 []Undo Amazon parcel return (previously planned for COOP)
+[]Modify chapter 1-3 to align with comments on
+    []Chantal's comments as well
+    - /home/ocean/Self/PhDThesis/Feedback/
+    - Chapter 1.1 actually Chapter 2
+    []Put JOFE into thesis
 Wednesday:
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
