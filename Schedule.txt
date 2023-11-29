@@ -1,24 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Replace HYB 8.8 chain at Swindon Halfords
-    []Re-align front brakes
-    []zip tie up brake line
-    []replace rear wheel skewer
-        []Re-index gears
-        []Re-align rear brakes
-    []How much am I willing to pay for bike insurance? (15 mins)
-        []Bike insurance: the one that I'm already using?
-        []Reply to backpedal.co James :)
-[]Undo Amazon parcel return (previously planned for COOP)
 Wednesday:
+[]PAIV: ask about how to do the cut plane again.
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]PAIV: ask about how to do the cut plane again.
 []Thesis: Make progress bar
     []second to-do list tracker
     []Progress bar display
@@ -27,6 +16,17 @@ Wednesday:
     []rzip_lag.py: offdiag_selector:
         []Verify application of this function in rzip_lag.py is correct
         []rename the function itself
+[]Replace rear wheel skewer
+[]remount wheels
+    []Re-align front brakes
+    []Re-index gears
+    []Re-align rear brakes
+[]Change tyre back to normal
+[]How much am I willing to pay for bike insurance? (15 mins)
+    []Bike insurance: the one that I'm already using?
+    []Reply to backpedal.co James :)
+[]Replace HYB 8.8 chain at a Halfords
+[]Undo Amazon parcel return (previously planned for COOP)
 Thursday:
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
