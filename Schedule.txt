@@ -1,8 +1,7 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]Ask for money from EC
+[]Tsi Weng (20 mins)
 []Thesis: Make progress bar
     []second to-do list tracker
     []Progress bar display
@@ -11,24 +10,14 @@ Friday:
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Remount wheels
-    []Re-align front brakes
-    []Re-index gears
-    []Re-align rear brakes
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
-    []Reply to backpedal.co James :)
-[]Replace Granddad's chain at a Halfords
-[]Add desktop thoughts back into laptop
-[]Clean up table and box
-[]Train strike: check I can still travel on Sunday
-Saturday:
+Sunday:
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
-[]Tsi Weng (20 mins)
 Tuesday:
-[]write shell script to test the function across matlab and python.
+[]Write shell script to test the function across matlab and python.
 []rzip_lag.py: offdiag_selector:
     []Verify application of this function in rzip_lag.py is correct
     []rename the function itself
