@@ -1,10 +1,8 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Tsi Weng (20 mins)
-[]Thesis: Make progress bar
-    []second to-do list tracker
-    []Progress bar display
+[]Buy eye patch (10 mins)
+[]Fix hair (3 mins)
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -12,15 +10,16 @@
     []Put JOFE into thesis
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
-Monday:
-[]Plan cycle holiday!
-[]Choose what paper to read from JOFE/FusEngDes
-    - /home/ocean/Documents/UKAEA/32.JournalClub/
 Tuesday:
 []Write shell script to test the function across matlab and python.
 []rzip_lag.py: offdiag_selector:
     []Verify application of this function in rzip_lag.py is correct
     []rename the function itself
+Friday:
+[]Plan cycle holiday!
+[]Choose what paper to read from JOFE/FusEngDes
+    - /home/ocean/Documents/UKAEA/32.JournalClub/
+[]Tsi Weng (20 mins)
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
@@ -40,7 +39,6 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]Change credit card to AMEX
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Dye hair
 []Driver's education books
