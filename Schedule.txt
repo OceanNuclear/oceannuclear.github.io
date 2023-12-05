@@ -3,9 +3,10 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
 []Fill out todo list for PhD thesis
+[]Finish the rest of the coordinates ordering for PAIV
+[]Write shell script to test the function across matlab and python.
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
-[]Write shell script to test the function across matlab and python.
 []rzip_lag.py: offdiag_selector:
     []Verify application of this function in rzip_lag.py is correct
     []rename the function itself
