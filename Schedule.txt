@@ -12,7 +12,7 @@
     []Put JOFE into thesis
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
-Sunday:
+Monday:
 []Plan cycle holiday!
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
