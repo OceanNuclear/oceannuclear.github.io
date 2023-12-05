@@ -20,6 +20,8 @@ Friday:
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
 []Tsi Weng (20 mins)
+    - Krita
+    - http://humanum.arts.cuhk.edu.hk/Lexis/Canton/
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
