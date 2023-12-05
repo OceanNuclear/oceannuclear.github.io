@@ -2,8 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]Fill out todo list for PhD thesis
+[]Papercut: no windows install?
 []Finish the rest of the coordinates ordering for PAIV
+[]Fill out todo list for PhD thesis
 []Write shell script to test the function across matlab and python.
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
