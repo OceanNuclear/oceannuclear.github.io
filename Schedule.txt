@@ -7,12 +7,15 @@ Friday:
 []Matti final comment: replace one function?
     []Talk to Matti about rzip -> magnetostatic
     []Matti's refactoring: regroup the parameter names
-[]Ppaercut:
-    []Does papercut have a template?
+[]Papercut:
+    [x]Does papercut have a template?
+        - Add it to the small jobs project under James username
     []Ask James: bluemira/plasma_physics/reactions.py isn't written in SI!
+        - Make it into a papercut
     []Papercut: use raw_uc in place of EV_TO_J
         - /home/ocean/Others/bluemira/bluemira/plasma_physics/reactions.py
     []Papercut: no windows install procedure
+        - Not raise
 []Choose what paper to read from JOFE/FusEngDes
     - /home/ocean/Documents/UKAEA/32.JournalClub/
 []Finish the rest of the coordinates ordering for PAIV
