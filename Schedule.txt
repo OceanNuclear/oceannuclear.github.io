@@ -3,13 +3,8 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
 []Unschedule everything for next week
+    []Thesis meeting
 []Fill out todo list for PhD thesis
-[]Matti final comment: replace one function?
-    []Talk to Matti about rzip -> magnetostatic
-    []Matti's refactoring: regroup the parameter names
-Saturday:
-[]Go to Culham to collect lunch
-    []Finish the geometry translation
 []Papercut:
     [x]Does papercut have a template?
         - Add it to the small jobs project under James username
@@ -19,9 +14,12 @@ Saturday:
         - /home/ocean/Others/bluemira/bluemira/plasma_physics/reactions.py
     []Papercut: no windows install procedure
         - Not raise
-[]Choose what paper to read from JOFE/FusEngDes
-    - /home/ocean/Documents/UKAEA/32.JournalClub/
-[]Finish the rest of the coordinates ordering for PAIV
+[]Matti final comment: replace one function?
+    []Matti's refactoring: regroup the parameter names
+Saturday:
+[]Go to Culham to collect lunch
+    []Finish the geometry translation
+    []Finish the rest of the coordinates ordering for PAIV
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -29,6 +27,10 @@ Saturday:
     []Put JOFE into thesis
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
+Monday:
+[]Get sick leave note from GP
+[]Drop into bluemira meeting and explain situation, or explain on chat.
+[]Talk to Matti about rzip -> magnetostatic
 Friday:
 []Plan cycle holiday!
 []Write shell script to test the function across matlab and python.
