@@ -2,11 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
-[]Raise fixflo request for bike shed
+[]Unschedule everything for next week
 []Fill out todo list for PhD thesis
 []Matti final comment: replace one function?
     []Talk to Matti about rzip -> magnetostatic
     []Matti's refactoring: regroup the parameter names
+Saturday:
+[]Go to Culham to collect lunch
+    []Finish the geometry translation
 []Papercut:
     [x]Does papercut have a template?
         - Add it to the small jobs project under James username
