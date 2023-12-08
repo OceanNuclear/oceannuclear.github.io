@@ -1,10 +1,12 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Friday:
+[]Raise fixflo request for bike shed
 []Fill out todo list for PhD thesis
-Thursday:
 []Matti final comment: replace one function?
     []Talk to Matti about rzip -> magnetostatic
+    []Matti's refactoring: regroup the parameter names
 []Ppaercut:
     []Does papercut have a template?
     []Ask James: bluemira/plasma_physics/reactions.py isn't written in SI!
