@@ -7,7 +7,6 @@
     []Thesis meeting
 []Clean desk
 []Fill out todo list for PhD thesis
-
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
     []Answer James from backpedal.co
@@ -17,6 +16,12 @@
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
 Monday:
+[]Reply to Martin's Yammer comment
+    []Find the author responsible for Abingdon LCWIP
+    - https://letstalk.oxfordshire.gov.uk/abingdon-lcwip
+        []And the phone + email on it
+    - https://democratic.whitehorsedc.gov.uk/mgUserInfo.aspx?UID=1580
+        []And the phone + email on it
 []Get sick leave note from GP
 []Drop into bluemira meeting and explain situation, or explain on chat
     []Add Papercuts to Small Jobs
@@ -26,12 +31,6 @@ Monday:
         []shaf_shift docstring needs updating
     []Talk to Matti about rzip -> magnetostatic
     []Why the * 0.5 in (plasma_physics/reactions.py) ?
-[]Reply to Martin's Yammer comment
-    []Find the author responsible for Abingdon LCWIP
-    - https://letstalk.oxfordshire.gov.uk/abingdon-lcwip
-        []And the phone + email on it
-    - https://democratic.whitehorsedc.gov.uk/mgUserInfo.aspx?UID=1580
-        []And the phone + email on it
 []Update James Hague on progress
     - ask him to look at the cross-section of 34-div_upper_pfc_hi_flux_Armour.sat DivertorPFCUpZone3Arm
 []Reply to Ziga
