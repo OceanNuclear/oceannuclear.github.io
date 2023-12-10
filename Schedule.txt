@@ -1,15 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Clean desk
-[]Fill out todo list for PhD thesis
 Sunday:
 []Go to Culham to collect lunch
-    []Finish the rest of the coordinates ordering for PAIV
-    []Read up on what is reactivity:
-        - DOI 10.1088/0029-5515/32/4/I07
+    []Wash bike
+[]Clean desk
 []Unschedule everything for next week
     []Thesis meeting
+[]Fill out todo list for PhD thesis
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -24,9 +22,10 @@ Monday:
     []Add Papercuts to Small Jobs
 []Matti meeting: make him explain CSG + the model he built
     []My earlier confusion about how CSG works on Teams message
+    []PlasmaNeutronSourceParameters discussion
+        []shaf_shift docstring needs updating
     []Talk to Matti about rzip -> magnetostatic
-    []Just checking: why is this * 0.5?
-        - https://github.com/Fusion-Power-Plant-Framework/bluemira/blob/develop/bluemira/plasma_physics/reactions.py#L370
+    []Why the * 0.5 in (plasma_physics/reactions.py) ?
 []Reply to Martin's Yammer comment
     []Find the author responsible for Abingdon LCWIP
     - https://letstalk.oxfordshire.gov.uk/abingdon-lcwip
@@ -34,9 +33,8 @@ Monday:
     - https://democratic.whitehorsedc.gov.uk/mgUserInfo.aspx?UID=1580
         []And the phone + email on it
 []Reply to Ziga
-Tuesday:
 []Reading: buy card!
-[]Change email signature as Stuart has suggested in the teams chat
+Tuesday:
 []Post Christmas card!
 []Capoeira @ Oxford
     []Buy fishcakes from Korean/ethnic shops
