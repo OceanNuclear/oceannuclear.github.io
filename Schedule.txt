@@ -1,49 +1,45 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Go to Culham to collect lunch
-    []Wash bike
-[]Unschedule everything for next week
-    []Thesis meeting
-[]Clean desk
+[]Get sick leave note from GP
+    []Ask when is the next eye appointment
 []Fill out todo list for PhD thesis
-[]How much am I willing to pay for bike insurance? (15 mins)
-    []Bike insurance: the one that I'm already using?
-    []Answer James from backpedal.co
+    []Share with Nat
+[]Reply to Ziga
+    []Why the * 0.5 in plasma_physics/reactions.py?
+        - /home/ocean/Downloads/H.-S._Bosch_1992.pdf
+[]Reading: buy card!
+Wednesday:
+[]Clean room
+    []Clean out fridge food
+    []Clean desk
+    []Take out trash
+    []Clear misc. content of bag
+    []Laundry
+        []Bag of laundry
+        []Shoes
+[]Post Christmas card!
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-Monday:
-[]Reply to Martin's Yammer comment
-    []Find the author responsible for Abingdon LCWIP
-    - https://letstalk.oxfordshire.gov.uk/abingdon-lcwip
-        []And the phone + email on it
-    - https://democratic.whitehorsedc.gov.uk/mgUserInfo.aspx?UID=1580
-        []And the phone + email on it
-[]Get sick leave note from GP
-[]Drop into bluemira meeting and explain situation, or explain on chat
-    []Add Papercuts to Small Jobs
-[]Matti meeting: make him explain CSG + the model he built
-    []My earlier confusion about how CSG works on Teams message
-    []PlasmaNeutronSourceParameters discussion
-        []shaf_shift docstring needs updating
-    []Talk to Matti about rzip -> magnetostatic
-    []Why the * 0.5 in (plasma_physics/reactions.py) ?
-[]Update James Hague on progress
-    - ask him to look at the cross-section of 34-div_upper_pfc_hi_flux_Armour.sat DivertorPFCUpZone3Arm
-[]Reply to Ziga
-[]Reading: buy card!
-Tuesday:
-[]Post Christmas card!
+[]How much am I willing to pay for bike insurance? (15 mins)
+    []Bike insurance: the one that I'm already using?
+    []Answer James from backpedal.co
+Thursday:
 []Capoeira @ Oxford
     []Buy fishcakes from Korean/ethnic shops
-Friday:
 []Plan cycle holiday!
-[]rzip_lag.py: offdiag_selector:
-    []Verify application of this function in rzip_lag.py is correct
-    []rename the function itself
+Sunday:
+[]/home/ocean/Documents/UKAEA/32.JournalClub/
+Monday:
+[]Matti: CSG MakePolygon
+    []How many surfaces are we adding
+    []See if it runs in the same time or not
+[]Find out who's the Mathworks Graduate rep (Ben?)
+    - Charlie Boswell posted on Breaking Grad General stating Adam Stephen needed this rep in October.
+    []Find out about ellipke signature history
 Thesis:
 []/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
