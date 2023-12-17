@@ -1,14 +1,10 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]write Christmas cards on the train
-    []Reply to Robin + Alison
-[]Eye appointment in the morning, earlier the better
-    []Post Christmas card!
 Sunday:
+[]Answer Laszlo!
 []/home/ocean/Documents/UKAEA/32.JournalClub/
-[]Buy postage -> send banana as parcel
+[]Fill in break in study form -> Send to Robin
 []Buy Shark onsies
 []Fill out todo list for PhD thesis (10 mins)
     - /home/ocean/Self/PhDThesis/todo.lst
@@ -18,6 +14,7 @@ Sunday:
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
 Monday:
+[]Buy postage -> send banana as parcel
 []Distribute succulents (45 mins)
 []Laundry: beddings
 []How much am I willing to pay for bike insurance? (15 mins)
