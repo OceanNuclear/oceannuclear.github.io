@@ -2,6 +2,19 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
+[]Work
+    []/home/ocean/Documents/UKAEA/32.JournalClub/
+    []Find out who's the Mathworks Graduate rep (Ben?)
+        - Charlie Boswell posted on Breaking Grad General stating Adam Stephen needed this rep in October.
+        []Find out about ellipke signature history
+    []Neutronics symposium (w/ Tim Eade) abstract writing and submission
+    []Parametric tokamak for PAIV.
+        []Revolve with bluemira
+        []Revolve with paramak
+        - message Tim Eade half-way through this to check for anything useful
+        - message James Hague afterwards
+    []Papercuts x6
+    []James Morris: Fill in End of Year report
 []Fill out todo list for PhD thesis (10 mins)
     - /home/ocean/Self/PhDThesis/todo.lst
 []/home/ocean/Documents/UKAEA/32.JournalClub/
