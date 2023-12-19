@@ -3,7 +3,8 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
 []Papercuts x6
-    []"Incompletely fixed: `codes/process/_solver.py: get_species_data` and `tests/codes/process/test_solver.py: test_get_species_data*`
+    []#2857: "Incompletely fixed: `codes/process/_solver.py: get_species_data` and `tests/codes/process/test_solver.py: test_get_species_data*`
+    []#2853: Half-way through fixing point 4 and 5
 []Parametric tokamak for PAIV.
     []Revolve with bluemira
     []Revolve with paramak
