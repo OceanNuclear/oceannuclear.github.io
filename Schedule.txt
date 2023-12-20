@@ -1,17 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Papercuts x6
-    []#2857: "Incompletely fixed: `codes/process/_solver.py: get_species_data` and `tests/codes/process/test_solver.py: test_get_species_data*`
-    []#2853: Half-way through fixing point 4 and 5
-[]Parametric tokamak for PAIV.
-    []Revolve with bluemira
-    []Revolve with paramak
-    - message Tim Eade half-way through this to check for anything useful
-    - message James Hague afterwards
-[]James Morris: Fill in End of Year report
+Thursday:
 []/home/ocean/Documents/UKAEA/32.JournalClub/
+
+[]Neutronics symposium (w/ Tim Eade) abstract writing and submission
+[]James Morris: Fill in End of Year report
+[]https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/2855
+Friday:
+[]Send email to MP including the template from Prospect
+Saturday:
+[]Distribute succulents (45 mins)
+[]Laundry: beddings
 []Fill out todo list for PhD thesis (10 mins)
     - /home/ocean/Self/PhDThesis/todo.lst
 []Modify chapter 1-3 to align with comments on
@@ -19,18 +19,12 @@ Tuesday:
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
     []Put JOFE into thesis
-[]Send email to MP including the template from Prospect
-Wednesday:
-[]Distribute succulents (45 mins)
-[]Laundry: beddings
+[]/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
     []Answer James from backpedal.co
 []Plan cycle holiday!
-Thursday:
-[]Neutronics symposium (w/ Tim Eade) abstract writing and submission
 Thesis:
-[]/home/ocean/Self/PhDThesis/{to-do,organization}.txt
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
