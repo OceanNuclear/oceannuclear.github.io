@@ -4,8 +4,9 @@
 Thursday:
 []/home/ocean/Documents/UKAEA/32.JournalClub/
 
-[]Neutronics symposium (w/ Tim Eade) abstract writing and submission
 []James Morris: Fill in End of Year report
+[]Call hospital about ankle
+[]Neutronics symposium (w/ Tim Eade) abstract writing and submission
 []https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/2855
 Friday:
 []Send email to MP including the template from Prospect
