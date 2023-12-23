@@ -1,20 +1,22 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
-[]/home/ocean/Documents/UKAEA/32.JournalClub/
-
-[]James Morris: Fill in End of Year report
-[]Call hospital about ankle
-[]Neutronics symposium (w/ Tim Eade) abstract writing and submission
-[]https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/2855
-Friday:
-[]Send email to MP including the template from Prospect
 Saturday:
-[]Distribute succulents (45 mins)
-[]Laundry: beddings
+[]Brief shopping: yoghurt (1 hour)
+7:42pm
+[]Send email to MP including the template from Prospect (40 minutes)
+8:22pm
 []Fill out todo list for PhD thesis (10 mins)
-    - /home/ocean/Self/PhDThesis/todo.lst
+    []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
+9:07pm
+[]Distribute succulents (45 mins)
+9:52pm
+Sunday:
+10:50am
+[]Go to collect watch in Didcot Sainsbursy's Argos
+    []Maybe also check specsavers for glasses too?
+[]Parkour with Andrey:
+    []Ask about liquid democracy
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -25,6 +27,10 @@ Saturday:
     []Bike insurance: the one that I'm already using?
     []Answer James from backpedal.co
 []Plan cycle holiday!
+[]Take picture to sell bike
+    []Post on facebook market place
+Tuesday 02/01:
+[]Call hospital about ankle
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
