@@ -1,22 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Brief shopping: yoghurt (1 hour)
-7:42pm
-[]Send email to MP including the template from Prospect (40 minutes)
-8:22pm
-[]Fill out todo list for PhD thesis (10 mins)
-    []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
-9:07pm
-[]Distribute succulents (45 mins)
-9:52pm
 Sunday:
 10:50am
+[]Take out trash
 []Go to collect watch in Didcot Sainsbursy's Argos
     []Maybe also check specsavers for glasses too?
+    []Text Ashley to remind her to write Luke a Christmas card
+    []Post capoeira
 []Parkour with Andrey:
     []Ask about liquid democracy
+[]Fill out todo list for PhD thesis (10 mins)
+    []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
+[]Look for body-safe ingredients
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
@@ -29,8 +25,10 @@ Sunday:
 []Plan cycle holiday!
 []Take picture to sell bike
     []Post on facebook market place
+[]Distribute succulents (45 mins)
 Tuesday 02/01:
 []Call hospital about ankle
+[]Send email to MP including the template from Prospect (40 minutes)
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
