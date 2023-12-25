@@ -2,16 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
-[]Clear desk
-    []Write cards:
-        - Ashley
-        - Crystal
-        - Andrey
-[]Reply to Signal
 []Take picture to sell bike
     []Post on facebook market place
-
+[]Reply to Signal
 []Post capoeira
+
+[]Clear desk
+    - Watch manual
+    []put away Christmas cards
 []Put in lens store order
 []Fill out todo list for PhD thesis (10 mins)
     []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
