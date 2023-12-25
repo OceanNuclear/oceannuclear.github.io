@@ -7,13 +7,14 @@ Monday:
         - Ashley
         - Crystal
         - Andrey
-[]Fill out todo list for PhD thesis (10 mins)
-    []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
 []Reply to Signal
 []Take picture to sell bike
     []Post on facebook market place
+
 []Post capoeira
 []Put in lens store order
+[]Fill out todo list for PhD thesis (10 mins)
+    []/home/ocean/Self/PhDThesis/todo.lst (35 mins)
 []Modify chapter 1-3 to align with comments on
     []Chantal's comments as well
     - /home/ocean/Self/PhDThesis/Feedback/
