@@ -1,9 +1,6 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Pharmacy
-    -> fix succulent
-[]Leather repair
 Tuesday:
 []Formalize Uveitis extension application
     - /home/ocean/Documents/PhD/Forms/BreakInStudy/
