@@ -2,19 +2,28 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Reply to supervisors
 []Register Granddad on Bike register (20 mins)
     []Take photo of Frame number (e.g. AA803) (2 mins)
+9:49pm
 []Confirm Vinted delivery (5 mins)
+9:54pm
 []Discard the moulds (15 mins)
-[]Blanket cover change
-[]Find sliding material for wrist rest
+10:09pm
+[]Blanket cover change (20 mins)
+10:29pm
+[]Reply to supervisors (40 mins)
+11:09pm
+[]Find sliding material for wrist rest (15 mins)
+11:24pm
+[]Tell Brendan about thought (25 mins)
+11:49pm
 []Continue with to-do list mapping and modification (30 mins)
+12:19am
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
-[]Tell Brendan about thought (25 mins)
 Friday:
+[]Make reddit post asking for integrating the surface wetness
 []Call hospital about ankle (20 mins)
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
@@ -29,8 +38,6 @@ Sunday:
 []Remind Faiz to put Harness in bag
 Monday:
 []Post capoeira + parkour
-[]Ask James about how to build sphinx for feature/neutronics branch
-    []S_TO_YR/ YR_TO_S chat
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
