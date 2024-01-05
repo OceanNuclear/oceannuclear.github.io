@@ -2,18 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Register Granddad on Bike register (20 mins)
-    []Take photo of Frame number (e.g. AA803) (2 mins)
+[o]Register Granddad on Bike register (20 mins)
+    [o]Take photo of Frame number (e.g. AA803) (2 mins)
 9:49pm
-[]Confirm Vinted delivery (5 mins)
+[o]Confirm Vinted delivery (5 mins)
 9:54pm
-[]Discard the moulds (15 mins)
+[x]Take out trash
+[o]Discard the moulds (15 mins)
 10:09pm
-[]Blanket cover change (20 mins)
+[x]Blanket cover change (20 mins)
 10:29pm
+[x]Further vacuum
+[x]Laundry of the two mud-caked trousers
+[x]Vacuum behind the bin
 []Reply to supervisors (40 mins)
-11:09pm
-[]Find sliding material for wrist rest (15 mins)
+[x]Find sliding material for wrist rest (15 mins)
 11:24pm
 []Tell Brendan about thought (25 mins)
 11:49pm
@@ -23,13 +26,16 @@ Thursday:
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
 Friday:
-[]Make reddit post asking for integrating the surface wetness
 []Call hospital about ankle (20 mins)
+[]Track bike
+[]Make reddit post asking for integrating the surface wetness
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
     []Answer James from backpedal.co
 Saturday:
+[]Stick hi-vis sticker onto bag
 []Find out about passport renewal
+    []Find out about HK id card renewal too.
 []Pasteon cat wrist-rest
 []Plan cycle holiday!
 []Distribute succulents (45 mins)
