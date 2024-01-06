@@ -2,25 +2,25 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
-[]Make reddit post asking for integrating the surface wetness
+[]Make 2 script (1 for soil moisture, 1 to actually integrate)
+[]Make 1 script that calls OpenWeather instead?
+[]Video tape bike shed door sticking
 []How much am I willing to pay for bike insurance? (15 mins)
     []Bike insurance: the one that I'm already using?
     []Answer James from backpedal.co
-
 []Stick hi-vis sticker onto bag
 []Re-stick sandpaper onto "]" key
-Saturday:
+
 []Continue with to-do list mapping and modification (30 mins)
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
 []Find out about passport renewal
     []Find out about HK id card renewal too.
-[]Pasteon cat wrist-rest
-[]Plan cycle holiday!
 []Distribute succulents (45 mins)
     []Clean soil with Peroxide
 Sunday:
+[]Plan trip to Stokes
 []Acroyoga
 []Halfords
     []Book/find available valuation assessment
@@ -28,8 +28,11 @@ Sunday:
     []Backpack cover
 []Remind Faiz to put Harness in bag
 Monday:
-[]Post capoeira + parkour
+[]Post capoeira + parkour + longboard
 []Call hospital about ankle (20 mins)
+[]Put torches into bag for tomorrow (Tuesday) Bagley Woods trip
+Friday:
+[]Plan cycle holiday!
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
@@ -53,6 +56,7 @@ Later:
 []Driver's education books
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]Control theory: gyroscopic train, water flow rate
 []Gravel convergence condition
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
