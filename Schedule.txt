@@ -1,27 +1,28 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Monday, at home:
+[]Video tape bike shed door sticking (3 mins)
+[]Fold laundry (30 mins)
+[]Plan transport method to Bagley woods for tomorrow (Tuesday) (20 mins)
+    []Put torches into bag
+[]Plan trip to Stokes
+[]Stick Hi-vis sticker onto bag (15 mins)
+Tuesday:
+[]Call hospital about ankle (20 mins)
+[]How much am I willing to pay for bike insurance?
 []Continue with to-do list mapping and modification (30 mins)
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
-Monday:
-[]Fold laundry (30 mins)
-[]Video tape bike shed door sticking (3 mins)
-[]Find headphone case in office. Otherwise declare them lost (5 mins)
-[]Call hospital about ankle (20 mins)
-[]How much am I willing to pay for bike insurance?
-[]Plan transport method to Bagley woods for tomorrow (Tuesday) (20 mins)
-    []Put torches into bag
-[]Plan trip to Stokes
-[]Stick Hi-vis sticker onto bag
-Friday:
+Saturday:
 []Plan cycle holiday!
+[]Check mathworks service request (12 mins)
+[]Re-stick sandpaper onto "]" key (15 mins)
+[]Find out about passport renewal (40 mins)
+    []Find out about HK id card renewal too. (20 mins)
 []Distribute succulents (45 mins)
     []Clean soil with Peroxide
-[]Re-stick sandpaper onto "]" key
-[]Find out about passport renewal
-    []Find out about HK id card renewal too.
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
