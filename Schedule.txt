@@ -2,12 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday, at home:
-[]Video tape bike shed door sticking (3 mins)
-[]Fold laundry (30 mins)
-[]Plan transport method to Bagley woods for tomorrow (Tuesday) (20 mins)
+[x]Video tape bike shed door sticking (3 mins)
+[x]Fold laundry (30 mins)
+[x]Plan transport method to Bagley woods for tomorrow (Tuesday) (20 mins)
     []Put torches into bag
-[]Plan trip to Stokes
-[]Stick Hi-vis sticker onto bag (15 mins)
+[x]Plan trip to Stokes
+[x]Stick Hi-vis sticker onto bag (15 mins)
 Tuesday:
 []Call hospital about ankle (20 mins)
 []How much am I willing to pay for bike insurance?
