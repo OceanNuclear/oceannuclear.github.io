@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
-[]Find locker key for Culham gym
 []Where TF is my key for weight belt in the gym locker
 []How much am I willing to pay for bike insurance?
 []Find lost properties in Didcot train station
