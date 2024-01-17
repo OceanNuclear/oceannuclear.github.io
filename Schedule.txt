@@ -2,9 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
-[]Drop update of UGV work I've done in chat
+[]Drop update of UGV work I've done in chat (13 mins)
 []Transfer Google drive to SSD (1 hour)
-[]B24: Where TF is my key for weight belt in the gym locker
+[]B24: Where TF is my key for weight belt in the gym locker (10 mins)
+
 []Repot succulent
     []Clean soil with Peroxide
 []Lomond: fixflo: give me better insulation
