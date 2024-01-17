@@ -2,6 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 []Drop update of UGV work I've done in chat (13 mins)
+    - Re-structuring section 2.0,
+    - Help Darren w/ LaTeX,
+    - Need Darren to send me the email from L&D
 Wednesday:
 []B24: Where TF is my key for weight belt in the gym locker (10 mins)
 []Repot succulent
