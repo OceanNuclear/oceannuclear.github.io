@@ -2,18 +2,24 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
-[]Repot succulent
-    []Clean soil with Peroxide
+[x]GWR delay repay (morning)
+[x]GWR delay repay (evening)
+[x]Repot succulent
+    [x]Clean soil with Peroxide
 []Dye hair: look up Didcot options
 []Lomond: fixflo: give me better insulation
-    []Ask matt to do a forced-circulation test
+    [x]Ask matt to do a forced-circulation test
 Thursday:
+[]Collect locker key
 []The rest of the Leadership Journey recap on Teams
+[]Request AL for Monday-Wednesday for the last week of January
 []Continue with to-do list mapping and modification (30 mins)
 []Modify chapter 1-3 to align with comments on
     - /home/ocean/Self/PhDThesis/Feedback/
     - Chapter 1.1 actually Chapter 2
 []Plan cycle holiday!
+Friday:
+[]Repair pockets on the bag
 Saturday:
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
@@ -40,6 +46,7 @@ Later:
 []All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Dye hair, brace teeth, lasik
 []Driver's education books
+[]Insurance on Boardson
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory: gyro monorail, water flow rate
