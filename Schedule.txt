@@ -8,16 +8,15 @@ Thursday:
     - Chapter 1.1 actually Chapter 2
 []Plan cycle holiday!
 Friday:
-[]Talk to Jamie Bunning about Hot Tent Access
-[]Repair pockets on the bag
-[]Forced circulation test
-[]Lomond: fixflo: give me better insulation
 []Dye hair: look up Didcot options
-Saturday:
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
+[]Forced circulation test
+    []Lomond: fixflo: give me better insulation
+[]Repair pockets on the bag
+Saturday:
 Monday:
 []Neutronics symposium abstract writing and submission
 Thesis:
