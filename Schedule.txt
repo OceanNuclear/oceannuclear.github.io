@@ -1,24 +1,22 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
+Sunday:
 []Continue with to-do list mapping and modification (30 mins)
-[]Modify chapter 1-3 to align with comments on
-    - /home/ocean/Self/PhDThesis/Feedback/
-    - Chapter 1.1 actually Chapter 2
-[]Plan cycle holiday!
-Friday:
 []Dye hair: look up Didcot options
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
+[]Repair pockets on the bag
+[]Search for receipt to be claimed back for DSE assessment
+[]Plan cycle holiday!
+Monday:
+[]Ask Davidson if there's any slides from the leadership talk
+[]Answer Jamie Bunning
+[]Neutronics symposium abstract writing and submission
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
-[]Repair pockets on the bag
-Saturday:
-Monday:
-[]Neutronics symposium abstract writing and submission
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
