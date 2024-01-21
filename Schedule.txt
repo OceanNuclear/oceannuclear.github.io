@@ -2,14 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Sunday:
-[]Continue with to-do list mapping and modification (30 mins)
+[]Search for receipt to be claimed back for DSE assessment
 []Dye hair: look up Didcot options
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
 []Repair pockets on the bag
-[]Search for receipt to be claimed back for DSE assessment
 []Plan cycle holiday!
 Monday:
 []Ask Davidson if there's any slides from the leadership talk
