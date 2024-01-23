@@ -4,7 +4,6 @@
 Tuesday:
 []Reply to Elizabeth and Marius
 []Collect gym belt
-[]Fix bike
 
 []Formally reply to Ashley's invitation
 []Plan cycle holiday!
@@ -14,6 +13,8 @@ Tuesday:
 []Answer Yannik about Cyclescheme
     - Why won't I use it/ how to make it useful
 Wednesday:
+[]Bring allen key, snacks, and meals
+    []index bike gears
 []Submit DSE assessment claim using receipt
 []Neutronics symposium abstract writing and submission
 []LaTeX diagrams
@@ -27,6 +28,7 @@ Wednesday:
     []request BMWire from James
     []Go through the entire neutronics workflow up to tally creation
 []Update James on neutron source
+[]Climb after work?
 Thursday:
 []Dye hair: look up Didcot options
 Saturday:
