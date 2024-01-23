@@ -1,23 +1,26 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
+Tuesday:
+[]Buy buff and earphones and squeeze bottle
+[]Remind Paul about booking
+[]Reply to Ashely about cards
+    []pics
 []Thesis work: diagrams
-[]Dye hair: look up Didcot options
+[]Answer Yannik about Cyclescheme
+    - Why won't I use it/ how to make it useful
+[]Submit DSE assessment claim using receipt
+[]Neutronics symposium abstract writing and submission
+
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
-[]Repair pockets on the bag
-Tuesday:
-[]Submit DSE assessment claim using receipt
-[]Fix timesheets?
-[]Neutronics symposium abstract writing and submission
-[]Reply to Ashely!
-[]Answer mom, Answer Brendan
 []Plan cycle holiday!
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
+[]Dye hair: look up Didcot options
+[]Repair pockets on the bag
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
