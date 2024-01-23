@@ -3,8 +3,6 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
 []Thesis work: diagrams
-[]Forced circulation test
-    []Lomond: fixflo: give me better insulation
 []Dye hair: look up Didcot options
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
@@ -15,7 +13,11 @@ Tuesday:
 []Submit DSE assessment claim using receipt
 []Fix timesheets?
 []Neutronics symposium abstract writing and submission
+[]Reply to Ashely!
+[]Answer mom, Answer Brendan
 []Plan cycle holiday!
+[]Forced circulation test
+    []Lomond: fixflo: give me better insulation
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
