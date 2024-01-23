@@ -2,25 +2,31 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]Buy buff and earphones and squeeze bottle
-[]Remind Paul about booking
-[]Reply to Ashely about cards
-    []pics
-[]Thesis work: diagrams
+[]LaTeX diagrams
+    []FFR: design phase
+    []FFR: operational phase
+    []One for the sphinx documentation
+[]Collect gym belt
+[]Fix bike
+
+[]Formally reply to Ashley's invitation
+[]Plan cycle holiday!
+[]Forced circulation test
+    []Lomond: fixflo: give me better insulation
+[]Repair pockets on the bag
+Wednesday:
+[]Neutronics symposium abstract writing and submission
+[]Submit DSE assessment claim using receipt
 []Answer Yannik about Cyclescheme
     - Why won't I use it/ how to make it useful
-[]Submit DSE assessment claim using receipt
-[]Neutronics symposium abstract writing and submission
-
+[]Update James on neutron source
+Thursday:
+[]Dye hair: look up Didcot options
+Saturday:
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
-[]Plan cycle holiday!
-[]Forced circulation test
-    []Lomond: fixflo: give me better insulation
-[]Dye hair: look up Didcot options
-[]Repair pockets on the bag
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
