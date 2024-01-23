@@ -2,10 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]LaTeX diagrams
-    []FFR: design phase
-    []FFR: operational phase
-    []One for the sphinx documentation
+[]Reply to Elizabeth and Marius
 []Collect gym belt
 []Fix bike
 
@@ -14,11 +11,21 @@ Tuesday:
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
 []Repair pockets on the bag
-Wednesday:
-[]Neutronics symposium abstract writing and submission
-[]Submit DSE assessment claim using receipt
 []Answer Yannik about Cyclescheme
     - Why won't I use it/ how to make it useful
+Wednesday:
+[]Submit DSE assessment claim using receipt
+[]Neutronics symposium abstract writing and submission
+[]LaTeX diagrams
+    - `diagram`
+    []FFR: design phase
+    []FFR: operational phase
+    []One for the sphinx documentation
+[]Tim Eade: get access to /common/step-simdb/simulations/
+    []Download the data into the file structure of 0/{run[0], info[0]}, 1/{run[1], info[1]}.
+[]Attempt to start the neutronics workflow
+    []request BMWire from James
+    []Go through the entire neutronics workflow up to tally creation
 []Update James on neutron source
 Thursday:
 []Dye hair: look up Didcot options
