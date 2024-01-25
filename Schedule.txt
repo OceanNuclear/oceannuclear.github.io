@@ -1,35 +1,34 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Call Paul about dungeon booking
-[]index bike gears
-[]Formally reply to Ashley's invitation
-[]Repair pockets on the bag
+Thursday:
+[]UnfoldingDiagram.tex
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
-Thursday:
-[]Get source pics of 
-    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ACT/LWP_unpublished/InternalReportOnDeliverables_LWP.pdf
-[]Neutronics symposium abstract writing and submission
-    []Dig out bluemira papers
-    []Read bluemira documentations
-    []Look at the code that I've already generated
-    []make latex document
-[]Submit DSE assessment claim using receipt
-[]Attempt to start the neutronics workflow
-    []request BMWire from James
-    []Go through the entire neutronics workflow up to tally creation
-[]Download the /common/step-*/simulations/ data into the file structure of
-    - 0/{run[0], info[0]}, 1/{run[1], info[1]}.
+[]Formally reply to Ashley's invitation
+[]Shave legs
+[]Repair pockets on the bag
 Friday:
-[]Dye hair: look up Didcot options
-[]Update James on neutron source
-[]Plan cycle holiday!
-Saturday:
+[]Submit DSE assessment claim using receipt
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
     []Set-up passwords
+[]Set-up the rest of the sphinx documentation
+    []Fix the diagram with proper decision blocks?
+        - draw on paper
+[]Upgrade neutronics
+    - Ignore the bits that requires data for now
+    []Set-up tests and then CI
+[]Attempt to start the neutronics workflow
+    []request BMWire from James
+    []Go through the entire neutronics workflow up to tally creation
+[]message James Hagues and Tim Eade that I'm submitting the bluemira abstract
+    - forward a copy to James Hague
+[]Download the /common/step-*/simulations/ data into the file structure of
+    - 0/{run[0], info[0]}, 1/{run[1], info[1]}.
+[]Dye hair: look up Didcot options
+[]Plan cycle holiday!
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
