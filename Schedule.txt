@@ -11,6 +11,8 @@ Friday:
 []UnfoldingDiagram.tex
     []Add two grey lines from (reactor) to (foil pic)
     - /home/ocean/Self/PhDThesis/latexExp/UnfoldingDiagram.tex
+[]Make the Bosh Hale plot
+    - /home/ocean/Self/PhDThesis/pyscript/
 []Submit DSE assessment claim using receipt
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
