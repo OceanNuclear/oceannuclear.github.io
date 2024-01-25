@@ -2,13 +2,15 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]UnfoldingDiagram.tex
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
 []Formally reply to Ashley's invitation
 []Shave legs
 []Repair pockets on the bag
 Friday:
+[]UnfoldingDiagram.tex
+    []Add two grey lines from (reactor) to (foil pic)
+    - /home/ocean/Self/PhDThesis/latexExp/UnfoldingDiagram.tex
 []Submit DSE assessment claim using receipt
 []Firefox
     []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
