@@ -1,17 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
 []Repair pockets on the bag
+Thursday:
 []Fix peeling sandpaper by cutting it off
 []Firefox
-    []Set-up bookmarks (import correctly, make sure I didn't already duplicate them)
     []Set-up extensions
-    []Set-up passwords
+        []Set up short-cut keys
+            - (use the extension?)
+[]Buy towline
 []Forced circulation test
     []Lomond: fixflo: give me better insulation
-[]Formally reply to Ashley's invitation
-Saturday:
 []Dye hair: look up Didcot options
 []Plan cycle holiday!
 Friday:
