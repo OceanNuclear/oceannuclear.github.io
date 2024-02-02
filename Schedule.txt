@@ -3,8 +3,6 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
 []CSG
-[]Neutromak
-[]Ask Tim Eade for SDDR heatmap
 []Buy towline from halfords (in person, so that I can pay for it with the discount)
 []Plan solo bike trip holiday!
 []Plan Chelmsford
@@ -15,6 +13,9 @@ Monday:
 []Bring to the office:
     - wipes for bike
     - snacks
+[]Neutromak
+[]Ask Tim Eade for SDDR heatmap
+[]Papercut
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
