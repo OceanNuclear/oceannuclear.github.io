@@ -1,21 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Repair pockets on the bag
-Thursday:
-[]Fix peeling sandpaper by cutting it off
-[]Firefox
-    []Set-up extensions
-        []Set up short-cut keys
-            - (use the extension?)
-[]Buy towline
-[]Forced circulation test
-    []Lomond: fixflo: give me better insulation
-[]Dye hair: look up Didcot options
-[]Plan cycle holiday!
 Friday:
-[]Bring wipes to office (for bike)
+[]CSG
+[]Do the new source
 []Ask Tim Eade for SDDR heatmap
+[]Buy towline from halfords (in person, so that I can pay for it with the discount)
+[]Plan cycle holiday!
+Sunday:
+[]Dye hair: look up Didcot options
+[]Set-up firefox extensions (including shortcut keys)
+Monday:
+[]Bring wipes to office (for bike)
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
