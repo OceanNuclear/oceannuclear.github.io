@@ -2,17 +2,20 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Saturday:
-[]Look at Boardson's manual
-    - https://www.boardmanbikes.com/gb_en/
-[]Fix trike
-[]Look up knots
-
+[]Living room clean (5 mins)
+[]Desk clean (10 mins)
+    []Find the ADHD pill
+    []remove eye drops + lip balm from desk
+    []Affix the phone attachment (5 mins)
+[]Buy ice skating ticket (20 mins)
+[]Look up knots (25 mins)
+[]Sign up for alerts in Summertown (30 mins)
+[]Amazon: "USB-C fast charging cable" + earphones (10 mins)
 []CSG
-[]Plan solo bike trip holiday!
-[]Plan Chelmsford V.S. Valentines
 Sunday:
 []Dye hair: look up Didcot options
 []Set-up firefox extensions (including shortcut keys)
+[]Plan Chelmsford V.S. Valentines
 Monday:
 []Bring to the office:
     - wipes for bike
@@ -24,6 +27,9 @@ Monday:
 []Neutromak
 []Ask Tim Eade for SDDR heatmap
 []Papercut
+Tuesday:
+[]Add soil to succulent
+[]Plan solo bike trip holiday!
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
