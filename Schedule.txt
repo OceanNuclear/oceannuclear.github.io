@@ -1,32 +1,24 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Desk clean (10 mins)
-    []Find the ADHD pill
-    []remove eye drops + lip balm from desk
-    []Affix the phone attachment (5 mins)
-[]CSG
-Sunday:
-[]Dye hair: look up Didcot options
-[]Set-up firefox extensions (including shortcut keys)
-[]Plan Chelmsford V.S. Valentines
-[]Amazon: "USB-C fast charging cable" + earphones + headtorch (10 mins)
 Monday:
+[]Papercut
 []Bring to the office:
     - wipes for bike
     - snacks + bowl noodles
-[]CulBUG meeting respond:
-    - /home/ocean/Documents/UKAEA/22.CulBUG/ContractorMeeting/
-[]Buy TRAX towline online
-    - need to exchange money on Revolut
-[]Neutromak
-[]Buy ice skating ticket (20 mins)
-[]Ask Tim Eade for SDDR heatmap
-[]Papercut
+    - Some tools?
+[]CSG
+    []Cherry pick the correct git histories from matti/nicer_csg
+[]Answer Robin
+[]Amazon: "USB-C fast charging cable" + earphones + headtorch (10 mins)
 Tuesday:
+[]Buy ice skating ticket (20 mins)
+Wednesday:
+[]Neutromak
+[]Ask Tim Eade for SDDR heatmap
 []Add soil to succulent
 []Plan solo bike trip holiday!
+[]Dye hair: look up Didcot options
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
