@@ -1,20 +1,14 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Papercut
-[]Bring to the office:
-    - wipes for bike
-    - snacks + bowl noodles
-    - Some tools?
+Wednesday:
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
+[]Neutromak
 []Answer Robin
 []Amazon: "USB-C fast charging cable" + earphones + headtorch (10 mins)
-Tuesday:
-[]Buy ice skating ticket (20 mins)
-Wednesday:
-[]Neutromak
+[]Tidy up prev. papercut
+[]Papercut?
 []Ask Tim Eade for SDDR heatmap
 []Add soil to succulent
 []Plan solo bike trip holiday!
