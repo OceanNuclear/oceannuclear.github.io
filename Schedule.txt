@@ -9,9 +9,7 @@ Wednesday:
 []Add soil to succulent
 Thursday:
 []Tidy up prev. papercut: Oli: optimize
-    []Read about where it's applied in circular baffles
-        - cd eudemo/, `grep _make_baffle`
-    []Make the bisection search,
+    []Make the bisection search (ask James)
         - copy from scipy/numpy
 []Make title slide for UGV with the monocle
 []CSG
