@@ -2,20 +2,24 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
-[]Rob Sharret: invitation and summary
 []Check Tent is locked
-[]Pay Matt
 []Answer Robin
-[]Buy another inner tube
+[]Print Evri return label
+[]Halfords:
+    []Buy another inner tube
+    []Measire bike handlebar diameter
 []Make thesizing schedule
 Saturday:
 []Do laundry
 []Dye hair: look up Didcot options
 []Amazon: "USB-C fast charging cable" + earphones + headtorch (10 mins)
 Sunday:
+[]Send email to Aydan about Didcot Halfbike tryout
+[]Make Amazon return
 []Add soil to succulent
 []Plan solo bike trip holiday!
 Monday:
+[]Finish PPTG slides (by filling out thesis part)
 []Ask Tim Eade for SDDR heatmap
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
