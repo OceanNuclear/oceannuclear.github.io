@@ -1,45 +1,36 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Make thesizing schedule
-[]Measire bike handlebar diameter
-[]Do laundry
-    []Dye hair: look up Didcot options
-[]Print Evri return label + the return
-[]Halfords:
-    []Buy another inner tube
-Sunday:
-[]Send email to Aydan about Didcot Halfbike tryout
-[]Add soil to succulent
-[]Plan solo bike trip holiday!
-[]Prep for photoshoot
 Monday:
+[]Print Evri return label + the return
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
 []Neutromak
+[]Make workout program
+[]Make thesizing schedule
+[]WORK OUT
+    []Halfords: Buy another inner tube
+        []Measure bike handlebar diameter
 Tuesday:
-[]Amazon order(10 mins)
 []Invite people to the presentation
+[]Dye hair: look up Didcot options
+Wednesday:
+[]Add soil to succulent
+[]Send email to Aydan about Didcot Halfbike tryout
+[]Plan solo bike trip holiday!
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
-[]Don't use the matrix multiplication form anymore - use a different method!
-    []Determine the 3D, 5D? etc. area where the limit needs to be applied
-    []Implement as python code
-    - p.48, p.64 has the necessary info. to continue derivation
-    - p.72+ has the relevant info to cross-check your matrix with/
 []3D print:
-    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer
+    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer; bike attachment; longboard attachment
 Daily task: One novel thing per day:
 []One of the following learning things:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]All of the rest of the unfinished ideas in /home/ocean/Documents/PhD/unfinished-work.txt
 []Dye hair, brace teeth, lasik
 []Driver's education books
 []Insurance on Boardson
