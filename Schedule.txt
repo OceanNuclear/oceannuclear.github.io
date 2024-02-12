@@ -2,16 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Monday:
-[]Print Evri return label + the return
-[]CSG
-    []Cherry pick the correct git histories from matti/nicer_csg
-[]Neutromak
-[]Make workout program
-[]Make thesizing schedule
 []WORK OUT
     []Halfords: Buy another inner tube
         []Measure bike handlebar diameter
+[]Print Evri return label + the return
 Tuesday:
+[]Make workout program
+[]Make thesizing schedule
+[]CSG
+    []Cherry pick the correct git histories from matti/nicer_csg
+[]Neutromak
 []Invite people to the presentation
 []Dye hair: look up Didcot options
 Wednesday:
