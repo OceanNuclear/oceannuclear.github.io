@@ -1,23 +1,22 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]WORK OUT
-    []Halfords: Buy another inner tube
-        []Measure bike handlebar diameter
-[]Print Evri return label + the return
 Tuesday:
+[]Respond to Ashley!
+[]Prep photoshoot
+[]Measure bike handlebar diameter
 []Make workout program
-[]Make thesizing schedule
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
+[]Make thesizing schedule
 []Neutromak
 []Invite people to the presentation
-[]Dye hair: look up Didcot options
 Wednesday:
-[]Add soil to succulent
+[]Dye hair: look up Didcot options
+[]Work out at night
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday!
+[]Add soil to succulent
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
@@ -31,7 +30,9 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]Dye hair, brace teeth, lasik
+[]Dye hair
+[]Invisalign
+[]lasik
 []Driver's education books
 []Insurance on Boardson
 ----Make the barrier to doing your fun recreational task as low as possible.
