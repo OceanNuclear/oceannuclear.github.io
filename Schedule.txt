@@ -1,15 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
-[]Make workout program
+Thurdsay:
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
 []Make thesizing schedule
-[]Invite PPMI people to the presentation
-    - Felix as well
+[]papercut/1084 (stashed)
+Friday:
+[]Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
+[]Make workout program
+[]Invite Felix to the presentation
 []Neutromak
-[]Work out w/ Faiz at night
 Sunday:
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday!
