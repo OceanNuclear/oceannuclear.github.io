@@ -3,12 +3,11 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thurdsay:
 []CSG
-    []Cherry pick the correct git histories from matti/nicer_csg
-[]Make thesizing schedule
 []papercut/1084 (stashed)
+[]Make thesizing schedule
+[]Make workout program
 Friday:
 []Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
-[]Make workout program
 []Invite Felix to the presentation
 []Neutromak
 Sunday:
