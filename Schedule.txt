@@ -6,6 +6,7 @@ Thurdsay:
 []papercut/1084 (stashed)
 []Make thesizing schedule
 []Make workout program
+    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 Friday:
 []Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
 []Invite Felix to the presentation
