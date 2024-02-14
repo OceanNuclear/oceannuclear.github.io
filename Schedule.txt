@@ -1,22 +1,20 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Respond to Ashley!
-[]Prep photoshoot
-[]Measure bike handlebar diameter
+Wednesday:
 []Make workout program
 []CSG
     []Cherry pick the correct git histories from matti/nicer_csg
 []Make thesizing schedule
+[]Invite PPMI people to the presentation
+    - Felix as well
 []Neutromak
-[]Invite people to the presentation
-Wednesday:
-[]Dye hair: look up Didcot options
-[]Work out at night
+[]Work out w/ Faiz at night
+Sunday:
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday!
 []Add soil to succulent
+[]Dye hair: look up Didcot options
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
@@ -24,7 +22,10 @@ Thesis:
     []Upload to gitlab
     []Remove the part that requires the user to input something
 []3D print:
-    - toothbrush + safety razor stand; Air conditioner redirector; Parkour first-aid box closer; bike attachment; longboard attachment
+    - toothbrush + safety razor stand
+    - Air conditioner redirector
+    - Parkour first-aid box closer
+    - bike attachment
 Daily task: One novel thing per day:
 []One of the following learning things:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
