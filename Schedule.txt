@@ -4,11 +4,13 @@
 Friday:
 []CSG
 []Make thesizing schedule
-[]Make workout program
-    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+[]Neutromak
+Monday:
 []Change SHU password
 []Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
-[]Neutromak
+[]Make workout program
+    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+[]Find diff between the git commits of identical `bs`
 []Chinese caligraphy
 Sunday:
 []Send email to Aydan about Didcot Halfbike tryout
