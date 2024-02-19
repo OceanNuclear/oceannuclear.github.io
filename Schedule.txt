@@ -17,11 +17,13 @@ Monday:
 []CSG
 []Neutromak
 []Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
-Sunday:
-[]Send email to Aydan about Didcot Halfbike tryout
-[]Plan solo bike trip holiday!
+Monday night:
+[]Cut rubber for shoes
 []Add soil to succulent
+Sunday:
+[]Plan solo bike trip holiday!
 []Dye hair: look up Didcot options
+[]Send email to Aydan about Didcot Halfbike tryout
 Thesis:
 []/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
