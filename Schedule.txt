@@ -1,17 +1,22 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]CSG
-[]Make thesizing schedule
-[]Neutromak
 Monday:
+[]Git pull
+[]Make presentation
+[]Look at photoshoot
+[]Fill in literature review and feasibility study slide
+[]Make thesizing schedule
 []Change SHU password
-[]Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 []Find diff between the git commits of identical `bs`
-[]Chinese caligraphy
+[]Replace bike bell
+[]Chinese caligraphy: buy pen?
+
+[]CSG
+[]Neutromak
+[]Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
 Sunday:
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday!
