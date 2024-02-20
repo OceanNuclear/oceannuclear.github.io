@@ -1,24 +1,23 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
+Tuesday:
 []Make presentation
     []Fill in literature review and feasibility study slide
 []Look at photoshoot
-Monday night:
-[]Replace bike bell
-[]Bring maths sheet
-[]Cut rubber for shoes
-[]Add soil to succulent
-Tuesday:
-[]Find solution for the triple-random-ID problem:
-    - /home/ocean/Self/Productivity/problem_issue.tmp
-[]CSG
-[]Neutromak
-[]Make thesizing schedule
 []Change SHU password
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+[]CSG
+[]Find solution for the triple-random-ID problem:
+    - /home/ocean/Self/Productivity/problem_issue.tmp
+[]Neutromak
+Tuesday night
+[]Send Kristen Parcel
+[]Bring maths sheet
+[]Make thesizing schedule
+[]Cut rubber for shoes
+[]Add soil to succulent
 []Chinese caligraphy: buy pen?
 Thursday:
 []Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
