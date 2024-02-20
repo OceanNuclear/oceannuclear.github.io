@@ -2,25 +2,24 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]Make presentation
-    []Fill in literature review and feasibility study slide
+Tuesday night
+[]Send Kristen Parcel
+[]Bring maths sheet
+Wednesday:
 []Look at photoshoot
-[]Change SHU password
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 []CSG
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-[]Neutromak
-Tuesday night
-[]Send Kristen Parcel
-[]Bring maths sheet
 []Make thesizing schedule
+[]Neutromak
+Thursday:
+[]Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
+Friday:
 []Cut rubber for shoes
 []Add soil to succulent
 []Chinese caligraphy: buy pen?
-Thursday:
-[]Monitor request: interview with Occupational Health? (WTH, why are we going through Ross)
 Sunday:
 []Plan solo bike trip holiday!
 []Dye hair: look up Didcot options
