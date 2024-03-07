@@ -1,12 +1,18 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Forward train ticket to Doreen
-[]photoshoot:
-[]IG PFP re-upload
-    []upload some to facebook
-[]Upload photos IG?
-[]CSG
+[]James Hague: linear, quadratic, etc. what slows down the simulation most.
+    []How to get the list of surfaces and list of cells?
+On the train:
+[]Look at Ash's card
+[]Pay Matt £12
+
+[]Book hotel
+    []Check that schedule is sensible
+[]Electronics form
+[]Travel radiation badge form
+[]ow7367 email: reply to people
+[]End-of-Year Review: Self-Assessment in APS
 []Dan: he ran up against the messed up ordering problem too?
     - he solved it by Tessellate?
 []Find solution for the triple-random-ID problem:
