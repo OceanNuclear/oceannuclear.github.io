@@ -3,7 +3,9 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 On the train:
 []Look at Ash's card
-
+[]Add soil to succulent
+Monday:
+[]Send load_divertor to James
 []Book hotel
     []Check that schedule is sensible
 []Electronics form
@@ -11,17 +13,13 @@ On the train:
 []ow7367 email: reply to people
 []End-of-Year Review: Self-Assessment in APS
 []Dan: he ran up against the messed up ordering problem too?
-    - he solved it by Tessellate?
+    - He solved it by Tessellate?
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Make workout program
 []Make thesizing schedule
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
-[]Add soil to succulent
 []Chinese caligraphy: buy pen?
-Sunday:
-[]Sleep enough, then go workout
-Monday:
 []Buy Dock
 Sunday:
 []Plan solo bike trip holiday!
