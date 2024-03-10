@@ -1,19 +1,22 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-On the train:
-[]Look at Ash's card
+[]Change bedsheet (12 mins)
+[]Clean rice (5 mins)
+[]Refill handwash (3 mins)
+[]Take out trash (15 mins)
 []Add soil to succulent
-[]Reply to Mariagrazia
-[]Go climb /acro on the weekend
 Monday:
+[]Buy calcium pills
 []Send load_divertor to James
 []Book hotel
     []Check that schedule is sensible
 []Electronics form
 []Travel radiation badge form
 []ow7367 email: reply to people
-[]End-of-Year Review: Self-Assessment in APS
+[]gmail
+[]Buy Dock
+[]end-of-Year Review: Self-Assessment in APS
 []Dan: he ran up against the messed up ordering problem too?
     - He solved it by Tessellate?
 []Find solution for the triple-random-ID problem:
@@ -22,7 +25,6 @@ Monday:
 []Make thesizing schedule
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 []Chinese caligraphy: buy pen?
-[]Buy Dock
 Sunday:
 []Plan solo bike trip holiday!
 []Dye hair: look up Didcot options
