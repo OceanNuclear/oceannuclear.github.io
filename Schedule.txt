@@ -2,23 +2,20 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]James: Hari, discretize_by_edges
-[]Try running BlanketCellArray.from_pre_cell_array in the anticlockwise direction instead?
-    - see if that changes the infinite ray direction
-[]end-of-Year Review: Self-Assessment in APS (30 mins)
-[]Emails
-    - outlook
-    - gmail
-    - ow7367
-[]Book hotel (50 mins)
-    []Check that schedule is sensible
+[]APS
+    []next year's objectives and development plans (10 mins)
+    []Overall summary (10 mins)
+[]Thesize
+    []3.5: split into 3.5.1 and 3.5.2
+        []Make it entirely clear which ones are existing which ones are mine.
+Tuesday:
+[]Buy Dock
 []Electronics form (10 mins)
 []Travel radiation badge form (10 mins)
+[]Book hotel (50 mins)
+Thursday:
+[]Gmail: clean out
 []Book practice talk with bluemira/neutronics for ITER conference
-[]3.5: split into 3.5.1 and 3.5.2
-    []Make it entirely clear which ones are existing which ones are mine.
-[]Buy Dock
-
 []Start putting money back into investment account
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
