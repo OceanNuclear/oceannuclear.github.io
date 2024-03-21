@@ -12,7 +12,7 @@ Wednesday:
 []Electronics form (10 mins)
 []Travel radiation badge form (10 mins)
 []Buy Dock
-Thursday:
+Friday:
 []Book practice talk with bluemira/neutronics for ITER conference
 []Start putting money back into investment account
 []Find solution for the triple-random-ID problem:
