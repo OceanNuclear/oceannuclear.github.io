@@ -2,12 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
-[]Buy bread from supermarket
-[]Buy flowers
-[]APS
-    []Next year's objectives and development plans (10 mins)
-    []Overall summary (10 mins)
-[]Reply to Alex HW
+[]Add the "what it isn't" slide back in
+[]Look through Scratchpad
+[]Fix results for the feature/neutronics branch
+
+[]Multiple batches
 []Thesize
     []3.5: split into 3.5.1 and 3.5.2
         - Make it entirely clear which ones are existing which ones are mine.
@@ -15,17 +14,20 @@ Monday:
 []Culham
     []Retrieve coat
     []J2: ask for more supplies from the first office
+    []B24 stock up on the first aid
+[]Put APS dates on calendar
 []Start putting money back into investment account
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Make workout program
 []Make thesizing schedule
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+[]Buy longboard risers
 []Chinese caligraphy: buy pen?
 []Add soil to succulent
 []Exchange 260 Euros
 Sunday:
-[]Plan solo bike trip holiday
+[]Plan solo bike trip holidays
 []Plan longboard trip holidays
 []Dye hair: look up Didcot options
 []Send email to Aydan about Didcot Halfbike tryout
@@ -49,11 +51,10 @@ Later:
 []Invisalign
 []lasik
 []Driver's education books
-[]Insurance on Boardson
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory: gyro monorail, water flow rate
-[]Gravel convergence condition
+[]GRAVEL convergence condition
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []vimtutor
