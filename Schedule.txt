@@ -1,31 +1,21 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]Add the "what it isn't" slide back in
-[]Look through Scratchpad
-[]Fix results for the feature/neutronics branch
-
+Thursday:
 []Multiple batches
+[]Deal with a couple TODOs -> handoff
 []Thesize
     []3.5: split into 3.5.1 and 3.5.2
         - Make it entirely clear which ones are existing which ones are mine.
-Monday:
-[]Culham
-    []Retrieve coat
-    []J2: ask for more supplies from the first office
-    []B24 stock up on the first aid
+[]J2 -> B24: ask for more supplies from the first office
 []Put APS dates on calendar
-[]Start putting money back into investment account
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
+[]Answer Chris McMakins' question
 []Make workout program
 []Make thesizing schedule
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
-[]Buy longboard risers
 []Chinese caligraphy: buy pen?
-[]Add soil to succulent
-[]Exchange 260 Euros
 Sunday:
 []Plan solo bike trip holidays
 []Plan longboard trip holidays
