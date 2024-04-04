@@ -2,18 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Attempt 3D print CAD file modifications
-    []UKAEA remote login
-[]Send handoff email
-[]Finish Volume fix of result_presentation TODO
 []Thesize
     []3.5: split into 3.5.1 and 3.5.2
         - Make it entirely clear which ones are existing which ones are mine.
 []Answer Chris McMakins' question
+[]Make thesizing schedule
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-[]Make thesizing schedule
-    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+
+[]GET LUNCH BACK from work
+[]Attempt 3D print CAD file modifications
+    []UKAEA remote login
+[]Fix Volume in result_presentation
 []Chinese caligraphy: buy pen?
 Sunday:
 []Plan solo bike trip holidays
@@ -27,6 +27,7 @@ Thesis:
     []Upload to gitlab
     []Remove the part that requires the user to input something
 []Make workout program
+    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 []3D print:
     - toothbrush + safety razor stand
     - Air conditioner redirector
