@@ -1,21 +1,21 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
+Saturday:
+[]Exercise
 []Thesize
     []3.5: split into 3.5.1 and 3.5.2
         - Make it entirely clear which ones are existing which ones are mine.
+[]Pack
 []Answer Chris McMakins' question
 []Make thesizing schedule
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-
-[]GET LUNCH BACK from work
-[]Attempt 3D print CAD file modifications
-    []UKAEA remote login
 []Fix Volume in result_presentation
 []Chinese caligraphy: buy pen?
-Sunday:
+Monday (15/04):
+[]Attempt 3D print CAD file modifications
+    []UKAEA remote login
 []Plan solo bike trip holidays
 []Plan longboard trip holidays
 []Dye hair: look up Didcot options
