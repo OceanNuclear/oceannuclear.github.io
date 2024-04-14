@@ -1,8 +1,15 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Thesize
+Sunday:
+[]Thesize schedule
+    []Copy SAND-II W_{ij} into an appendix
+        - from /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/SAND-II/MCModification.pdf
+        []Add something along the lines of "Included in this thesis because it was talked about a lot/initially written for activition foils"
+    []Make table
+    []Write the 3 paragraphs about the new algorithms created
+[]Toothpaste
+[]Earplugs
 []Answer Chris McMakins' question
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
