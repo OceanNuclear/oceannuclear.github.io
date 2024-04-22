@@ -1,9 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
-[]Pay Matt £25 for water
-[]Send thesis update
+Monday:
+[]Clean room floor
+[]Clean soil
+[]Chapter 3&4 are Contribution to Knowledge too!
+
+[]Papercuts!
+[]PhD Monitoring form: send off
 []Thesize schedule
     []Write the 3 paragraphs about the new algorithms created
         - /home/ocean/Others/unfoldinggroup/unfolding/unfoldingsuite/regularization_maths/{Documentation,Manual}
@@ -43,6 +47,7 @@ Later:
 []Invisalign
 []lasik
 []Driver's education books
+[]Straighten L-curve
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory: gyro monorail, water flow rate
