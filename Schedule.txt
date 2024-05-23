@@ -1,52 +1,48 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday:
-[]Clean room floor
-[]Clean soil
-
-[]Papercuts!
-[]PhD Monitoring form: send off
-[]Thesize schedule
-    []Write the 3 paragraphs about the new algorithms created
-        - /home/ocean/Others/unfoldinggroup/unfolding/unfoldingsuite/regularization_maths/{Documentation,Manual}
-    []Pinv is included because we need to have a point with \chi^2 = 0 and still get the covariances out, which is not possible with any other algorithms.
-[]Answer Chris McMakins' question
-[]Argue w/ Lomond about rent
+[]Grammarly on PhDThesis
+    - add list of added_words to dictionary
+[]/home/ocean/Documents/PhD/Forms/RF/Y3/CompletionGuidance
+[]Make branch for Jupyter notebook
+[]Massage gun rehab
+[]/home/ocean/Documents/Work/25.WorkForFriends/Brendan/2024-05-22-NinjaWarrior/
+Tuesday:
+[]Ash (send letters)
+[]Alex (send card)
+Wednesday (29/05):
+[]Papercut(s)
+[]Prep slide for next week
+    - https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-19.pdf
+[]Make workout program
+    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+[]All hands catch up
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-[]App to regularly interrupt instagram?
-Monday (15/04):
+
 []Attempt 3D print CAD file modifications
     []UKAEA remote login
+    - toothbrush + safety razor stand
+    - Air conditioner redirector
+    - Parkour first-aid box closer
+    - bike attachment
 []Chinese caligraphy: buy pen?
 []Dye hair: look up Didcot options
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holidays
 []Plan longboard trip holidays
-Thesis:
-[]/home/ocean/Self/Productivity/Thesis/*.txt
 []Write foilselector
     []Bateman/ whatever algorithm to solve the large decay problem
     []Upload to gitlab
     []Remove the part that requires the user to input something
-[]Make workout program
-    - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
-[]3D print:
-    - toothbrush + safety razor stand
-    - Air conditioner redirector
-    - Parkour first-aid box closer
-    - bike attachment
 Daily task: One novel thing per day:
 []One of the following learning things:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
-[]Dye hair
 []Invisalign
 []lasik
 []Driver's education books
-[]Straighten L-curve
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory: gyro monorail, water flow rate
