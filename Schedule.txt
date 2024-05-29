@@ -1,31 +1,29 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Massage gun rehab
-[]Fix longboard
-[]OAP research Slack
-[]/home/ocean/Documents/PhD/Forms/RF/Y3/CompletionGuidance
-[]Grammarly on PhDThesis
-    - add list of added_words to dictionary
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
-Tuesday:
-[]Ash (send letters)
-[]Alex (send card)
-[]Github 2FA
-    - https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFbdzTmHpqbMTRFwlrTfBPDq
-[]Will writing service from Prospect
-[]Driver's education books
-Wednesday (29/05):
-[]Make branch for Jupyter notebook
-[]Papercut(s)
-[]Prep slide for next week
+[]Prep slide for THIS week
     - https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-19.pdf
+[]Nordic curl
+[]Ash (send letters)
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
+Thursday:
+[]Will writing service from Prospect
+[]Make space on phone
+[]OAP research Slack
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
+[]Clean mailboxes
+[]Surgery prep scheduling
+Friday:
+[]Papercut(s)
+Saturday:
+[]Further corrections of thesis (p.96)
 []All hands catch up
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-
+Monday:
+[]Thesis todo.lst
+[]Fix longboard: drop appropriate distance
 []Attempt 3D print CAD file modifications
     []UKAEA remote login
     - toothbrush + safety razor stand
@@ -45,6 +43,7 @@ Daily task: One novel thing per day:
     []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
     []Social media & Sci+Math tab
 Later:
+[]Driver's education books
 []Invisalign
 []lasik
 []Geological timeline decor
