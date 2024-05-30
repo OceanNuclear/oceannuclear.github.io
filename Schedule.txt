@@ -1,15 +1,13 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Prep slide for THIS week
-    - https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-19.pdf
 []Nordic curl
 []Ash (send letters)
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 Thursday:
 []Will writing service from Prospect
-[]Make space on phone
+[]Make Space on phone
 []OAP research Slack
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
 []Clean mailboxes
@@ -22,6 +20,7 @@ Saturday:
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 Monday:
+[]O4P research group
 []Thesis todo.lst
 []Fix longboard: drop appropriate distance
 []Attempt 3D print CAD file modifications
