@@ -1,19 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Make Space on phone
-[]Clean mailboxes
-[]Ash (send letters)
-
 []Clean table
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
 []Surgery prep scheduling
-[]Bikebac battery swap
+[x]Bikebac battery swap
 Sunday:
+[]Make Space on phone
+[]Clean mailboxes
 []Nordic curl
 []Will writing service from Prospect
+[]Ash (send letters)
 Monday:
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
 []Papercut(s)
