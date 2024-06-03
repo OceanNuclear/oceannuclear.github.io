@@ -1,29 +1,38 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Monday:
+[]Papercut (30 mins)
+    []2891 (25 mins)
+        []Undo S_TO_YR
+        []Make unit test cover them?
+    []1043: grep for all LaTeX (15 mins)
+[]Radiation transport review (20 mins)
+[]Do research working group homework (0 mins)
+    []little sis sign up (15 mins)
+    []Download all of them into (15 mins)
+        - /home/ocean/Documents/UKAEA/40.O4P/Research/
+[]Surgery prep scheduling (10 mins)
+Wednesday:
+[]Do the handstand thing Brendan told me to try (10 mins)
+[]Buy the Yak (1 hour)
 []Clean table
 []Make workout program
     - /home/ocean/Documents/Work/18.Health/WorkoutPlan.xlsx
-[]Surgery prep scheduling
-[x]Bikebac battery swap
-Sunday:
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
+[]Ash (send letters)
 []Make Space on phone
 []Clean mailboxes
 []Nordic curl
+Thursday:
 []Will writing service from Prospect
-[]Ash (send letters)
-Monday:
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
-[]Papercut(s)
-Saturday:
+Friday:
 []Further corrections of thesis (p.96)
+    []Thesis todo.lst
 []All hands catch up
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 Monday:
-[]O4P research group
-[]Thesis todo.lst
-[]Fix longboard: drop appropriate distance
 []Attempt 3D print CAD file modifications
     []UKAEA remote login
     - toothbrush + safety razor stand
