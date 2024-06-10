@@ -4,16 +4,16 @@
 Sunday:
 []Write card to Ash (15 mins)
 []Clean Desk (10 mins)
-[]Do the handstand thing Brendan told me to try (10 mins)
 []Download MCNP syntax highlight (5 mins)
 
 []Further corrections of thesis (p.96)
     - Thesis todo.lst
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
-[]Clean mailboxes (25 mins)
 []All hands catch up (1 hour)
+[]Clean broadcast emails (1 hour)
 Monday:
 []Will writing service from Prospect
+[]Nordic curl
 []Early Careers outreach media for presentation at school
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
@@ -26,27 +26,22 @@ Monday:
     - Air conditioner redirector
     - Parkour first-aid box closer
     - bike attachment
-[]Nordic curl
 []Dye hair: look up Didcot options
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holidays
 []Plan longboard trip holidays
-[]Write foilselector
-    []Bateman/ whatever algorithm to solve the large decay problem
-    []Upload to gitlab
-    []Remove the part that requires the user to input something
+[]Improve foilselector
 Daily task: One novel thing per day:
-[]One of the following learning things:
-    []SeptembRSE https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
-    []Social media & Sci+Math tab
+[]SoME{1,2,3}
+[]Bateman/whatever algorithm to solve the large decay problem
 Later:
 []Driver's education books
 []Invisalign
-[]lasik
+[]Lasik
 []Geological timeline decor
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
-[]Control theory: gyro monorail, water flow rate
+[]Control theory analysis: gyro monorail, water flow rate
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Make animated visualization of Lagrangian multipliers
