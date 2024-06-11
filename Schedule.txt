@@ -1,17 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
-[]Clean Desk (10 mins)
-[]Further corrections of thesis (p.96)
-    - Thesis todo.lst
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
+Tuesday:
 []All hands catch up (1 hour)
 []Clean broadcast emails (1 hour)
-Tuesday:
 []Will writing service from Prospect
 []Work: timesheets, 2x tracker sheets
-[]Nordic curl
+[]Print label
+
+[]Send card
+[]Nordic curl + start workout plan
+[]Clean Desk (10 mins)
 []Early Careers outreach media for presentation at school
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
@@ -19,6 +18,9 @@ Tuesday:
     []LittleSis sign up (15 mins)
     []Download all of them into (15 mins)
         - /home/ocean/Documents/UKAEA/40.O4P/Research/
+[]Further corrections of thesis (p.96)
+    - Thesis todo.lst
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
 []Attempt 3D print CAD file modifications
     - toothbrush + safety razor stand
     - Air conditioner redirector
