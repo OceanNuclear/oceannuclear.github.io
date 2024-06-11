@@ -4,14 +4,18 @@
 Tuesday:
 []All hands catch up (1 hour)
 []Clean broadcast emails (1 hour)
-[]Will writing service from Prospect
 []Work: timesheets, 2x tracker sheets
+    []Alex: should I do PiP?
+        []Talk to EC?
 
 []Send card
 []change blade
 []Nordic curl + start workout plan
 []Clean Desk (10 mins)
 Wednesday:
+[]Cycle in
+    []Bring sugar
+    []Bring weight belt?
 []Early Careers outreach media for presentation at school
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
@@ -21,6 +25,7 @@ Wednesday:
         - /home/ocean/Documents/UKAEA/40.O4P/Research/
 []Further corrections of thesis (p.96)
     - Thesis todo.lst
+[]Will writing service from Prospect
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
 []Attempt 3D print CAD file modifications
     - toothbrush + safety razor stand
