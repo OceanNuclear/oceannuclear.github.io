@@ -6,11 +6,12 @@ Tuesday:
 []Clean broadcast emails (1 hour)
 []Will writing service from Prospect
 []Work: timesheets, 2x tracker sheets
-[]Print label
 
 []Send card
+[]change blade
 []Nordic curl + start workout plan
 []Clean Desk (10 mins)
+Wednesday:
 []Early Careers outreach media for presentation at school
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
