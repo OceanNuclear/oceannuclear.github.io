@@ -2,6 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
+[]Throw away Simmer box?
 []Nordic curl + start workout plan
 []Fix tyre
 []Oil gears
