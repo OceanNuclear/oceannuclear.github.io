@@ -1,24 +1,16 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Throw away Simmer box?
-[]Nordic curl + start workout plan
-[]Fix tyre
-[]Oil gears
-[]Lube bearings
-
-[]Change blade
-[]Buy matching sized skate shoes
-[]Buy train ticket
-[]Clean Desk (10 mins)
 Thursday:
-[]All hands catch up (1 hour)
-[]Clean broadcast emails (1 hour)
-[]Work: timesheets, 2x tracker sheets
-[]Early Careers: outreach media for presentation at school
+[]Papercut
+[]Innovation form fill out
+
+[]Clean Desk (10 mins)
+[]Lube bearings
+Monday:
+[]All hands catch up in Outlook General annoucement emails (1 hour)
 []Alex: should I do PiP?
-[]Bring sugar
+    []Early Careers: outreach media for presentation at school
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Do research working group homework (0 mins)
