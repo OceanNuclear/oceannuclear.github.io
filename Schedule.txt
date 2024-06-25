@@ -1,23 +1,17 @@
 1. Break tasks down to <30 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Buy mudguard
-[]Buy tissue
-
-[]Find flights to Poland
-[]Book hotel for Sheffield
-[]Book hotel for Cotswold
-[]look at Training
+[]Slides from my sister
+    - https://docs.google.com/presentation/d/1jvnMn3TPEfadeRUEwyDN4VR1J4LN6OwYH9EGxRO04PA/edit#slide=id.g15207a17831_0_309
+[]Look at training (20 mins)
     - https://github.com/Fusion-Power-Plant-Framework/bluemira-training
-[]Lube bearings (20 mins)
 Sunday:
 []Do research working group homework
-[]Slides from my sister (2 hours)
 []Further corrections of thesis (p.96)
     - Thesis todo.lst
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
-Monday:
+Wednesday:
+[]Try second longboard sling (velcro)
 []Grad scrap book(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
 []All hands catch up in Outlook General annoucement emails (1 hour)
@@ -25,6 +19,7 @@ Monday:
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 Thursday:
+[]Send Parcel to Ashley
 []Alex: should I do PiP?
     []Early Careers: outreach media for presentation at school
 []Will writing service from Prospect
@@ -33,7 +28,6 @@ Thursday:
     - Air conditioner redirector
     - Parkour first-aid box closer
     - bike attachment
-[]Dye hair: look up Didcot options
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holidays
 []Plan longboard trip holidays
