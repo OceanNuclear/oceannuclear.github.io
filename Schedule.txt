@@ -2,18 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 []Unittest neutronics
-[]Print parcel label
-[]Archer2 sign up
+[]Collect harness from Jonny
+[]/home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 
-[]Answer hair consultation emailS
 []All hands catch up in Outlook General annoucement emails (1 hour)
-[]Try second longboard sling (velcro)
 Friday:
-[]Send parcel
-    []Write and attach card
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
-Monday(01/07):
 []Further corrections of thesis (p.96)
     - Thesis todo.lst
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
@@ -27,7 +22,6 @@ Monday(01/07):
     - bike attachment
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
-[]/home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Improve foilselector
 Daily task: One novel thing per day:
 []SoME{1,2,3}
