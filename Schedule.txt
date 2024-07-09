@@ -2,6 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Friday:
+[]Read through Bluemira training
+[]GDrive: backup photos
 []All hands catch up in Outlook General annoucement emails (1 hour)
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
