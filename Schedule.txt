@@ -1,18 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]GDrive: backup photos
-[]LACTASE
 Wednesday:
-[]Bring some food in
-[]Check in Wizz air https://wizzair.com/en-gb#/check-in/NWWTWH/Wong/outbound
-[]Read through Bluemira training
-[]All hands catch up in Outlook General annoucement emails (1 hour)
+[]Outlook announcement emails (45 mins)
+    []All hands catch up in Outlook General annoucement emails (2 hours)
+        - https://nucleus.ukaea.uk/page/11989?SearchId=4309358
+        - https://nucleus.ukaea.uk/page/10712?SearchId=4809251
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
 []Further corrections of thesis (p.96)
     - Thesis todo.lst
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ThesisClaim/
+
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
