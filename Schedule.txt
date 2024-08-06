@@ -1,16 +1,18 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Laundry
 []Outlook announcement emails (45 mins)
-[]Decorate desk with Sheffield stuff
 Monday:
-[]Passport renewal
+[]Decorate desk with Sheffield stuff
+[]Make pull-up bar
+[]Union research
+    - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-[]Union research
-    - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
+[]Passport renewal
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
     - toothbrush + safety razor stand
@@ -19,7 +21,7 @@ Monday:
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
 []Improve foilselector
-[]Send stuff back to HK
+[]Send books, toys, and snacks (Feli) back to HK
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 []Bateman/whatever algorithm to solve the large decay problem
