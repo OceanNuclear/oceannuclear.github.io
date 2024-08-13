@@ -4,10 +4,15 @@
 []Check what is self.profile.cumulative_fusion_rate - np.cumsum(self.profile.)
 []Outlook announcement emails (45 mins)
 Tuesday:
-[]Ask Yves for a link to the purple shampoo
 []Send msg to Ziga
 []Email Louis Butt
 []UNOR cycle stand
+[]Bring Tea
+[]Answer Ashley
+Wednesday:
+[]Tell Alex about monitoring badge cancellation
+[]Make Yammer post about cycle theft: register, put tracker if you want
+[]Yammer post about CulBUG cycle
 Friday:
 []Decorate desk with Sheffield stuff
     - bluetack more paper for wall protection for longboard
