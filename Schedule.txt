@@ -4,6 +4,7 @@
 []Check what is self.profile.cumulative_fusion_rate - np.cumsum(self.profile.)
 []Outlook announcement emails (45 mins)
 Tuesday:
+[]Make branches
 []Send msg to Ziga
 []Email Louis Butt
 []UNOR cycle stand
