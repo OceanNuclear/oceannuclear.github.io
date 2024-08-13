@@ -1,10 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Check what is self.profile.cumulative_fusion_rate - np.cumsum(self.profile.)
 []Outlook announcement emails (45 mins)
-[]Check funds from vanguard!
+Tuesday:
+[]Ask Yves for a link to the purple shampoo
+[]Send msg to Ziga
+[]Email Louis Butt
+[]UNOR cycle stand
 Friday:
 []Decorate desk with Sheffield stuff
+    - bluetack more paper for wall protection for longboard
 []Union research
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Change overdraft limit to £1000
