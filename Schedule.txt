@@ -1,18 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Check what is self.profile.cumulative_fusion_rate - np.cumsum(self.profile.)
-[]Outlook announcement emails (45 mins)
 Tuesday:
-[]Make branches
-[]Send msg to Ziga
-[]Email Louis Butt
-[]UNOR cycle stand
 []Bring Tea
 []Answer Ashley
+[]Outlook announcement emails (45 mins)
 Wednesday:
-[]Tell Alex about monitoring badge cancellation
+[]UNOR cycle stand
+[]Send msg to Ziga
 []Make Yammer post about cycle theft: register, put tracker if you want
+[]Make branches
+[]Email Louis Butt
+[]Tell Alex about monitoring badge cancellation
 []Yammer post about CulBUG cycle
 Friday:
 []Decorate desk with Sheffield stuff
