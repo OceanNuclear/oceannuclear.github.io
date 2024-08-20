@@ -1,26 +1,31 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
+Thursday:
+[]Outlook announcement emails (45 mins)
+    - all hands talk
+    - FT Team talk
+[]fold laundry
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
-[]Email Louis Butt
-[]Outlook announcement emails (45 mins)
-[]UNOR cycle stand
-[]Make Yammer post about cycle theft: link to our CulBUG website page on cycle safety
-[]Make branches
-Friday:
+[]New sponge for Smints box
 []Decorate desk with Sheffield stuff
+    []Take out bluetac
+    []Unwrap the postcards
     - bluetack more paper for wall protection for longboard
+Sunday:
 []Union research
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
-[]Change overdraft limit to £1000
+[]Scout stuff out in Abingdon
+[]Make branches
+[]Thesis minor corrections
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
 []Passport renewal
+
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
@@ -36,6 +41,7 @@ Daily task: One novel thing per day:
 []SoME{1,2,3}
 []Bateman/whatever algorithm to solve the large decay problem
 Later:
+[]Sign up for Conversation over Coffee
 []Driver's education books
 []Make pull-up bar
 []Invisalign
