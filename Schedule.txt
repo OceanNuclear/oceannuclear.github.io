@@ -1,38 +1,41 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
+Saturday:
+[]Clear table
 []Outlook announcement emails (45 mins)
     - all hands talk
     - FT Team talk
-[]fold laundry
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
 []New sponge for Smints box
-[]Decorate desk with Sheffield stuff
-    []Take out bluetac
-    []Unwrap the postcards
-    - bluetack more paper for wall protection for longboard
-[]Clear table
-[]Make branches
+Monday:
+[]Thesis minor corrections
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
-[]Thesis minor corrections
-[]Passport renewal
+Tuesday:
 []Union research
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Scout stuff out in Abingdon
+Wednesday:
+[]RUFF check
+[]CI
+[]Make branches
+Friday:
+[]Passport renewal
 
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
+    - Bike attachment
+    - Add handle for longboard
     - toothbrush + safety razor stand
     - Air conditioner redirector
-    - bike attachment
+    - ring splint
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
 []Improve foilselector
@@ -54,7 +57,6 @@ Interesting/recreational/entertaining:
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
-[]Buy alternative keyboard(s)
 []Grad time to do MOOC learning (Pinned email to myself)
 []Make arduino stuff: use temperature sensor
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
