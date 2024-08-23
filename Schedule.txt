@@ -12,8 +12,15 @@ Saturday:
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
 []New sponge for Smints box
-Monday:
+Sunday:
+[]Attempt 3D print CAD file modifications
+    - Bike attachment
+    - Add handle for longboard
+    - toothbrush + safety razor stand
+    - Air conditioner redirector
+    - ring splint
 []Thesis minor corrections
+Monday:
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
 Tuesday:
@@ -30,12 +37,6 @@ Friday:
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
-[]Attempt 3D print CAD file modifications
-    - Bike attachment
-    - Add handle for longboard
-    - toothbrush + safety razor stand
-    - Air conditioner redirector
-    - ring splint
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
 []Improve foilselector
