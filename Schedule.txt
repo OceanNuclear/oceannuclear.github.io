@@ -1,33 +1,35 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
+[]Order new razor and toilet rolls
 []Clear table
 []Outlook announcement emails (45 mins)
     - all hands talk
     - FT Team talk
-[]Get into contact with European school to ask:
-    1. If they have a cycling champion/ point-of-contact regarding cycling matters
-        - https://europaschooluk.org/contact-us/
-        - https://www.europa-pta.org/
-    2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
+Monday:
 []New sponge for Smints box
-Sunday:
+[]Compare free- vs fixed-boundary
+[]read_jetto refactor
+[]Thesis minor corrections
+Tuesday:
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - Add handle for longboard
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
-[]Thesis minor corrections
-Monday:
 []Grad scrap book prep materials(1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
-Tuesday:
 []Union research
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Scout stuff out in Abingdon
 Wednesday:
+[]Get into contact with European school to ask:
+    1. If they have a cycling champion/ point-of-contact regarding cycling matters
+        - https://europaschooluk.org/contact-us/
+        - https://www.europa-pta.org/
+    2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
+[]confirm renormalize is good
 []RUFF check
 []CI
 []Make branches
