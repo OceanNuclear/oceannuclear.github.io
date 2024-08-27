@@ -4,32 +4,25 @@
 []Order new razor and toilet rolls
 []Clear table
 []Outlook announcement emails (45 mins)
-    - all hands talk
     - FT Team talk
-Monday:
 []New sponge for Smints box
-[]Compare free- vs fixed-boundary
-[]read_jetto refactor
 []Thesis minor corrections
 Tuesday:
-[]Attempt 3D print CAD file modifications
-    - Bike attachment
-    - Add handle for longboard
-    - toothbrush + safety razor stand
-    - Air conditioner redirector
-    - ring splint
-[]Grad scrap book prep materials(1 hour)
-    - /home/ocean/Documents/UKAEA/20.GradProject/
-[]Union research
-    - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
 []Scout stuff out in Abingdon
+[]Cards for Ashley
 Wednesday:
+[]Compare free- vs fixed-boundary in script.py
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
-[]confirm renormalize is good
+[]Grad scrap book prep materials(1 hour)
+    - /home/ocean/Documents/UKAEA/20.GradProject/
+[]Union research
+    - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
+[]read_jetto refactor
+[]confirm renormalize is the correct thing to do
 []RUFF check
 []CI
 []Make branches
@@ -39,6 +32,11 @@ Friday:
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
+[]Attempt 3D print CAD file modifications
+    - Bike attachment
+    - toothbrush + safety razor stand
+    - Air conditioner redirector
+    - ring splint
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
 []Improve foilselector
