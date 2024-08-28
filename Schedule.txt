@@ -1,33 +1,32 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Order blanket and full body mirror
-[]Clear table
+[]Ask help for Onshape
 []Outlook announcement emails (45 mins)
     []FT Team talk
-[]New sponge for Smints box
-[]Thesis minor corrections
-Tuesday:
-[]Scout stuff out in Abingdon
-[]Cards for Ashley
-Wednesday:
+[]read_jetto refactor
+[]ruff check
+[]CI
+[]Make branches
+[]Confirm renormalize is the correct thing to do
 []Compare free- vs fixed-boundary in script.py
+Friday:
+[]Clear table
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
-[]Grad scrap book prep materials(1 hour)
+[]Order blanket and full body mirror
+[]New sponge for Smints box
+[]Thesis minor corrections
+[]Grad scrap book prep materials (1 hour)
     - /home/ocean/Documents/UKAEA/20.GradProject/
+Sunday:
 []Union research
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/collated/summary.csv
-[]read_jetto refactor
-[]confirm renormalize is the correct thing to do
-[]RUFF check
-[]CI
-[]Make branches
-Friday:
 []Passport renewal
+[]New bike seat
 
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
