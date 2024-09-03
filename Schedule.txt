@@ -5,21 +5,17 @@
     []expense type
     []expense area
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/make_pie-charts.py
-[]Talk to Tich!
-    []Set up tour of Birmingham HF facility
-    []Set up neutromak
-[]Talk to Chantal about external collaboration
 []CulBUG survey
     []Advertise the Wednesday meeting on Slack
     []post survey on Yammer and Slack
 []Reply to Mona about 3D printer
-[]Send 3D file to Elizabeth
-    []Strike deal to buy drill
+[]Make 3D print again?
 []Port to eqdsk
     []read_jetto refactor/delete
 []Ruff check
 []Docstring to replace the withrepr
 []Clear table
+[]Update website CV email address to UKAEA
 Wednesday:
 []Film for Oxford
 []Buy drill
@@ -28,7 +24,6 @@ Wednesday:
 []Make branches
 
 []Outlook announcement emails (45 mins)
-    []FT Team talk
 []Confirm renormalize is the correct thing to do
 []Compare free- vs fixed-boundary in script.py
 Tuesday:
