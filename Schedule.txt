@@ -5,6 +5,9 @@
     []expense type
     []expense area
     - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/make_pie-charts.py
+[]Talk to Tich!
+    []Set up tour of Birmingham HF facility
+    []Set up neutromak
 []Talk to Chantal about external collaboration
 []CulBUG survey
     []Advertise the Wednesday meeting on Slack
