@@ -1,47 +1,42 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Annual pie chart for
-    []expense type
-    []expense area
-    - /home/ocean/Documents/UKAEA/40.O4P/Research/FinancialRecords/make_pie-charts.py
-[]CulBUG survey
-    []Advertise the Wednesday meeting on Slack
-    []post survey on Yammer and Slack
-[]Reply to Mona about 3D printer
-[]Make 3D print again?
-[]Port to eqdsk
-    []read_jetto refactor/delete
-[]Ruff check
-[]Docstring to replace the withrepr
+Thursday:
+[]Return drill
 []Clear table
+[]Reply to Mona about 3D printer
 []Update website CV email address to UKAEA
-Wednesday:
-[]Film for Oxford
-[]Buy drill
+Friday:
 []Buy UW in Oxford (M&S)
-[]CI
-[]Make branches
-
-[]Outlook announcement emails (45 mins)
-[]Confirm renormalize is the correct thing to do
+[]CulBUG survey
+    []post survey on Yammer and Slack
+        []Manage SLACK
 []Compare free- vs fixed-boundary in script.py
-Tuesday:
+    []Port to eqdsk
+    []read_jetto refactor/delete
+[]Confirm renormalize is the correct thing to do
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
-[]Order blanket and full body mirror
-[]New sponge for Smints box
-[]Thesis minor corrections
-[]Grad scrap book prep materials (1 hour)
-    - /home/ocean/Documents/UKAEA/20.GradProject/
+[]CI
+[]Make branches
 Sunday:
+[]New sponge for Smints box
+[]Outlook announcement emails (45 mins)
+[]Order blanket and full body mirror
+Monday:
+[]Thesis minor corrections
+[]Grad stuff
+    []scrap book 
+        - /home/ocean/Documents/UKAEA/20.GradProject/
+    []Poster
+[]Start foil selector
+Saturday:
 []Passport renewal
 []New bike seat
 Monday:
-[]Ask help for Onshape
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
@@ -52,13 +47,13 @@ Monday:
     - ring splint
 []Send email to Aydan about Didcot Halfbike tryout
 []Plan solo bike trip holiday
-[]Improve foilselector
 []Send books, toys, and snacks (Feli) back to HK
+[]Bateman/whatever algorithm to solve the large decay problem
 Daily task: One novel thing per day:
 []SoME{1,2,3}
-[]Bateman/whatever algorithm to solve the large decay problem
 Later:
 []Sign up for Conversation over Coffee
+[]Sign up for mentoring
 []Driver's education books
 []Make pull-up bar
 []Invisalign
