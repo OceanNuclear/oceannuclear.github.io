@@ -7,11 +7,10 @@ Thursday:
 []Clear table
 []Reply to Mona about 3D printer
 []Update website CV email address to UKAEA
-Friday:
-[]Buy UW in Oxford (M&S)
 []CulBUG survey
     []post survey on Yammer and Slack
         []Manage SLACK
+Friday:
 []Compare free- vs fixed-boundary in script.py
     []Port to eqdsk
     []read_jetto refactor/delete
@@ -23,6 +22,7 @@ Friday:
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
 []CI
 []Make branches
+[]Buy UW in Oxford (M&S)
 Sunday:
 []New sponge for Smints box
 []Outlook announcement emails (45 mins)
