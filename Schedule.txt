@@ -3,6 +3,7 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
 []Submit film
+    []Delete videos to free up space
 []Return drill
 []Clear table
 []Reply to Mona about 3D printer
@@ -28,12 +29,14 @@ Sunday:
 []Outlook announcement emails (45 mins)
 []Order blanket and full body mirror
 Monday:
+[]Finish Interim review
 []Thesis minor corrections
 []Grad stuff
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
     []Poster
 []Start foil selector
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 Saturday:
 []Passport renewal
 []New bike seat
