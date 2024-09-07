@@ -1,17 +1,34 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
+Saturday:
 []Submit film
     []Delete videos to free up space
-[]Return drill
+[]Reply to Joven
 []Clear table
+Sunday:
+[]Stork: update preferences
+[]Stork: read all about unfolding
+[]Outlook announcement emails (45 mins)
 []Reply to Mona about 3D printer
 []Update website CV email address to UKAEA
+[]Claim mytimerewards October's monthly reward
+Sunday:
 []CulBUG survey
     []post survey on Yammer and Slack
         []Manage SLACK
-Friday:
+[]Order blanket and full body mirror
+Monday:
+[]Update personal website CV
+[]Return drill
+[]Finish Interim review
+[]Thesis minor corrections
+[]Grad stuff
+    []scrap book 
+        - /home/ocean/Documents/UKAEA/20.GradProject/
+    []Poster
+Tuesday:
+[]New sponge for Smints box
 []Compare free- vs fixed-boundary in script.py
     []Port to eqdsk
     []read_jetto refactor/delete
@@ -24,17 +41,6 @@ Friday:
 []CI
 []Make branches
 []Buy UW in Oxford (M&S)
-Sunday:
-[]New sponge for Smints box
-[]Outlook announcement emails (45 mins)
-[]Order blanket and full body mirror
-Monday:
-[]Finish Interim review
-[]Thesis minor corrections
-[]Grad stuff
-    []scrap book 
-        - /home/ocean/Documents/UKAEA/20.GradProject/
-    []Poster
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 Saturday:
