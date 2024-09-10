@@ -4,18 +4,19 @@
 []Stork: update preferences
 []Stork: read all about unfolding
 Tuesday:
-[]Papercut
-[]Finish email to Carlo
-[]Finish Interim review
-[]post survey on Yammer and Slack
-    []Manage SLACK
-
+[]Make Didcot bills tab
 []Outlook announcement emails (45 mins)
 []Update website CV email address to UKAEA
 Tuesday afternoon:
-[]Return drill
 []Reply to Mona about 3D printer
+[]Look at the water meter
 Wednesday:
+[]Finish Interim review
+[]Finish email to Carlo
+[]papercut
+[]Manage SLACK
+    []post survey on slack
+[]Return drill
 []Thesis minor corrections
 []Grad stuff
     []scrap book 
