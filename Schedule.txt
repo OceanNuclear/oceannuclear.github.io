@@ -1,40 +1,37 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Friday:
+[]Confirm readings from gas, elec, and water.
+    []Look under drain for water meters
+[]New sponge for Smints box
+[]Update website CV email address to UKAEA
+[]Finish Interim review
+Saturday:
+[]Reply to Mona about 3D printer
+[]Outlook clean emails (45 mins)
+[]Return drill
+[]Email Marcel
 []Stork: update preferences
 []Stork: read all about unfolding
-Tuesday:
-[]Make Didcot bills tab
-[]Outlook announcement emails (45 mins)
-[]Update website CV email address to UKAEA
-Tuesday afternoon:
-[]Reply to Mona about 3D printer
-[]Look at the water meter
-Wednesday:
-[]Finish Interim review
-[]Finish email to Carlo
-[]papercut
-[]Manage SLACK
-    []post survey on slack
-[]Return drill
 []Thesis minor corrections
+Monday:
+[]Manage SLACK
+    []post survey on SLACK
+[]One Planet Abingdon: email course leader
+[]Confirm renormalize is the correct thing to do
 []Grad stuff
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
     []Poster
-[]New sponge for Smints box
-[]Compare free- vs fixed-boundary in script.py
-    []Port to eqdsk
-    []read_jetto refactor/delete
-[]Confirm renormalize is the correct thing to do
+        []Find out about the specs
+        []Think of a punny title
+            - think about the content too
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
         - https://www.europa-pta.org/
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
-[]CI
-[]Make branches
-[]Buy UW in Oxford (M&S)
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 Saturday:
