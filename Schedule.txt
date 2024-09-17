@@ -1,13 +1,10 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Confirm readings from gas, elec, and water.
-    []Look under drain for water meters
-[]Finish Interim review
-[]One Planet Abingdon: email course leader
-[]The Naked Sprout toilet roll vs whatever I'm using rn
 Tuesday:
 []Update website CV email address to UKAEA
+    - /home/ocean/Documents/Work/5.CV/
+    - /home/ocean/Self/oceannuclear.github.io/contents/
 []Grad stuff
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
@@ -15,8 +12,7 @@ Tuesday:
         []Find out about the specs
         []Think of a punny title
             - think about the content too
-[]Manage SLACK
-    []post survey on SLACK
+[]Finish Interim review
 []Get into contact with European school to ask:
     1. If they have a cycling champion/ point-of-contact regarding cycling matters
         - https://europaschooluk.org/contact-us/
@@ -24,6 +20,8 @@ Tuesday:
     2. If they are interested in representing themselves in the next Didcot Active Travel Group meeting
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Confirm readings from gas, elec, and water.
+    []Look under drain for water meters
 Wednesday:
 []New sponge for Smints box
 []Confirm renormalize is the correct thing to do
