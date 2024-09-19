@@ -1,11 +1,6 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Answer Jason Fishbar
-[]Confirm readings from gas, elec, and water.
-    []Look under drain for water meters
-[]New sponge for Smints box
-Thursday:
 []Grad stuff
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
@@ -15,6 +10,12 @@ Thursday:
             - think about the content too
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+
+[]Answer Jason Fishbar
+[]Confirm readings from gas, elec, and water.
+    []Look under drain for water meters
+[]New sponge for Smints box
+
 []Confirm renormalize is the correct thing to do
 []Email Marcel
 []Stork: update preferences
