@@ -2,31 +2,31 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 []Grad stuff
+    []Poster
+        - /home/ocean/Documents/UKAEA/42.EndOfScheme/
+        - "Do we have photos of past posters that we can use as reference?"
+        []List the content that I think I should put in
+            - Check on Teams chat etc. EC guidelines.
+            []Think of a punny title
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
-    []Poster
-        []Find out about the specs
-        []Think of a punny title
-            - think about the content too
-[]Start foil selector
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-
-[]Answer Jason Fishbar
+[]Longboard machining
 []Confirm readings from gas, elec, and water.
     []Look under drain for water meters
 []New sponge for Smints box
+[]Thesis minor corrections
 
-[]Confirm renormalize is the correct thing to do
+[]Start foil selector
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Email Marcel
 []Stork: update preferences
 []Stork: read all about unfolding
 Saturday:
 []Return drill
-[]Thesis minor corrections
 []Passport renewal
-[]New bike seat
 []Reply to Mona about 3D printer
 Monday:
+[]Confirm renormalize is the correct thing to do
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
