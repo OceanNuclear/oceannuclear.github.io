@@ -1,6 +1,8 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Gloves postage
+[]Thesis minor corrections
 []Grad stuff
     []Poster
         - /home/ocean/Documents/UKAEA/42.EndOfScheme/
@@ -13,8 +15,6 @@
 []Longboard machining
 []Confirm readings from gas, elec, and water.
     []Look under drain for water meters
-[]New sponge for Smints box
-[]Thesis minor corrections
 
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
