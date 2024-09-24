@@ -11,9 +11,11 @@
     []scrap book 
         - /home/ocean/Documents/UKAEA/20.GradProject/
 []Thesis minor corrections
+[]Thunderbird
 []Longboard machining
 []Buy rice
-
+[]Clean blankets
+[]Clean oven
 []Confirm readings from gas, elec, and water.
     []Look under drain for water meters
 []Start foil selector
