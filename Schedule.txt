@@ -1,22 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Grad stuff (0 mins)
-    []Poster
-        []get pictures (45 mins)
-    []What happened to the UGV project
-[]Laundry (8 mins)
-[]Longboard machining
 Wednesday:
-[]Thesis minor corrections
 []Buy rice
 []Clean blankets
 []Clean oven
-[]Start foil selector
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Email Marcel
 []Stork: update preferences
 []Stork: read all about unfolding
+[]Organize the meetup
+Thursday:
+[]Confirm numbers etc. with Greg
+[]Start foil selector
+[]Thesis minor corrections
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Email Marcel
+Friday:
+[]Longboard machining
 Saturday:
 []Return drill
     []Return new gloves at Decathlon
