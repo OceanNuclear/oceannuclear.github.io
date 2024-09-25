@@ -1,23 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Grad stuff
+[]Grad stuff (0 mins)
     []Poster
-        - /home/ocean/Documents/UKAEA/42.EndOfScheme/
-        - "Do we have photos of past posters that we can use as reference?"
-        []List the content that I think I should put in
-            - Check on Teams chat etc. EC guidelines.
-            []Think of a punny title
-    []scrap book 
-        - /home/ocean/Documents/UKAEA/20.GradProject/
-[]Thesis minor corrections
-[]Thunderbird
+        []get pictures (45 mins)
+    []What happened to the UGV project
+[]Laundry (8 mins)
 []Longboard machining
+Wednesday:
+[]Thesis minor corrections
 []Buy rice
 []Clean blankets
 []Clean oven
-[]Confirm readings from gas, elec, and water.
-    []Look under drain for water meters
 []Start foil selector
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Email Marcel
