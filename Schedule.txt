@@ -2,24 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
+[]Organize the meetup
 []Start foil selector
-[]Thesis minor corrections
 []Stork: update preferences
 []Stork: read all about unfolding
-[]Confirm numbers etc. with Greg
 
 []Buy rice
 []Clean oven
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Organize the meetup
 []Email Marcel
 Friday:
+[]Check out the 3D printer at 2pm
 []Longboard machining
 Saturday:
+[]Thesis minor corrections
 []Return drill
     []Return new gloves at Decathlon
 []Passport renewal
-[]Reply to Mona about 3D printer
 Monday:
 []Confirm renormalize is the correct thing to do
 []Find solution for the triple-random-ID problem:
