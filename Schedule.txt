@@ -1,26 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
+Sunday:
+[]Longboard machining
+[]Return drill
+[]Buy conditioner, bacon bits
+[]Checkout Primark
+
+[]Thesis minor corrections
+[]Arrange stuff around house
+
+[]Stork: read all about unfolding
 []Organize the meetup
 []Start foil selector
-[]Stork: update preferences
-[]Stork: read all about unfolding
-
-[]Buy rice, shampoo, groceries
-[]Clean oven
+[]Passport renewal
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Email Marcel
-2:00pm
-[]Check out the 3D printer
-[]Longboard machining
-Saturday:
-[]Thesis minor corrections
-[]Return drill
-    []Return new gloves at Decathlon
-[]Passport renewal
+[]Mapo tofu and the two eggs that my sister sent
 Monday:
 []Confirm renormalize is the correct thing to do
+[]Clean up dishwasher + sink
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
@@ -39,7 +38,6 @@ Later:
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
 []Driver's education books
-[]Make pull-up bar
 []Invisalign
 []Lasik
 []Geological timeline decor
