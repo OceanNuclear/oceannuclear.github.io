@@ -3,25 +3,17 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
 []Thesis minor corrections
-[]print ToBePrinted
-[]Leonie Hargrove: dosimeter
-[]Internet provider change
-[]Organize Chernobheads
-
 []Start foil selector
-[]Book stuff for Chernobheaads
-[]New washing powder
-[]Stork: read all about unfolding
-[]Make facebook marketplace ad
-[]Arrange house
-[]Longboard machining x2
 []Online purchase:
     - IKEA
     - Amazon (remainder)
+[]Make facebook marketplace ad
+[]Stork: read all about unfolding
+[]Arrange house
+[]Longboard machining x2
 Saturday:
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Email Marcel
-[]Mapo tofu and the two eggs that my sister sent
 []Passport renewal
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
@@ -34,7 +26,6 @@ Monday:
     - Air conditioner redirector
     - ring splint
 []Send email to Aydan about Didcot Halfbike tryout
-[]Plan solo bike trip holiday
 []Send books, toys, and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
 Daily task: One novel thing per day:
@@ -48,11 +39,10 @@ Later:
 []Geological timeline decor
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
-[]Control theory analysis: gyro monorail, water flow rate
+[]Control theory analysis: gyro monorail
 []Discrete calculus to prove Bateman equation stuff!
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
-[]Grad time to do MOOC learning (Pinned email to myself)
-[]Make arduino stuff: use temperature sensor
+[]MOOC learning (pinned email to myself)
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
