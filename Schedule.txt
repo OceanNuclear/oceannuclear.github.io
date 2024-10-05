@@ -1,8 +1,11 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
+Sunday:
+[]Bring helmet
 []Thesis minor corrections
+[]Buy lights of the appropriate colours
+[]Buy toothpaste
 []Start foil selector
 []Online purchase:
     - IKEA
@@ -11,15 +14,18 @@ Thursday:
 []Stork: read all about unfolding
 []Arrange house
 []Longboard machining x2
-Saturday:
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+Monday:
+[]Confirm renormalize is the correct thing to do
 []Email Marcel
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+Wednesday:
+[]Talk to Mountain Mania about WRD
+[]Buy Duvet
 []Passport renewal
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
-Monday:
-[]Confirm renormalize is the correct thing to do
 []Will writing service from Prospect
+Saturday:
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
