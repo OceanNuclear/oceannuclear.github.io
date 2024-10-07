@@ -2,8 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Sunday:
+[]Relocate helmet to door
 []Thesis typo corrections
-[]Bring helmet
 []Start foil selector
 []Online purchase:
     - IKEA
@@ -15,14 +15,14 @@ Tuesday:
 []Ask Alex about nuclear data library
 []Email Marcel
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-Wednesday:
+Wednesday/home:
 []Buy lights of the appropriate colours
 []Longboard machining x2
 []Talk to Mountain Mania about WRD
 []Buy toothpaste
 []Buy Duvet
-
 []Arrange house
+Wednesday:
 []Passport renewal
 []Find solution for the triple-random-ID problem:
     - /home/ocean/Self/Productivity/problem_issue.tmp
