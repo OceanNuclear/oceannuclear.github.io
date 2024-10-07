@@ -2,27 +2,30 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Sunday:
-[]Relocate helmet to door
-[]Thesis typo corrections
 []Start foil selector
-[]Online purchase:
-    - IKEA
-    - Amazon (remainder)
-[]Make facebook marketplace ad
+[]Thesis acknowledgement
+[]Thesis highlight
+
+[]Buy lights of the appropriate colours
+[]Online purchase: IKEA
+    
+[]Talk to Mountain Mania about WRD
+[]Relocate helmet to door
+[]Make Facebook marketplace ad
 []Stork: read all about unfolding
+[]Arrange house
+[]Finish the corrections
 Tuesday:
 []Confirm renormalize is the correct thing to do
 []Ask Alex about nuclear data library
+[]Chase up A.R.T. on the people available for Louis' thing
 []Email Marcel
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-Wednesday/home:
-[]Buy lights of the appropriate colours
-[]Longboard machining x2
-[]Talk to Mountain Mania about WRD
-[]Buy toothpaste
-[]Buy Duvet
-[]Arrange house
 Wednesday:
+[]Longboard machining x2
+[]Buy toothpaste, duvet
+[]Download/ update autodesk on Windows
+
 []Passport renewal
 []Will writing service from Prospect
 Saturday:
