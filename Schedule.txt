@@ -24,8 +24,6 @@ Wednesday/home:
 []Arrange house
 Wednesday:
 []Passport renewal
-[]Find solution for the triple-random-ID problem:
-    - /home/ocean/Self/Productivity/problem_issue.tmp
 []Will writing service from Prospect
 Saturday:
 []Attempt 3D print CAD file modifications
