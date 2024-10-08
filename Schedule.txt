@@ -1,21 +1,30 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
-[]Start foil selector
+Wednesday:
+[]Arrange house
+    - take out trash
+    - clean room
+    []vacuum away
+        - rest of the house
+    - reset watch
+    - clean counter
+Wednesday:
+[]Internet: ask when is the cooling off period
+    - if too soon, switch to Vodafone
 []Thesis acknowledgement
 []Thesis highlight
-
+[]Select paper to be read for journal club
+[]Take holiday off
+[]Start foil selector
+Thursday:
 []Buy lights of the appropriate colours
 []Online purchase: IKEA
-    
-[]Talk to Mountain Mania about WRD
-[]Relocate helmet to door
-[]Make Facebook marketplace ad
 []Stork: read all about unfolding
-[]Arrange house
-[]Finish the corrections
-Tuesday:
+[]Papercuts
+    - /home/ocean/Documents/UKAEA/Resources/Lao_1985_Nucl._Fusion_25_1611.pdf
+    - ocean/pc-DOC201 or ocean/pc-cryostat-DOC201
+[]Update Ubuntu so that Krita and mypaint works again
 []Confirm renormalize is the correct thing to do
 []Ask Alex about nuclear data library
 []Chase up A.R.T. on the people available for Louis' thing
@@ -46,6 +55,7 @@ Later:
 []Invisalign
 []Lasik
 []Geological timeline decor
+[]Krita AND mypaint both segfault on Ubuntu 24.04
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
