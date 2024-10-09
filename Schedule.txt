@@ -1,11 +1,8 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
-[]Thesis acknowledgement
-[]Thesis highlight
-[]Take holiday off
 []Lao papercut
+    - /home/ocean/Documents/UKAEA/Resources/Lao_1985_Nucl._Fusion_25_1611.pdf
 []Start foil selector
 []Sell drill
 []Adjust bike seat with allen keys
@@ -25,7 +22,7 @@ Friday:
 []Clean room
 []Longboard machining x2
 []Buy toothpaste, duvet
-[]Download/ update autodesk on Windows
+[]Journal club paper
 
 []Passport renewal
 []Will writing service from Prospect
@@ -38,6 +35,8 @@ Saturday:
 []Send email to Aydan about Didcot Halfbike tryout
 []Send books, toys, and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
+27/10:
+[]Download/ update autodesk on Windows
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
