@@ -2,35 +2,27 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
-[]Arrange house
-    - take out trash
-    - clean room
-    []vacuum away
-        - rest of the house
-    - reset watch
-    - clean counter
-Wednesday:
-[]Internet: ask when is the cooling off period
-    - if too soon, switch to Vodafone
 []Thesis acknowledgement
 []Thesis highlight
-[]Select paper to be read for journal club
 []Take holiday off
+[]Lao papercut
 []Start foil selector
+[]Sell drill
+[]Adjust bike seat with allen keys
 Thursday:
 []Buy lights of the appropriate colours
 []Online purchase: IKEA
 []Stork: read all about unfolding
-[]Papercuts
-    - /home/ocean/Documents/UKAEA/Resources/Lao_1985_Nucl._Fusion_25_1611.pdf
-    - ocean/pc-DOC201 or ocean/pc-cryostat-DOC201
+[]papercut: ocean/pc-DOC201 or ocean/pc-cryostat-DOC201
+[]papercut: prev. one about renaming
 []Update Ubuntu so that Krita and mypaint works again
 []Confirm renormalize is the correct thing to do
 []Ask Alex about nuclear data library
-[]Chase up A.R.T. on the people available for Louis' thing
 []Email Marcel
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-Wednesday:
+Friday:
+[]vacuum rest of the house
+[]Clean room
 []Longboard machining x2
 []Buy toothpaste, duvet
 []Download/ update autodesk on Windows
