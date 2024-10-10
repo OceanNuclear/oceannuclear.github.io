@@ -1,37 +1,35 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Lao papercut
-    - /home/ocean/Documents/UKAEA/Resources/Lao_1985_Nucl._Fusion_25_1611.pdf
-[]Start foil selector
-[]Sell drill
-[]Adjust bike seat with allen keys
 Thursday:
-[]Buy lights of the appropriate colours
-[]Online purchase: IKEA
-[]Stork: read all about unfolding
-[]papercut: ocean/pc-DOC201 or ocean/pc-cryostat-DOC201
-[]papercut: prev. one about renaming
-[]Update Ubuntu so that Krita and mypaint works again
-[]Confirm renormalize is the correct thing to do
+[]Post hype about Urban dance film festival
 []Ask Alex about nuclear data library
-[]Email Marcel
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Adjust bike seat with allen keys
+[]Change bike tyres
 Friday:
+[]Email Marcel
+[]Start foil selector
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Buy lights of the appropriate colours
 []vacuum rest of the house
 []Clean room
 []Longboard machining x2
 []Buy toothpaste, duvet
-[]Journal club paper
-
-[]Passport renewal
-[]Will writing service from Prospect
+[]Online purchase: IKEA
 Saturday:
+[]Journal club paper
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
+[]Will writing service from Prospect
+Monday:
+[]Stork: read all about unfolding
+Tuesday:
+[]papercut: ocean/pc-DOC201
+[]Confirm renormalize is the correct thing to do
+[]Passport renewal
 []Send email to Aydan about Didcot Halfbike tryout
 []Send books, toys, and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
