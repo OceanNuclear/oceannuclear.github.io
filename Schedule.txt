@@ -1,8 +1,6 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Start foil selector
-
 []Tighten up the whole bed
 []Find where the HELL is my parcel of drill bits
 []Change bike tyres
@@ -22,6 +20,7 @@ Sunday:
 []Will writing service from Prospect
 []Ask Alex about nuclear data library
 Monday:
+[]foil selector
 []Journal club paper
 []Buy lights of the appropriate colours
 []Stork: read all about unfolding
