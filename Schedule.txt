@@ -1,18 +1,18 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
-[]Post hype about Urban dance film festival
-[]Ask Alex about nuclear data library
-[]Adjust bike seat with allen keys
-[]Change bike tyres
-Friday:
 []Email Marcel
 []Start foil selector
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Buy lights of the appropriate colours
-[]vacuum rest of the house
+[]Ask Alex about nuclear data library
+
+[]Tighten up the whole bed
+[]Find where the HELL is my parcel of drill bits
+[]Change bike tyres
+[]oil up chain
+[]Adjust the seat height to juuuuust a bit higher
 []Clean room
+
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Longboard machining x2
 []Buy toothpaste, duvet
 []Online purchase: IKEA
@@ -25,7 +25,12 @@ Saturday:
     - ring splint
 []Will writing service from Prospect
 Monday:
+[]Buy lights of the appropriate colours
+[]vacuum rest of the house
 []Stork: read all about unfolding
+[]edit print_culham command script so that it reverts the change once done.
+    - /home/ocean/Documents/UKAEA/Resources/Printing_on_Ubuntu.md
+    - 
 Tuesday:
 []papercut: ocean/pc-DOC201
 []Confirm renormalize is the correct thing to do
