@@ -1,45 +1,39 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Email Marcel
 []Start foil selector
-[]Ask Alex about nuclear data library
 
 []Tighten up the whole bed
 []Find where the HELL is my parcel of drill bits
 []Change bike tyres
-[]oil up chain
+[]Oil up chain
 []Adjust the seat height to juuuuust a bit higher
 []Clean room
-
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Pack: equivalent of overnight stuff
+Sunday:
 []Longboard machining x2
 []Buy toothpaste, duvet
 []Online purchase: IKEA
-Saturday:
-[]Journal club paper
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
 []Will writing service from Prospect
+[]Ask Alex about nuclear data library
 Monday:
+[]Journal club paper
 []Buy lights of the appropriate colours
-[]vacuum rest of the house
 []Stork: read all about unfolding
-[]edit print_culham command script so that it reverts the change once done.
-    - /home/ocean/Documents/UKAEA/Resources/Printing_on_Ubuntu.md
-    - 
 Tuesday:
 []papercut: ocean/pc-DOC201
-[]Confirm renormalize is the correct thing to do
 []Passport renewal
 []Send email to Aydan about Didcot Halfbike tryout
-[]Send books, toys, and snacks (Feli) back to HK
+[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
 27/10:
 []Download/ update autodesk on Windows
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
