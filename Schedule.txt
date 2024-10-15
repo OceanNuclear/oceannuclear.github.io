@@ -1,13 +1,9 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Foil Selector
 Tuesday:
+[]Foil Selector
 []Deal with what Aidan asks me to do - send an email to gauge if anyone's gonna drop out
-[]Check internet
-[]Papercut: ocean/pc-DOC201
-[]Passport renewal
-[]Ask Alex about nuclear data library
 Wednesday:
 []Buy lights of the appropriate colours
 []Longboard machining x2
@@ -18,7 +14,12 @@ Wednesday:
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
+Thursday:
+[]Find out more about Southampton Career fair
 Friday:
+[]Papercut: ocean/pc-DOC201
+[]Passport renewal
+[]Ask Alex about nuclear data library
 []Tell people it's at 4:30pm at Bar Iberico NG1 1NL
 27/10:
 []Stork: read all about unfolding
