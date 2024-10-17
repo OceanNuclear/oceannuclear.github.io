@@ -3,7 +3,9 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
 []Foil Selector
-[]Confirm cancellation of MTR and CS
+[]undo/deal with cancellation of MTR and CS
+    []What address, what name
+
 []Decide to do Oxsrad on Sunday
 []Rosie Bjorkman stretching on Friday 
 []Rice cooking planning
