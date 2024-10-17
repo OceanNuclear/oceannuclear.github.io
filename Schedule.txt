@@ -1,12 +1,22 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
+Thursday:
 []Foil Selector
-[]Deal with what Aidan asks me to do - send an email to gauge if anyone's gonna drop out
-Wednesday:
-[]Buy lights of the appropriate colours
+[]Send email to Lana Ridgewell to confirm no one is dropping out
+[]Answer Tin Hung
+[]Find out more about Southampton Career fair
+[]Confirm cancellation of MTR and CS
+[]Rice cooking planning
+[]Decide to do Oxsrad on Sunday/ Rosie Bjorkman stretching on Friday 
+Friday:
+[]Papercut: ocean/pc-DOC201
+[]Passport renewal
+[]Ask Alex about nuclear data library
+[]Forward email to Adrenalin jungle participants; 4:30pm at Bar Iberico NG1 1NL
+Sunday:
 []Longboard machining x2
+[]Buy lights of the appropriate colours
 []Buy duvet
 []Online purchase: IKEA
 []Attempt 3D print CAD file modifications
@@ -14,13 +24,6 @@ Wednesday:
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
-Thursday:
-[]Find out more about Southampton Career fair
-Friday:
-[]Papercut: ocean/pc-DOC201
-[]Passport renewal
-[]Ask Alex about nuclear data library
-[]Tell people it's at 4:30pm at Bar Iberico NG1 1NL
 27/10:
 []Stork: read all about unfolding
 []Download/ update autodesk on Windows
