@@ -5,11 +5,13 @@ Thursday:
 []Foil Selector
 []undo/deal with cancellation of MTR and CS
     []What address, what name
-
+[x]Answer Kristen
+[x]Answer Judith
 []Decide to do Oxsrad on Sunday
-[]Rosie Bjorkman stretching on Friday 
-[]Rice cooking planning
+[]Rosie Bjorkman stretching on Friday
+[x]Rice cooking planning
 []Answer Tin Hung
+[]Buy fruit, eggs, soy sauces
 Friday:
 []Papercut: ocean/pc-DOC201
 []Passport renewal
