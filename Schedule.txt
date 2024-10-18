@@ -2,24 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
+[]Read announcement emails
+[]Branch repositories (10 mins)
+    []Rename foilselector `master` to `main`
 []Foil Selector
-[]undo/deal with cancellation of MTR and CS
-    []What address, what name
-[x]Answer Kristen
-[x]Answer Judith
-[]Decide to do Oxsrad on Sunday
-[]Rosie Bjorkman stretching on Friday
-[x]Rice cooking planning
-[]Answer Tin Hung
 []Buy fruit, eggs, soy sauces
+[]Answer Tin Hung
+[]Decide whether to do Oxsrad on Sunday
 Friday:
-[]Papercut: ocean/pc-DOC201
-[]Passport renewal
-[]Ask Alex about nuclear data library
-[]Forward email to Adrenalin jungle participants; 4:30pm at Bar Iberico NG1 1NL
+[]Reply to Michael about the diamond detector paper
 Sunday:
 []Longboard machining x2
 []Buy lights of the appropriate colours
+Monday:
+[]Papercut: ocean/pc-DOC201
+[]Passport renewal
+[]Ask Alex about nuclear data library
+Tuesday:
 []Buy duvet
 []Online purchase: IKEA
 []Attempt 3D print CAD file modifications
