@@ -1,20 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
-[]Read announcement emails
-[]Branch repositories (10 mins)
-    []Rename foilselector `master` to `main`
-[]Foil Selector
+Saturday:
 []Buy fruit, eggs, soy sauces
 []Answer Tin Hung
 []Decide whether to do Oxsrad on Sunday
-Friday:
-[]Reply to Michael about the diamond detector paper
+[]Read announcement emails
+[]Foil Selector
 Sunday:
 []Longboard machining x2
 []Buy lights of the appropriate colours
 Monday:
+[]Reply to Michael about the diamond detector paper
 []Papercut: ocean/pc-DOC201
 []Passport renewal
 []Ask Alex about nuclear data library
