@@ -2,11 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Saturday:
-[]Buy fruit, eggs, soy sauces
 []Answer Tin Hung
-[]Decide whether to do Oxsrad on Sunday
 []Read announcement emails
 []Foil Selector
+[x]Buy fruit, eggs, soy sauces
+[x]Print Adrenalin jungle form for everyone
+[x]Return phone to Henry
+[x]Return stuff to Matt
+[x]Text everyone to organize the meetup
 Sunday:
 []Longboard machining x2
 []Buy lights of the appropriate colours
