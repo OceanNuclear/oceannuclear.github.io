@@ -1,26 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
-[]Answer Tin Hung
-[]Read announcement emails
-[]Foil Selector
-[x]Buy fruit, eggs, soy sauces
-[x]Print Adrenalin jungle form for everyone
-[x]Return phone to Henry
-[x]Return stuff to Matt
-[x]Text everyone to organize the meetup
-Sunday:
-[]Longboard machining x2
-[]Buy lights of the appropriate colours
 Monday:
+[]Foil Selector
+[]Add a delay repay section to the train-commuting section of the CulBUG website
+    []Add a suggestion box for new features to be added into the website
+[]Send off parcel
+Tuesday:
+[]Answer Tin Hung
+[]Buy duvet
+[]Move 3D printing table into room
+Wednesday:
+[]Ask Alex about nuclear data library
+Thursday:
 []Reply to Michael about the diamond detector paper
 []Papercut: ocean/pc-DOC201
 []Passport renewal
-[]Ask Alex about nuclear data library
-Tuesday:
-[]Buy duvet
+Friday:
+[]Longboard machining x2
 []Online purchase: IKEA
+[]Buy lights of the appropriate colours
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
@@ -31,7 +30,6 @@ Tuesday:
 []Download/ update autodesk on Windows
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Will writing service from Prospect
-[]Send email to Aydan about Didcot Halfbike tryout
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
 Daily task: One novel thing per day:
