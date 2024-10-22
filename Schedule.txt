@@ -4,10 +4,11 @@
 Tuesday:
 []Foil Selector
 []Reply to CS and MTR
-[]Github has a notification that I need to approve
 []Answer Tin Hung
 []Longboard cutout
 []Move 3D printing table into room
+Wednesday:
+[]Github has a notification that I need to approve
 Thursday:
 []Reply to Michael about the diamond detector paper
 []Papercut: ocean/pc-DOC201
