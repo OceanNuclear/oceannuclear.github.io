@@ -1,20 +1,23 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Foil Selector
-[]Reply to CS and MTR
+[]Foil selector; CulBUG meeting
+[]Text Rebecca (Sutton Courtenay) about CulBUG petition; ask about student campaign
+Wednesday afternoon:
+[]Turn up the heating for sleeping
+[]Headset tighten
+[]Find stuff for Ash
+[]Hunt for tyre and light in Didcot
+
+[]Set up Eero
 []Answer Tin Hung
 []Longboard cutout
-[]Move 3D printing table into room
-Wednesday:
-[]Github has a notification that I need to approve
 Thursday:
 []Reply to Michael about the diamond detector paper
 []Papercut: ocean/pc-DOC201
 []Passport renewal
 Friday:
-[]Longboard machining x2
+[]Move 3D printing table into room
 []Online purchase: IKEA
 []Buy lights of the appropriate colours
 []Attempt 3D print CAD file modifications
