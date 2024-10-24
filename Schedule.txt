@@ -1,39 +1,38 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
-[]Find stuff for Ash
-[]Reply to Alex on the train
-[]Answer Tin Hung
-[]Longboard cutout #2
-[]Change inner-tube
-[]Rubber cutout to water-tight-seal the headset
-Thursday:
-[]Reply to Michael about the diamond detector paper
-[]Papercut: ocean/pc-DOC201
-[]Passport renewal
-Friday:
-[]Buy light
 []Foil selector
-[]Text Rebecca (Sutton Courtenay) about CulBUG petition; ask about student campaign
+[]Reply to Alex on WhatsApp
+[]Answer Tin Hung
+[]Post TFNTG
+Friday:
+[]Find stuff for Ash
+[]Longboard cutout #2
+[]Rubber cutout to water-tight-seal the headset
 []Move 3D printing table into room
+[]Change inner-tube
 []Online purchase: IKEA
 []Buy lights of the appropriate colours
+Sunday:
+[]Passport renewal
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
-27/10:
+Monday (28/10):
+[]Papercut: ocean/pc-DOC201
 []Stork: read all about unfolding
 []Download/ update autodesk on Windows
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Will writing service from Prospect
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
-Wednesday:
+Monday (4/11):
+[]Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
 []Add a delay repay section to the train-commuting section of the CulBUG website
     []Add a suggestion box for new features to be added into the website
+[]Print flu vaccination consent form
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
