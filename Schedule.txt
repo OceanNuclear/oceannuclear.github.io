@@ -1,26 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Friday:
-[]Foil selector
-[]Claim Unit4 expenses
-[]Forward email to Arron Dennett
-[]Re-send thesis because of compiling error
-
-[]Find Taste of Africa stuff for Ash
-
-[]Answer Tin Hung
-[]Post TFNTG
-[]Longboard cutout #2
-[]Pick up Ash at 12
-[]Rubber cutout to water-tight-seal the headset
-[]Move 3D printing table into room
-[]Change inner-tube
-Saturday:
 []Buy lights of the appropriate colours
-[]Online purchase: IKEA
-[]Get gas cylinder bottle back
+[]Post TFNTG
+[]Move 3D printing table into room
 []Return router
+[]Clean house
+    []Rearrange some stuff around the house
+[]Change inner-tube
+[]Longboard cutout #2
+[]Order new screw for bike headset
+[]Online purchase: IKEA
+[]Answer Tin Hung
 Sunday:
 []Passport renewal
 []Attempt 3D print CAD file modifications
@@ -29,7 +20,7 @@ Sunday:
     - Air conditioner redirector
     - ring splint
 Monday (28/10):
-[]Papercut: ocean/pc-DOC201
+[]Foil selector
 []Stork: read all about unfolding
 []Download/ update autodesk on Windows
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
@@ -37,6 +28,7 @@ Monday (28/10):
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
 Monday (4/11):
+[]Papercut: ocean/pc-DOC201
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
 []Add a delay repay section to the train-commuting section of the CulBUG website
     []Add a suggestion box for new features to be added into the website
