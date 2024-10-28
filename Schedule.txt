@@ -1,27 +1,29 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Pack bag (bring longboard too)
-[]Longboard cutout #2
-[]Rearrange some stuff around the house: put on shelves
-[]Move 3D printing table into room
-[]Change inner-tube
+Monday (28/10):
+[]Foil selector
+[]Set OoO message
+[]Boardman warranty
+[]Stork: read all about unfolding
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Will writing service from Prospect
+[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
+[]Bateman/whatever algorithm to solve the large decay problem
 Sunday:
+[]Download/ update autodesk on Windows
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
     - Air conditioner redirector
     - ring splint
-Monday (28/10):
-[]Foil selector
-[]Stork: read all about unfolding
-[]Download/ update autodesk on Windows
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Will writing service from Prospect
-[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
-[]Bateman/whatever algorithm to solve the large decay problem
 Monday (4/11):
+[]Longboard cutout #2
+[]Move 3D printing table into room
+[]Rearrange some stuff around the house: put on shelves
+[]Change inner-tube
+
 []Return router
 []Papercut: ocean/pc-DOC201
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
