@@ -1,17 +1,18 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Monday (28/10):
+Tuesday:
+[]Reply to Dad
+    []Need paper -> Use it to mock up Ashley's room
 []Foil selector
-[]Set OoO message
-[]Boardman warranty
+Wednesday:
 []Stork: read all about unfolding
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Will writing service from Prospect
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Bateman/whatever algorithm to solve the large decay problem
 Sunday:
-[]Download/ update autodesk on Windows
+[]Download/ update Autodesk on Windows
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - Bike attachment
@@ -29,8 +30,9 @@ Monday (4/11):
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
 []Add a delay repay section to the train-commuting section of the CulBUG website
     []Add a suggestion box for new features to be added into the website
+Tuesday:
 []Print flu vaccination consent form
-Saturday ():
+Saturday (09/11):
 []Online purchase: IKEA
 []Answer Tin Hung
 Daily task: One novel thing per day:
