@@ -4,38 +4,33 @@
 []Thread shoe laces
 []Remove trash and recycling
 []Get mail
-[]Laundry
-[]Foil selector
-Wednesday:
-[]Stork: read all about unfolding
-[]Download/ update Autodesk on Windows
-
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Bateman/whatever algorithm to solve the large decay problem
-Sunday:
-[]Passport renewal
-[]Attempt 3D print CAD file modifications
-    - Bike attachment
-    - toothbrush + safety razor stand
-    - Air conditioner redirector
-    - Ring Splint
-Monday (4/11):
 []Longboard cutout #2
+Monday:
+[]Buy glasses screw, light (1000+ Lumen, 2700+K)
+[]Foil selector
+[]Stork: read all about unfolding
+[]Return router
+Tuesday:
+[]Print flu vaccination consent form
 []Rearrange some stuff around the house: put on shelves
 []Add a delay repay section to the train-commuting section of the CulBUG website
     []Add a suggestion box for new features to be added into the website
 Wednesday:
 []Move 3D printing table into room
 []Change inner-tube
-[]Return router
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
-
+Saturday (09/11):
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Papercut: ocean/pc-DOC201
 []Will writing service from Prospect
-Tuesday:
-[]Print flu vaccination consent form
-Saturday (09/11):
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Bateman/whatever algorithm to solve the large decay problem
+[]Passport renewal
+[]Attempt 3D print CAD file modifications
+    - Bike attachment
+    - toothbrush + safety razor stand
+    - Air conditioner redirector
+    - Ring Splint
 []Online purchase: IKEA
 []Answer Tin Hung
 Daily task: One novel thing per day:
