@@ -2,10 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Tuesday:
-[]Longboard cutout #2
 []Foil selector
 []Stork: read all about unfolding
-
 Wednesday:
 []Rearrange some stuff around the house: put on shelves
 []Add a delay repay section to the train-commuting section of the CulBUG website
@@ -14,11 +12,13 @@ Thursday:
 []Return router
 []Print flu vaccination consent form
 []Move 3D printing table into room
-[]Change inner-tube
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
 Thursday:
-[]Cash out the cheque
 Saturday (09/11):
+[]Longboard cutout #2
+[]Change inner-tube
+[]Cash out the cheque
+
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Papercut: ocean/pc-DOC201
 []Will writing service from Prospect
