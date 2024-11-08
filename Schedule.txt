@@ -1,43 +1,46 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Foil selector
-[]Stork: read all about unfolding
-Wednesday:
+Friday:
 []Rearrange some stuff around the house: put on shelves
-[]Add a delay repay section to the train-commuting section of the CulBUG website
-    []Add a suggestion box for new features to be added into the website
-Thursday:
-[]Return router
-[]Print flu vaccination consent form
 []Move 3D printing table into room
-[]Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
-Thursday:
 Saturday (09/11):
 []Longboard cutout #2
-[]Change inner-tube
-[]Cash out the cheque
-
+[]Decode P714 calendar
+[]Return router
+[]Oxford:
+    []Cash out the cheque
+    []Bingxu
+[]Rubber seal of top stem
+[]3D print
+    - Ring Splint
+    - Kami's required parts
+[]Online purchase: IKEA
+Sunday:
+[]Foil selector
+Tuesday:
+[]Add a delay repay section to the train-commuting section of the CulBUG website
+    []Add a suggestion box for new features to be added into the website
+[]Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
+Friday:
+[]Stork: read all about unfolding
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Papercut: ocean/pc-DOC201
 []Will writing service from Prospect
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
-[]Bateman/whatever algorithm to solve the large decay problem
+[]Look at e-Visa - confirm I don't need to do anything
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - Bike attachment
     - toothbrush + safety razor stand
     - Air conditioner redirector
-    - Ring Splint
-[]Online purchase: IKEA
-[]Answer Tin Hung
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Bateman/whatever algorithm to solve the large decay problem
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
-[]Driver's education books
+[]CBT: sign up to course
 []Invisalign
 []Lasik
 []Geological timeline decor
