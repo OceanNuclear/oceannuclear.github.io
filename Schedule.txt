@@ -11,7 +11,7 @@ Sunday:
 []Rubber seal of top stem
 []Longboard cutout #2
 []3D print
-    - Ring Splint
+    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
 
 []Reply to royal mail: say the cheque is in the wrong name
