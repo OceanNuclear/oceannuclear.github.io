@@ -2,12 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Sunday:
+[]Rubber seal of top stem
 []Sew bag close
 []Rearrange some stuff around the house: put on shelves
     []Find suitable space for suitcases + other bags
-[]Rubber seal of top stem
 []Longboard cutout #2
-[]Buy rolling pin + sheet tray
 []3D print
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
