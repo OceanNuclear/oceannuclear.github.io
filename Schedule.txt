@@ -5,7 +5,7 @@ Sunday:
 []Rubber seal of top stem
 []Sew bag close
 []Rearrange some stuff around the house: put on shelves
-    []Find suitable space for suitcases + other bags
+[]Find suitable space for suitcases + other bags
 []Longboard cutout #2
 []3D print
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
