@@ -1,31 +1,30 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
 []Rubber seal of top stem
 []Sew bag close
-[]Rearrange some stuff around the house: put on shelves
-[]Find suitable space for suitcases + other bags
 []Longboard cutout #2
+[]Reply to royal mail: say the cheque is in the wrong name
+[]Online purchase: IKEA
+Tuesday:
+[]Foil selector: Confirm stage8 also works with unc
+    []remove the "directory" argument from step1.py to allow for absolute filepath to be used
 []3D print
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
-
-[]Reply to royal mail: say the cheque is in the wrong name
-[]Online purchase: IKEA
-[]New light for room(s)
-[]Foil selector
-Tuesday:
-[]Cash out the cheque
 []Add a delay repay section to the train-commuting section of the CulBUG website
     []Add a suggestion box for new features to be added into the website
 []Text Rebecca (Sutton Courtenay) to promote CulBUG petition + ask about student campaign
+Wednesday:
+[]Cash out the cheque
+[]Rearrange some stuff around the house: put on shelves
+[]Find suitable space for suitcases + other bags
+Thursday:
+[]Look at e-Visa - confirm I don't need to do anything
 Friday:
 []Stork: read all about unfolding
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
-[]Papercut: ocean/pc-DOC201
 []Will writing service from Prospect
-[]Look at e-Visa - confirm I don't need to do anything
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - Bike attachment
@@ -42,7 +41,7 @@ Later:
 []Invisalign
 []Lasik
 []Geological timeline decor
-[]Krita AND mypaint both segfault on Ubuntu 24.04
+[]mypaint segfault on Ubuntu 24.04
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
