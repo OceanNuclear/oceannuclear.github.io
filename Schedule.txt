@@ -6,7 +6,6 @@
 []Online purchase: IKEA
 Tuesday:
 []Foil selector: Confirm stage8 also works with unc
-    []remove the "directory" argument from step1.py to allow for absolute filepath to be used
 []3D print
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
