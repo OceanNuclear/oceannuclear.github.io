@@ -1,40 +1,43 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Find suitable space for suitcases + other bags
+Wednesday:
 []Sew bag close
 []Online purchase: IKEA
-Tuesday:
-[]3D print
-    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
-    - Kami's required parts
-[]Add a delay repay section to the train-commuting section of the CulBUG website
-    []Add a suggestion box for new features to be added into the website
-Wednesday:
 []Longboard cutout #2
+
+[]Find suitable space for suitcases + other bags
 Thursday:
 []Rearrange some stuff around the house: put on shelves
 []Look at e-Visa - confirm I don't need to do anything
+[]Add a delay repay section to the train-commuting section of the CulBUG website
+    []Add a suggestion box for new features to be added into the website
 Friday:
 []Stork: read all about unfolding
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
 []Passport renewal
 []Attempt 3D print CAD file modifications
-    - Bike attachment
+    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
+    - Kami's required parts
     - toothbrush + safety razor stand
-    - Air conditioner redirector
+Monday:
+[]Talk to Europa school (Vicky + Rebecca), + advertise petition
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
+[]Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Bateman/whatever algorithm to solve the large decay problem
+[]CBT: sign up to course
+[]Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
-[]CBT: sign up to course
+[]Other 3D prints
+    - Bike attachment
+    - Air conditioner redirector
 []Invisalign
 []Lasik
-[]Geological timeline decor
 []mypaint segfault on Ubuntu 24.04
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
