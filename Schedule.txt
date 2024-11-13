@@ -5,7 +5,6 @@
 []Sew bag close
 []Online purchase: IKEA
 Tuesday:
-[]Foil selector: Confirm stage8 also works with unc
 []3D print
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
@@ -13,9 +12,8 @@ Tuesday:
     []Add a suggestion box for new features to be added into the website
 Wednesday:
 []Longboard cutout #2
-[]Cash out the cheque
-[]Rearrange some stuff around the house: put on shelves
 Thursday:
+[]Rearrange some stuff around the house: put on shelves
 []Look at e-Visa - confirm I don't need to do anything
 Friday:
 []Stork: read all about unfolding
