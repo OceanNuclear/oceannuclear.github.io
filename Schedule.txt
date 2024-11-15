@@ -8,7 +8,7 @@ Wednesday:
 
 []Find suitable space for suitcases + other bags
 Thursday:
-[]Make the SLACK outlook mailbox rule work
+[]Check Pd106-...-MT=28 no longer result in H1
 []Rearrange some stuff around the house: put on shelves
 []Look at e-Visa - confirm I don't need to do anything
 []Add a delay repay section to the train-commuting section of the CulBUG website
