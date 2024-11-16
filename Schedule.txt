@@ -1,29 +1,30 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
+[]Check Pd106-...-MT=28 no longer result in "..."=H1
+[]Soda stream return:
+    []find receipt + order numebr
+    []reply
 []Sew bag close
-[]Online purchase: IKEA
 []Longboard cutout #2
 
-[]Find suitable space for suitcases + other bags
-Thursday:
-[]Check Pd106-...-MT=28 no longer result in H1
 []Rearrange some stuff around the house: put on shelves
+[]Online purchase: IKEA
+Sunday:
 []Look at e-Visa - confirm I don't need to do anything
-[]Add a delay repay section to the train-commuting section of the CulBUG website
-    []Add a suggestion box for new features to be added into the website
-Friday:
 []Stork: read all about unfolding
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
+Wednesday:
+[]Talk to Europa school (Vicky + Rebecca), + advertise petition
+[]Add a delay repay section to the train-commuting section of the CulBUG website
+    []Add a suggestion box for new features to be added into the website
+Friday:
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
-Monday:
-[]Talk to Europa school (Vicky + Rebecca), + advertise petition
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
