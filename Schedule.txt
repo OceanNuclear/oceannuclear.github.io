@@ -2,14 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 []Check Pd106-...-MT=28 no longer result in "..."=H1
-[]Soda stream return:
+[]Soda stream return: reply
     []find receipt + order numebr
-    []reply
 []Sew bag close
 []Longboard cutout #2
-
 []Rearrange some stuff around the house: put on shelves
-[]Online purchase: IKEA
 Sunday:
 []Look at e-Visa - confirm I don't need to do anything
 []Stork: read all about unfolding
@@ -25,6 +22,7 @@ Friday:
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
+[]Online purchase: IKEA
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
