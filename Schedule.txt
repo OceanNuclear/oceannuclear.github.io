@@ -3,10 +3,6 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Sunday:
 []Look at e-Visa - confirm I don't need to do anything
-[]Stork: read all about unfolding
-[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
-[]Will writing service from Prospect
-
 []Sew bag close
 []Longboard cutout #2
 []Rearrange some stuff around the house: put on shelves
@@ -21,6 +17,8 @@ Friday:
     - Kami's required parts
     - toothbrush + safety razor stand
 []Online purchase: IKEA
+Monday:
+[]Stork: read all about unfolding
 Daily task: One novel thing per day:
 []SoME{1,2,3}
 Later:
@@ -28,7 +26,9 @@ Later:
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Bateman/whatever algorithm to solve the large decay problem
 []motorcycle CBT: sign up to course
+[]Will writing service from Prospect
 []Geological timeline decor
+[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
 []Other 3D prints
