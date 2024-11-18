@@ -27,7 +27,7 @@ Later:
 []Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Bateman/whatever algorithm to solve the large decay problem
-[]CBT: sign up to course
+[]motorcycle CBT: sign up to course
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
