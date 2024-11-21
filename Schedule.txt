@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Rebase neutronics towards develop
 []Look at e-Visa - confirm I don't need to do anything
 []Sew bag close
 []Longboard cutout #2
