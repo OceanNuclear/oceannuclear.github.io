@@ -2,21 +2,27 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
+[]Update CulBUG website with photos
+[]Email SODC for discount
+[]Reply to RDCadmin on thesis correction action
+Saturday:
+[]Bag repair
+[]Call up SODC to ensure discount
+[]Buy chocolate for Alex
+Sunday:
 []Look at e-Visa - confirm I don't need to do anything
-[]Sew bag close
-[]Longboard cutout #2
+[]Sew close bag
 []Rearrange some stuff around the house: put on shelves
-Friday:
+[]Buy mat (saved on Telegram)
+[]Longboard cutout #2
 []Passport renewal
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
 []Online purchase: IKEA
-Saturday:
-[]Cash out cheque
-[]Bag repair
 Monday:
+[]Cash out cheque
 []Stork: read all about unfolding
 Daily task: One novel thing per day:
 []SoME{1,2,3}
