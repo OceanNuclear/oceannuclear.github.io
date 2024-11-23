@@ -1,18 +1,15 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Thursday:
-[]Update CulBUG website with photos
-[]Email SODC for discount
-[]Reply to RDCadmin on thesis correction action
-Saturday:
-[]Take out recycling + trash
-[]Bag + shoes repair
-[]Buy chocolate for Alex
 []Look at e-Visa - confirm I don't need to do anything
-[]Call up SODC to ensure discount
-[]Buy mat (saved on Telegram)
-Sunday:
+Monday:
+[]Cash out cheque
+[]Stork: read all about unfolding
+Tuesday:
+[]Call up SODC to ensure discount: 0345 302 2313
+Thursday:
+[]Acro in Oxford
+Friday:
 []Rearrange some stuff around the house: put on shelves
 []Sew close bag
 []Longboard cutout #2
@@ -21,12 +18,8 @@ Sunday:
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
+[]Take CulBUG photo for carrying bike up/down stairs
 []Online purchase: IKEA
-Monday:
-[]Cash out cheque
-[]Stork: read all about unfolding
-Daily task: One novel thing per day:
-[]SoME{1,2,3}
 Later:
 []Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
@@ -40,6 +33,7 @@ Later:
 []Other 3D prints
     - Bike attachment
     - Air conditioner redirector
+[]SoME{1,2,3}
 []Invisalign
 []Lasik
 []mypaint segfault on Ubuntu 24.04
