@@ -1,16 +1,15 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Saturday:
+Sunday:
+[]Report the problem of uncollected recyclings
+[]Look at e-Visa - confirm I don't need to do anything
+[]clean table
 []Rearrange house:
     - bedroom floor
     - suitcases
     - living room floor
     []put on shelves
-Sunday:
-[]Report the problem of uncollected recyclings
-[]Look at e-Visa - confirm I don't need to do anything
-
 []Varying-width convolution derivation
 []CulBUG website: bike of the week update
 []Stork: read all about unfolding
