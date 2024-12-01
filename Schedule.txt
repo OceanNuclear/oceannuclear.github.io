@@ -2,23 +2,19 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Saturday:
-[]Collect from Revamp
-[]Buy longboard
-[]Share gym success on IG, including the meme
-[]Look at e-Visa - confirm I don't need to do anything
-
-[]Clean up desk
-[]Transfer the music from old computer
-[]Clean shoes
-[]Clip toenails
-[]Book next weekend
-[]Stork: read all about unfolding
-Sunday:
 []Rearrange house:
     - bedroom floor
     - suitcases
     - living room floor
     []put on shelves
+Sunday:
+[]Report the problem of uncollected recyclings
+[]Look at e-Visa - confirm I don't need to do anything
+
+[]Varying-width convolution derivation
+[]CulBUG website: bike of the week update
+[]Stork: read all about unfolding
+[]Book next weekend
 []Passport renewal
 []Longboard cutout #2
 []Attempt 3D print CAD file modifications
@@ -27,7 +23,8 @@ Sunday:
     - toothbrush + safety razor stand
 []Online purchase: IKEA
 Tuesday/Thursday (03-05/12):
-[]Sew close bag
+[]Collect from Revamp
+    []Sew close bag
 []Acro in Oxford
 []Take CulBUG photo for carrying bike up/down stairs
 Later:
