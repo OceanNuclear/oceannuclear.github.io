@@ -4,29 +4,33 @@
 Sunday:
 []Report the problem of uncollected recyclings
 []Look at e-Visa - confirm I don't need to do anything
-[]clean table
+[]Organize/Book next weekend's accommodations
+[]CulBUG website: bike of the week update
+
+[]Clean table
 []Rearrange house:
     - bedroom floor
     - suitcases
     - living room floor
     []put on shelves
 []Varying-width convolution derivation
-[]CulBUG website: bike of the week update
 []Stork: read all about unfolding
-[]Book next weekend
 []Passport renewal
-[]Longboard cutout #2
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
-[]Online purchase: IKEA
+Monday:
+[]Receive delivery
+[]Revamp: collect shoes + bag
+[]Longboard cutout #2
 Tuesday/Thursday (03-05/12):
 []Collect from Revamp
     []Sew close bag
 []Acro in Oxford
 []Take CulBUG photo for carrying bike up/down stairs
 Later:
+[]Online purchase: IKEA
 []Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Bateman/whatever algorithm to solve the large decay problem
