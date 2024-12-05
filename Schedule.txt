@@ -4,11 +4,12 @@
 Thursday:
 []Revamp: collect shoes + bag
     []Sew close bag
+[]Make the board
+    []reference footstrap from old instagram stories
 []Rearrange house:
     - bedroom floor
     - suitcases
     - living room floor
-    []put on shelves
 []Organize/book weekend's accommodations
 []Tell James Morris about absence
 []CulBUG website: bike of the week update
@@ -23,6 +24,7 @@ Friday:
     - toothbrush + safety razor stand
 []Look at e-Visa - confirm I don't need to do anything
 Later:
+[]Put stuff on shelves
 []Tuesday/Thursday: Acro in Oxford
 []Wednesday: Breakdancing
 []Take CulBUG photo for carrying bike up/down stairs
@@ -30,7 +32,7 @@ Later:
 []Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Bateman/whatever algorithm to solve the large decay problem
-[]motorcycle CBT: sign up to course
+[]Motorcycle CBT: sign up to course
 []Will writing service from Prospect
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
@@ -42,7 +44,6 @@ Later:
 []SoME{1,2,3}
 []Invisalign
 []Lasik
-[]mypaint segfault on Ubuntu 24.04
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
@@ -50,5 +51,5 @@ Interesting/recreational/entertaining:
     - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
-[]MOOC learning (pinned email to myself)
+[]AI MOOC learning (pinned email to myself)
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
