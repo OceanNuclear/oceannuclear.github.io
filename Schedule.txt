@@ -2,28 +2,29 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Thursday:
-[]Look at e-Visa - confirm I don't need to do anything
-[]Organize/Book next weekend's accommodations
-[]CulBUG website: bike of the week update
 []Revamp: collect shoes + bag
     []Sew close bag
-[]Schedule meeting with Callum
-[]Soil -> succulent
-[]Acro in Oxford
-Friday:
-[]Longboard cutout #2
-[]Stork: read all about unfolding
-[]Passport renewal
 []Rearrange house:
     - bedroom floor
     - suitcases
     - living room floor
     []put on shelves
+[]Organize/book weekend's accommodations
+[]Tell James Morris about absence
+[]CulBUG website: bike of the week update
+[]Soil -> succulent
+Friday:
+[]Longboard cutout #2
+[]Stork: read all about unfolding
+[]Passport renewal
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
+[]Look at e-Visa - confirm I don't need to do anything
 Later:
+[]Tuesday/Thursday: Acro in Oxford
+[]Wednesday: Breakdancing
 []Take CulBUG photo for carrying bike up/down stairs
 []Online purchase: IKEA
 []Thesis correction
