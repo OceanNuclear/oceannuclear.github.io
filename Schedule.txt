@@ -1,23 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Sunday:
-[]Report the problem of uncollected recyclings
+Thursday:
 []Look at e-Visa - confirm I don't need to do anything
-[]CulBUG website: bike of the week update
-
 []Organize/Book next weekend's accommodations
+[]CulBUG website: bike of the week update
+[]Revamp: collect shoes + bag
+    []Sew close bag
+[]Schedule meeting with Callum
+[]Soil -> succulent
+[]Acro in Oxford
+Friday:
+[]Longboard cutout #2
 []Stork: read all about unfolding
 []Passport renewal
-Tuesday/Thursday (03-05/12):
-[]Collect from Revamp
-    []Sew close bag
-[]Acro in Oxford
-Wednesday
-[]Receive delivery
-[]Add soil to succulent
-[]Revamp: collect shoes + bag
-[]Take CulBUG photo for carrying bike up/down stairs
 []Rearrange house:
     - bedroom floor
     - suitcases
@@ -27,8 +23,8 @@ Wednesday
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - toothbrush + safety razor stand
-[]Longboard cutout #2
 Later:
+[]Take CulBUG photo for carrying bike up/down stairs
 []Online purchase: IKEA
 []Thesis correction
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
