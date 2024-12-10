@@ -1,25 +1,23 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Unpack
 []Run cookie cutter, fix that bug
 []CulBUG website: bike of the week update
-[]Passport renewal
 []Reply to Nathalie
-Monday:
+Wednesday:
+[]Card for Ashley
+[]Clean up workbench desk
+    - Reassemble Mars rover
+[]Passport renewal
+Thursday:
 []Soil -> succulent
-    - 3D printer stuff
+[]Put sport equipment into bedroom storage
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
-    - toothbrush + safety razor stand
-[]Laundry Folding
-Tuesday:
-[]Switch onto an O2 network provider
-[]Clean up workbench desk
-    - Reassemble Mars rover
-[]Put Sport equipment into bedroom storage
+    - Toothbrush + safety razor stand
 Later:
+[]Switch onto an O2 network provider
 []Stork: read all about unfolding
 []Put up shelves?
 []Sew close bag
