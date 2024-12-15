@@ -1,17 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
-[]ltok
+[]Report writing:
+    - List of foils recommended,
+    - Compared with previously recommended ones,
+    - Justification for why the new recommendation,
+        - Possibly record the foil selector development
+[]Measure backpack for Kristen
+[]P714 app for Ash
+[]Where is my other glove
+[]https://ukaeauk-my.sharepoint.com/:w:/g/personal/hari_chohan_ukaea_uk/EVw8Mbn7MjpFmrgT8k2NPtQB2bL2YF2JRxj7sq-Jo-7Tew?e=dTMgFH
 []CulBUG website: bike of the week update
-
-[]Card for Ashley, donut?
+[]Run process from bluemira
+Thursday:
 []Clean up workbench desk
     - Reassemble Mars rover
 []Passport renewal
-Thursday:
 []Soil -> succulent
 []Put sport equipment into bedroom storage
+Friday:
+[]Accept total efficiency input as an option?
 []Attempt 3D print CAD file modifications
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
@@ -25,6 +33,7 @@ Later:
 []Wednesday: Breakdancing
 []Thesis correction
 []Longboard cutout + superglue it
+[]Switch ISA from Vanguard to Trading212 (+ iWeb?)
 []Take CulBUG photo for carrying bike up/down stairs
 []Motorcycle CBT: sign up to course
 []Online purchase: IKEA
@@ -35,6 +44,7 @@ Later:
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
+[]Change credit card provider: someone with more reward + better interface.
 []Other 3D prints
     - Bike attachment
     - Air conditioner redirector
