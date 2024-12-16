@@ -1,18 +1,22 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+Monday:
+[]Switch onto an O2 network provider
+[]Apply for MBNA credit card
+[]CulBUG website: bike of the week update
+[]Attempt 3D print CAD file modifications
+    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
+    - Kami's required parts
+    - Toothbrush + safety razor stand
+Tuesday:
 []Report writing:
+    - https://ukaeauk-my.sharepoint.com/:w:/g/personal/hari_chohan_ukaea_uk/EVw8Mbn7MjpFmrgT8k2NPtQB2bL2YF2JRxj7sq-Jo-7Tew?e=dTMgFH
     - List of foils recommended,
     - Compared with previously recommended ones,
     - Justification for why the new recommendation,
         - Possibly record the foil selector development
-[]Measure backpack for Kristen
-[]P714 app for Ash
-[]Where is my other glove
-[]https://ukaeauk-my.sharepoint.com/:w:/g/personal/hari_chohan_ukaea_uk/EVw8Mbn7MjpFmrgT8k2NPtQB2bL2YF2JRxj7sq-Jo-7Tew?e=dTMgFH
-[]CulBUG website: bike of the week update
-[]Run process from bluemira
-Thursday:
+Wednesday:
 []Clean up workbench desk
     - Reassemble Mars rover
 []Passport renewal
@@ -20,12 +24,7 @@ Thursday:
 []Put sport equipment into bedroom storage
 Friday:
 []Accept total efficiency input as an option?
-[]Attempt 3D print CAD file modifications
-    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
-    - Kami's required parts
-    - Toothbrush + safety razor stand
 Later:
-[]Switch onto an O2 network provider
 []Stork: read all about unfolding
 []Put up shelves?
 []Sew close bag
