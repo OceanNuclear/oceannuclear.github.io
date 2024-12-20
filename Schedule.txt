@@ -2,30 +2,29 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
 Wednesday:
+[]giffgaff: buy eSIM
 []Bear for Kristen
-[]Research Capital One, Ocean Finance, Tesco Bank, Virgin Money credit cards: which one is most user-friendly
-[]CulBUG website: bike of the week update
 []Clean Bedroom floor
-[]Sport equipment into bedroom
-[]Report to Dominos
-[]Attempt 3D print CAD file modifications
-    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
-    - Kami's required parts
-    - Toothbrush + safety razor stand
+[]Put sport equipment into bedroom storage
+[]CulBUG website: bike of the week update
+6:30pm
+[]go to Xan's party by 
+Saturday:
+[]Clean up workbench desk
+    - Reassemble Mars rover
+[]Soil -> succulent
+Sunday:
 []Report writing:
     - https://ukaeauk-my.sharepoint.com/:w:/g/personal/hari_chohan_ukaea_uk/EVw8Mbn7MjpFmrgT8k2NPtQB2bL2YF2JRxj7sq-Jo-7Tew?e=dTMgFH
     - List of foils recommended,
     - Compared with previously recommended ones,
     - Justification for why the new recommendation,
         - Possibly record the foil selector development
-Thursday:
-[]Clean up workbench desk
-    - Reassemble Mars rover
+[]Attempt 3D print CAD file modifications
+    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
+    - Kami's required parts
+    - Toothbrush + safety razor stand
 []Passport renewal
-[]Soil -> succulent
-[]Put sport equipment into bedroom storage
-Friday:
-[]Accept total efficiency input as an option?
 Later:
 []Stork: read all about unfolding
 []Put up shelves?
@@ -45,7 +44,6 @@ Later:
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
-[]Change credit card provider: someone with more reward + better interface.
 []Other 3D prints
     - Bike attachment
     - Air conditioner redirector
