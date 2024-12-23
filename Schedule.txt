@@ -1,36 +1,33 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Mail keychain to Xan
-[]Buy Christmas present for 24th
-[]CulBUG website: bike of the week update (30 mins)
-[]Read email from Nathalie Belanger (20 mins)
-[]Clean up workbench desk
-    []Reassemble Mars rover
-[]Soil -> succulent
-Sunday:
 []Report writing:
-    - https://ukaeauk-my.sharepoint.com/:w:/g/personal/hari_chohan_ukaea_uk/EVw8Mbn7MjpFmrgT8k2NPtQB2bL2YF2JRxj7sq-Jo-7Tew?e=dTMgFH
     - List of foils recommended,
     - Compared with previously recommended ones,
     - Justification for why the new recommendation,
         - Possibly record the foil selector development
+[]Buy Christmas card + post card
+    []Buy Christmas present for 24th
 []Attempt 3D print CAD file modifications
+    - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - Toothbrush + safety razor stand
-    - Fix position of office pull-up bar
-[]Passport renewal
-[]Sew close bag
+Tuesday:
+[]Foil selector
+    []Write presentation
 Later:
 []Stork: read all about unfolding
-[]Wednesday: Breakdancing
+[]Read outlook all announcements
 []Thesis correction
-[]Longboard cutout + superglue it
-[]Motorcycle CBT: sign up to course
-[]Online purchase: IKEA
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
+[]Wednesday: Breakdancing
+[]Longboard cutout
+[]Passport renewal
 []Bateman/whatever algorithm to solve the large decay problem
+Jan:
+[]What does the new style bike shelter have? Document on google site
+[]Motorcycle CBT: sign up to course
+[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Sign up for Conversation over Coffee
