@@ -8,6 +8,7 @@
         - Possibly record the foil selector development
 []Buy Christmas card + post card
     []Buy Christmas present for 24th
+    []Buy icecream
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
