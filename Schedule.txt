@@ -6,9 +6,8 @@
     - Compared with previously recommended ones,
     - Justification for why the new recommendation,
         - Possibly record the foil selector development
-[]Buy Christmas card + post card
-    []Buy Christmas present for 24th
-    []Buy icecream
+[]Get a replacement of the rock candies
+[]Write Christmas card to Ash
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
