@@ -1,13 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Asda return
+    []Buy extra gifts from B&M
+    []Toilet brush
+    []Send Christmas card
+    []go to Miniso
 []Report writing:
     - List of foils recommended,
     - Compared with previously recommended ones,
     - Justification for why the new recommendation,
         - Possibly record the foil selector development
-[]Get a replacement of the rock candies
-[]Write Christmas card to Ash
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
@@ -25,7 +28,6 @@ Later:
 []Passport renewal
 []Bateman/whatever algorithm to solve the large decay problem
 Jan:
-[]What does the new style bike shelter have? Document on google site
 []Motorcycle CBT: sign up to course
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Geological timeline decor
