@@ -9,14 +9,15 @@ Tuesday:
         - Possibly record the foil selector development
 []Foil selector: fix up for open sourcing
     []Write presentation
-[]Complaint to KJ1hand and Jonas Biack that the route has been reset 😭
 Wednesday:
+[]Complaint to KJ1hand and Jonas Biack that the route has been reset 😭
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - Toothbrush + safety razor stand
 Later:
+[]make monitor stand mobile
 []Stork: read all about unfolding
 []Read outlook all announcements
 []Thesis correction
