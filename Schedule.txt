@@ -1,15 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Tuesday:
-[]Foil selector: fix up for open sourcing
-    []Write presentation
 []ASDA
     - return
     - Yoghurt
     - better mango squash
+[]CulBUG: Remove Yammer and Google Group from google site
+[]Complaint to Jonas Biack that the route has been reset 😭
+Saturday:
+[]Foil selector: fix up for open sourcing
+    []Write presentation
+Monday:
+[]Write a pull-request for smalll changes in neutronics
+[]Set up analytics for CulBUG
 Wednesday:
-[]Complaint to KJ1hand and Jonas Biack that the route has been reset 😭
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
