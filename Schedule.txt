@@ -1,15 +1,23 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Move furniture layout
 []ASDA
     - return
     - Yoghurt
-    - better mango squash
-[]CulBUG: Remove Yammer and Google Group from google site
-[]Complaint to Jonas Biack that the route has been reset 😭
+    - bread
+[]Didcot city center:
+    - Greggs
+    - Boots: bandages and saline
+    - better mango squash (M&S?)
 Saturday:
-[]Foil selector: fix up for open sourcing
+[]Foil selector: fix up for open sourcing:
+    - Deal with the 3 reactions specificity=5 problem
     []Write presentation
+[]Re-load the bluemirawire to fix the serialise issue
+[]CulBUG: Remove Yammer and Google Group from google site
+Sunday:
+[]Complaint to Jonas Biack that the route has been reset 😭
 Monday:
 []Write a pull-request for smalll changes in neutronics
 []Set up analytics for CulBUG
