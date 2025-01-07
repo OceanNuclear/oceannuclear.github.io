@@ -1,20 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]I desparately need protein
-[]Take out trash
-    []Clean fridge
-[]Re-load the BluemiraWire to fix the serialise issue
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
-Tuesday:
+Wednesday:
+[]Write a pull-request for smalll changes in neutronics
+[]Set up Analytics for CulBUG
+
 []TK Maxx
     - Toothpaste
     - sauce plate/dish
-[]Write a pull-request for smalll changes in neutronics
-[]Set up analytics for CulBUG
+[]Take out trash
+    []Clean out fridge
+    []Mirror too
 Wednesday:
+[]Close Vanquis
 []CulBUG: Remove Yammer and Google Group from google site
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
