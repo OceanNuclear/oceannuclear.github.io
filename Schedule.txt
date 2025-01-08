@@ -4,18 +4,20 @@
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
-Wednesday:
 []Write a pull-request for smalll changes in neutronics
+[]Fix the conflicting branches between brep-not-done origin and local
 []Set up Analytics for CulBUG
-
-[]TK Maxx
-    - Toothpaste
-    - sauce plate/dish
+Wednesday:
 []Take out trash
     []Clean out fridge
     []Mirror too
-Wednesday:
-[]Close Vanquis
+Thursday:
+[]Ask James about copyright notice in bluemira_large_tokamak/
+    - ruff flipflop between two failed line-length checks and autofix lol
+[]Climb in Brookes
+[]TK Maxx
+    - Toothpaste
+    - sauce plate/dish
 []CulBUG: Remove Yammer and Google Group from google site
 []Attempt 3D print CAD file modifications
     - Fix position of office pull-up bar
