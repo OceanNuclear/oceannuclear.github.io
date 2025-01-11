@@ -1,39 +1,29 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
+[]Stork: read all about unfolding
+[]Read outlook all announcements
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
-[]Write a pull-request for smalll changes in neutronics
-[]Fix the conflicting branches between brep-not-done origin and local
-[]Set up Analytics for CulBUG
-Wednesday:
+Saturday:
 []Take out trash
     []Clean out fridge
     []Mirror too
-Thursday:
-[]Ask James about copyright notice in bluemira_large_tokamak/
-    - ruff flipflop between two failed line-length checks and autofix lol
-[]Climb in Brookes
-[]TK Maxx
-    - Toothpaste
+[]Buying stuff from Didcot/Ikea
     - sauce plate/dish
+    - Tinfoil
+    - tea strainer, shoe horn, bath thingy
+Monday:
 []CulBUG: Remove Yammer and Google Group from google site
-[]Attempt 3D print CAD file modifications
-    - Fix position of office pull-up bar
-    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
-    - Kami's required parts
-    - Toothbrush + safety razor stand
+[]Set up Analytics for CulBUG
+[]Write a pull-request for smalll changes in neutronics
 Later:
-[]make monitor stand mobile
-[]Stork: read all about unfolding
-[]Read outlook all announcements
 []Thesis correction
 []Wednesday: Breakdancing
 []Longboard cutout
 []Passport renewal
-[]Bateman/whatever algorithm to solve the large decay problem
-[]Move the whole wardrobe into bedroom for minimal distraction?
+[]Move the whole wardrobe into bedroom for sterile room?
 Jan:
 []Motorcycle CBT: sign up to course
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
@@ -42,7 +32,11 @@ Jan:
 []Sign up for Conversation over Coffee
 []Sign up for mentoring
 []Will writing service from Prospect
-[]Other 3D prints
+[]Attempt 3D print CAD file modifications
+    - Fix position of office pull-up bar
+    - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
+    - Kami's required parts
+    - Toothbrush + safety razor stand
     - Bike attachment
     - Air conditioner redirector
 []SoME{1,2,3}
