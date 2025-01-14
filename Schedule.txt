@@ -1,21 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Tin foil
-[]Stork: read all about unfolding
-[]Read outlook all announcements
+[]Clean house
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
-Saturday:
-[]Take out trash
-    []Clean out fridge
-    []Mirror #2 box: store or remove
-Monday:
-[]Tin foil
+[]Pack up mirror package
+Tuesday:
+[]Run
+[]Write a pull-request for smalll changes in neutronics
 []CulBUG: Remove Yammer and Google Group from google site
 []Set up Analytics for CulBUG
-[]Write a pull-request for smalll changes in neutronics
+Wednesday:
+[]Stork: read all about unfolding
+[]Read outlook all announcements
 Later:
 []Thesis correction
 []Wednesday: Breakdancing
