@@ -1,19 +1,22 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-Wednesday:
+[]Shave
+[]Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
+[]CulBUG: Remove Yammer and Google Group from google site
+[]Set up analytics for CulBUG
+[]ltok: Plasma, IVC
+Thursday:
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
 []Write a pull-request for smalll changes in neutronics
+
 []Lactase refill
 []backpack keyrings rearrangement
 []Wash shoes
 []Pack up mirror package
-[]CulBUG: Remove Yammer and Google Group from google site
-[]Set up Analytics for CulBUG
-Thursday:
-[]Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
+
 []Stork: read all about unfolding
 []Read outlook all announcements
 Later:
