@@ -1,24 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
-3. Break day into four. 4. Regulate stimulus level by playing lectures in background.
-[]Shave
-[]Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
+3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []CulBUG: Remove Yammer and Google Group from google site
 []Set up analytics for CulBUG
 []ltok: Plasma, IVC
+[]Wash shoes
+[]Pack up mirror package
 Thursday:
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
-[]Write a pull-request for smalll changes in neutronics
+[]Write a pull-request for small changes in neutronics
 
-[]Lactase refill
-[]backpack keyrings rearrangement
-[]Wash shoes
-[]Pack up mirror package
-
+[]Asda: Waffles, ice-cream; polish shop: cake
+[]Vacuum
+[]Write notice about stinking pram
 []Stork: read all about unfolding
 []Read outlook all announcements
+Sunday:
+[]Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
 Later:
 []Thesis correction
 []Wednesday: Breakdancing
