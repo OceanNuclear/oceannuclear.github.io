@@ -3,14 +3,15 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Stork: read all about unfolding
 []Read outlook all announcements
-[]Read Will's email
-
+[]Reply to Will's email
+[]Reply to Hari's request for co-authorship
 []Wash shoes
 []Label the mirror box for disposal
+
 []CulBUG: Remove Yammer and Google Group from google site
 []Set up analytics for CulBUG
-Sunday:
 []Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
+Sunday:
 []Foil selector: fix up for open sourcing:
     - Deal with the 3 reactions specificity=5 problem
     []Write presentation
