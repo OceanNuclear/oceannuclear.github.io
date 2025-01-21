@@ -4,7 +4,7 @@
 []Stork: read all about unfolding
 []Read outlook all announcements
 []Comment on Flynn's post
-[]FIX THE DAMN ./FIX SCRIPT
+[x]FIX THE DAMN ./FIX SCRIPT
 []Reply to Will's email
 []Reply to Hari's request for co-authorship
 []Wash shoes
