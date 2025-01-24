@@ -3,22 +3,24 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Read outlook all announcements
 []Wash shoes
-[]Bring plant
 []Label the mirror box for disposal
-[]Comment on Flynn's post
 
-[]CulBUG: Remove Yammer and Google Group from google site
+[]CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
 Thursday:
 []Stork: read all about unfolding
 []Foil selector
-    []ruff fix up
+    []ruff fix up - pre-commit once
+    []Wrap the warning messages up nicely
+    []Scribe/Loom the life demo
     []JET simulation
     []Write presentation
 []Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
 Sunday:
 []Write a pull-request for small changes in neutronics
 []ltok: Plasma, IVC
+Tuesday:
+[]Bring plant
 Later:
 []Thesis correction
 []Wednesday: Breakdancing
