@@ -10,18 +10,16 @@
 Thursday:
 []Stork: read all about unfolding
 []Foil selector
-    []ruff fix up - pre-commit once
+    []Set the correct branch as main
+    []Raise issues on main
     []Wrap the warning messages up nicely
+        []Fix them where possible
     []Scribe/Loom the life demo
-    []JET simulation
+    []Write an "examine_spectrum" script
     []Write presentation
-[]Ask Robin about writing paper - am I allowed to re-use the content in my thesis?
-Sunday:
-[]Write a pull-request for small changes in neutronics
 []ltok: Plasma, IVC
-Tuesday:
-[]Bring plant
 Later:
+[]Bring plant
 []Thesis correction
 []Wednesday: Breakdancing
 []Longboard cutout
