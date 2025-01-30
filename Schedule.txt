@@ -10,13 +10,11 @@
 Thursday:
 []Stork: read all about unfolding
 []Foil selector
-    []Set the correct branch as main
-    []Raise issues on main
-    []Wrap the warning messages up nicely
-        []Fix them where possible
-    []Scribe/Loom the life demo
     []Write an "examine_spectrum" script
     []Write presentation
+    []Set the correct branch as main
+    []Raise issues on main
+    []Scribe/Loom the life demo
 []ltok: Plasma, IVC
 Later:
 []Bring plant
