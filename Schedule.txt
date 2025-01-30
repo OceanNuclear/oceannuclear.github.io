@@ -4,7 +4,6 @@
 []Read outlook all announcements
 []Wash shoes
 []Label the mirror box for disposal
-
 []CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
 Thursday:
