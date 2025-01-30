@@ -6,14 +6,16 @@
 []Label the mirror box for disposal
 []CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
+[]Log Unit4 timesheet?
 Thursday:
 []Stork: read all about unfolding
 []Foil selector
-    []Write an "examine_spectrum" script
+    [x]Write an "examine_spectrum" script
+        []Add tabulate dependency
     []Write presentation
-    []Set the correct branch as main
     []Raise issues on main
     []Scribe/Loom the life demo
+[]Talk to James about paper writing BEFORE the meeting happens
 []ltok: Plasma, IVC
 Later:
 []Bring plant
@@ -21,6 +23,7 @@ Later:
 []Wednesday: Breakdancing
 []Longboard cutout
 []Passport renewal
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []PhD
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz
