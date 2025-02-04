@@ -1,32 +1,31 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Read outlook all announcements
-[]Wash shoes
-[]Label the mirror box for disposal
-[]CulBUG: Remove Yammer and Google Group from Google site
-[]Set up analytics for CulBUG
-[]Log Unit4 timesheet?
-Thursday:
-[]Stork: read all about unfolding
-[]Foil selector
-    [x]Write an "examine_spectrum" script
-        []Add tabulate dependency
-    []Write presentation
-    []Raise issues on main
-    []Scribe/Loom the life demo
-[]Talk to James about paper writing BEFORE the meeting happens
-[]ltok: Plasma, IVC
-Later:
-[]Bring plant
-[]Thesis correction
-[]Wednesday: Breakdancing
-[]Longboard cutout
+[]Check Google calendar task list+ebay to see what needs refunidng/chasing up
+[]Reject Entropy paper offer
+[]Finish the neuroscience lecture
+
+[]papercut
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+[]Read outlook all announcements
+[]Thesis correction
+
+[]Wash shoes
+[]CulBUG: Remove Yammer and Google Group from Google site
+[]Set up analytics for CulBUG
+[]Label the mirror box for disposal
+[]Log Unit4 timesheet?
+Friday:
+[]Stork: read all about unfolding
+Later:
+[]ltok: Plasma, IVC
+[]Bring plant
+[]Wednesday: Breakdancing
+[]Longboard cutout
 []PhD
 []Move the whole wardrobe into bedroom for sterile room?
-[]Organize May hike with Alex, Christian, Faiz
+[]Organize May hike with Alex, Christian, Faiz, Rosie
 Jan:
 []Motorcycle CBT: sign up to course
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
