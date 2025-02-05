@@ -4,9 +4,6 @@
 []Papercut
 []Read outlook all announcements
 
-[]Passport renewal
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Finish the neuroscience lecture question section
 []CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
 
@@ -17,6 +14,8 @@
     - Alt+S
 Thursday:
 []Log Unit4 timesheet
+[]Passport renewal
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 Friday:
 []Stork: read all about unfolding
 []foilselector cleanup
@@ -37,7 +36,6 @@ Jan:
 []Sign up for mentoring
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
-    - Fix position of office pull-up bar
     - /home/ocean/Documents/Work/25.WorkForFriends/Ashley/RingSplint
     - Kami's required parts
     - Toothbrush + safety razor stand
