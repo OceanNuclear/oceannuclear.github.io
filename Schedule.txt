@@ -1,8 +1,7 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]papercut
-[]Log Unit4 timesheet
+[]Papercut
 []Read outlook all announcements
 
 []Passport renewal
@@ -13,11 +12,14 @@
 
 []Wash shoes
 []Wrap up mirror box for disposal
-Friday:
 []APS
 []Share content about saccades
     - Alt+S
+Thursday:
+[]Log Unit4 timesheet
+Friday:
 []Stork: read all about unfolding
+[]foilselector cleanup
 Later:
 []Thesis correction, paper writing
 []ltok: Plasma, IVC
