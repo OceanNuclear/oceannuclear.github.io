@@ -1,29 +1,29 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Finish the neuroscience lecture question section
 []papercut
+[]Log Unit4 timesheet
+[]Read outlook all announcements
+
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Read outlook all announcements
-[]Thesis correction
-[]Timesheet
-[]APS
-[]Share content about saccades
+[]Finish the neuroscience lecture question section
 []CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
 
 []Wash shoes
 []Wrap up mirror box for disposal
-[]Log Unit4 timesheet?
 Friday:
+[]APS
+[]Share content about saccades
+    - Alt+S
 []Stork: read all about unfolding
 Later:
+[]Thesis correction, paper writing
 []ltok: Plasma, IVC
 []Bring plant
 []Wednesday: Breakdancing
 []Longboard cutout
-[]PhD
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 Jan:
