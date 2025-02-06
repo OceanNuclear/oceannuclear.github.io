@@ -17,6 +17,7 @@ Thursday:
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 Friday:
+[]The two rad_by_psi_n uses different profiles, is that right??? - Ask Dario to review
 []Stork: read all about unfolding
 []foilselector cleanup
 Later:
