@@ -2,8 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Emails:
-[]Reply to Frick
-[]Reply to supervisors about lack of response.
+[]Rearrange mailbox
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 CulBUG stuff:
