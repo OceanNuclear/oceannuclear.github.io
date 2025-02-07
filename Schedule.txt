@@ -16,11 +16,10 @@ Home:
 []Share content about saccades
     - Alt+S
 []Read outlook all announcements
-Thursday:
-[]Log Unit4 timesheet
-    []Ask Alex Valentine, I think.
 []Stork: read all about unfolding
 Monday:
+[]Log Unit4 timesheet
+    []Ask Alex Valentine, I think.
 []foilselector cleanup
 []APS
 Later:
