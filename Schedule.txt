@@ -1,19 +1,18 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Emails:
-[]Re-label mailbox
-[]Passport renewal
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-CulBUG stuff:
 []Answer CulBUG emails about the domain
 []CulBUG: Remove Yammer and Google Group from Google site
 []Set up analytics for CulBUG
+
+[]Charge money back from Bah Humbug
+[]Buy card for Valentine's day
+[]Return amazon parcel
+[]Passport renewal
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+[]Take down Christmas tree
+[]Vacuum
 Home:
-[]Wash shoes
-[]Wrap up mirror box for disposal
-[]Share content about saccades
-    - Alt+S
 []Read outlook all announcements
 []Stork: read all about unfolding
 Monday:
