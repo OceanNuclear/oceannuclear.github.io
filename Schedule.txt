@@ -1,25 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Answer CulBUG emails about the domain
-[]CulBUG: Remove Yammer and Google Group from Google site
+[]Front-door spot: wipe it off
 []Set up analytics for CulBUG
-
-[]Charge money back from Bah Humbug
+Tuesday:
+[]Return Amazon parcel
 []Buy card for Valentine's day
-[]Return amazon parcel
-[]Passport renewal
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Take down Christmas tree
-[]Vacuum
-Home:
+[]Ask Alex Valentine about the time code usable, I think
+[]APS
+[]Foilselector cleanup
+Wednesday:
 []Read outlook all announcements
 []Stork: read all about unfolding
-Monday:
-[]Log Unit4 timesheet
-    []Ask Alex Valentine, I think.
-[]foilselector cleanup
-[]APS
+[]Passport renewal
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+Friday:
+[]Take down Christmas tree
 Later:
 []Thesis correction, paper writing
 []ltok: Plasma, IVC
