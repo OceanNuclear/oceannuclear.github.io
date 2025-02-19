@@ -2,15 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Refill lactose and chopsticks
-[]clean office room
 []Put away Christmas tree stuff
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Read outlook all announcements
 []Stork: read all about unfolding
-Tuesday:
+Thursday:
 []Papercut finish
 []APS
+[]Cphys
+[]James' plugin: set up sublime plugin for tracking
 []Thesis correction, paper writing
 []Set up analytics for CulBUG
 Later:
