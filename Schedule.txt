@@ -2,19 +2,17 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Reply to Louis Butt
-[]email reply to CulBUG
+[]Email reply to CulBUG
+[]Read the fuckton of emails
+[]Talk to YueFeng - see if I can get another trip to Prague.
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Sign up for Archer C++
-Tuesday:
-[]Read the fuckton of emails
-[]Talk to YueFeng - see if I can get another trip to Prague.
-[]Call back again for Brendan
+Wednesday:
 []Thesis correction, paper writing
 []APS
 []Cphys
 []Set-up GitAutoCommit for the career/work file
-[]Chase up Vanquis
 []Read outlook all announcements
 []Stork: read all about unfolding
 []Set up analytics for CulBUG
