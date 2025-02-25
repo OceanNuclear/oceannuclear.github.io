@@ -1,21 +1,20 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]Reply to Louis Butt
 []email reply to CulBUG
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Put away Christmas tree stuff
-[]refactor create_wire for TripleArc as well!
-Saturday:
-[]Reply to Louis
-[]Talk to YueFeng - see if I can get another trip to Prague.
 []Sign up for Archer C++
+Tuesday:
 []Read the fuckton of emails
-Monday:
+[]Talk to YueFeng - see if I can get another trip to Prague.
+[]Call back again for Brendan
 []Thesis correction, paper writing
 []APS
 []Cphys
 []Set-up GitAutoCommit for the career/work file
+[]Chase up Vanquis
 []Read outlook all announcements
 []Stork: read all about unfolding
 []Set up analytics for CulBUG
@@ -27,6 +26,7 @@ Later:
 []Longboard cutout
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
+[]July - Sean, Parkour in France
 Jan:
 []Motorcycle CBT: sign up to course
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
