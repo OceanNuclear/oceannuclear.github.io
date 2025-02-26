@@ -1,37 +1,34 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Reply to Louis Butt
-[]Email reply to CulBUG
-[]Talk to YueFeng - see if I can get another trip to Prague.
-    []Send email about the lack of any documents shared.
-[]Read the fuckton of emails
-[]Passport renewal
+Thursday:
+[]Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-Wednesday:
-[]Thesis correction, paper writing
-[]APS, Cphys
-[]LTok
-[]Set-up GitAutoCommit for the career/work file
+[]Read the fuck-ton of emails, teams messages (30 mins)
+[]ltok: Plasma, IVC
 []Read outlook all announcements
+
+[]Set-up GitAutoCommit for the career/work file
+Monday:
 []Stork: read all about unfolding
 []Set up analytics for CulBUG
+[]APS
 Later:
+[]Thesis correction, paper writing
 []Foilselector cleanup
-[]ltok: Plasma, IVC
 []Bring plant
 []Wednesday: Breakdancing
 []Longboard cutout
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
-Jan:
+April 2025:
+[]Sign up for Conversation over Coffee
+[]Sign up for mentoring: CPhys guidance needed
 []Motorcycle CBT: sign up to course
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
-[]Sign up for Conversation over Coffee
-[]Sign up for mentoring
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
     - Kami's required parts
