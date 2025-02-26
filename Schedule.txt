@@ -10,8 +10,7 @@
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 Wednesday:
 []Thesis correction, paper writing
-[]APS
-[]Cphys
+[]APS, Cphys
 []Set-up GitAutoCommit for the career/work file
 []Read outlook all announcements
 []Stork: read all about unfolding
