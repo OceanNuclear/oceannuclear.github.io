@@ -11,6 +11,7 @@
 Wednesday:
 []Thesis correction, paper writing
 []APS, Cphys
+[]LTok
 []Set-up GitAutoCommit for the career/work file
 []Read outlook all announcements
 []Stork: read all about unfolding
