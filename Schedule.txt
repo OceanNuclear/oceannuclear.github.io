@@ -5,9 +5,9 @@
 []Email reply to CulBUG
 []Read the fuckton of emails
 []Talk to YueFeng - see if I can get another trip to Prague.
+    []Send email about the lack of any documents shared.
 []Passport renewal
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Sign up for Archer C++
 Wednesday:
 []Thesis correction, paper writing
 []APS
