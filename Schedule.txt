@@ -1,21 +1,20 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Read the fuck-ton of emails, teams messages (30 mins)
 []ltok: Plasma, IVC
-[]Read outlook all announcements
+[]Read all outlook announcements emails
 
-[]Set-up GitAutoCommit for the career/work file
+[]Thesis correction
+[]APS
 Monday:
 []Stork: read all about unfolding
 []Set up analytics for CulBUG
-[]APS
-Later:
-[]Thesis correction, paper writing
+[]Paper writing
+Tuesday:
 []Foilselector cleanup
+[]Set-up GitAutoCommit for the career/work file
 []Bring plant
 []Wednesday: Breakdancing
 []Longboard cutout
