@@ -1,23 +1,26 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Pay for OAS token
-[]Passport renewal (80 mins)
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Thesis correction
-[]APS
-[]Moodle Courses
 Wednesday:
+[]Tell Athoy about which conference I presented at
+[]CO2 canister
+[]Thesis correction
+[]Moodle Courses
+[]Set up analytics for CulBUG
+Thursday:
+[]Paper writing
+[]APS
 []ltok: Plasma, IVC
 []Stork: read all about unfolding
-[]Set up analytics for CulBUG
-[]Paper writing
 Friday:
 []Foilselector cleanup
 []Set-up GitAutoCommit for the career/work file
 []Longboard
     - sand-down cutout
     - washing
+Saturday
+[]Passport renewal (80 mins)
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
