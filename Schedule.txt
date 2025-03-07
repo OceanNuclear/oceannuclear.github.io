@@ -1,25 +1,26 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
+Sunday:
+[]CO2 canister
+[]Collect bike
+[]Stork: read all about unfolding
+
+[]Passport renewal (80 mins)
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Set up analytics for CulBUG
+Monday:
 []ltok: Plasma, IVC
-Thursday:
 []APS
     []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
 []Paper writing
-[]Stork: read all about unfolding
-Friday:
-[]CO2 canister
-[]Collect bike
+Tuesday:
 []Foilselector cleanup
 []Set-up GitAutoCommit for the career/work file
 []Longboard
     - sand-down cutout
     - washing
 Saturday
-[]Passport renewal (80 mins)
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
