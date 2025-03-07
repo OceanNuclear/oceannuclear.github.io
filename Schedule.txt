@@ -2,10 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Wednesday:
-[]Thesis correction
 []Set up analytics for CulBUG
 []ltok: Plasma, IVC
-[]Reply to Will
 Thursday:
 []APS
     []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
