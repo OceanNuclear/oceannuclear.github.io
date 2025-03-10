@@ -6,7 +6,8 @@
 [x]Tidy up hallway
 [x]Clean up kitchen/living room
 [x]Clean the floor of the rooms with lint rollers
-[]Stork: read all about unfolding
+[x]GWR claims
+[]Laundry folding
 Monday:
 []ltok: Plasma, IVC
 []Buy train ticket for Manchester
@@ -20,10 +21,10 @@ Monday:
 []Collect bike
 []H&M
 []Vacuum
-[]Laundry
 Tuesday:
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+[]Stork: read all about unfolding
 []Foilselector cleanup
 []Set-up GitAutoCommit for the career/work file
 []Longboard
