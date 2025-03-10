@@ -1,19 +1,15 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[x]Laundry
-[x]Tidy up room: get rid of plastic bags and put up pull-up bar?
-[x]Tidy up hallway
-[x]Clean up kitchen/living room
-[x]Clean the floor of the rooms with lint rollers
-[x]GWR claims
 []Laundry folding
 Monday:
-[]ltok: Plasma, IVC
+[]Process variable updates
 []Buy train ticket for Manchester
 []APS
     []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
 []Paper writing
+
+[]ltok: Plasma, IVC
 []Set up analytics for CulBUG
 
 []Royal mail: send parcel
