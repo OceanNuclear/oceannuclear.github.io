@@ -1,31 +1,35 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Laundry folding
 Monday:
-[]Process variable updates
-[]Buy train ticket for Manchester
-[]APS
+[]APS (1 hour)
     []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
-[]Paper writing
-
-[]ltok: Plasma, IVC
-[]Set up analytics for CulBUG
-
-[]Royal mail: send parcel
 []CO2 canister
-[]Collect bike
-[]H&M
+
+[]Buy train ticket for Manchester (15 mins)
 []Vacuum
+[]Laundry folding
 Tuesday:
+[]Paper writing
+[]Fix process name update test fails
+[]Set up analytics for CulBUG
+[]Look up HK court case
+[]Buy longboard bearings, skid plate, bearing lube
+[]Set-up GitAutoCommit for the career/work file
+
+[]Collect bike
+[]Royal mail: send parcel
+[]H&M
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+    []Request absence next week for passport application?
 []Stork: read all about unfolding
 []Foilselector cleanup
-[]Set-up GitAutoCommit for the career/work file
 []Longboard
     - sand-down cutout
     - washing
+Thursday:
+[]ltok: Plasma, IVC
 Saturday
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
@@ -34,7 +38,7 @@ April 2025:
 []Bring plant
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
-[]Motorcycle CBT: sign up to course
+[]Motorcycle CBT: sign up to course,
 []AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
