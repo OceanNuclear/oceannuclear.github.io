@@ -10,16 +10,17 @@ Monday:
 []Vacuum
 []Laundry folding
 Tuesday:
-[]Paper writing
 []Fix process name update test fails
 []Set up analytics for CulBUG
-[]Look up HK court case
-[]Buy longboard bearings, skid plate, bearing lube
 []Set-up GitAutoCommit for the career/work file
 
 []Collect bike
 []Royal mail: send parcel
 []H&M
+Wednesday:
+[]Look up HK court case
+[]Buy longboard bearings, skid plate, bearing lube
+[]Paper writing
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
