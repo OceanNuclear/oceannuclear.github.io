@@ -5,6 +5,7 @@
 [x]Tidy up room: get rid of plastic bags and put up pull-up bar?
 [x]Tidy up hallway
 [x]Clean up kitchen/living room
+[x]Clean the floor of the rooms with lint rollers
 []Stork: read all about unfolding
 Monday:
 []ltok: Plasma, IVC
@@ -18,6 +19,8 @@ Monday:
 []CO2 canister
 []Collect bike
 []H&M
+[]Vacuum
+[]Laundry
 Tuesday:
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
