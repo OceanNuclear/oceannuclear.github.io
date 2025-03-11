@@ -2,21 +2,24 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]APS (1 hour)
-    []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
-[]Fix process name update test fails
-[]Buy train ticket for Manchester (15 mins)
-[]Set up analytics for CulBUG
-[]Set-up GitAutoCommit for the career/work file
-[]H&M
-Wednesday:
-[]Collect bike
-[]Look up HK court case
+[]Buy train ticket for Manchester (for Saturday) (15 mins)
+[]clip toenails
 []Buy longboard bearings, skid plate, bearing lube
-[]Paper writing
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
+Wednesday:
+[]Set-up GitAutoCommit for the career/work file
+[]Fix process name update test fails
+[]Talk to Ross: inquire what computer they ordered
+    []James Morris: underspend: order computer for PPMI
+[]Paper writing
+[]James Morris: APS: 14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
+    []Ask about updating job description in Career Framework
+
+[]Set up analytics for CulBUG
+[]Collect bike
+[]Look up HK court case
 []Stork: read all about unfolding
 []Foilselector cleanup
 []Longboard
@@ -25,6 +28,9 @@ Wednesday:
 Thursday:
 []ltok: Plasma, IVC
 Saturday
+[]H&M
+[]Manchester -> Birmingham
+
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
