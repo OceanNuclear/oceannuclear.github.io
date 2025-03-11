@@ -1,22 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[x]Vacuum
-[x]Laundry folding
-[x]Cut out shape for shoe
-[]Buy train ticket for Manchester (15 mins)
 Tuesday:
 []APS (1 hour)
     []14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
 []Fix process name update test fails
+[]Buy train ticket for Manchester (15 mins)
 []Set up analytics for CulBUG
 []Set-up GitAutoCommit for the career/work file
-
-[]Royal mail: send parcel
 []H&M
 Wednesday:
 []Collect bike
-[]CO2 canister
 []Look up HK court case
 []Buy longboard bearings, skid plate, bearing lube
 []Paper writing
