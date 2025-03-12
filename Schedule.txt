@@ -2,12 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Wednesday:
-[]Fix process name update test fails
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Buy a new drill
 []Buy new headtorch
 Thursday:
+[]Fix process name update test fails
 []Journal club slide making
 []Come into work late
     []Sticky note to apologize for scratch on car
