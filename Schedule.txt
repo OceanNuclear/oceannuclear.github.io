@@ -6,6 +6,9 @@ Tuesday:
 [x]clip toenails
 [x]Ask about running
 [x]Longboard cutout
+    [x]Lubricate longboard
+    [x]Solve the longboard wiggle problem
+    [x]Print longboard spacer again
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
