@@ -9,6 +9,7 @@ Tuesday:
     [x]Lubricate longboard
     [x]Solve the longboard wiggle problem
     [x]Print longboard spacer again
+[x]Buy longboard bearings (Skf ceramic), skid plate, bearing lube(, softer bushings?)
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
@@ -20,7 +21,6 @@ Wednesday:
 []Paper writing
 []James Morris: APS: 14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
     []Ask about updating job description in Career Framework
-[]Buy longboard bearings (Skf ceramic), skid plate, bearing lube(, softer bushings?)
 []Buy a new drill
 []Buy new headtorch
 
