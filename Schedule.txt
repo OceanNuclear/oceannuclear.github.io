@@ -4,8 +4,8 @@
 Wednesday:
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-[]Buy a new drill
-[]Buy new headtorch
+[x]Buy a new drill
+[x]Buy new headtorch
 Thursday:
 []Fix process name update test fails
 []Journal club slide making
