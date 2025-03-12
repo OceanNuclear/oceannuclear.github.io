@@ -2,32 +2,35 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Wednesday:
-[]James Morris: APS: 14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
-    []Ask about updating job description in Career Framework
-[]Stork: read all about unfolding
-
 []Set-up GitAutoCommit for the career/work file
 []Fix process name update test fails
-[]Talk to Ross: inquire what computer they ordered
-    []James Morris: underspend: order computer for PPMI
 []Paper writing
-[]Buy a new drill
-[]Buy new headtorch
 
 []Look up HK court case
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
-[]Collect bike
-
-[]Set up analytics for CulBUG
+[]Buy a new drill
+[]Buy new headtorch
 Thursday:
+[]Go to Oxford to collect shoes (come into work late)
+    []Sticky note to apologize for scratch on car
+    []Collect bike
+[]Talk to Jon about PPMI project view
+    - https://github.com/orgs/ukaea/projects/18/views/1
 []Install toe clips
 []ltok: Plasma, IVC
-Saturday
+Friday:
+[]Set up analytics for CulBUG
+[]Stork: read all about unfolding
+Saturday:
 []H&M
 []Manchester -> Birmingham
-
+Tuesday:
+[]Passport application
+Friday:
+[]Check if I want to go to IIS2025 @ ITER
+    - https://iis2025.sciencesconf.org/
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
