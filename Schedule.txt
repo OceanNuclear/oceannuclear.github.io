@@ -2,25 +2,26 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Wednesday:
-[]Set-up GitAutoCommit for the career/work file
 []Fix process name update test fails
-[]Look up HK court case
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-    []Request absence next week for passport application?
 []Buy a new drill
 []Buy new headtorch
 Thursday:
-[]Go to Oxford to collect shoes (come into work late)
+[]Come into work late
     []Sticky note to apologize for scratch on car
     []Collect bike
+    []Take skate shoe for repair
+    []Go to Oxford to collect climbing shoes
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
+[]Set-up GitAutoCommit for the career/work file
 []Paper writing
 Friday:
 []Install toe clips
 []Set up analytics for CulBUG
 []Stork: read all about unfolding
+[]Look up HK court case
 Saturday:
 []H&M
 Monday/Tuesday:
