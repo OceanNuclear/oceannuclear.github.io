@@ -1,18 +1,6 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Tuesday:
-[x]Buy train ticket for Manchester (for Saturday) (15 mins)
-[x]clip toenails
-[x]Ask about running
-[x]Longboard cutout
-    [x]Lubricate longboard
-    [x]Solve the longboard wiggle problem
-    [x]Print longboard spacer again
-[x]Buy longboard bearings (Skf ceramic), skid plate, bearing lube(, softer bushings?)
-[]Passport renewal (80 mins)
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-    []Request absence next week for passport application?
 Wednesday:
 []Set-up GitAutoCommit for the career/work file
 []Fix process name update test fails
@@ -23,6 +11,9 @@ Wednesday:
     []Ask about updating job description in Career Framework
 []Buy a new drill
 []Buy new headtorch
+[]Passport renewal (80 mins)
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+    []Request absence next week for passport application?
 
 []Set up analytics for CulBUG
 []Collect bike
