@@ -2,9 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]Buy train ticket for Manchester (for Saturday) (15 mins)
-[]clip toenails
-[]Buy longboard bearings, skid plate, bearing lube
+[x]Buy train ticket for Manchester (for Saturday) (15 mins)
+[x]clip toenails
+[x]Ask about running
+[x]Longboard cutout
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
     []Request absence next week for passport application?
@@ -16,16 +17,17 @@ Wednesday:
 []Paper writing
 []James Morris: APS: 14th ITER International School: "Integrated modelling of magnetic fusion plasmas"
     []Ask about updating job description in Career Framework
+[]Buy longboard bearings (Skf ceramic), skid plate, bearing lube(, softer bushings?)
+[]Buy a new drill
+[]Buy new headtorch
 
 []Set up analytics for CulBUG
 []Collect bike
 []Look up HK court case
 []Stork: read all about unfolding
 []Foilselector cleanup
-[]Longboard
-    - sand-down cutout
-    - washing
 Thursday:
+[]Install toe clips
 []ltok: Plasma, IVC
 Saturday
 []H&M
