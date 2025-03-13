@@ -1,30 +1,27 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
-[]Passport renewal (80 mins)
-    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
-Thursday:
+[]Sticky note to apologize for scratch on car
+[]Go to Oxford to collect climbing shoes
+Friday:
 []Fix process name update test fails
 []Journal club slide making
-[]Come into work late
-    []Sticky note to apologize for scratch on car
-    []Collect bike
-    []Take skate shoe for repair
-    []Go to Oxford to collect climbing shoes
-[]Talk to Jon about PPMI project view
-    - https://github.com/orgs/ukaea/projects/18/views/1
 []Set-up GitAutoCommit for the career/work file
 []Paper writing
-Friday:
-[]Install toe clips
-[]Set up analytics for CulBUG
+[]Add figure into IED slide
+[]Passport renewal (80 mins)
+    - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
 []Stork: read all about unfolding
-[]Look up HK court case
 Saturday:
 []H&M
 Monday/Tuesday:
 []Passport application, either from Wolverhampton -> London or from Didcot-> London
+[]Set up analytics for CulBUG
+Wednesday:
+[]Look up HK court case
+[]Talk to Jon about PPMI project view
+    - https://github.com/orgs/ukaea/projects/18/views/1
+[]Install toe clips
 Friday:
 []Check if I want to go to IIS2025 @ ITER
     - https://iis2025.sciencesconf.org/
