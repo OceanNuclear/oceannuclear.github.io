@@ -1,20 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Fix process name update test fails
 Friday:
-[]Journal club slide making
-[]Packing
+[]Fix process name update test fails
 []Set-up GitAutoCommit for the career/work file
-[]Firmware update
-
-[]Paper writing
 []Passport renewal (80 mins)
     - /home/ocean/Documents/Work/68.HKTravelDocuments/overseas-application.md
+
+[]Paper writing
 []Stork: read all about unfolding
 Saturday:
 []H&M
 Monday/Tuesday:
+[]Firmware update
+[]Journal club slide making
 []Passport application, either from Wolverhampton -> London or from Didcot-> London
 []Set up analytics for CulBUG
 Wednesday:
