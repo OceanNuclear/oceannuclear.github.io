@@ -2,16 +2,19 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Fix process name update test fails
+    [x]#3571,
+    [x]#3568,
+    [x]#3538,
+    [x]#3523,
+    []#3541
 []Set-up GitAutoCommit for the career/work file
 Sunday:
 []H&M
-[]2x photocopy ID card + 1x photocopy of my passport page
 []Shave legs
 Monday/Tuesday:
 []Photocopy my birth certificate
 []Firmware update
 []Journal club slide making
-[]Passport application, either from Wolverhampton -> London or from Didcot-> London
 []Set up analytics for CulBUG
 []Paper writing
 []Stork: read all about unfolding
