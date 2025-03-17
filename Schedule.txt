@@ -1,17 +1,12 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Fix process name update test fails
-    [x]#3571,
-    [x]#3568,
-    [x]#3538,
-    [x]#3523,
-    []#3541
+[]Reply to Sarah Lewis about survey question
 []Set-up GitAutoCommit for the career/work file
-Sunday:
-[]H&M
+[]CLEAN UP THE WHOLE DAMN HOUSE
 []Shave legs
 Monday/Tuesday:
+[]Passport application: finish
 []Photocopy my birth certificate
 []Firmware update
 []Journal club slide making
@@ -19,6 +14,7 @@ Monday/Tuesday:
 []Paper writing
 []Stork: read all about unfolding
 Wednesday:
+[]Watch lectures from last week
 []Look up HK court case
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
