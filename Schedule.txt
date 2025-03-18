@@ -1,13 +1,12 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Reply to Sarah Lewis about survey question
-[]Set-up GitAutoCommit for the career/work file
 []CLEAN UP THE WHOLE DAMN HOUSE
 []Shave legs
-Monday/Tuesday:
 []Passport application: finish
+
 []Photocopy my birth certificate
+[]Set-up GitAutoCommit for the career/work file
 []Firmware update
 []Journal club slide making
 []Set up analytics for CulBUG
