@@ -1,31 +1,32 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]CLEAN UP THE WHOLE DAMN HOUSE
-[]Sh:legs:ve
-
-[]Journal club slide making
-[]Set-up GitAutoCommit for the career/work file
-[]Passport application: finish
-[]Set up analytics for CulBUG
-[]Stork: read all about unfolding
 Wednesday:
-[]Paper writing
-[]PPMI slides
-[]Photocopy my birth certificate
-[]Watch lectures from last week
-[]Look up HK court case
+[]Set-up GitAutoCommit for the career/work file
+    - manual run at first
+    []the sync command shall be serially ran when pressing Shift+Alt+W
+[]Journal club slide making
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
-[]Install road tyres
-[]Install toe clips
+[]Stork: read all about unfolding
+[]Passport application: finish
+[]One week per month to do non-TSVV stuff? Talk to James and figure out a schedule that works for me, works for TSVV, works for Allan Hart
+Thursday:
+[]Photocopy my birth certificate
+[]Sign up to Hangar comp (see WhatsApp message to Jack)
+[]Paper writing
+[]Watch lectures from last week
+[]Look up HK court case
+[]Set up analytics for CulBUG
 Friday:
 []Check if I want to go to IIS2025 @ ITER
     - https://iis2025.sciencesconf.org/
+April 2025:
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
-April 2025:
+[]Install road tyres
+[]Install toe clips
 []Foilselector cleanup
 []Bring plant
 []Sign up for Conversation over Coffee
