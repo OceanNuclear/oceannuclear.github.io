@@ -11,22 +11,22 @@ Wednesday:
         - heat: blanket
         - Neutrons lost
     2. Photon transport: can Chris safely assume that all of them are deposited onto the first wall only -> heat
-[]Talk to Jon about PPMI project view
-    - https://github.com/orgs/ukaea/projects/18/views/1
+
 []Stork: read all about unfolding
 []Passport application: finish
 []One week per month to do non-TSVV stuff? Talk to James and figure out a schedule that works for me, works for TSVV, works for Allan Hart
-Thursday:
 []Photocopy my birth certificate
 []Sign up to Hangar comp (see WhatsApp message to Jack)
 []Paper writing
-[]Help Chris Ashe search for PROCESS neutronics information
+
 []Watch lectures from last week
 []Look up HK court case
 []Set up analytics for CulBUG
 Friday:
 []Check if I want to go to IIS2025 @ ITER
     - https://iis2025.sciencesconf.org/
+[]Talk to Jon about PPMI project view
+    - https://github.com/orgs/ukaea/projects/18/views/1
 April 2025:
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
