@@ -5,7 +5,12 @@ Wednesday:
 []Set-up GitAutoCommit for the career/work file
     - manual run at first
     []the sync command shall be serially ran when pressing Shift+Alt+W
-[]Journal club slide making
+[]Write document about elastic scattering & inelastic scattering to Chris
+    1. FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
+        - heat: FW
+        - heat: blanket
+        - Neutrons lost
+    2. Photon transport: can Chris safely assume that all of them are deposited onto the first wall only -> heat
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Stork: read all about unfolding
@@ -15,6 +20,7 @@ Thursday:
 []Photocopy my birth certificate
 []Sign up to Hangar comp (see WhatsApp message to Jack)
 []Paper writing
+[]Help Chris Ashe search for PROCESS neutronics information
 []Watch lectures from last week
 []Look up HK court case
 []Set up analytics for CulBUG
