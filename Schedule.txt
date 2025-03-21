@@ -1,16 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Firmware update continue
 []Derive about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
 Sunday: (cycle into work)
-[]Paper writing: start template!
+[]Firmware update continue
 []Passport application
     []Finish it
     []Photocopy my birth certificate
     []Send it off
+[]Paper writing: start template!
 Monday:
 []One week per month to do non-TSVV stuff? Talk to James and figure out a schedule that works for me, works for TSVV, works for Allan Hart
 []Papercut
