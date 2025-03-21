@@ -5,8 +5,8 @@
 []Derive about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
-[]Paper writing: start template!
 Sunday: (cycle into work)
+[]Paper writing: start template!
 []Passport application
     []Finish it
     []Photocopy my birth certificate
