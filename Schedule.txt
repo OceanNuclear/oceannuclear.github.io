@@ -1,10 +1,13 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[x]Ask about shoe situation
+[]Change the thermostat default settings
 []Derive about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
 Sunday: (cycle into work)
+[]Call back to Halfords to confirm yes, this price is good.
 []Firmware update continue
 []Passport application
     []Finish it
@@ -43,10 +46,10 @@ April 2025:
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
     - Kami's required parts
-    - Toothbrush + safety razor stand
+    [x]Toothbrush + safety razor stand
     - Bike attachment
-    - Air conditioner redirector
-    - Ash's stuff
+    [x]Air conditioner redirector
+    - Ash's rings
 []SoME{1,2,3}
 []Invisalign
 []Lasik
