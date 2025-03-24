@@ -2,10 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 [x]Ask about shoe situation
+[]Fold laundry
+[]Longboard adjustment
 []Change the thermostat default settings
 []Derive about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
+[]3D print iterate again
 Sunday: (cycle into work)
 []Call back to Halfords to confirm yes, this price is good.
 []Firmware update continue
