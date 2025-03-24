@@ -2,15 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 [x]Ask about shoe situation
-[]Fold laundry
 []Longboard adjustment
-[]Change the thermostat default settings
+[]Fold laundry
 []Derive about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
-[]3D print iterate again
+[x]3D print iterate again
+[x]Pay Catherine for car
+[x]Order more dark chocolate Tim Tams
 Sunday: (cycle into work)
-[]Call back to Halfords to confirm yes, this price is good.
+[x]Call back to Halfords to confirm yes, this price is good.
 []Firmware update continue
 []Passport application
     []Finish it
@@ -18,7 +19,6 @@ Sunday: (cycle into work)
     []Send it off
 []Paper writing: start template!
 Monday:
-[]One week per month to do non-TSVV stuff? Talk to James and figure out a schedule that works for me, works for TSVV, works for Allan Hart
 []Papercut
 Tuesday:
 []Stork: read all about unfolding
