@@ -5,29 +5,30 @@ Tuesday:
 []Firmware update continue
 []Paper writing: start template!
     []Timesheet
+[]Find how the bulk Tungsten tiles in JET's divertor were manufactured from HIVE people
+[]Send Sarah Lewis a reminder
+[]Set up analytics for CulBUG
 
 []Fold laundry
+[]Mail parcel
 []Passport application
     []Finish it
     []Photocopy my birth certificate
     []Send it off
-Tuesday:
-[]Papercut
-[]Pay council tax
-[]Derive about elastic scattering & inelastic scattering to Chris
+[]Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
+[]Papercut
 []Stork: read all about unfolding
-[]Find how the bulk Tungsten tiles in JET's divertor were manufactured from HIVE people
-[]Send Sarah Lewis a reminder
 Wednesday:
-[]Set up analytics for CulBUG
 Friday:
 [][optional]Sift through old $SLOG items to see if there's anything I should put in $WLOG
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Talk to James Morris about research topic tracker
 []Look up HK court case
+Friday:
+[]Pay council tax
 April 2025:
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
