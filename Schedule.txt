@@ -2,8 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]Paper writing: start template!
-    []Timesheet
+[]Paper writing template manipulation
 []Set up analytics for CulBUG
 []Passport application
     []Finish it
@@ -11,6 +10,7 @@ Tuesday:
     []Send it off
 []Fold laundry
 []Mail parcel
+[]Put on slick tyres
 
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
@@ -18,9 +18,7 @@ Tuesday:
 []Papercut
 []Stork: read all about unfolding
 Friday:
-[][optional]Sift through old $SLOG items to see if there's anything I should put in $WLOG
 []Look up HK court case
-Friday:
 []Pay council tax
 April 2025:
 []Talk to Jon about PPMI project view
