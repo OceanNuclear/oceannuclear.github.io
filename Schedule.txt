@@ -30,7 +30,7 @@ April 2025:
 []July - Sean, Parkour in France
 []Install road tyres
 []Install toe clips
-[]Foilsel`ector cleanup
+[]Foilselector cleanup
 []Bring plant
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
