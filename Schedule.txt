@@ -1,37 +1,33 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[x]Ask about shoe situation
-[]Longboard adjustment
 []Fold laundry
-[]Derive about elastic scattering & inelastic scattering to Chris
-    []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
-    []Write document
-[x]3D print iterate again
-[x]Pay Catherine for car
-[x]Order more dark chocolate Tim Tams
-Sunday: (cycle into work)
-[x]Call back to Halfords to confirm yes, this price is good.
 []Firmware update continue
+[]Sync Schedule file
+Monday:
+[]Paper writing: start template!
+    []Timesheet
 []Passport application
     []Finish it
     []Photocopy my birth certificate
     []Send it off
-[]Paper writing: start template!
-Monday:
-[]Papercut
 Tuesday:
+[]Papercut
+[]Pay council tax
+[]Derive about elastic scattering & inelastic scattering to Chris
+    []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
+    []Write document
 []Stork: read all about unfolding
 []Find how the bulk Tungsten tiles in JET's divertor were manufactured from HIVE people
-[]Look up HK court case
+[]Send Sarah Lewis a reminder
 Wednesday:
 []Set up analytics for CulBUG
 Friday:
-[]Check if I want to go to IIS2025 @ ITER
-    - https://iis2025.sciencesconf.org/
 [][optional]Sift through old $SLOG items to see if there's anything I should put in $WLOG
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
+[]Talk to James Morris about research topic tracker
+[]Look up HK court case
 April 2025:
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
@@ -48,10 +44,7 @@ April 2025:
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
 []Attempt 3D print CAD file modifications
-    - Kami's required parts
-    [x]Toothbrush + safety razor stand
     - Bike attachment
-    [x]Air conditioner redirector
     - Ash's rings
 []SoME{1,2,3}
 []Invisalign
