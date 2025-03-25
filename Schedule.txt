@@ -15,8 +15,11 @@ Tuesday:
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
+Wednesday:
 []Papercut
 []Stork: read all about unfolding
+[]Clear outlook email
+[]Clear gmail
 Friday:
 []Look up HK court case
 []Pay council tax
