@@ -2,15 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]Firmware update continue
 []Paper writing: start template!
     []Timesheet
-[]Find how the bulk Tungsten tiles in JET's divertor were manufactured from HIVE people
 []Send Sarah Lewis a reminder
 []Set up analytics for CulBUG
 
-[]Fold laundry
 []Mail parcel
+[]Fold laundry
 []Passport application
     []Finish it
     []Photocopy my birth certificate
