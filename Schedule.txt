@@ -4,47 +4,43 @@
 Tuesday:
 []Paper writing: start template!
     []Timesheet
-[]Send Sarah Lewis a reminder
 []Set up analytics for CulBUG
-
-[]Mail parcel
-[]Fold laundry
 []Passport application
     []Finish it
     []Photocopy my birth certificate
     []Send it off
+[]Fold laundry
+[]Mail parcel
+
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
 []Papercut
 []Stork: read all about unfolding
-Wednesday:
 Friday:
 [][optional]Sift through old $SLOG items to see if there's anything I should put in $WLOG
-[]Talk to Jon about PPMI project view
-    - https://github.com/orgs/ukaea/projects/18/views/1
-[]Talk to James Morris about research topic tracker
 []Look up HK court case
 Friday:
 []Pay council tax
 April 2025:
+[]Talk to Jon about PPMI project view
+    - https://github.com/orgs/ukaea/projects/18/views/1
 []Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []July - Sean, Parkour in France
 []Install road tyres
 []Install toe clips
-[]Foilselector cleanup
+[]Foilsel`ector cleanup
 []Bring plant
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
 []Motorcycle CBT: sign up to course,
-[]AMAXED-Regularization into unfoldingsuite/SPECTRA-UF
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
-[]Attempt 3D print CAD file modifications
-    - Bike attachment
-    - Ash's rings
+[]Suit tailoring
+[]3D print bike attachment
+[]3D print splint rings
 []SoME{1,2,3}
 []Invisalign
 []Lasik
