@@ -1,24 +1,26 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+Wednesday:
+[]Mail parcel
+[]Take photo in Timpsons
 []Paper writing template manipulation
+[]Fold laundry
+Thursday:
+[]Phone call with HK Immigration department
 []Passport application
     []Finish it
     []Photocopy birth cert.
     []Send it off
-[]Fold laundry
-[]Mail parcel
-[]Put on slick tyres
-
-[]Derive stuff about elastic scattering & inelastic scattering to Chris
-    []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
-    []Write document
-Wednesday:
 []Papercut
 []Stork: read all about unfolding
 []Clear outlook email
 []Clear gmail
 Friday:
+[]Put on slick tyres
+[]Derive stuff about elastic scattering & inelastic scattering to Chris
+    []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
+    []Write document
 []Look up HK court case
 []Pay council tax
 April 2025:
