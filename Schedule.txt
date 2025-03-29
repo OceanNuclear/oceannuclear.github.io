@@ -1,23 +1,23 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Put on slick tyres
+[]Clear email:
+    []outlook WRD email
+        - When is the next WRD meeting?
+    []outlook annoucement
+    []gmail
 []Read the papers pinned in browsers
-[]Clear outlook annoucement
-[]Clear outlook WRD email
-    - When is the next WRD meeting?
-[]Clear gmail
 []Paper writing
-Saturday:
 []Look up HK court case
+
+[]Put on slick tyres
 Sunday:
-[]Get using SCONUL access
-    - https://doi.org/10.1093/rpd/ncad023
-    - Or ask Ross for help getting it
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
 Tuesday:
+[]Ask Ross for the following paper:
+    - https://doi.org/10.1093/rpd/ncad023
 []Papercut
 []Make CulBUG Yammer post
 April 2025:
