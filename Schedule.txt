@@ -3,18 +3,14 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Read the papers pinned in browsers
 []Paper writing
-[]Look up HK court case
-
-[]Take out trash
-[]Sell the drill?
-[]Put on slick tyres
-Sunday:
+Tuesday:
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
-Tuesday:
+[]Look up HK court case
 []Ask Ross for the following paper:
     - https://doi.org/10.1093/rpd/ncad023
+Wednesday:
 []Papercut
 []Make CulBUG Yammer post
 April 2025:
