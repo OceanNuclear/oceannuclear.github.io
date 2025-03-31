@@ -1,11 +1,6 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Clear email:
-    []outlook WRD email
-        - When is the next WRD meeting?
-    []outlook annoucement
-    []gmail
 []Read the papers pinned in browsers
 []Paper writing
 []Look up HK court case
@@ -23,6 +18,7 @@ Tuesday:
 []Papercut
 []Make CulBUG Yammer post
 April 2025:
+[]Flynn Disney newsletters
 []Talk to Jon about PPMI project view
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Move the whole wardrobe into bedroom for sterile room?
