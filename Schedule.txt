@@ -1,18 +1,22 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Read the papers pinned in browsers
+[]Finish updating the CulBUG website about tehs hwoers
 []Paper writing
+[]Read the papers pinned in browsers
+[]Papercut
 Tuesday:
+Wednesday:
+[]Ask Ross for https://doi.org/10.1093/rpd/ncad023
+[]Ask Haydn about the "Showers" part of the Cycle Shelters, Showers and Bus Stops map
+    []where did it go?
+    - https://nucleus.ukaea.uk/Interact/Pages/Content/Document.aspx?id=2448&SearchId=3550589
+[]Make CulBUG Yammer post
+[]Ask about the PPMI research issue tracker
+Thursday:
 []Derive stuff about elastic scattering & inelastic scattering to Chris
     []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
     []Write document
-[]Look up HK court case
-[]Ask Ross for the following paper:
-    - https://doi.org/10.1093/rpd/ncad023
-Wednesday:
-[]Papercut
-[]Make CulBUG Yammer post
 April 2025:
 []Flynn Disney newsletters
 []Talk to Jon about PPMI project view
