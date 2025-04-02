@@ -2,18 +2,20 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Wednesday:
-[]Transfer the HK tags to my new bag
-[]Make CulBUG Yammer post
 []Buy towel+shampoo, and then bring them to the office locker
+[]Transfer the HK tags to my new bag
+[]Derive stuff about elastic scattering & inelastic scattering to Chris
+    []Find the reference materials: books, and course materials
+    []Write document
+[]Write letter!
 []Paper writing
-[]Read the 2 remaining papers pinned in the browser
-[]Papercut
 Thursday:
+[]Papercut
 []DeWalt battery recycling
 []Add sub-issue into PPMI issue tracker: paper sub
-[]Derive stuff about elastic scattering & inelastic scattering to Chris
-    []FIND LINK FOR NEUTRON TRANSPORT: simplification into 1D geomtry such that you get the scattered netron spectrum
-    []Write document
+Friday:
+[]Read the 2 remaining papers pinned in the browser
+[]Make CulBUG Yammer post
 April 2025:
 []Flynn Disney newsletters
 []Make paper
