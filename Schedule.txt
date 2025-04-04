@@ -1,19 +1,15 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
-[]Buy towel+shampoo, and then bring them to the office locker
-[]Transfer the HK tags to my new bag
-[]Derive stuff about elastic scattering & inelastic scattering to Chris
-    []Find the reference materials: books, and course materials
-    []Write document
-[]Write letter to Ash
-[]Paper writing
 Thursday:
+[]Paper writing
 []Papercut
-[]DeWalt battery recycling
 []Add sub-issue into PPMI issue tracker: paper sub
+[]Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 Friday:
+[]Write letter to Ash
+[]Finish Chris Ashe derivation
+[]Transfer the HK tags to my new bag
 []Read the 2 remaining papers pinned in the browser
 []Make CulBUG Yammer post
 April 2025:
