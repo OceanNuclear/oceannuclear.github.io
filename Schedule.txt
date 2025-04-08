@@ -5,8 +5,10 @@
 []process_develop
     []Papercut - run -> talk to someone about convergence
 Wednesday:
+[]Sunchi - Tungsten
 []breakdown bluemira-neutronics into a diagram
 []Talk to Chris Ashe
+[]Show Diagram to Athoy
 []Get Bodleian library reader card
     - https://www.bodleian.ox.ac.uk/join-the-libraries/apply
 []Capoeira
