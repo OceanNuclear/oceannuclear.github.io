@@ -1,23 +1,31 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
+Thursday:
+[]Finish the maths
+[]Survey correction
+    []Send to Sarah to discuss
 []process_develop
-    []git pull
-    []Papercut - run -> talk to someone about convergence
+    []Delete variables!
 []Bluemira Pre-Cell splitting
+[]Papercut
+    []Papercut - run -> talk to someone about convergence
+[]Send various clips to people:
+    []Sjef
+    []Steve? parkour clips
+Friday:
 []Talk to David Foster
 []Paper writing
 
 []Transfer the HK tags to my new bag
 []stack on a council tax bills or payslip/bank statement/anything with an address
 
-[]Papercut
 []Add sub-issue into PPMI issue tracker: paper sub
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 Thursday:
 []Capoeira
 []Read the 2 remaining papers pinned in the browser
+[]Add section into CulBUG website
 []Make CulBUG Yammer post
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
