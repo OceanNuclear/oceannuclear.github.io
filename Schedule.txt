@@ -10,10 +10,10 @@ Thursday:
 []Make CulBUG Yammer post
 []process_develop
     []Delete variables!
+
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
-
 []Check passport application progress
 []stack on a council tax bills or payslip/bank statement/anything with an address
 []Talk to Will
@@ -24,44 +24,40 @@ Friday:
 []Talk to David Foster
 []Paper writing
 []Bluemira Pre-Cell splitting
-
 Monday:
 []Papercut
     []Papercut - run -> talk to someone about convergence
-[]Add sub-issue into PPMI issue tracker: paper sub
+[]Add sub-issue into PPMI issue tracker:
+    []paper
+    - https://github.com/orgs/ukaea/projects/18/views/1
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
-Thursday:
-[]Capoeira
+
 []Read the 2 remaining papers pinned in the browser
-[]Add section into CulBUG website
+[]Add Blog spot into CulBUG website
+    - CoHSAT
+    - Bike to work week
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
 []Flynn Disney newsletters
-[]Make paper
-    - https://github.com/orgs/ukaea/projects/18/views/1
-[]Move the whole wardrobe into bedroom for sterile room?
 []Organize May hike with Alex, Christian, Faiz, Rosie
-[]July - Sean, Parkour in France
 []Install toe clips
-[]Foilselector cleanup
-[]Bring plant
+    []3D print bike attachment
+[]July - Sean, Parkour in France
+[]Suit tailoring
+[]Move the whole wardrobe into bedroom for sterile room?
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
-[]Motorcycle CBT: sign up to course,
+[]Foilselector cleanup
+[]Motorcycle CBT: sign up to course
 []Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
-[]Suit tailoring
-[]3D print bike attachment
-[]3D print splint rings
 []SoME{1,2,3}
 []Invisalign
 []Lasik
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
-[]Discrete calculus to prove Bateman equation stuff!
-    - https://www.youtube.com/watch?v=D0EUFP7-P1M
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
 []AI MOOC learning (pinned email to myself)
