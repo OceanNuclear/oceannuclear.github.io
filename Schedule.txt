@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Thursday:
-[]Finish the maths
 []Survey correction
     []Send to Sarah to discuss
 []process_develop
@@ -13,6 +12,8 @@ Thursday:
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
+[]Talk to Will
+    - Fred Dibnah
 Friday:
 []Talk to David Foster
 []Paper writing
