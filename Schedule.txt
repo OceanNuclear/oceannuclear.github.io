@@ -1,26 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
-[]Survey correction
-    []Find the email
-    []Find what website was used
-        []Login
-    []Send to Sarah to discuss
-[]Make CulBUG Yammer post
-[]process_develop
-    []Delete variables!
-
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
-[]Check passport application progress
-[]stack on a council tax bills or payslip/bank statement/anything with an address
 []Talk to Will
     - Fred Dibnah
     - Californian redwood/ New Orleans
 []Transfer the HK tags to my new bag
+[]Check passport application progress
+[]stack on a council tax bills or payslip/bank statement/anything with an address
 Friday:
+[]Send survey to Sarah
+[]process_develop
+    []Delete variables!
 []Talk to David Foster
 []Paper writing
 []Bluemira Pre-Cell splitting
@@ -55,6 +48,7 @@ April 2025:
 []SoME{1,2,3}
 []Invisalign
 []Lasik
+[]I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
