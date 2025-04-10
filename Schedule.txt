@@ -3,31 +3,37 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Thursday:
 []Survey correction
+    []Find the email
+    []Find what website was used
+        []Login
     []Send to Sarah to discuss
+[]Make CulBUG Yammer post
 []process_develop
     []Delete variables!
-[]Bluemira Pre-Cell splitting
-[]Papercut
-    []Papercut - run -> talk to someone about convergence
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
+
+[]Check passport application progress
+[]stack on a council tax bills or payslip/bank statement/anything with an address
 []Talk to Will
     - Fred Dibnah
+    - Californian redwood/ New Orleans
+[]Transfer the HK tags to my new bag
 Friday:
 []Talk to David Foster
 []Paper writing
+[]Bluemira Pre-Cell splitting
 
-[]Transfer the HK tags to my new bag
-[]stack on a council tax bills or payslip/bank statement/anything with an address
-
+Monday:
+[]Papercut
+    []Papercut - run -> talk to someone about convergence
 []Add sub-issue into PPMI issue tracker: paper sub
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 Thursday:
 []Capoeira
 []Read the 2 remaining papers pinned in the browser
 []Add section into CulBUG website
-[]Make CulBUG Yammer post
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
 []Flynn Disney newsletters
