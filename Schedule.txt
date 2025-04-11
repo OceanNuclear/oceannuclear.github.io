@@ -4,7 +4,6 @@
 []Check passport application progress
 []process_develop
     []Delete variables!
-
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
@@ -23,7 +22,10 @@ Monday:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
-
+Tuesday:
+[]Finish Obsidian research
+    - /home/ocean/Self/ChrisAsheNeutronDiffusion/DeterministicNeutronFluxModellingReference
+    []OpenNTP and OpenMOC saved on computer
 []Read the 2 remaining papers pinned in the browser
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
