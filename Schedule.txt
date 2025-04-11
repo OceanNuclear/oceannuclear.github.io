@@ -1,24 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Friday:
 []Check passport application progress
 []process_develop
     []Delete variables!
-[]Talk to David Foster
-[]Bluemira Pre-Cell splitting
-[]Paper writing
 
-[]Send Brendan's message to Jack (mats)
-[]Reply to Kasim's message
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
 []Talk to Will
     - Fred Dibnah
     - Californian redwood/ New Orleans
+[]Bluemira Pre-Cell splitting
+[]Paper writing
 Saturday:
 []Bodleian library card application
+[]Get shoes back
 Monday:
 []Papercut
     []Papercut - run -> talk to someone about convergence
@@ -28,9 +25,6 @@ Monday:
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 
 []Read the 2 remaining papers pinned in the browser
-[]Add Blog spot into CulBUG website
-    - CoHSAT
-    - Bike to work week
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
 []Flynn Disney newsletters
