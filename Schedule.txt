@@ -1,22 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+Friday:
+[]Check passport application progress
+[]process_develop
+    []Delete variables!
+[]Talk to David Foster
+[]Bluemira Pre-Cell splitting
+[]Paper writing
+
+[]Send Brendan's message to Jack (mats)
+[]Reply to Kasim's message
 []Send various clips to people:
     []Sjef
     []Steve? parkour clips
 []Talk to Will
     - Fred Dibnah
     - Californian redwood/ New Orleans
-[]Transfer the HK tags to my new bag
-[]Check passport application progress
-[]stack on a council tax bills or payslip/bank statement/anything with an address
-Friday:
-[]Send survey to Sarah
-[]process_develop
-    []Delete variables!
-[]Talk to David Foster
-[]Paper writing
-[]Bluemira Pre-Cell splitting
+Saturday:
+[]Bodleian library card application
 Monday:
 []Papercut
     []Papercut - run -> talk to someone about convergence
