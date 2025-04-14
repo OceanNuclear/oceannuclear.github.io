@@ -2,18 +2,17 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Check passport application progress
-[]process_develop
-    []Delete variables!
-[]Bluemira Pre-Cell splitting
-[]Paper writing
-Monday:
+[]Do something about the number of things that's happening on this screeeeen
 []Papercut
     []Papercut - run -> talk to someone about convergence
+[]Bluemira Pre-Cell splitting
+Tuesday:
+[]Paper writing
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
-Tuesday:
+Wednesday:
 []Finish Obsidian research
     - /home/ocean/Self/ChrisAsheNeutronDiffusion/DeterministicNeutronFluxModellingReference
     []OpenNTP and OpenMOC saved on computer
