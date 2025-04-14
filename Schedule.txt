@@ -4,18 +4,8 @@
 []Check passport application progress
 []process_develop
     []Delete variables!
-[x]Send various clips to people:
-    [x]Sjef
-    [x]Steve? parkour clips
-[x]Talk to Will
-    - Fred Dibnah
-    - Californian redwood/ New Orleans
-[x]Claim money back from GWR
 []Bluemira Pre-Cell splitting
 []Paper writing
-Saturday:
-[]Bodleian library card application
-[]Get shoe back
 Monday:
 []Papercut
     []Papercut - run -> talk to someone about convergence
