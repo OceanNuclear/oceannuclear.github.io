@@ -2,16 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Open packages
-[]Call Halfords
-[]3D print fix
-[]Get coffee cake from Balbinka/Polish supermarket
-    []Asda: soil, sour cream dip, tomatos
-    []Poundland: Q-tips
-    []Vase, pizza sauce
 []Chinese supermarket:
     []Period pads,
     []Latiao, 
     []fish sticks
+[]Write script to help auto-fill Ashley's passenger assist @ GWR
+[]centrifuge the eyeliner pen
+    []Build centrifuge
+[]Get coffee cake from Balbinka/Polish supermarket
+    []Asda: soil, sour cream dip, tomatos
+    []Poundland: Q-tips
+    []Vase, pizza sauce
+[]3D print fix
 []Theory test
 []Share Parkour clips with Steve
 23/04 (Wednesday):
