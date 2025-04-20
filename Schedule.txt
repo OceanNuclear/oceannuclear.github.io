@@ -1,8 +1,8 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]Suit
 []Vase, pizza sauce, Q-tips, tomatos
-[]Gmail reply to Robyn
 []3D print fix
     []Re-print auto-bed-levelling sensor holder
     []super-glue existing auto-bed-levelling sensor holder
