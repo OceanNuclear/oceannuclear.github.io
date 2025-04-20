@@ -1,19 +1,12 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Open packages
-[]Chinese supermarket:
-    []Period pads,
-    []Latiao, 
-    []fish sticks
-[]Write script to help auto-fill Ashley's passenger assist @ GWR
-[]centrifuge the eyeliner pen
-    []Build centrifuge
-[]Get coffee cake from Balbinka/Polish supermarket
-    []Asda: soil, sour cream dip, tomatos
-    []Poundland: Q-tips
-    []Vase, pizza sauce
+[]Vase, pizza sauce, Q-tips, tomatos
+[]Gmail reply to Robyn
 []3D print fix
+    []Re-print auto-bed-levelling sensor holder
+    []super-glue existing auto-bed-levelling sensor holder
+
 []Theory test
 []Share Parkour clips with Steve
 23/04 (Wednesday):
