@@ -1,22 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Suit
-[]Vase, pizza sauce, Q-tips, tomatos
-[]3D print fix
-    []Re-print auto-bed-levelling sensor holder
-    []super-glue existing auto-bed-levelling sensor holder
-
-[]Theory test
-[]Share Parkour clips with Steve
+[]Laundry (2 mins)
+[]Cook dinner + meal-prep (1 hour)
+[]3D print fix (25 mins)
+[]Turn back on rightmove alert for Oxford (5 mins)
+[]Mute appropriate capoeira chats on WhatsApp (10 mins)
 23/04 (Wednesday):
 []Matti paper
     []TENDL/ENDF7 takes precedence??
         - must run it to find out
 []Bluemira Pre-Cell splitting
+
+[]Share Parkour clips with Steve
+[]Theory test
 []Papercut
     []Papercut - run -> talk to someone about convergence
-
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
@@ -29,8 +28,8 @@
 April 2025:
 []Flynn Disney newsletters
 []Organize May hike with Alex, Christian, Faiz, Rosie
-[]Install toe clips
-    []3D print bike attachment
+[]Install bike pedal/toe clips
+    []3D print the attachment instead?
 []July - Sean, Parkour in France
 []Suit tailoring
 []Move the whole wardrobe into bedroom for sterile room?
