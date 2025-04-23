@@ -5,33 +5,29 @@
 []Bluemira Pre-Cell splitting
 []3D print fix (25 mins)
 
-[]Matti paper
 []Papercut
     []Papercut - run -> talk to someone about convergence
-[]Share Parkour clips with Steve
-[]Theory test
+[]Matti paper
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
+[]Share Parkour clips with Steve
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
-[]Paper writing
 []Do more research on deterministic codes
     - obsidian
+[]Theory test
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Read the 2 remaining papers pinned in the browser
 []Is there an iterative approach to the Bateman equation solving?
-April 2025:
 []Flynn Disney newsletters
 []Install bike pedal/toe clips
     []3D print the attachment instead?
+
 []July - Sean, Parkour in France
-[]Suit tailoring
+[]Geological timeline decor
 []Move the whole wardrobe into bedroom for sterile room?
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
-[]Foilselector cleanup
-[]Motorcycle CBT: sign up to course
-[]Geological timeline decor
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
 []SoME{1,2,3}
