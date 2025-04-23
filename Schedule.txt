@@ -1,16 +1,13 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Cook dinner + meal-prep (1 hour)
-[]3D print fix (25 mins)
 []Turn back on rightmove alert for Oxford (5 mins)
-[]Mute appropriate capoeira chats on WhatsApp (10 mins)
+[]3D print fix (25 mins)
 23/04 (Wednesday):
 []Matti paper
     []TENDL/ENDF7 takes precedence??
         - must run it to find out
 []Bluemira Pre-Cell splitting
-
 []Share Parkour clips with Steve
 []Theory test
 []Papercut
