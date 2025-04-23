@@ -2,13 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Turn back on rightmove alert for Oxford (5 mins)
-[]3D print fix (25 mins)
 []Bluemira Pre-Cell splitting
+[]3D print fix (25 mins)
+
 []Matti paper
-[]Share Parkour clips with Steve
-[]Theory test
 []Papercut
     []Papercut - run -> talk to someone about convergence
+[]Share Parkour clips with Steve
+[]Theory test
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
