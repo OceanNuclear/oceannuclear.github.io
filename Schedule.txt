@@ -3,11 +3,8 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Turn back on rightmove alert for Oxford (5 mins)
 []3D print fix (25 mins)
-23/04 (Wednesday):
-[]Matti paper
-    []TENDL/ENDF7 takes precedence??
-        - must run it to find out
 []Bluemira Pre-Cell splitting
+[]Matti paper
 []Share Parkour clips with Steve
 []Theory test
 []Papercut
@@ -19,11 +16,11 @@
 []Paper writing
 []Do more research on deterministic codes
     - obsidian
+[]Organize May hike with Alex, Christian, Faiz, Rosie
 []Read the 2 remaining papers pinned in the browser
 []Is there an iterative approach to the Bateman equation solving?
 April 2025:
 []Flynn Disney newsletters
-[]Organize May hike with Alex, Christian, Faiz, Rosie
 []Install bike pedal/toe clips
     []3D print the attachment instead?
 []July - Sean, Parkour in France
