@@ -1,11 +1,14 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]3D print fix (25 mins)
+[]3D print fix (40 mins)
+[]Pot succulents
+    []Buy new succulents from neighbour?
 []Turn back on rightmove alert for Oxford (5 mins)
-[]Bluemira Pre-Cell splitting
-[]Create command to make a clean python environment
 []Read the 2 remaining papers pinned in the browser
+Sunday:
+[]Take bin back for Jack
+[]Bluemira Pre-Cell splitting
 Monday:
 []Ask Allan Hart about paper stuff?
 []Papercut
