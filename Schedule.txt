@@ -1,9 +1,13 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Bike lock
-[]Bring extra shoes, chalk
+[]lock bike (10 mins)
 []3D print fix (40 mins)
+[]Transfer bag
+    []Fix bag @ Reading
+[]Massage shoulder
+[]Stretch
+
 []Pot succulents
     []Buy new succulents from neighbour?
 []Turn back on rightmove alert for Oxford (5 mins)
@@ -23,13 +27,13 @@ Monday:
 []Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 []Do more research on deterministic codes
     - obsidian
+[]Install bike pedal/toe clips
+    []3D print the attachment instead?
 []Theory test
 []Life In UK test
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
-[]Install bike pedal/toe clips
-    []3D print the attachment instead?
 
 []July - Sean, Parkour in France
 []Geological timeline decor
