@@ -1,32 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Massage again
-[]Refill climbing tape
-[]Send clip to Brendan for examining
-[]Take bin back for Jack
-[]Buy diced chicken from ASDA
-[]3D printer fix (40 mins)
-[]Pot succulents
-    []Buy new succulents from neighbour?
+Monday:
+[]Allan Hart/ Hollie Roach paper spreadsheet (pinned in browser) (15 mins)
+[]Matti's paper
+
 []Turn back on rightmove alert for Oxford (5 mins)
-Monday:
-[]Read the 2 remaining papers pinned in the browser
-[]Fill out credit card refund form (20 mins)
-[]Fix bag @ Reading
+[]3D printer fix (40 mins)
+[]Buy diced chicken from ASDA
 []Shoulder massage @ Reading
-Sunday:
-[]Bluemira Pre-Cell splitting
-Monday:
-[]Ask Allan Hart about paper stuff?
+[]Add succulent soil!
+[]Fix bag @ Reading
+[]Read the 2 remaining papers pinned in the browser
+Tuesdasy:
+[]Vinted: sell backpack
 []Papercut
     []Papercut - run -> talk to someone about convergence
-[]Matti paper
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Share Parkour clips with Steve
-[]Allen Hart/ Hollie Roach paper spreadsheet (pinned in browser)
 []Do more research on deterministic codes
     - obsidian
 []Install bike pedal/toe clips
@@ -36,6 +29,8 @@ Monday:
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
+[]TRA application/job description update
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
 
 []July - Sean, Parkour in France
 []Geological timeline decor
@@ -47,6 +42,7 @@ Monday:
 []SoME{1,2,3}
 []Invisalign
 []Lasik
+[]Print particle on a hill
 []I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
