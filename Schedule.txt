@@ -22,6 +22,7 @@ Friday:
     - https://github.com/orgs/ukaea/projects/18/views/1
 []Look for conferences to join
 []Write job description
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
 Saturday:
 []3D printer fix (40 mins)
 []Fix bag @ Reading
@@ -46,9 +47,6 @@ Later:
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
-[]TRA application/job description update
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
-
 []Geological timeline decor
 []Move the whole wardrobe into bedroom for sterile room?
 []Sign up for Conversation over Coffee
