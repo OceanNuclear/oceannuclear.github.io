@@ -24,6 +24,7 @@ Friday:
 []Write job description
 Saturday:
 []3D printer fix (40 mins)
+[]Fix bag @ Reading
 Sunday:
 []Share Parkour clips with Steve
 Tuesday:
@@ -31,20 +32,17 @@ Tuesday:
 []Matti's PR
 []Papercut
     []Papercut - run -> talk to someone about convergence
+[]Attempt to organize CulBUG meeting
+    - website content and analytics
+    - pedestrian gate is HORRIBLE
+Thursday:
+[]Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
-[]Attempt to organize CulBUG meeting
-    - pedestrian gate is HORRIBLE
-Friday:
-    - website content and analytics
 Later:
-[]Read the 2 remaining papers pinned in the browser
 []Life In UK test
 []Theory test
 []July - Sean, Parkour in France
-[]Install bike pedal/toe clips
-    []3D print the attachment instead?
-[]Fix bag @ Reading
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
