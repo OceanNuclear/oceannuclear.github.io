@@ -1,30 +1,42 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
-[]papercut from yesterday (boolean_cut)
-    - add picture
-[]Allan Hart/ Hollie Roach paper spreadsheet (pinned in browser) (15 mins)
-[]Matti's paper
-[]PROCESS Variable name change
+Thursday (home):
 []Turn back on rightmove alert for Oxford (5 mins)
-Thursday:
-[]Start Chris Ashe's project
+[]Vinted
+    []sell backpack
+    []Buy shoes
+[]Charge iphone to check bike battery
+    []Bike pedal meddling
+    []Oil chain
+[]Where is my pencil case
 []Add succulent soil!
 []Laundry
-[]3D printer fix (40 mins)
 []Buy diced chicken from ASDA
-[]Vinted: sell backpack
 Friday:
-[]Papercut
-    []Papercut - run -> talk to someone about convergence
+[]Start Chris Ashe's project
+[]papercut from Monday (boolean_cut)
+    - add picture
 []Add sub-issue into PPMI issue tracker:
     []paper
     - https://github.com/orgs/ukaea/projects/18/views/1
+[]Look for conferences to join
+[]Write job description
+Saturday:
+[]3D printer fix (40 mins)
+Sunday:
+[]Share Parkour clips with Steve
+Tuesday:
+[]Matti's paper
+[]Matti's PR
+[]Papercut
+    []Papercut - run -> talk to someone about convergence
 []Do more research on deterministic codes
     - obsidian
+[]Attempt to organize CulBUG meeting
+    - pedestrian gate is HORRIBLE
 Friday:
-[]Share Parkour clips with Steve
+    - website content and analytics
 Later:
 []Read the 2 remaining papers pinned in the browser
 []Life In UK test
