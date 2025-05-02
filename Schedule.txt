@@ -2,19 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Thursday (home):
+[]Buy vinted vans shoes
 []Turn back on rightmove alert for Oxford (5 mins)
-[]Vinted
-    []sell backpack
-    []Buy shoes
-[]Charge iphone to check bike battery
-    []Bike pedal meddling
-    []Oil chain
-[]Where is my pencil case
+[]Bike pedal meddling
+[]Oil chain
 []Add succulent soil!
-[]Laundry
 []Buy diced chicken from ASDA
 Friday:
-[]Start Chris Ashe's project
+[]Matti's paper
 []papercut from Monday (boolean_cut)
     - add picture
 []Add sub-issue into PPMI issue tracker:
@@ -29,7 +24,6 @@ Saturday:
 Sunday:
 []Share Parkour clips with Steve
 Tuesday:
-[]Matti's paper
 []Matti's PR
 []Papercut
     []Papercut - run -> talk to someone about convergence
