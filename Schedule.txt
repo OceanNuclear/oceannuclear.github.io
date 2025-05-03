@@ -1,11 +1,8 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Clean up house:
-    []Remove bread!
-    []take out trash x2
-    []Dishwashing
-    []Stick rubber onto towel rack
+[]Remove bread!
+[]take out trash x2
 []Reply to CulBUG WhatsApp
 []Oil other bike chain
 []Withdraw money from Trading212
