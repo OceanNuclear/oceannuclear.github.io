@@ -9,12 +9,10 @@
 Sunday:
 []Add succulent soil!
 []Bike pedal meddling
-[]Fix bag @ Reading
-[]Turn back on rightmove alert for Oxford (5 mins)
-
 []Look for conferences to join
 []Share Parkour clips with Steve
 Monday:
+[]Fix bag @ Reading
 []3D printer fix (40 mins)
 []papercut from last week (boolean_cut)
     - add picture
