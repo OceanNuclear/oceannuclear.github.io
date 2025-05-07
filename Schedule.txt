@@ -2,23 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Matti's paper
-[]Look for conferences to join
-[]papercut from last week (boolean_cut)
-    - add picture
-[]PhD reply
-[]Papercut
-    []Papercut - run -> talk to someone about convergence
-[]Matti's PR
+[]Vinted: sell backpack
+[]PhD read: make reply
+Thursday:
 []Attempt to organize CulBUG meeting
     - website content and analytics
     - pedestrian gate is HORRIBLE
-
-[]Write job description
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
-Thursday:
+[]Papercut
+    []Papercut - run -> talk to someone about convergence
+Monday:
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
+[]Look for conferences to join
+[]Write job description
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
 Saturday:
 []Add succulent soil!
 []Bike pedal meddling
