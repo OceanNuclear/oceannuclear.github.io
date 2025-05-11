@@ -1,21 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
-[]Vinted: sell backpack
+Sunday:
+[]Reply to people
 []PhD read: make reply
-[]Attempt to organize CulBUG meeting
-    - website content and analytics
-    - pedestrian gate is HORRIBLE
+[]WHERE THE FUCK IS MY FUCKING PASS
+[]Write bounding box cutoff method too
 []Papercut
-    []Papercut - run -> talk to someone about convergence
 Monday:
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
+[]Vinted: sell backpack
 []Look for conferences to join
 []Write job description
     - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
+Tuesday:
+[]Attempt to organize CulBUG meeting
+    - website content and analytics
+    - pedestrian gate is HORRIBLE
 Saturday:
 []Add succulent soil!
 []Bike pedal meddling
