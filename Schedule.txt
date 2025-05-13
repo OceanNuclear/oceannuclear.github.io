@@ -1,13 +1,15 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Sunday:
-[]Reply to people
-[]PhD read: make reply
-[]WHERE THE FUCK IS MY FUCKING PASS
-[]Write bounding box cutoff method too
+Tuesday:
 []Papercut
-Monday:
+[]Inner tube replacement for bike
+[]Buy water filter
+[]PhD: Make the standard score plots
+    []CHECK MY MATHS AGAIN
+    []Make the parabola plot
+    - /home/ocean/Self/PhDThesis/pyscript/ChipIrUnfold
+Wednesday:
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
