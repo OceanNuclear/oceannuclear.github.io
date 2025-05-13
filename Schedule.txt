@@ -1,28 +1,33 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Papercut
-[]Inner tube replacement for bike
-[]Buy water filter
+Wednesday:
 []PhD: Make the standard score plots
     []CHECK MY MATHS AGAIN
     []Make the parabola plot
     - /home/ocean/Self/PhDThesis/pyscript/ChipIrUnfold
-Wednesday:
+[]papercut x1
+    - https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/3585
+[]GEOUNED
+
+[]CulBUG meeting
+    - website content and analytics
+    - pedestrian gate is HORRIBLE
+    []who can we contact to petition for upgrade of the pedestrian gate
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
-[]Drill holes to mount TV
-    []Find the right screws
-[]Search for old pencil case
-    - better lighting
 []Look for conferences to join
 []Write job description
     - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
+Friday:
+[]sole replacement
+[]Search for old pencil case
+    - under better lighting
+[]Drill holes to mount TV
+    []Find the right screws
+[]Inner tube replacement for bike
 Tuesday:
-[]Attempt to organize CulBUG meeting
-    - website content and analytics
-    - pedestrian gate is HORRIBLE
 Saturday:
 []Add succulent soil!
 []Bike pedal meddling
