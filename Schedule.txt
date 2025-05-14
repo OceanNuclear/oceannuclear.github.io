@@ -1,19 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
 []PhD: Make the standard score plots
     []CHECK MY MATHS AGAIN
-    []Make the parabola plot
     - /home/ocean/Self/PhDThesis/pyscript/ChipIrUnfold
+Thursday:
 []papercut x1
     - https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/3585
-[]GEOUNED
-
-[]CulBUG meeting
-    - website content and analytics
-    - pedestrian gate is HORRIBLE
-    []who can we contact to petition for upgrade of the pedestrian gate
+    []Ask Jon about python profiler
+        []Speed up get_intersect
+        []Make new env to install line_profiler
+            []make new env to install GEOUNED
+    []Ask Matti about what he actually meant in his TODO
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
@@ -27,7 +25,6 @@ Friday:
 []Drill holes to mount TV
     []Find the right screws
 []Inner tube replacement for bike
-Tuesday:
 Saturday:
 []Add succulent soil!
 []Bike pedal meddling
