@@ -1,24 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Put date in freezer
+[]Sarah Lewis message
 []T-shirt sizing [cm]
     -XS: half chest: 46, torso height: 64, sleeve top height: 18.5
     - S: half chest: 48, torso height: 68, sleeve top height: 20
     - M: half chest: 52, torso height: 72, sleeve top height: 21.5
     - L: half chest: 55, torso height: 74, sleeve top height: 22
 []Vinted: accept offer
-[]Reply to breaking chat
-[]sole cut out
-Thursday:
-[]papercut x1
-    - https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/3585
-    []Ask Jon about python profiler
-        []Speed up get_intersect
-        []Make new env to install line_profiler
-            - bluemira_playground
-            []make new env to install GEOUNED
-    []Ask Matti about what he actually meant in his TODO
+[]Put dates in freezer
+[]Reply to Oxford breaking chat
+[]Sole cut out
 Friday:
 []Read the 2 remaining papers pinned in the browser
 []Give dates to the tasks in alt+shift+W
@@ -26,7 +18,8 @@ Friday:
     - obsidian
 []Look for conferences to join
 []Write job description
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description  Evaluation HRA and HRBP 1.pptx
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
+[]Clear out gmail
 Saturday:
 []Sole replacement
 []Search for old pencil case
@@ -37,9 +30,12 @@ Saturday:
 Saturday:
 []Add succulent soil!
 []Bike pedal meddling
+[]Life In UK test: find the site, download materials
 Later:
-[]Life In UK test
 []Theory test
+[]Check if UKAEA can sponsor my ILR application
+    []post on yammer/teams/WhatsApp groupchat/unofficial Culham to ask people this
+    - https://nucleus.ukaea.uk/page/10609?SearchId=6292799
 []July - Sean, Parkour in France
 []Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
@@ -51,6 +47,7 @@ Later:
 []Will writing service from Prospect
 []SoME{1,2,3}
 []Invisalign
+[]Transition to using Firefox
 []3D print particle on a hill
 []I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 ----Make the barrier to doing your fun recreational task as low as possible.
