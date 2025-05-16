@@ -1,26 +1,12 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Sarah Lewis message
-[]T-shirt sizing [cm]
-    -XS: half chest: 46, torso height: 64, sleeve top height: 18.5
-    - S: half chest: 48, torso height: 68, sleeve top height: 20
-    - M: half chest: 52, torso height: 72, sleeve top height: 21.5
-    - L: half chest: 55, torso height: 74, sleeve top height: 22
-[]Vinted: accept offer
-[]Put dates in freezer
 []Reply to Oxford breaking chat
-[]Sole cut out
-Friday:
-[]Read the 2 remaining papers pinned in the browser
-[]Give dates to the tasks in alt+shift+W
-[]Do more research on deterministic codes
-    - obsidian
-[]Look for conferences to join
-[]Write job description
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
+[]Sarah Lewis message: reply
+[]Clean house
 []Clear out gmail
 Saturday:
+[]Read the 2 remaining papers pinned in the browser
 []Sole replacement
 []Search for old pencil case
     - under better lighting
@@ -31,6 +17,15 @@ Saturday:
 []Add succulent soil!
 []Bike pedal meddling
 []Life In UK test: find the site, download materials
+Monday:
+[]Do more research on deterministic codes
+    - obsidian
+[]Give dates to the tasks in alt+shift+W
+[]Look for conferences to join
+[]Write job description
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
+Tuesday:
+[]Why are my commits unsigned
 Later:
 []Theory test
 []Check if UKAEA can sponsor my ILR application
