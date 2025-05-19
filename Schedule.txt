@@ -2,21 +2,25 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Saturday:
+[]Email Circomedia
+[]Complete Savings - make a claim
+[]Claim XC for 2025-05-17 2:00pm arrival at Bournemouth
+[]massage shoulder, achilles
+
 []Clean house
 []Clear out gmail
 []Read the 2 remaining papers pinned in the browser
+[]Add succulent soil!
 []Sole replacement
-[]massage shoulder, achilles
+[]Laundry sheets
 []Search for old pencil case
     - under better lighting
-[]Drill holes to mount TV
-    []Find the right screws
-[]Inner tube replacement for bike
-Sunday:
-[]Add succulent soil!
 []Bike pedal meddling
 []Life In UK test: find the site, download materials
 Monday:
+[]Drill holes to mount TV
+    []Find the right screws
+[]Inner tube replacement for bike
 []Do more research on deterministic codes
     - obsidian
 []Give dates to the tasks in alt+shift+W
