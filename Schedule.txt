@@ -3,9 +3,9 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Saturday:
 []Email Circomedia
-[]Complete Savings - make a claim
-[]Claim XC for 2025-05-17 2:00pm arrival at Bournemouth
 []massage shoulder, achilles
+[]Buy inner tube replacement for bike
+[]Buy sleeping pill
 
 []Clean house
 []Clear out gmail
@@ -17,17 +17,16 @@ Saturday:
     - under better lighting
 []Bike pedal meddling
 []Life In UK test: find the site, download materials
-Monday:
+Wednesday:
 []Drill holes to mount TV
     []Find the right screws
-[]Inner tube replacement for bike
-[]Do more research on deterministic codes
-    - obsidian
 []Give dates to the tasks in alt+shift+W
 []Look for conferences to join
 []Write job description
     - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
-Tuesday:
+Thursday:
+[]Do more research on deterministic codes
+    - obsidian
 []Why are my commits unsigned
 Later:
 []Theory test
