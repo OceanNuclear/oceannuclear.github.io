@@ -6,6 +6,10 @@ Saturday:
 []Clip toenail
 []Clean house
 []Sole replacement
+    []Bleach
+    []AAA batteries
+[]Take out trash
+[]Take out recycling
 
 []Read the 2 remaining papers pinned in the browser
 []Clear out gmail
