@@ -2,16 +2,20 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Saturday:
-[]massage shoulder, achilles
+[]Massage shoulder, achilles
+[]Clip toenail
 []Clean house
-[]Clear out gmail
-[]Read the 2 remaining papers pinned in the browser
-[]Add succulent soil!
 []Sole replacement
+
+[]Read the 2 remaining papers pinned in the browser
+[]Clear out gmail
+[]Add succulent soil!
 []Laundry sheets
 []Search for old pencil case
     - under better lighting
-[]Bike pedal meddling
+[]Inner-tube replacement
+    []Brake disc adjustment
+    []Bike pedal meddling
 []Life In UK test: find the site, download materials
 Wednesday:
 []Drill holes to mount TV
