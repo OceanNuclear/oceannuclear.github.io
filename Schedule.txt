@@ -1,30 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Saturday:
-[]Massage shoulder, achilles
-[]Clip toenail
-[]Clean house
-[]Sole replacement
-    []Bleach
-    []AAA batteries
-[]Take out trash
-[]Take out recycling
-
-[]Read the 2 remaining papers pinned in the browser
-[]Clear out gmail
+Thursday, while I'm ill:
+[]Bike pedal meddling
 []Add succulent soil!
-[]Laundry sheets
-[]Search for old pencil case
-    - under better lighting
-[]Inner-tube replacement
-    []Brake disc adjustment
-    []Bike pedal meddling
-[]Life In UK test: find the site, download materials
-Wednesday:
+[]Clear bedroom
+    []Search for old pencil case
+        - under better lighting
+[]Massage shoulder, achilles
+[]Launder sheets
+[]3D Printer fix
+[]Sole replacement
+    []AAA batteries
 []Drill holes to mount TV
     []Find the right screws
-[]Give dates to the tasks in alt+shift+W
+[]Read the 2 remaining papers pinned in the browser
+[]Clear out gmail
+[]Life In UK test: find the site, download materials
+Friday:
+[]Give dates to the tasks in Alt+shift+W
 []Look for conferences to join
 []Write job description
     - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
@@ -38,7 +32,6 @@ Later:
     []post on yammer/teams/WhatsApp groupchat/unofficial Culham to ask people this
     - https://nucleus.ukaea.uk/page/10609?SearchId=6292799
 []July - Sean, Parkour in France
-[]Organize May hike with Alex, Christian, Faiz, Rosie
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
 []Geological timeline decor
