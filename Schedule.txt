@@ -2,6 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Thursday, while I'm ill:
+[]Clear out gmail
+    - Flynn Disney
 []Throw away room trash and waste food in the fridge
 []Bike pedal meddling
 []Add succulent soil!
@@ -16,7 +18,6 @@ Thursday, while I'm ill:
 []Drill holes to mount TV
     []Find the right screws
 []Read the 2 remaining papers pinned in the browser
-[]Clear out gmail
 []Life In UK test: find the site, download materials
 Friday:
 []Give dates to the tasks in Alt+shift+W
