@@ -1,24 +1,14 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday, while I'm ill:
-[]Bike pedal meddling
-[]Clear out gmail
-    - Flynn Disney
-[]Update UKVI visa/passport
-    - https://www.gov.uk/view-prove-immigration-status
-[]Clear bedroom
-    []Search for old pencil case
-        - under better lighting
-Monday:
+[]Read the 2 remaining papers pinned in the browser
+Wednesday:
 []Drill holes to mount TV
     []Find the right screws
 []Sole replacement
-[]Add succulent soil!
-[]Read the 2 remaining papers pinned in the browser
-Tuesday:
 []Massage
 []Bag repair
+Tuesday:
 []Give dates to the tasks in Alt+shift+W
 []Look for conferences to join
 []Write job description
