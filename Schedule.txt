@@ -1,13 +1,10 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
-[]Clean-up house:
-    []Fridge food
-    []Bedside stuff
-    []Laundry
+[]Laundry
 []CESS experiment survey
 []Read the 2 remaining papers pinned in the browser
+[]Download paper from Bodleian library
 Tuesday:
 []Give dates to the tasks in Alt+shift+W
 []Look for conferences to join
