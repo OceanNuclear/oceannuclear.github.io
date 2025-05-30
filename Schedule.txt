@@ -1,12 +1,9 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
-[]Download paper from Bodleian library
-[]CESS experiment survey
-[]Read the 2 remaining papers pinned in the browser
 []Laundry folding
-Friday:
+
+[]Read the 2 remaining papers pinned in the browser
 []Give dates to the tasks in Alt+shift+W
 Saturday:
 []Drill holes to mount TV
@@ -23,9 +20,6 @@ Tuesday:
 []Look for conferences to join
 Later:
 []Theory test
-[]Check if UKAEA can sponsor my ILR application
-    []post on yammer/teams/WhatsApp groupchat/unofficial Culham to ask people this
-    - https://nucleus.ukaea.uk/page/10609?SearchId=6292799
 []July - Sean, Parkour in France
 []Is there an iterative approach to the Bateman equation solving?
 []Flynn Disney newsletters
