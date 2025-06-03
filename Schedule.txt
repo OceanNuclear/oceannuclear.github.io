@@ -2,16 +2,17 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]Write job description
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/Job Description Evaluation HRA and HRBP 1.pptx
-[]CESS lab
 []Finish writing script for process-develop changes
-[]Life in UK test prep
+[]Write job description
+    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/ ...pptx
 []Why are my commits unsigned
 []Look for conferences to join
+[]Life in UK test prep
 []Read the 2 remaining papers pinned in the browser
 []Give dates to the tasks in Alt+shift+W
 []Launder sheets
+
+[]CESS lab
 Wednesday:
 []Swap tyre back to Pete
 []3D printer fix
