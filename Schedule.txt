@@ -18,6 +18,12 @@ Wednesday:
 []Do more research on deterministic codes
     - obsidian
 []TV shelving solution
+Friday:
+[]Nat wedding attendence planning:
+    []Text him about when he wants to catch up
+        - Wedding Registry?
+    []Transport planning
+        - /home/ocean/Documents/Work/25.WorkForFriends/Nat/Wedding
 Later:
 []Location selection for anniversary
 []Theory test
