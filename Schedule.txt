@@ -1,20 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]CESS lab
 Wednesday:
 []Write job description
     - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/ ...pptx
     []In the meeting chat, James has posted a link for:
         - comments
         - actual description of what my day-to-day is
+[]Clear announcement emails
 []Why are my commits unsigned
-[]Look for conferences to join
-[]Life in UK test prep
-[]Read the 2 remaining papers pinned in the browser
 []Give dates to the tasks in Alt+shift+W
+
+[]Read the 2 remaining papers pinned in the browser
+[]Take tyre home
+    []Swap tyre back to Pete
 []Launder sheets
-[]Swap tyre back to Pete
+Thursday
+[]Look for conferences to join
+[]Bring pot noodles
+[]Life in UK test prep
 []3D printer fix
 []Do more research on deterministic codes
     - obsidian
