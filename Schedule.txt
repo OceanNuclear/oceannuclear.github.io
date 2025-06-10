@@ -1,36 +1,34 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
-[]Write job description
-    - /home/ocean/Documents/UKAEA/0.Employment/RA-or-Promotion/ ...pptx
-    []In the meeting chat, James has posted a link for:
-        - comments
-        - actual description of what my day-to-day is
-[]Clear announcement emails
-[]Why are my commits unsigned
-[]Give dates to the tasks in Alt+shift+W
+Thursday:
+[]Reply to Syd
+[]Rightmove: the 2 bedroom house from the 5 propert email
+[]Send Vinted parcel
+[]Oxford: CESS experiment
+    []Buy mint gummy
 
-[]Read the 2 remaining papers pinned in the browser
-[]Take tyre home
-    []Swap tyre back to Pete
+[]Reply to YueFeng
 []Launder sheets
-Thursday
-[]Look for conferences to join
-[]Bring pot noodles
+[]Hitachi
+Tuesday:
+[]Read the 2 remaining papers pinned in the browser
 []Life in UK test prep
+[]Check lease agreement - when exactly can I leave the lease?
+[]Why are my commits unsigned
+[]Clear announcement emails
+[]Tell Ashley about Visible Arm Band
+[]Look for conferences to join (ITER conferences page)
+    []Speak to Chantal about conference
+Wednesday:
+[]Give dates to the tasks in Alt+Shift+W
 []3D printer fix
 []Do more research on deterministic codes
     - obsidian
-[]TV shelving solution
-Friday:
-[]Nat wedding attendence planning:
-    []Text him about when he wants to catch up
-        - Wedding Registry?
-    []Transport planning
-        - /home/ocean/Documents/Work/25.WorkForFriends/Nat/Wedding
-Later:
 []Location selection for anniversary
+Later:
+[]TV shelving solution
+[]Alt+Shift+W auto save instead
 []Theory test
 []July - Sean, Parkour in France
 []Is there an iterative approach to the Bateman equation solving?
