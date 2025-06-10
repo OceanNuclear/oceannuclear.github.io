@@ -5,13 +5,13 @@ Tuesday:
 []Rightmove: the 2 bedroom house from the 5 propert email
 []Read the 2 remaining papers pinned in the browser
 []Life in UK test prep
-[]Check lease agreement - when exactly can I leave the lease?
-[]Why are my commits unsigned
+    []Book test time
 []Clear announcement emails
 []Look for conferences to join (ITER conferences page)
     []Speak to Chantal about conference
 []Reply to YueFeng
-
+Wednesday:
+[]Why are my commits unsigned
 []New file for my backpack goddamnit
 []Launder sheets
 []Tell Ashley about Visible Arm Band
