@@ -1,25 +1,19 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Thursday:
-[]Reply to Syd
-[]Rightmove: the 2 bedroom house from the 5 propert email
-[]Send Vinted parcel
-[]Oxford: CESS experiment
-    []Buy mint gummy
-
-[]Reply to YueFeng
-[]Launder sheets
-[]Hitachi
 Tuesday:
+[]Rightmove: the 2 bedroom house from the 5 propert email
 []Read the 2 remaining papers pinned in the browser
 []Life in UK test prep
 []Check lease agreement - when exactly can I leave the lease?
 []Why are my commits unsigned
 []Clear announcement emails
-[]Tell Ashley about Visible Arm Band
 []Look for conferences to join (ITER conferences page)
     []Speak to Chantal about conference
+[]Reply to YueFeng
+
+[]Launder sheets
+[]Tell Ashley about Visible Arm Band
 Wednesday:
 []Give dates to the tasks in Alt+Shift+W
 []3D printer fix
