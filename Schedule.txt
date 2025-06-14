@@ -1,34 +1,32 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
-[]I really want to review my foilselector progress
+[]Letter for Ashley
+[]New file for my backpack goddamnit
+[]Launder sheets
+[]3D printer fix
+[]Life in UK test prep
+[]Flynn Disney newsletters
 
+[]PhD final change and submit!
 []Sign up to IoP mailing list
     []Look for conferences to join (ITER conferences page)
 []Rightmove: the 2 bedroom house from the 5 propert email
 []Why are my commits unsigned
 []Clear announcement emails
-
-[]New file for my backpack goddamnit
-[]3D printer fix
-[]Launder sheets
-[]Tell Ashley about Visible Arm Band
+[]I really want to review my foilselector progress
 Thursday:
 []Give dates to the tasks in Alt+Shift+W
 Friday:
-[]Life in UK test prep
 []Read the 2 remaining papers pinned in the browser
 []Do more research on deterministic codes
     - obsidian
 []Location selection for anniversary
 Later:
-[]TV shelving solution
 []Alt+Shift+W auto save instead
 []Theory test
 []July - Sean, Parkour in France
 []Is there an iterative approach to the Bateman equation solving?
-[]Flynn Disney newsletters
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
