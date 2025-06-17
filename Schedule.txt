@@ -5,12 +5,9 @@ Monday:
 []Take online courses, e.g. psychologica safety
 []Give dates to the tasks in Alt+Shift+W
 []PhD final change and submit!
-[]Life In UK revision
 []Read the 2 remaining papers pinned in the browser
 []Flynn Disney newsletters
-[]Pop into Gallery tonight
 []Share Ariel's videos to Robyn
-
 []3D printer fix
 []Headphones meddling
 []Letter for Ashley
@@ -39,6 +36,7 @@ Later:
 []SoME{1,2,3}
 []Invisalign
 []Transition to using Firefox
+    []Password upgrade
 []3D print particle on a hill
 []I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 ----Make the barrier to doing your fun recreational task as low as possible.
