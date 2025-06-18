@@ -2,27 +2,33 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Monday:
-[]Take online courses, e.g. psychologica safety
+[]Do more research on deterministic codes
+    - obsidian
+[]I really want to review my foilselector progress
+
+[]Find a place for the meeting on the 8/7? Do I need to find a location to meet?
+[]Respond to Andi on PhD
+    []PhD final look through.
+[]Decide to message Mark Fortuna or not
 []Give dates to the tasks in Alt+Shift+W
-[]PhD final change and submit!
+[]Take online courses, e.g. psychologica safety
+[]Sign up to IoP mailing list
+    []Look for conferences to join (ITER conferences page)
 []Read the 2 remaining papers pinned in the browser
 []Flynn Disney newsletters
-[]Share Ariel's videos to Robyn
+[]Choose a nuclear institute course/ IoP course to join
+    []Save IoP and NI links into browser
+
 []3D printer fix
 []Headphones meddling
 []Letter for Ashley
-
 []Location selection for anniversary
-[]Ask Jack to help me revise for Irish history
 []CulBUG update blog
+[]Possibly join NI
+    []Definitely join IoP (uses the membership number of NI)
 Return to work:
-[]Do more research on deterministic codes
-    - obsidian
-[]Sign up to IoP mailing list
-    []Look for conferences to join (ITER conferences page)
 []Why are my commits unsigned
 []Clear announcement emails
-[]I really want to review my foilselector progress
 Later:
 []Alt+Shift+W auto save instead
 []Theory test
