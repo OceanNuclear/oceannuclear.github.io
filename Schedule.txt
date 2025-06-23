@@ -4,16 +4,16 @@
 []Upload presentation of the foilselector
 []Take online courses, e.g. psychological safety
 []Flynn Disney newsletters
-[]Run some experiment to prove why standard score should NOT be zero.
-    []Reply to Dr David Thomas
 Tuesday:
-[]Respond to Andi on PhD
-    []PhD final look through
 []Give dates to the tasks in Alt+Shift+W
 []Find a place for the meeting on the 8/7? Do I need to find a location to meet?
 []Decide to message Mark Fortuna or not
 []Read the 2 remaining papers pinned in the browser
 Wednesday:
+[]Respond to Andi on PhD
+    []PhD final look through
+[]Run some experiment to prove why standard score should NOT be zero.
+    []Reply to Dr David Thomas
 []Sign up to IoP membership
     []Look for conferences to join (ITER conferences page)
 []Choose a nuclear institute course/ IoP course to join
@@ -24,6 +24,7 @@ Wednesday:
     - obsidian
 []Letter for Ashley
 []Location selection for anniversary
+[]France trip planning
 []CulBUG update blog
 []Possibly join NI
     []Definitely join IoP (uses the membership number of NI)
