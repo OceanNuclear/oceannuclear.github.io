@@ -1,32 +1,35 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]Upload presentation of the foilselector
+[]Take online courses, e.g. psychological safety
+[]Flynn Disney newsletters
 []Run some experiment to prove why standard score should NOT be zero.
-[]Do more research on deterministic codes
-    - obsidian
-[]I really want to review my foilselector progress
+    []Reply to Dr David Thomas
+Tuesday:
 []Respond to Andi on PhD
     []PhD final look through
-    []Reply to Dr David Thomas
 []Give dates to the tasks in Alt+Shift+W
-[]Take online courses, e.g. psychologica safety
 []Find a place for the meeting on the 8/7? Do I need to find a location to meet?
 []Decide to message Mark Fortuna or not
+[]Read the 2 remaining papers pinned in the browser
+Wednesday:
 []Sign up to IoP membership
     []Look for conferences to join (ITER conferences page)
-[]Read the 2 remaining papers pinned in the browser
-[]Flynn Disney newsletters
 []Choose a nuclear institute course/ IoP course to join
     []Save IoP and NI links into browser
 []3D printer fix
 []Headphones meddling
+[]Do more research on deterministic codes
+    - obsidian
 []Letter for Ashley
 []Location selection for anniversary
 []CulBUG update blog
 []Possibly join NI
     []Definitely join IoP (uses the membership number of NI)
-Return to work:
+Thursday:
 []Why are my commits unsigned
+    []`process --update-obsolete` Automatically update obsolete variables in the IN.DAT file
 []Clear announcement emails
 Later:
 []Alt+Shift+W auto save instead
