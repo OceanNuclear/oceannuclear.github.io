@@ -1,34 +1,34 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Upload presentation of the foilselector
-[]Take online courses, e.g. psychological safety
+[]Life in the UK revision (2 hours)
+[]Enquire about the remaining two places (20 mins)
+    - https://docs.google.com/spreadsheets/d/1160GPCWfC1ZJfOyEQBn-lmqWlJQhGHONvnYeGiXzZg0/edit?gid=0#gid=0
 []Flynn Disney newsletters
-Tuesday:
-[]Give dates to the tasks in Alt+Shift+W
-[]Find a place for the meeting on the 8/7? Do I need to find a location to meet?
-[]Decide to message Mark Fortuna or not
-[]Read the 2 remaining papers pinned in the browser
-Wednesday:
-[]Respond to Andi on PhD
-    []PhD final look through
 []Run some experiment to prove why standard score should NOT be zero.
     []Reply to Dr David Thomas
+[]Give dates to the tasks in Alt+Shift+W
+[]Respond to Andi on PhD
+    []PhD final look through
+Thursday:
+[]Message Mark Fortuna
+[]Read the 2 remaining papers pinned in the browser
+Friday:
+[]3D printer fix
+[]Do more research on deterministic codes
+    - obsidian
+[]Upload presentation of the foilselector
+[]France trip planning
+[]Possibly join NI
+    []Definitely join IoP (uses the membership number of NI)
+Sunday:
+[]Take online courses, e.g. psychological safety
+Next week:
 []Sign up to IoP membership
     []Look for conferences to join (ITER conferences page)
 []Choose a nuclear institute course/ IoP course to join
     []Save IoP and NI links into browser
-[]3D printer fix
-[]Headphones meddling
-[]Do more research on deterministic codes
-    - obsidian
 []Letter for Ashley
-[]Location selection for anniversary
-[]France trip planning
-[]CulBUG update blog
-[]Possibly join NI
-    []Definitely join IoP (uses the membership number of NI)
-Thursday:
 []Why are my commits unsigned
     []`process --update-obsolete` Automatically update obsolete variables in the IN.DAT file
 []Clear announcement emails
