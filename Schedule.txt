@@ -1,15 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Life in the UK revision (2 hours)
+[]Oli pub leaving drinks
+[]Degree conferment
+    []msr update
+    - Please check your certificate address by logging into My Student Record (MSR) and then selecting the My Certificate and Graduation tab.  Here you can view your name as it will appear on your award certificate, the delivery method and the address where your award documents will be sent.
+    []submit pdf
+    - The university now requires you to submit an electronic version of record of your thesis as a PDF/A file to us at rdcadmin@shu.ac.uk, along with a completed Thesis Deposit Agreement Form (TDA)
+    - https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flibrary.shu.ac.uk%2Flms%2Ffreebooks%2FThesis-deposit-agreement-form.docx&data=05%7C02%7COcean.Y.Wong%40student.shu.ac.uk%7C9203bb99f74441a7598908ddaf142cac%7C8968f6a1ac13472fb899f7316e439f43%7C0%7C0%7C638859223771364190%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=M9augb1vgVHWYQN994t1m1xuiKGYWjPPOCApjUtXji8%3D&reserved=0
+    - Please remember to redact any sensitive information, from the copy you are providing to be archived on SHURA. This includes SHU telephone numbers + non-SHU details (signatures, addresses, email addresses, and telephone numbers) – SHU addresses and emails can be left as they are already in the public domain.
+    []lib guide
+    - https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flibguides.shu.ac.uk%2Fresearchsupport%2Faccess-after-graduation&data=05%7C02%7COcean.Y.Wong%40student.shu.ac.uk%7C9203bb99f74441a7598908ddaf142cac%7C8968f6a1ac13472fb899f7316e439f43%7C0%7C0%7C638859223771405069%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N7KkqDK1WrXIdSAWpMZswmwHhX33hS2eEa254vKcRBY%3D&reserved=0
+[]Flynn Disney newsletters
 []Enquire about the remaining two places (20 mins)
     - https://docs.google.com/spreadsheets/d/1160GPCWfC1ZJfOyEQBn-lmqWlJQhGHONvnYeGiXzZg0/edit?gid=0#gid=0
-[]Flynn Disney newsletters
-[]Run some experiment to prove why standard score should NOT be zero.
-    []Reply to Dr David Thomas
 []Give dates to the tasks in Alt+Shift+W
-[]Respond to Andi on PhD
-    []PhD final look through
+[]Life in the UK revision (2 hours)
 Thursday:
 []Message Mark Fortuna
 []Read the 2 remaining papers pinned in the browser
