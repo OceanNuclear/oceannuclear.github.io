@@ -1,16 +1,24 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Degree conferment
-    []submit pdf
-        - The university now requires you to submit an electronic version of record of your thesis as a PDF/A file to us at rdcadmin@shu.ac.uk, along with a completed Thesis Deposit Agreement Form (TDA)
 []Flynn Disney newsletters
-[]Give dates to the tasks in Alt+Shift+W
 []Life in the UK revision (2 hours)
-[]Clean floor
-Thursday:
-[]Message Mark Fortuna
+    - make timeline
+    []Bring photo ID, possibly a lock
+[]Give dates to the tasks in Alt+Shift+W
+
+[]Send stuff to Gerald
+[]Send book too
+    []Letter for Cosi
+Tuesday:
+[]Take online courses, e.g. psychological safety
+[]Cash withdrawal for Wedding registry
+[]CulBUG article
+    []Read what needs to be done
+        - maybe email someone?
+[]Read Timo's paper
 []Read the 2 remaining papers pinned in the browser
+[]Message Mark Fortuna
 Friday:
 []3D printer fix
 []Do more research on deterministic codes
@@ -19,15 +27,11 @@ Friday:
 []France trip planning
 []Possibly join NI
     []Definitely join IoP (uses the membership number of NI)
-Sunday:
-[]Take online courses, e.g. psychological safety
 Next week:
-[]Cancel viewing for Chancellor's Cumnor hill
 []Sign up to IoP membership
     []Look for conferences to join (ITER conferences page)
 []Choose a nuclear institute course/ IoP course to join
     []Save IoP and NI links into browser
-[]Letter for Ashley
 []Why are my commits unsigned
     []`process --update-obsolete` Automatically update obsolete variables in the IN.DAT file
 []Clear announcement emails
