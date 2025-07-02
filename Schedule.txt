@@ -2,11 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
+[]What the FUCKKKKKKKKKKKKKKKKKK foilselector
 []CulBUG article
     []Read what needs to be done
         - maybe email someone?
 []Read Timo's paper
-
+[]PANEL IT
 []Give dates to the tasks in Alt+Shift+W
 []Take online courses, e.g. psychological safety
 
