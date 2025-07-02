@@ -1,25 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Flynn Disney newsletters
-[]Life in the UK revision (2 hours)
-    - make timeline
-[]Give dates to the tasks in Alt+Shift+W
-
-[]Send stuff to Gerald
-[]Send book too
-    []Letter for Cosi
 Tuesday:
-[]Take online courses, e.g. psychological safety
-[]Cash withdrawal for Wedding registry
 []CulBUG article
     []Read what needs to be done
         - maybe email someone?
 []Read Timo's paper
+
+[]Give dates to the tasks in Alt+Shift+W
+[]Take online courses, e.g. psychological safety
+
+[]Letter for Cosi
+[]Flynn Disney newsletters
+[]Cash withdrawal for Wedding registry
 []Read the 2 remaining papers pinned in the browser
 []Message Mark Fortuna
-Friday:
+Thursday:
 []3D printer fix
+[]Which pivot cup do I need?
+Friday:
+[]Wrap books up and send to respective destinations
 []Do more research on deterministic codes
     - obsidian
 []Upload presentation of the foilselector
