@@ -2,10 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]What the FUCKKKKKKKKKKKKKKKKKK foilselector
 []CulBUG article
     []Read what needs to be done
         - maybe email someone?
+[]foilselector presentation: 1 slide
 []Read Timo's paper
 []PANEL IT
 []Give dates to the tasks in Alt+Shift+W
@@ -23,7 +23,6 @@ Friday:
 []Wrap books up and send to respective destinations
 []Do more research on deterministic codes
     - obsidian
-[]Upload presentation of the foilselector
 []France trip planning
 []Possibly join NI
     []Definitely join IoP (uses the membership number of NI)
