@@ -1,43 +1,37 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Tuesday:
-[]CulBUG article
-    []Read what needs to be done
-        - maybe email someone?
+Friday:
 []foilselector presentation: 1 slide
-[]Read Timo's paper
-[]PANEL IT
-[]Give dates to the tasks in Alt+Shift+W
-[]Take online courses, e.g. psychological safety
-
-[]Letter for Cosi
-[]Flynn Disney newsletters
-[]Cash withdrawal for Wedding registry
+    []Make slide
+    - Search for Yuefeng's email
+    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Federik.docx
+    []Insert my email to Yuefeng into the body of the document
+[]I need an IDM account    
 []Read the 2 remaining papers pinned in the browser
-[]Message Mark Fortuna
-Thursday:
+[]Take online courses, e.g. psychological safety
+[]Flynn Disney newsletters
+[]Fuck it, IOP membership
+[]Wrap books up and send to respective destinations
+Saturday:
+[]Letter for Cosi
 []3D printer fix
 []Which pivot cup do I need?
-Friday:
-[]Wrap books up and send to respective destinations
-[]Do more research on deterministic codes
-    - obsidian
+[]Cash withdrawal for Wedding registry
+Tuesday:
 []France trip planning
-[]Possibly join NI
-    []Definitely join IoP (uses the membership number of NI)
+Wednesday:
+[]CV sift
+[]Read Timo's paper
+    []Do more research on deterministic codes
+        - obsidian
+[]PANEL IT
 Next week:
-[]Sign up to IoP membership
-    []Look for conferences to join (ITER conferences page)
-[]Choose a nuclear institute course/ IoP course to join
-    []Save IoP and NI links into browser
-[]Why are my commits unsigned
-    []`process --update-obsolete` Automatically update obsolete variables in the IN.DAT file
+[]Give dates to the tasks in Alt+Shift+W
 []Clear announcement emails
 Later:
 []Alt+Shift+W auto save instead
 []Theory test
-[]July - Sean, Parkour in France
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
 []Sign up for Conversation over Coffee
@@ -55,5 +49,6 @@ Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
+[]Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
 []AI MOOC learning (pinned email to myself)
 []Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
