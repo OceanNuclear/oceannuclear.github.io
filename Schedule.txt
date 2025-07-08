@@ -1,30 +1,25 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Friday:
-[]foilselector presentation: 1 slide
-    []Make slide
-    - Search for Yuefeng's email
-    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Federik.docx
-    []Insert my email to Yuefeng into the body of the document
 []I need an IDM account    
-[]Read the 2 remaining papers pinned in the browser
-[]Take online courses, e.g. psychological safety
-[]Flynn Disney newsletters
 []Fuck it, IOP membership
-[]Wrap books up and send to respective destinations
-Saturday:
+[]Speak to Waqar Butt
+[]CV sift
+[]Wrap book for Gerald
+
+[]Send Gerald's book
+[]Speak to James Morris about WPENS x 0.1 FTE
+Wednesday:
 []Letter for Cosi
 []3D printer fix
 []Which pivot cup do I need?
-[]Cash withdrawal for Wedding registry
-Tuesday:
-[]France trip planning
-Wednesday:
-[]CV sift
+Friday:
 []Read Timo's paper
     []Do more research on deterministic codes
         - obsidian
+[]Read the 2 remaining papers pinned in the browser
+[]Take online courses, e.g. psychological safety
+[]Flynn Disney newsletters
 []PANEL IT
 Next week:
 []Give dates to the tasks in Alt+Shift+W
