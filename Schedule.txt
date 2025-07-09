@@ -1,19 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]I need an IDM account    
+[]Speak to Lee Evitts
 []Fuck it, IOP membership
-[]Speak to Waqar Butt
-[]CV sift
-[]Wrap book for Gerald
-
+[]Clear announcement emails
+[]Organize any parkour????
+Thursday:
 []Send Gerald's book
-[]Speak to James Morris about WPENS x 0.1 FTE
-Wednesday:
 []Letter for Cosi
 []3D printer fix
 []Which pivot cup do I need?
 Friday:
+[]Waqar Butt: What to present: neutronics + fast_ctd
 []Read Timo's paper
     []Do more research on deterministic codes
         - obsidian
@@ -23,7 +21,6 @@ Friday:
 []PANEL IT
 Next week:
 []Give dates to the tasks in Alt+Shift+W
-[]Clear announcement emails
 Later:
 []Alt+Shift+W auto save instead
 []Theory test
