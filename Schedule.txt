@@ -1,27 +1,31 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Speak to Lee Evitts
 []Fuck it, IOP membership
-[]Clear announcement emails
-[]Organize any parkour????
+[]IDM account application
+    []Make the appropriate amendments to 
+    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
 Thursday:
-[]Send Gerald's book
+[]Read Gerald's book
+    []Send Gerald's book
 []Letter for Cosi
 []3D printer fix
-[]Which pivot cup do I need?
 Friday:
-[]Waqar Butt: What to present: neutronics + fast_ctd
 []Read Timo's paper
     []Do more research on deterministic codes
         - obsidian
-[]Read the 2 remaining papers pinned in the browser
 []Take online courses, e.g. psychological safety
-[]Flynn Disney newsletters
 []PANEL IT
+Saturday:
+[]Flynn Disney newsletters
+[]Deal with holding deposit by Sunday
+[]Buy pivot cups, bushings, and bearings
 Next week:
 []Give dates to the tasks in Alt+Shift+W
 Later:
+[]Reading list
+[]Catch up to Stork
+[]Catch up to announcement emails
 []Alt+Shift+W auto save instead
 []Theory test
 []Is there an iterative approach to the Bateman equation solving?
@@ -31,11 +35,11 @@ Later:
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
 []SoME{1,2,3}
+[]I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 []Invisalign
 []Transition to using Firefox
     []Password upgrade
 []3D print particle on a hill
-[]I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail
