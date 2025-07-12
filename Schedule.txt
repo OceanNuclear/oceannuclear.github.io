@@ -1,32 +1,33 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Fuck it, IOP membership
-[]IDM account application
-    []Make the appropriate amendments to 
+[]Make the appropriate amendments to 
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
-Thursday:
+Sunday:
 []Read Gerald's book
     []Send Gerald's book
+[]Flynn Disney newsletters
+Monday:
+[]Fuck it, IOP membership
 []Letter for Cosi
 []3D printer fix
-Friday:
+
 []Read Timo's paper
     []Do more research on deterministic codes
         - obsidian
 []Take online courses, e.g. psychological safety
+Tuesday:
 []PANEL IT
-Saturday:
-[]Flynn Disney newsletters
-[]Deal with holding deposit by Sunday
+[]Fit everything into one room?
 []Buy pivot cups, bushings, and bearings
-Next week:
+Wednesday:
+[]GONNA HELP HARI MAKE THE REPORT
 []Give dates to the tasks in Alt+Shift+W
-Later:
 []Reading list
 []Catch up to Stork
 []Catch up to announcement emails
 []Alt+Shift+W auto save instead
+Later:
 []Theory test
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
