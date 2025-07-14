@@ -3,9 +3,10 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Make the appropriate amendments to 
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
-[]Book a CBT
+[]Set up OOO
+[]Set calendar OOO for 12/09 and 10/10?
+[]Check variable update success
 []Buy shoe cover machine
-
 []Tape pacing trail
 []Cleaning service
 []Physical to-do list
@@ -15,6 +16,7 @@
 []Maybe respond to the casting call?
 Monday:
 []Fuck it, IOP membership
+[]Make sure I have boots.
 []Letter for Cosi
 []3D printer fix
 []Read Timo's paper
@@ -36,6 +38,11 @@ Wednesday:
     - https://ukaeauk.sharepoint.com/:w:/s/NeutronicsGroup/EUROfusion/Ec4xxtBPnjtGt9gM_pBWi8UBS7qfYXheXo2ALvrtdfnL_w?e=cNWr1y
 []Give dates to the tasks in Alt+Shift+W
 []Reading list
+Thursday:
+[]Prep for Lightning Pass CBT
+    []Read highway code
+    - Wear appropriate clothing, and take breaks.
+[]Sleep by 10:30!!!!
 []Catch up to Stork
 []Catch up to announcement emails
 []Alt+Shift+W auto save instead
