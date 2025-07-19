@@ -35,6 +35,7 @@ Thursday:
 []Catch up to Stork
 []Catch up to announcement emails
 []Alt+Shift+W auto save instead
+    []Put both into the same directory! That would've been quite simple.
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
