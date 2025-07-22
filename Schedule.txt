@@ -1,28 +1,26 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Change Hollie Roach's spreadsheet
+[]Change Hollie Roach's spreadsheet (20 mins)
+    []Give dates to the tasks in Alt+Shift+W (25 mins)
+[]Make the appropriate amendments to (15 mins)
+    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
+[]Reply to WPENS teams message about allocation percentage (5 mins)
+[]Read Timo's paper (2 hours)
+    []Do more research on deterministic codes (2 hours)
+        - obsidian
 []Gonna help Hari make the report
     - https://ukaeauk.sharepoint.com/:w:/s/NeutronicsGroup/EUROfusion/Ec4xxtBPnjtGt9gM_pBWi8UBS7qfYXheXo2ALvrtdfnL_w?e=cNWr1y
-[]Make the appropriate amendments to 
-    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
-[]Reply to WPENS teams message about allocation percentage
-[]Read Timo's paper
-    []Do more research on deterministic codes
-        - obsidian
 []Panel it
 []Tape pacing trail
-[]Clear desk & table
 Saturday:
 []Flynn Disney newsletters
     - Free energy principles
 []Read Gerald's book
-[]Send Gerald his book
 Sunday:
 []Letter for Cosi
 Monday:
 []Take online courses, e.g. psychological safety
-[]Give dates to the tasks in Alt+Shift+W
 []Reading list
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList
 []Fuck it, IOP membership
@@ -35,7 +33,7 @@ Thursday:
 []Catch up to Stork
 []Catch up to announcement emails
 []Alt+Shift+W auto save instead
-    []Put both into the same directory! That would've been quite simple.
+    []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
