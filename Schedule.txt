@@ -1,7 +1,6 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[x]Change Hollie Roach's spreadsheet (20 mins)
 []Reading list:
     - /home/ocean/Documents/UKAEA/32.JournalClub/*.pdf
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList
@@ -21,6 +20,8 @@ Sunday:
     - https://github.com/Engine-Simulator/engine-sim-community-edition
 []Letter for Cosi
 Monday:
+[]Open issue to go to OSSFE
+    -
 []Take online courses, e.g. psychological safety
 []Reading list
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList
