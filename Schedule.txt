@@ -1,15 +1,14 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Change Hollie Roach's spreadsheet (20 mins)
-    []Give dates to the tasks in Alt+Shift+W (25 mins)
+[x]Change Hollie Roach's spreadsheet (20 mins)
+[]Reading list:
+    - /home/ocean/Documents/UKAEA/32.JournalClub/*.pdf
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList
+[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
-[]Reply to WPENS teams message about allocation percentage (5 mins)
-[]Read Timo's paper (2 hours)
-    []Do more research on deterministic codes (2 hours)
-        - obsidian
-[]Gonna help Hari make the report
+[]Help Hari make the report
     - https://ukaeauk.sharepoint.com/:w:/s/NeutronicsGroup/EUROfusion/Ec4xxtBPnjtGt9gM_pBWi8UBS7qfYXheXo2ALvrtdfnL_w?e=cNWr1y
 []Panel it
 []Tape pacing trail
@@ -18,6 +17,8 @@ Saturday:
     - Free energy principles
 []Read Gerald's book
 Sunday:
+[]Engine simulator
+    - https://github.com/Engine-Simulator/engine-sim-community-edition
 []Letter for Cosi
 Monday:
 []Take online courses, e.g. psychological safety
