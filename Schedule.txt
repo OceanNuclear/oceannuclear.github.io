@@ -23,8 +23,6 @@ Monday:
 []Open issue to go to OSSFE
     -
 []Take online courses, e.g. psychological safety
-[]Reading list
-    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList
 []Fuck it, IOP membership
 []3D printer fix
 Thursday:
