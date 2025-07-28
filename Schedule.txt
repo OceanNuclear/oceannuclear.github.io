@@ -1,6 +1,7 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]https://github.com/Fusion-Power-Plant-Framework/bluemira/issues/4030 -> gitlab
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
@@ -8,11 +9,9 @@
     - https://ukaeauk.sharepoint.com/:w:/s/NeutronicsGroup/EUROfusion/Ec4xxtBPnjtGt9gM_pBWi8UBS7qfYXheXo2ALvrtdfnL_w?e=cNWr1y
 []Panel it
 []Tape pacing trail
-[]Engine simulator
 Saturday:
 []Flynn Disney newsletters
     - Free energy principles
-[]Read ADHD self-help book
 []Assemble bike
 Sunday:
 []Letter for Cosi
@@ -33,7 +32,6 @@ Thursday:
         - bs: ... (do I backup WON-and-work as well?)
 Later:
 []Theory test
-[]Buy Massage table
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
 []Sign up for Conversation over Coffee
