@@ -3,9 +3,9 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Buy shampoo
 []Workout
+[]https://www.householdresponse.com/SouthAndVale
 []Tape pacing trail
 []Assemble bike
-    []Where is my pump???
 []Theory test prep
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Make the appropriate amendments to (15 mins)
@@ -21,10 +21,7 @@ Monday:
 []Fuck it, IOP membership
 []3D printer fix
 Thursday:
-[]Prep for Lightning Pass CBT
-    []Read highway code
-    - Wear appropriate clothing, and take breaks.
-[]Catch up to Stork
+[]Read water bill?
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -32,7 +29,6 @@ Thursday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Later:
-[]Theory test
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
 []Sign up for Conversation over Coffee
