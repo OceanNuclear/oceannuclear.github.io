@@ -2,19 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Monday:
-[]Buy headphones
+[]Theory revision
 []REVIEW the paper!
-[]Motorcycle check list
+Wednesday:
+[]Unverified commits
+[]Buy headphones
+[]Return headphones
 []Set up firefox
 []Assemble bike
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
+Friday:
+[]Sync firefox bookmarks for both profiles?
 Sunday:
 []Flynn Disney newsletters
     - Free energy principles
 Tuesday:
-[]New fuckin headphones
 []Take online courses, e.g. psychological safety
 []Fuck it, IOP membership
 []3D printer fix
