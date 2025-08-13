@@ -1,20 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Monday:
 []Theory revision
-[]REVIEW the paper!
 Wednesday:
-[]Unverified commits
-[]Buy headphones
 []Return headphones
-[]Set up firefox
 []Assemble bike
-[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
+Thursday:
+[]Answer James Hague
+    []planning
+[]Give dates to the tasks in Alt+Shift+W (25 mins)
 Friday:
-[]Sync firefox bookmarks for both profiles?
+[]Firefox <- Chrome bookmark sync
+    []bookmark clean
+[]REVIEW the paper!
+[]Go to Oxford for the test!
 Sunday:
 []Flynn Disney newsletters
     - Free energy principles
