@@ -2,10 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Friday:
+[]Road tax, return headphones
 []REVIEW the paper!
+
 []Find motorbike VIN
 []Set up camera
-[]Road tax, return headphones
 []Assemble bike
 []Book graduation
 Monday:
