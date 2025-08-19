@@ -1,29 +1,21 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Friday:
-[]Road tax, return headphones
 []REVIEW the paper!
-
-[]Find motorbike VIN
-[]Set up camera
-[]Assemble bike
 []Book graduation
-Monday:
 []I forgot to talk to Tom Berry
 []Flynn Disney newsletters
     - Free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
-[]Buy shaving cream + dish washing tablet
+[]Fucccckkkk where did the watch strap go
 Tuesday:
-[]mail Headphone
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
 []Take online courses, e.g. psychological safety
 []Fuck it, IOP membership
-[]3D printer fix
+[]3D printer z-calibration and fix
 Thursday:
-[]Theory test prep
+[]Return USB-C cable - don't need it :(
 []Read water bill?
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
