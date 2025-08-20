@@ -2,6 +2,8 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []REVIEW the paper!
+    - https://mc04.manuscriptcentral.com/astm-stp
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/STP-2025-0068_Proof_hi.pdf
 []Book graduation
 []I forgot to talk to Tom Berry
 []Flynn Disney newsletters
