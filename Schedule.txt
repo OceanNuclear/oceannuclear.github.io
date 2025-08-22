@@ -1,6 +1,9 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]Buy juice, meat
+[]TGTG bag?
+[]Return poundland cable
 []REVIEW the paper!
     - https://mc04.manuscriptcentral.com/astm-stp
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/STP-2025-0068_Proof_hi.pdf
@@ -11,6 +14,7 @@
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Fucccckkkk where did the watch strap go
 Tuesday:
+[]Single key-shortcut to set-up laptop as soon as it boots up
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
 []Take online courses, e.g. psychological safety
