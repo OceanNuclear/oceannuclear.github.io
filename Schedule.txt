@@ -1,15 +1,14 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]Lexham Insurance documents
-[]Order bike pedal modifiers
 Wednesday:
 []REVIEW the paper!
-    - https://mc04.manuscriptcentral.com/astm-stp
-    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/STP-2025-0068_Proof_hi.pdf
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
+[]Lexham Insurance documents
+[]3D scan bike pedal
 []Lite Lock
+[]Tighten the mirror stem
 []Buy helmet, locks
-[]Book graduation
 
 []Single key-shortcut to set-up laptop as soon as it boots up
 []I forgot to talk to Tom Berry
@@ -22,6 +21,7 @@ Wednesday:
 []Fuck it, IOP membership
 []3D printer z-calibration and fix
 Thursday:
+[]Book graduation
 []Read water bill?
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
@@ -40,8 +40,6 @@ Later:
 []SoME{1,2,3}
 []I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 []Invisalign
-[]Transition to using Firefox
-    []Password upgrade
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
