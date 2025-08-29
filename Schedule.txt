@@ -1,34 +1,34 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Wednesday:
+Friday:
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
-[]Lexham Insurance documents
-[]3D scan bike pedal
-[]Lite Lock
 []Tighten the mirror stem
-[]Buy helmet, locks
-
-[]Single key-shortcut to set-up laptop as soon as it boots up
-[]I forgot to talk to Tom Berry
-[]Flynn Disney newsletters
-    - Free energy principles
-[]Give dates to the tasks in Alt+Shift+W (25 mins)
-[]Make the appropriate amendments to (15 mins)
-    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
-[]Take online courses, e.g. psychological safety
-[]Fuck it, IOP membership
-[]3D printer z-calibration and fix
-Thursday:
+[]Lexham Insurance: scan and upload documents
+Saturday:
+[]Send in Sjef pictures
+Sunday:
+[]3D scan bike pedal
 []Book graduation
+Tuesday:
+[]Single key-shortcut to set-up laptop as soon as it boots up
 []Read water bill?
+[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+Saturday:
+[]Flynn Disney newsletters
+    - Free energy principles
+[]3D printer z-calibration and fix
+Monday:
+[]Make the appropriate amendments to (15 mins)
+    - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
+[]Take online courses, e.g. psychological safety
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
