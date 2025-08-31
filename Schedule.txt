@@ -4,10 +4,9 @@
 Friday:
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
+    - https://mc04.manuscriptcentral.com/astm-stp
 []Tighten the mirror stem
 []Lexham Insurance: scan and upload documents
-Saturday:
-[]Send in Sjef pictures
 Sunday:
 []3D scan bike pedal
 []Book graduation
