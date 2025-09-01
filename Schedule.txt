@@ -7,12 +7,14 @@ Friday:
     - https://mc04.manuscriptcentral.com/astm-stp
 []Tighten the mirror stem
 []Lexham Insurance: scan and upload documents
+[]Answer Sjef on Oslo Parkour
 Sunday:
 []3D scan bike pedal
 []Book graduation
 Tuesday:
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Read water bill?
+[]CLean HOUSE
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
