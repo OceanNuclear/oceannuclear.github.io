@@ -2,19 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Friday:
+[]Return helmets
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
     - https://mc04.manuscriptcentral.com/astm-stp
 []Tighten the mirror stem
+[]Read water bill?
+[]CLean HOUSE
 []Lexham Insurance: scan and upload documents
+
 []Answer Sjef on Oslo Parkour
 Sunday:
 []3D scan bike pedal
 []Book graduation
 Tuesday:
 []Single key-shortcut to set-up laptop as soon as it boots up
-[]Read water bill?
-[]CLean HOUSE
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
