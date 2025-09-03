@@ -2,28 +2,27 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Friday:
-[]Return helmets
-[]REVIEW the paper!
-    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
-    - https://mc04.manuscriptcentral.com/astm-stp
-[]Tighten the mirror stem
-[]Read water bill?
-[]CLean HOUSE
+[]Clean house
 []Lexham Insurance: scan and upload documents
-
 []Answer Sjef on Oslo Parkour
-Sunday:
-[]3D scan bike pedal
-[]Book graduation
-Tuesday:
-[]Single key-shortcut to set-up laptop as soon as it boots up
-[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+
+[]REVIEW the paper!
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
+    - https://mc04.manuscriptcentral.com/astm-stp
+[]Tighten the mirror stem
+[]Read water bill?
+Sunday:
+[]3D scan bike pedal
+[]Book graduation
+Tuesday:
+[]Single key-shortcut to set-up laptop as soon as it boots up
+[]Give dates to the tasks in Alt+Shift+W (25 mins)
 Saturday:
 []Flynn Disney newsletters
     - Free energy principles
