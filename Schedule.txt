@@ -2,9 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Friday:
-[]Clean house
 []Lexham Insurance: scan and upload documents
+[]Clean house
 []Answer Sjef on Oslo Parkour
+[]REVIEW the paper!
+    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
+    - https://mc04.manuscriptcentral.com/astm-stp
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -12,9 +15,6 @@ Friday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 
-[]REVIEW the paper!
-    - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
-    - https://mc04.manuscriptcentral.com/astm-stp
 []Tighten the mirror stem
 []Read water bill?
 Sunday:
