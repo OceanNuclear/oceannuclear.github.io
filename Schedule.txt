@@ -1,9 +1,12 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
+[]3D scan bike pedal
+    []Buy pedal extension attachment
+[]Print label
+    []Return parcel
+[]New helmet
 Friday:
-[]Clean house
-[]Answer Sjef on Oslo Parkour
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
     - https://mc04.manuscriptcentral.com/astm-stp
@@ -13,12 +16,12 @@ Friday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-
-[]Tighten the mirror stem
-[]Read water bill?
+[]Clean house (second part)
 Sunday:
-[]3D scan bike pedal
 []Book graduation
+[]Book HK trip
+Monday:
+[]Read water bill?
 Tuesday:
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Give dates to the tasks in Alt+Shift+W (25 mins)
