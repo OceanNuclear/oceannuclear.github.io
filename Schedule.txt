@@ -1,31 +1,36 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-[]3D scan bike pedal
-    []Buy pedal extension attachment
-[]Print label
-    []Return parcel
-[]New helmet
-Friday:
+Monday:
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
     - https://mc04.manuscriptcentral.com/astm-stp
+[]Buy L-bracket from screwfix
+[]EDF choose a tariff
+[]Book graduation
+[]Print label
+    []Return parcel
+
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Clean house (second part)
-Sunday:
-[]Book graduation
-[]Book HK trip
-Monday:
-[]Read water bill?
 Tuesday:
+[]Read water bill?
+[]Book HK trip
+Wednesday:
+[]Lock up motorcycle
+Monday (15/09)
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Give dates to the tasks in Alt+Shift+W (25 mins)
+[]Motorcycle repair
+    []Clean out motorcycle tail-light housing
+    []order new screws?
+[]Check if new parts are needed (they're all saved on ebay)
 Saturday:
+[]Change the spark plug
 []Flynn Disney newsletters
     - Free energy principles
 []3D printer z-calibration and fix
