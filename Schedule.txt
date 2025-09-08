@@ -5,12 +5,10 @@ Monday:
 []REVIEW the paper!
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
     - https://mc04.manuscriptcentral.com/astm-stp
-[]Buy L-bracket from screwfix
 []EDF choose a tariff
 []Book graduation
 []Print label
     []Return parcel
-
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -18,11 +16,11 @@ Monday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Tuesday:
+[]Mount the L-brackets
 []Read water bill?
 []Book HK trip
-Wednesday:
 []Lock up motorcycle
-Monday (15/09)
+Monday (15/09):
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Motorcycle repair
