@@ -6,9 +6,6 @@ Monday:
     - /home/ocean/Documents/PTNR/CulhamFusion/AllPapers/VENUS-FSpectralIndexReview
     - https://mc04.manuscriptcentral.com/astm-stp
 []EDF choose a tariff
-[]Book graduation
-[]Print label
-    []Return parcel
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -16,6 +13,8 @@ Monday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Tuesday:
+[]Return parcel
+[]Book graduation
 []Mount the L-brackets
 []Read water bill?
 []Book HK trip
