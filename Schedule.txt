@@ -7,37 +7,36 @@ Tuesday:
 []Write source stuff
 []EDF choose a tariff
 []Book graduation
+[]Speak to Ashley about flatmate situation
 
 []Pack bag (40x30x20)
     []Wizz air check in
 []Lock up motorcycle
 []Mount the L-brackets
-[]Read water bill?
-[]Speak to Ashley about flatmate situation
 []Buy wet wipes on the way out
-Wednesday:
 Thursday:
 []Call Kate Edwards about the rent situation
 []Check the 115+22 emails
+[]Flynn Disney newsletters
+    - Free energy principles
 Monday (15/09):
-[]Single key-shortcut to set-up laptop as soon as it boots up
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Motorcycle repair
     []Clean out motorcycle tail-light housing
     []order new screws?
+    []Change the spark plug
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Saturday:
+[]Read water bill?
 []Book HK trip
-[]Change the spark plug
-[]Flynn Disney newsletters
-    - Free energy principles
+Wednesday:
+[]Single key-shortcut to set-up laptop as soon as it boots up
 []3D printer z-calibration and fix
-Monday:
+Monday(22/09):
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
 []Take online courses, e.g. psychological safety
@@ -46,7 +45,6 @@ Later:
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
-[]Advert for housemate
 []Send books, toys (Kiwi Co), and snacks (Feli) back to HK
 []Will writing service from Prospect
 []SoME{1,2,3}
