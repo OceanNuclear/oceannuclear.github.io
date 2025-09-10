@@ -6,7 +6,6 @@ Tuesday:
 []PPMI chat: triage
 []Write source stuff
 []EDF choose a tariff
-[]Book graduation
 []Speak to Ashley about flatmate situation
 
 []Pack bag (40x30x20)
@@ -20,6 +19,7 @@ Thursday:
 []Flynn Disney newsletters
     - Free energy principles
 Monday (15/09):
+[]Book graduation
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Motorcycle repair
     []Clean out motorcycle tail-light housing
