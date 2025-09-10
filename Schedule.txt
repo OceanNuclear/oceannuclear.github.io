@@ -4,11 +4,15 @@
 Tuesday:
 []EDF choose a tariff
 []Book graduation
-[]Read water bill?
-[]Mount the L-brackets
 []Wizz air check in
-[]Pack bag
+[]Call Kate Edwards about the rent situation
+[]PPMI chat: triage
+
+[]Pack bag (40x30x20)
 []Lock up motorcycle
+[]Mount the L-brackets
+[]Read water bill?
+[]Speak to Ashley about flatmate situation
 Wednesday:
 []Matti:
     []Github comment review
