@@ -2,25 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
+[]Matti Github comment review
+[]PPMI chat: triage
+[]Write source stuff
 []EDF choose a tariff
 []Book graduation
-[]Wizz air check in
-[]Call Kate Edwards about the rent situation
-[]PPMI chat: triage
 
 []Pack bag (40x30x20)
+    []Wizz air check in
 []Lock up motorcycle
 []Mount the L-brackets
 []Read water bill?
 []Speak to Ashley about flatmate situation
+[]Buy wet wipes on the way out
 Wednesday:
-[]Matti:
-    []Github comment review
-    []Write source stuff
-[]Interim comments?!
-[]LM meeting:
-    []Assessment Form
-    []Sick leave last week
+Thursday:
+[]Call Kate Edwards about the rent situation
+[]Check the 115+22 emails
 Monday (15/09):
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Give dates to the tasks in Alt+Shift+W (25 mins)
