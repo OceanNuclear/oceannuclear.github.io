@@ -2,14 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 Tuesday:
-[]EDF choose a tariff
-
-[]Speak to Ashley about flatmate situation
 []Pack bag (40x30x20)
-[]Lock up motorcycle
+    []Revolut: put in money
+[]EDF choose a tariff
+[]Speak to Ashley about flatmate situation
 []Mount the L-brackets
-
-[]Buy wet wipes on the way out
 Thursday:
 []Call Kate Edwards about the rent situation
 []Check the 115+22 emails
