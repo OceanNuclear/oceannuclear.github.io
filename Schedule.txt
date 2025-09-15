@@ -1,18 +1,16 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Tuesday:
-[]Pack bag (40x30x20)
-    []Revolut: put in money
-[]EDF choose a tariff
-[]Speak to Ashley about flatmate situation
-[]Mount the L-brackets
-Thursday:
+Monday:
 []Call Kate Edwards about the rent situation
-[]Check the 115+22 emails
 []Flynn Disney newsletters
     - Free energy principles
+[]Clean house
+[]Sort out finances
+[]EDF choose a tariff
+[]Mount the L-brackets
 Monday (15/09):
+[]Check the 115+22 emails
 []Book graduation
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Motorcycle repair
