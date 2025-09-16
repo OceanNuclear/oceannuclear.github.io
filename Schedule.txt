@@ -1,22 +1,17 @@
 1. Break tasks down to <15 minutes chunks.
 2. Add barriers to using resources for tasks other than the current one.
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
-Monday:
-[]Call Kate Edwards about the rent situation
-[]Flynn Disney newsletters
-    - Free energy principles
 []Clean house
-[]Sort out finances
-[]EDF choose a tariff
 []Mount the L-brackets
-Monday (15/09):
-[]Check the 115+22 emails
-[]Book graduation
-[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Motorcycle repair
     []Clean out motorcycle tail-light housing
     []order new screws?
     []Change the spark plug
+Monday (15/09):
+[]Flynn Disney newsletters
+    - Free energy principles
+[]EDF choose a tariff
+[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -24,8 +19,10 @@ Monday (15/09):
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 []Read water bill?
+[]Book graduation
 []Book HK trip
 Wednesday:
+[]Check the 115+22 emails
 []Single key-shortcut to set-up laptop as soon as it boots up
 []3D printer z-calibration and fix
 Monday(22/09):
