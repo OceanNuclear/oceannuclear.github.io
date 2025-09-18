@@ -3,17 +3,16 @@
 3. Break day into four. 4. Regulate stimulus level by playing lectures in background
 []Clean house
     []Launder sheets
-[]Check all of the order status
-    []DPD specifically, whether it's been returned -> ask for refund
-[]Barrier tape
-[]Mount the L-brackets
 []Motorcycle repair
     []Starter switch
+        - Collect from Abingdon Argos
     []Speedometer
         - https://www.thumpertalk.com/forums/topic/905280-mechanical-speedometer-re-calibration-10-error-fixed/
     []mudguard
     []tail light
     []Side fairing
+[]Mount L-brackets again - this time with better zip ties
+[]Finances - check all refunds
 Thrusday:
 []Flynn Disney newsletters
     - Free energy principles
