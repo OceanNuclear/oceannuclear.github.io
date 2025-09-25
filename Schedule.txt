@@ -4,9 +4,8 @@
 []Clean house
     []Launder sheets
 []Return mudguard parcel (Evri)
-[]Return helmet parcel (post office)
+[]Fill up air in tyre, refuel
 Sunday:
-[]Fill up air in tyre
 []Darren
     []Spark plug wrench
     []Return helmet
