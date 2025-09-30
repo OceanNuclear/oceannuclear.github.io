@@ -6,9 +6,10 @@ Tuesday:
     []Clean house
         []Repaint
     []Launder sheets
-[]Ask for welding
+[]Buy stuff from Lidl
 []Book graduation
 Wednesday:
+[]Ask for welding
 Sunday:
 []Ask HK friends in Reading for accommodation
     - Gerald
