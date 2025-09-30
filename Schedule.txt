@@ -1,19 +1,21 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
+Tuesday:
 []Inspection prep
     []Clean house
         []Repaint
     []Launder sheets
-[]Return mudguard parcel (Evri)
+[]Ask for welding
+[]Book graduation
+Wednesday:
+Sunday:
 []Ask HK friends in Reading for accommodation
     - Gerald
     - Vincent
 []Darren
     []Spark plug wrench
     []Return helmet
-[]Ask for welding
-Thrusday:
 []Flynn Disney newsletters
     - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
@@ -24,8 +26,6 @@ Thrusday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 []Read water bill?
-[]Book graduation
-[]Book HK trip
 Wednesday:
 []Check the 115+22 emails
 []Single key-shortcut to set-up laptop as soon as it boots up
