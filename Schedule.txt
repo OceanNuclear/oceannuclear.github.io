@@ -1,24 +1,25 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]Inspection prep
-    []Clean house
-        []Rubber on all walls!
-        []Repaint
-    []Launder sheets
+Friday:
+[]Clean house
+    []Fill out Oxford Alarm lock warranty card
+    []Reply to Micaela about Bikebac
 []Book graduation
-[]ebay return: unpaid tax, wrong weight
-[]Mobi refund
-Wednesday:
-[]Ask for welding
-Sunday:
 []Ask HK friends in Reading for accommodation
     - Gerald
     - Vincent
-[]Darren
-    []Spark plug wrench
-    []Return helmet
+[]ebay return: unpaid tax, wrong weight
+[]Mobi refund
+[]Repaint
+Sunday:
+[]Launder sheets
+Wednesday:
+[]neutron power, neutron counts
+[]plot spectrum at known temp
+Sunday:
+[]Return Darren's helmet
+    []Oil change
 []Flynn Disney newsletters
     - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
