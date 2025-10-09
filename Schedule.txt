@@ -1,19 +1,17 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Friday:
+[]Clean sinks
+    - use the plastic tray
 []Book graduation
-[]Ask HK friends in Reading for accommodation
-    - Gerald
-    - Vincent
-[]Repaint
-Sunday:
-[]Launder sheets
+[]Book HK trip
+[]James Morris Adapt to work form
 Wednesday:
-[]neutron power, neutron counts
-[]plot spectrum at known temp
+[]Comments on Athoy's fork
+[]Launder sheets
 Sunday:
-[]Return Darren's helmet
+[]Repaint
+[]Returnz Darren's helmet
     []Oil change
 []Flynn Disney newsletters
     - free energy principles
