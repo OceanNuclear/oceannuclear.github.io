@@ -1,18 +1,17 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Clean sinks
-    - use the plastic tray
+Friday:
+[]Comments on Athoy's fork
 []Book graduation
 []Book HK trip
-[]James Morris Adapt to work form
-Wednesday:
-[]Comments on Athoy's fork
+
+[]Clean sinks
+    - use the plastic tray
 []Launder sheets
-Sunday:
+Later:
 []Repaint
-[]Returnz Darren's helmet
-    []Oil change
+[]Schedule flu shot
 []Flynn Disney newsletters
     - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
@@ -23,21 +22,16 @@ Sunday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 []Read water bill?
-Wednesday:
-[]Check the 115+22 emails
-[]Single key-shortcut to set-up laptop as soon as it boots up
 []3D printer z-calibration and fix
-Monday(22/09):
+[]Single key-shortcut to set-up laptop as soon as it boots up
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
 []Take online courses, e.g. psychological safety
-Later:
+
 []Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
-[]Send books, toys (Kiwi Co), and snacks (Feli) back to HK
-[]Will writing service from Prospect
 []SoME{1,2,3}
 []I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 []Invisalign
