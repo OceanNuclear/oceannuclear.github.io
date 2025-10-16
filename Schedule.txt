@@ -3,15 +3,22 @@
 4. Add barriers to using resources for tasks other than the current one.
 Friday:
 []Comments on Athoy's fork
+[]Answer Dad
 []Book graduation
 []Book HK trip
+[]Return ebay
+[]Schedule flu shot
+    - 42110613-6RCK3
 
+[]Respond to Aby
+    - Free code review!
+[]Reply to Allan Harte
+[]Reply to James Hagues
 []Clean sinks
     - use the plastic tray
 []Launder sheets
 Later:
 []Repaint
-[]Schedule flu shot
 []Flynn Disney newsletters
     - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
