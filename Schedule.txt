@@ -1,24 +1,26 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Friday:
-[]Comments on Athoy's fork
-[]Answer Dad
-[]Book graduation
+Saturday:
+[]exhibition + Parkour
+[]Hospital X-ray
+[]Chinese supermarket shopping
 []Book HK trip
-[]Return ebay
-[]Schedule flu shot
-    - 42110613-6RCK3
-
-[]Respond to Aby
-    - Free code review!
-[]Reply to Allan Harte
-[]Reply to James Hagues
-[]Clean sinks
-    - use the plastic tray
-[]Launder sheets
+Sunday:
+[]Sportsbikeshop refunds
+[]Cancel bills
+    []Read water bill?
+[]Book house moving
+Monday:
+[]Bathroom clean
+    []Repaint
+[]3D printer z-calibration and fix
+Tuesday:
+[]Read half of the emails
+    []Respond to Aby
+        - Free code review!
+    []Reply to James Hagues
 Later:
-[]Repaint
 []Flynn Disney newsletters
     - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
@@ -28,8 +30,6 @@ Later:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Read water bill?
-[]3D printer z-calibration and fix
 []Single key-shortcut to set-up laptop as soon as it boots up
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
@@ -45,7 +45,7 @@ Later:
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
-[]Control theory analysis: gyro monorail
+[]Control theory analysis: gyro monorail, bicycle
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
 []Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
