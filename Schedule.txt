@@ -1,21 +1,22 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Saturday:
-[]exhibition + Parkour
-[]Hospital X-ray
-[]Chinese supermarket shopping
-[]Book HK trip
 Sunday:
 []Sportsbikeshop refunds
+[]3D printer z-calibration and fix
+Monday:
 []Cancel bills
     []Read water bill?
+[]Vacuum
+    - Office room
+    - Bedroom
+    []Bathroom clean
+        []Repaint
 []Book house moving
-Monday:
-[]Bathroom clean
-    []Repaint
-[]3D printer z-calibration and fix
+    []Self-storage nearby?
+[]Book HK trip
 Tuesday:
+[]Adam: paper download
 []Read half of the emails
     []Respond to Aby
         - Free code review!
