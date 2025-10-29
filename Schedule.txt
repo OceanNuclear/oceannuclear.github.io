@@ -6,9 +6,14 @@ Monday:
     []Nozzle change
 Tuesday:
 []Vs appointment fill out forms
-[]ISFNT slide review
-[]Print resoling stuff
 []Send off shoes for resoling
+[]ISFNT slide review
+[]Rebase correctly --force
+
+[]DELETE THE NEXT FEW DAY'S WORTH OF MEETINGS
+[]
+
+[]Book HK trip
 []Cancel bills
     []Read water bill?
     []Read gas bill too?
@@ -19,7 +24,6 @@ Tuesday:
         []Repaint
 []Book house moving
     []Self-storage nearby?
-[]Book HK trip
 Tuesday:
 []Adam: paper download
 []Read half of the emails
