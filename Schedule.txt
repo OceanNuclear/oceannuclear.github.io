@@ -3,12 +3,15 @@
 4. Add barriers to using resources for tasks other than the current one.
 Monday:
 []3D printer z-calibration and fix
-[]Make Vs appointment
+    []Nozzle change
 Tuesday:
-[]
-[]Resoling (Llanberis)
+[]Vs appointment fill out forms
+[]ISFNT slide review
+[]Print resoling stuff
+[]Send off shoes for resoling
 []Cancel bills
     []Read water bill?
+    []Read gas bill too?
 []Vacuum
     - Office room
     - Bedroom
