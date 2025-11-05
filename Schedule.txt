@@ -1,18 +1,16 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]3D printer z-calibration and fix
-    []Nozzle change
-Thursday:
-[]Order pivot cups (12-13mm)
-    []Order LR44 drycell battery
-[]Buy HK tickets (30/11 - 12/12)
+[]Pay for cleaning
 []Cancel bills
     []Internet
     []Read water bill?
     []Read gas bill too?
-[]Unit4 timesheet
-    - Safety stand down Wednesday: 13310-1000
+[]Book/plan moving?
+[]3D printer z-calibration and fix
+    []Nozzle change
+        []Print LR44 battery holders
+[]Order pivot cups (12-13mm)
 Friday:
 []Vacuum
     - Office room
