@@ -11,7 +11,6 @@
     []Nozzle change
         []Print LR44 battery holders
 []Order pivot cups (12-13mm)
-Friday:
 []Vacuum
     - Office room
     - Bedroom
