@@ -1,23 +1,25 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Pay for cleaning
+[]Download OpenRice & MTR (for wayfinding)
 []Cancel bills
     []Internet
     []Read water bill?
     []Read gas bill too?
-[]Book/plan moving?
+[]House moving: read move-out procedure
+Tuesday:
+[]Call Kathryn Turner Trust to check if they accept furniture
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
+[]Pay for cleaning
+    []Compare Harriet's price with other cleaning services
 []Order pivot cups (12-13mm)
 []Vacuum
     - Office room
     - Bedroom
     []Bathroom clean
         []Repaint
-[]Book house moving
-    []Self-storage nearby?
 Tuesday:
 []Adam: paper download
 []Read half of the emails
