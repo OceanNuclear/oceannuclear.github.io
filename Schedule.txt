@@ -1,12 +1,15 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Download OpenRice & MTR (for wayfinding)
 []Cancel bills
     []Internet
+        - talktalk
     []Read water bill?
+        - Leep
     []Read gas bill too?
+        - EDF
 []House moving: read move-out procedure
+    - /home/ocean/Documents/Work/6.House/Didcot/TenancyAgreement-Handover/Termination Letter.pdf
 Tuesday:
 []Call Kathryn Turner Trust to check if they accept furniture
 []3D printer z-calibration and fix
