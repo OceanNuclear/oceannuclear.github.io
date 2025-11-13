@@ -1,35 +1,22 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Dye hair
-[]Answer two teams message
-[]Write James Morris spreadsheet summary
-[]Take photos to send to Harriet
-    []Compare Harriet's price with other cleaning services
-[]House moving: read move-out procedure
-    - /home/ocean/Documents/Work/6.House/Didcot/TenancyAgreement-Handover/Termination Letter.pdf
-[]Internet
-    - talktalk: 03451720088
-[]Read water bill
-    - Leep
-[]Read gas bill too
-    - EDF
-[]Graduation stuff
-    []Blonk street car park
-    []Hotel: save info
-    []Pack suit
-[]Call Kathryn Turner Trust to check if they accept furniture
-[]Call Culham Self storage
-[]order liquid chalk, pivot cup (12-13mm)
 []Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
 []Add method to get&plot heating profile
+[]Read water bill
+    - Leep
+[]Pack for graduation
+    - Suit
+    - Sheffield Hallam library card
+[]Call TravelUp
+[]Sell stuff on Vinted
+[]Adam: paper download
+Thursday:
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
 []Repaint
-Thursday:
-[]Adam: paper download
-[]Buy cough candies, toilet rol
+[]Buy cough candies, toilet roll
 []Read half of the emails
     []Respond to Aby
         - Free code review!
