@@ -1,17 +1,18 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
-[]Add method to get&plot heating profile
-[]Read water bill
-    - Leep
 []Pack for graduation
     - Suit
     - Sheffield Hallam library card
-[]Call TravelUp
+Wednesday:
 []Sell stuff on Vinted
+[]Call TravelUp
 []Adam: paper download
+[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
+[]Add method to get&plot heating profile
 Thursday:
+[]Read water bill
+    - Leep
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
