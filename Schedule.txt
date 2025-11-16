@@ -3,6 +3,7 @@
 4. Add barriers to using resources for tasks other than the current one.
 Wednesday:
 []Sell stuff on Vinted
+[]Pay for end-of-tenancy cleaning
 []Book Man with Van
 []Call TravelUp
 []Adam: paper download
