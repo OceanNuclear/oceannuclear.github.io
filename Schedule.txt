@@ -3,10 +3,9 @@
 4. Add barriers to using resources for tasks other than the current one.
 Wednesday:
 []Sell stuff on Vinted
+[]Book Man with Van
 []Call TravelUp
 []Adam: paper download
-[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
-[]Add method to get&plot heating profile
 Thursday:
 []Read water bill
     - Leep
@@ -14,11 +13,17 @@ Thursday:
     []Nozzle change
         []Print LR44 battery holders
 []Repaint
-[]Buy cough candies, toilet roll
+[]Buy toilet roll
+
+[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
+[]Add method to get&plot heating profile
 []Read half of the emails
     []Respond to Aby
         - Free code review!
     []Reply to James Hagues
+Friday:
+[]New motorcycle jacket, boots, over-gloves, handlebar guards
+[]Shower test of helmet
 Later:
 []Flynn Disney newsletters
     - free energy principles
