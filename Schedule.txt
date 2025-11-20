@@ -1,23 +1,20 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-[]Sell stuff on Vinted
-[]Pay for end-of-tenancy cleaning
-[]Book Man with Van
-[]Call TravelUp
-[]Adam: paper download
-Thursday:
-[]Read water bill
-    - Leep
+[]Check CulBUG email
+[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
+[]Add method to get&plot heating profile
+Friday:
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
-[]Repaint
 []Buy toilet roll
-
-[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
-[]Add method to get&plot heating profile
+Friday:
+[]Deal with Best Western reward bug
+[]Sell stuff on Vinted
+[]Adam: paper download
+Tuesday:
+[]Repaint
 []Read half of the emails
     []Respond to Aby
         - Free code review!
