@@ -2,7 +2,6 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 []Check CulBUG email
-[]Verify the fission regression test actual numbers (2 reaction rates, 2 currents) on Desmos
 []Add method to get&plot heating profile
 Friday:
 []3D printer z-calibration and fix
