@@ -2,7 +2,6 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 []Check CulBUG email
-[]Write a new class for trig_coefs, l2, d_coef.
 []Add method to get&plot heating profile
 Friday:
 []3D printer z-calibration and fix
