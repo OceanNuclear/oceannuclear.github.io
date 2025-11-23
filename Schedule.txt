@@ -3,7 +3,7 @@
 4. Add barriers to using resources for tasks other than the current one.
 []Deal with the missing data
     []Check CulBUG email
-[]Understand the bash code that ChatGPT has written for me
+[]Understand the bash code that LLMs have written for me
 []Deal with Best Western reward bug
 []Scam CompleteSavings back
 Friday:
