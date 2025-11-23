@@ -2,15 +2,14 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 []Check CulBUG email
-[]Add method to get&plot heating profile
 Friday:
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
-[]Buy toilet roll
 Friday:
 []Deal with Best Western reward bug
 []Sell stuff on Vinted
+[]Wash motorcycle stuff at home
 []Adam: paper download
 Tuesday:
 []Repaint
