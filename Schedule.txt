@@ -1,13 +1,16 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Check CulBUG email
+[]Deal with the missing data
+    []Check CulBUG email
+[]Understand the bash code that ChatGPT has written for me
+[]Deal with Best Western reward bug
+[]Scam CompleteSavings back
 Friday:
 []3D printer z-calibration and fix
     []Nozzle change
         []Print LR44 battery holders
 Friday:
-[]Deal with Best Western reward bug
 []Sell stuff on Vinted
 []Wash motorcycle stuff at home
 []Adam: paper download
