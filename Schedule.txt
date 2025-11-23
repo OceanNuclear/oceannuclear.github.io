@@ -1,7 +1,8 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Deal with the missing data
+[]Adam: paper download
+[]Deal with the fact that I'm going on AL at the CulBUG AGM
     []Check CulBUG email
 []Understand the bash code that LLMs have written for me
 []Deal with Best Western reward bug
@@ -13,7 +14,6 @@ Friday:
 Friday:
 []Sell stuff on Vinted
 []Wash motorcycle stuff at home
-[]Adam: paper download
 Tuesday:
 []Repaint
 []Read half of the emails
