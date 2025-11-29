@@ -1,44 +1,37 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]Adam: paper download
-[]Deal with the fact that I'm going on AL at the CulBUG AGM
-    []Check CulBUG email
-[]Understand the bash code that LLMs have written for me
+Tuesday:
+[]Answer that one outlook email from Tom Berry
+[]Check CulBUG email
+[]WD-40 on locks and all bike parts
+Friday:
 []Deal with Best Western reward bug
 []Scam CompleteSavings back
-Friday:
-[]3D printer z-calibration and fix
-    []Nozzle change
-        []Print LR44 battery holders
-Friday:
 []Sell stuff on Vinted
-[]Wash motorcycle stuff at home
-Tuesday:
+Sunday:
 []Repaint
+Monday (15/12):
 []Read half of the emails
-    []Respond to Aby
-        - Free code review!
-    []Reply to James Hagues
-Friday:
-[]New motorcycle jacket, boots, over-gloves, handlebar guards
-[]Shower test of helmet
+[]Reply to James Hagues
+[]Is there an iterative approach to the Bateman equation solving?
 Later:
-[]Flynn Disney newsletters
-    - free energy principles
 []Give dates to the tasks in Alt+Shift+W (25 mins)
-[]Alt+Shift+W auto save instead
+[]Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Shower test of helmet
+    []New motorcycle jacket, boots, over-gloves, handlebar guards
 []Single key-shortcut to set-up laptop as soon as it boots up
+[]Subscribe to a newspaper (preferably with audio) (2 hours)
 []Make the appropriate amendments to (15 mins)
     - /home/ocean/Self/FoilSelector/SampleHFTM/response-to-Frederik.docx
+[]Flynn Disney newsletters (2 hours)
+    - free energy principles
 []Take online courses, e.g. psychological safety
-
-[]Is there an iterative approach to the Bateman equation solving?
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
@@ -53,4 +46,3 @@ Interesting/recreational/entertaining:
 []vimtutor
 []Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
 []AI MOOC learning (pinned email to myself)
-[]Implementation of https://www.shadertoy.com/view/lltcWl with xscreensaver
