@@ -2,7 +2,10 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 []I wanna know where my eero is
-[]Timesheet
+[]Check my thing
+[]Address changes
+    []Read utilities
+[]Council tax refund, send Ashley her tea?
 
 []Check CulBUG email
 []Deal with Best Western reward bug
@@ -15,6 +18,7 @@ Monday (15/12):
 []Reply to James Hagues
 []Is there an iterative approach to the Bateman equation solving?
 Later:
+[]Remove 50% of belongings
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
