@@ -1,21 +1,18 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]I wanna know where my eero is
-[]Check my thing
-[]Address changes
-    []Read utilities
-[]Council tax refund, send Ashley her tea?
+[]Clean walls
+[]Reinstall cupboard into dishwasher space
+[]Where is my eero
 
-[]Check CulBUG email
-[]Deal with Best Western reward bug
-[]Scam CompleteSavings back
-[]Sell stuff on Vinted
-Sunday:
-[]Repaint
-Monday (15/12):
+[]Check-in flight
+[]Send off Council tax refund letter?
+while travelling:
 []Read half of the emails
-[]Reply to James Hagues
+Monday (15/12):
+[]Address changes
+[]Check CulBUG email
+[]Reply to James Hagues, Aby
 []Is there an iterative approach to the Bateman equation solving?
 Later:
 []Remove 50% of belongings
