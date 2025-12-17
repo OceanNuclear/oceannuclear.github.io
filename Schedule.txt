@@ -2,11 +2,8 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 []SODC letter: send
-Wednesday:
-[]Cancel vas appointment?
-    - Probably not
 Thursday:
-[]move stuff back into house
+[]Move more stuff back into house
 []Address changes
 Monday (15/12):
 []Check CulBUG email
