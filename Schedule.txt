@@ -1,9 +1,10 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-[]SODC letter: send
 Thursday:
+[]SODC letter: send
 []Move more stuff back into house
+[]Clear up a little bit of office bed
 []Address changes
 Monday (15/12):
 []Check CulBUG email
