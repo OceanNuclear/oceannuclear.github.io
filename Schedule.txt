@@ -6,8 +6,11 @@ Sunday:
 []Clean bedroom
 []Apply for ILR
 []https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzcrgxPvKJJpgkcSHLwwrpTMN
+[]Address changes
+[]3D print design
 
 []Check CulBUG email
+[]Clean out the gmail box
 Monday:
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []Figure out if there's any difference in foil recommendations
@@ -17,10 +20,7 @@ Monday:
 []Phone call
     []Book motorcycle Mod 1
     []Change address for V5C
-[]Address changes
-[]Clean out the gmail box
 Tuesday:
-[]3D print design
 Friday/Saturday:
 []Decathlon: buy overtrousers
 []Currys PC world: see G515 TKL Mechanical
