@@ -1,19 +1,19 @@
 1. Alt+shift+3 at startup & shutdown, record rationale.
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
-Saturday:
+Sunday:
 []Audit medical box
+[]Clean bedroom
+[]Apply for ILR
+[]https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzcrgxPvKJJpgkcSHLwwrpTMN
+
+[]Check CulBUG email
+Monday:
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []Figure out if there's any difference in foil recommendations
         - coming from a better peak summation algorithm
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-[]Apply for ILR
-[]Washing up
-[]Buy laundry liquid
-[]Check CulBUG email
-[]https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzcrgxPvKJJpgkcSHLwwrpTMN
-Monday:
 []Phone call
     []Book motorcycle Mod 1
     []Change address for V5C
