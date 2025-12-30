@@ -2,13 +2,16 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 Sunday:
-[]Audit medical box
-[]Clean bedroom
 []Apply for ILR
-[]https://mail.google.com/mail/u/0/#inbox/FMfcgzQdzcrgxPvKJJpgkcSHLwwrpTMN
-[]Address changes
-[]3D print design
+[]Call lightning motorcycle about booking Mod1
+    - 01865777676
+[]Audit medical box
+[]Call to check warranty
+[]Clean bedroom
 
+[]Address changes
+[]Text Ash to confirm collection
+[]Buy temporary waterproof sealant
 []Check CulBUG email
 []Clean out the gmail box
 Monday:
@@ -20,14 +23,13 @@ Monday:
 []Phone call
     []Book motorcycle Mod 1
     []Change address for V5C
-Tuesday:
-Friday/Saturday:
+Friday:
+[]Reply to James Hagues, Aby
+Saturday (03/01):
 []Decathlon: buy overtrousers
 []Currys PC world: see G515 TKL Mechanical
-January Monday:
-[]Reply to James Hagues, Aby
-[]Is there an iterative approach to the Bateman equation solving?
 Later:
+[]Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
