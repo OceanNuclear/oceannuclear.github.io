@@ -2,14 +2,16 @@
 2. Break tasks down to <15 minutes chunks. 3. Soundcloud playlist
 4. Add barriers to using resources for tasks other than the current one.
 Sunday:
+[]Audit medical box
+[]Clean bedroom
+[]Address changes
+
 []Apply for ILR
+[]Get Timely
+[]Call to check warranty
+    []Call to see if Bikewise is open
 []Call lightning motorcycle about booking Mod1
     - 01865777676
-[]Audit medical box
-[]Call to check warranty
-[]Clean bedroom
-
-[]Address changes
 []Text Ash to confirm collection
 []Buy temporary waterproof sealant
 []Check CulBUG email
