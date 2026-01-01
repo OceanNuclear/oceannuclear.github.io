@@ -4,19 +4,14 @@
 Sunday:
 []Audit medical box
 []Clean bedroom
+[]Apply for ILR
 []Address changes
 
-[]Apply for ILR
-[]Get Timely
 []Call to check warranty
     []Call to see if Bikewise is open
 []Call lightning motorcycle about booking Mod1
     - 01865777676
-[]Text Ash to confirm collection
-[]Buy temporary waterproof sealant
-[]Check CulBUG email
-[]Clean out the gmail box
-Monday:
+
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []Figure out if there's any difference in foil recommendations
         - coming from a better peak summation algorithm
@@ -25,6 +20,13 @@ Monday:
 []Phone call
     []Book motorcycle Mod 1
     []Change address for V5C
+[]Check CulBUG email
+[]Clean out the gmail box
+Sunday:
+[]Fix leaky kitchen
+[]Fix bike
+Monday:
+[]Buy temporary waterproof sealant
 Friday:
 []Reply to James Hagues, Aby
 Saturday (03/01):
