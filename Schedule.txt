@@ -1,28 +1,24 @@
-1. Alt+shift+3 at startup & shutdown, record rationale. 2. Do the first 15 min chunk
-3. YT Subscriptions, post-rock, YT playlists
+1. YT Subscriptions, post-rock, YT playlists
+2. Alt+shift+3 at startup & shutdown, record rationale.
+3. Do the first 15 min chunk
 4. Add barriers to using resources for tasks other than the current one.
 Monday:
-[]Audit medical box
+[]Laundry: fold
+    []listen to podcasts etc. while doing so
+[]Clean bedroom
+    []Audit medical box
+[]Push bike to get fixed
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []Figure out if there's any difference in foil recommendations
         - coming from a better peak summation algorithm
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-[]Clean bedroom
-[]Laundry: fold
-    []listen to podcasts etc. while doing so
-[]Apply for ILR
-[]Phone call
-    []Book motorcycle Mod 1
-    - 01865777676
 
+[]ADHD: send report to GP, ask for referral
 []Check CulBUG email
 []Clean out the gmail box
 Friday:
 []Reply to James Hagues, Aby
-Saturday (03/01):
-[]Decathlon: buy overtrousers
-[]Currys PC world: see G515 TKL Mechanical
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
