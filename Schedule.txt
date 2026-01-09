@@ -3,11 +3,10 @@
 3. Do the first 15 min chunk
 4. Add barriers to using resources for tasks other than the current one.
 Thursday:
+[]Call up Bristol board shop
+[]Call up estate agents
 []Gym
-    []Check van battery voltage
-
-[]Laundry: fold
-    []listen to podcasts etc. while doing so
+[]ADHD: send report to GP, ask for referral
 []Clean bedroom
     []Audit medical box
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
@@ -15,12 +14,11 @@ Thursday:
         - coming from a better peak summation algorithm
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-
-[]Celcius hoodie refund?
+[]Cut hair
+    []Dye
+Tuesday:
 []Check CulBUG email
 []Clean out the gmail box
-Friday:
-[]ADHD: send report to GP, ask for referral
 []Reply to James Hagues, Aby
 Later:
 []Is there an iterative approach to the Bateman equation solving?
