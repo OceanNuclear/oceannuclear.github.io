@@ -2,25 +2,23 @@
 2. Alt+shift+3 at startup & shutdown, record rationale.
 3. Do the first 15 min chunk
 4. Add barriers to using resources for tasks other than the current one.
-Thursday:
-[]Call up Bristol board shop
-[]Call up estate agents
-[]Gym
-[]ADHD: send report to GP, ask for referral
-[]Clean bedroom
-    []Audit medical box
+[]Vas delay
+[]Dye
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []Figure out if there's any difference in foil recommendations
         - coming from a better peak summation algorithm
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-[]Cut hair
-    []Dye
-Tuesday:
+Wednesday:
+[]ADHD: send report to GP, ask for referral
+    - https://accurx.nhs.uk/patient-initiated/k84043
+[]Make instagram post
+
 []Check CulBUG email
 []Clean out the gmail box
 []Reply to James Hagues, Aby
 Later:
+[]Write letter to Cosi
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
