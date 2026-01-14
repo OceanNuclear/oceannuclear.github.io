@@ -2,23 +2,29 @@
 2. Alt+shift+3 at startup & shutdown, record rationale.
 3. Do the first 15 min chunk
 4. Add barriers to using resources for tasks other than the current one.
+Wednesday:
+[]SIMMER fuckery
 []Vas delay
+[]Find the FUCKING PASS
+[]Take photos of mail for Ben Keitch
 []Dye
+
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
+    []List commits & show diff
+        []Summarize change
+    []Compare against objective
     []Figure out if there's any difference in foil recommendations
-        - coming from a better peak summation algorithm
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-Wednesday:
+Thursday:
 []ADHD: send report to GP, ask for referral
     - https://accurx.nhs.uk/patient-initiated/k84043
-[]Make instagram post
-
 []Check CulBUG email
 []Clean out the gmail box
 []Reply to James Hagues, Aby
+Friday:
+[]Make instagram post
 Later:
-[]Write letter to Cosi
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
