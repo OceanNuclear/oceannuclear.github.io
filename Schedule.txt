@@ -1,9 +1,7 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Thursday:
-[]Take photos of mail for Ben Keitch
-
+Saturday:
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []List commits & show diff
         []Summarize change
@@ -45,6 +43,7 @@ Later:
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]How to help 
 []Control theory analysis: gyro monorail, bicycle
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
