@@ -1,13 +1,8 @@
 1. YT Subscriptions, post-rock, YT playlists
-2. Alt+shift+3 at startup & shutdown, record rationale.
-3. Do the first 15 min chunk
-4. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-[]SIMMER fuckery
-[]Vas delay
-[]Find the FUCKING PASS
+2. Add barriers to using resources for tasks other than the current one.
+3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
+Thursday:
 []Take photos of mail for Ben Keitch
-[]Dye
 
 []List all work done on WPENS (once in Jan, once in Jun-Jul)
     []List commits & show diff
@@ -16,14 +11,12 @@ Wednesday:
     []Figure out if there's any difference in foil recommendations
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-Thursday:
-[]ADHD: send report to GP, ask for referral
-    - https://accurx.nhs.uk/patient-initiated/k84043
+    - /home/ocean/Self/FoilSelector/HariChohan2/past-reports/diff.txt
+[]Dye hair
 []Check CulBUG email
+    []Check if there's a survey result
 []Clean out the gmail box
 []Reply to James Hagues, Aby
-Friday:
-[]Make instagram post
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
