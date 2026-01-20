@@ -10,6 +10,7 @@ Saturday:
         - compare excel spreadsheet & Hari conversation
     - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
     - /home/ocean/Self/FoilSelector/HariChohan2/past-reports/diff.txt
+[]Advertise dishwasher + TV
 []Dye hair
 []Check CulBUG email
     []Check if there's a survey result
