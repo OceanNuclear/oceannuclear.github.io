@@ -1,17 +1,15 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Saturday:
-[]List all work done on WPENS (once in Jan, once in Jun-Jul)
-    []List commits & show diff
-        []Summarize change
-    []Compare against objective
-    []Figure out if there's any difference in foil recommendations
-        - compare excel spreadsheet & Hari conversation
-    - https://idm.euro-fusion.org/default.aspx?uid=2T8AJ2&newcontentuid=2T8AJ2
-    - /home/ocean/Self/FoilSelector/HariChohan2/past-reports/diff.txt
-Thursday:
+Friday:
+[]submit timesheet
+[]Add source into the HPGe peak-compton ratio curve
+[]FINISH SOME BUEMIRA
+Sunday:
+[]update timesheet spreadsheet
+[]Do some work on Neutronics paper!
 []Advertise dishwasher + TV
+Tuesday:
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
