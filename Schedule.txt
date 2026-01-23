@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday:
-[]submit timesheet
 []Add source into the HPGe peak-compton ratio curve
 []FINISH SOME BUEMIRA
 Sunday:
@@ -10,6 +9,7 @@ Sunday:
 []Do some work on Neutronics paper!
 []Advertise dishwasher + TV
 Tuesday:
+[]Timesheet
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
