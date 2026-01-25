@@ -2,15 +2,10 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 []FINISH SOME bluemira stuff
-[]Advertise dishwasher + TV
-    []update Candy dishwasher ad
-        - Candy CYPN1L670SW_WH Standard Dishwasher in White
-Sunday:
 []update timesheet spreadsheet
+Monday:
 []Do some work on Neutronics paper!
-[]Refill chopsticks
 Tuesday:
-[]Timesheet
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
