@@ -1,17 +1,16 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
+[]Return exhaust
 []Do some work on Neutronics paper!
-[]Collect one pair of shoes + cologne from the accessories bin in storage
-    []Find the damn remote control?!
-[]Take video of TV working
 Tuesday:
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
 []Reply to James Hagues, Aby
 Friday:
-[]Bluemira compare diff
+[]Bluemira: diff
+    - cd /home/ocean/Others/bluemira/eudemo/eudemo/neutronics; activate_bm
     - ca41d69b3b09f12132bf335a8cb66d4623b648c5 - CoronelBuendia Tue Nov 18 16:53:26  * CSG neutrnics IO working * Created the correct tally for total power.
     - ef948bd34d083fa9370c9877ef024c1b4beaad99 - geograham Tue Nov 18 14:22:42
 Later:
