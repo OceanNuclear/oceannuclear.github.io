@@ -8,10 +8,10 @@ Thursday:
 []Sign contract
 []Check CulBUG email
     []Check if there's a survey result
-[]Clean out the gmail box
-[]Reply to James Hagues, Aby
 Friday:
 []Return exhaust
+[]Clean out the gmail box
+[]Reply to James Hagues, Aby
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
