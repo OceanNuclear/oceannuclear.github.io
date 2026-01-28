@@ -1,18 +1,17 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Return exhaust
+[]Sign contract
+Thursday:
+[]Replace inner tube
 []Do some work on Neutronics paper!
-Tuesday:
+[]Sign contract
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
 []Reply to James Hagues, Aby
 Friday:
-[]Bluemira: diff
-    - cd /home/ocean/Others/bluemira/eudemo/eudemo/neutronics; activate_bm
-    - ca41d69b3b09f12132bf335a8cb66d4623b648c5 - CoronelBuendia Tue Nov 18 16:53:26  * CSG neutrnics IO working * Created the correct tally for total power.
-    - ef948bd34d083fa9370c9877ef024c1b4beaad99 - geograham Tue Nov 18 14:22:42
+[]Return exhaust
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
