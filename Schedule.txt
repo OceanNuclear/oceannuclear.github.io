@@ -2,9 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday:
-[]video for TV
-[]Return exhaust
-[]Buy phone case
 []Get bills sorted
     - internet
     - water
@@ -12,7 +9,10 @@ Friday:
 []Care ADHD
     - https://my.drdoctor.co.uk/forms
 Saturday:
+[]Contact improvisation
+    []Get paper for Adam
 []Get new outer tyre
+[]Buy phone case
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
