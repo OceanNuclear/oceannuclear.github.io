@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday:
-[]Find key
 []Sell dishwasher
 []Buy new inner tube
 []Check on motorcycle
