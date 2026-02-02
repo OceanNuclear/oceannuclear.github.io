@@ -1,18 +1,21 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Sunday:
-[]Get bills sorted
-    - water
-    - tax
-    - gas & elec
-Monday:
-[]Clear driveway & garden
-[]Clean fridge
-    []Looks like I gotta throw away the grapes
+2:30pm
+[]Skim travel report and Hegson front gate report
+[]Go to C7 for meeting at 3pm
 
+[]gas & elec
+    - https://www.ofgem.gov.uk/sites/default/files/2026-01/all-electricity-licencees-3-December-2025.pdf
+    - (domestic & non-dom)
+    - /home/ocean/Documents/Work/6.House/Reading/energy-comparison.xlsx
+[]council tax
 []Care ADHD
     - https://my.drdoctor.co.uk/forms
+
+[]Clear driveway & garden
+[]Throw away 🍇️
+
 []Do laundry
 []Find the Tide marker thingy to clean clothes
 []water plants
@@ -20,9 +23,10 @@ Monday:
 []vacuum house
 []Fit outer tyre
 []Buy phone case
-Monday:
+Wednesday:
+[]Get "neutronics slides introduction for grads" from Ross -> FTP
 []Check CulBUG email
-    []Check if there's a survey result
+[]Check if there's a survey result
 []Clean out the gmail box
 []Reply to James Hagues, Aby
 Later:
