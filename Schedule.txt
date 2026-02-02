@@ -2,25 +2,25 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Sunday:
-[]Care ADHD
-    - https://my.drdoctor.co.uk/forms
 []Get bills sorted
-    - internet
     - water
     - tax
-[]Buy phone case
+    - gas & elec
+Monday:
 []Clear driveway & garden
-[]Do laundry
-    []Find the Tide marker thingy to clean clothes
-[]water plants
-[]Clean Gabbycat
 []Clean fridge
     []Looks like I gotta throw away the grapes
-[]Fold laundry
+
+[]Care ADHD
+    - https://my.drdoctor.co.uk/forms
+[]Do laundry
+[]Find the Tide marker thingy to clean clothes
+[]water plants
+[]Clean Gabbycat
 []vacuum house
-[]omgyes.com
+[]Fit outer tyre
+[]Buy phone case
 Monday:
-[]Get new outer tyre
 []Check CulBUG email
     []Check if there's a survey result
 []Clean out the gmail box
