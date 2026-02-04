@@ -1,6 +1,7 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
+
 []Do laundry
 []Throw away 🍇️
 []Clear driveway & garden
@@ -8,6 +9,8 @@
 []Care ADHD
     - https://my.drdoctor.co.uk/forms
 []council tax
+[]LaTeX Graphics
+[]implement LaTeX equations into PROCESS
 3pm
 []Find the Tide marker thingy to clean clothes
 []Clean Gabbycat
