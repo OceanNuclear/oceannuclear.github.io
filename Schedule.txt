@@ -4,13 +4,8 @@
 []Care ADHD
     - https://my.drdoctor.co.uk/forms
 []council tax
-[]LaTeX Graphics
-3pm
-[]Clean Gabbycat
-[]vacuum house
-[]Open letters -> Ben
-[]Buy phone case
 Thursday:
+[]Call Kathryn turner trust about donating the 1-seater sofa
 []implement LaTeX equations into PROCESS
 []Get "neutronics slides introduction for grads" from Ross -> FTP
 []Check CulBUG email
@@ -19,6 +14,9 @@ Thursday:
 []Reply to James Hagues, Aby
 Friday:
 []Clear driveway & garden
+[]Buy phone case
+[]vacuum house
+[]Clean Gabbycat
 Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
