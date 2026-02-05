@@ -9,7 +9,7 @@ Thursday:
 []implement LaTeX equations into PROCESS
 []Get "neutronics slides introduction for grads" from Ross -> FTP
 []Check CulBUG email
-[]Check if there's a survey result
+[]Make CulBUG report
 []Clean out the gmail box
 []Reply to James Hagues, Aby
 Friday:
