@@ -2,19 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Saturday:
-[]Lock, sandwich, go ask the guy in Reading about key (2 hours and 50 mins)
+[]sandwich, locks
 []Check CulBUG email (30 mins)
-[]CompleteSavings -> cancel! (10 mins)
 []Send photo to Warranty2000
 []Comment on my Eurofusion Document
+[]Implement LaTeX equations into PROCESS
 Sunday:
+[]go ask the guy in Reading about key (2 hours and 50 mins)
 []Attempt to delay key collection (-> push this to Monday)
 []Clear driveway & garden
 []vacuum house
 []Clean Gabbycat
 Monday:
-[]Implement LaTeX equations into PROCESS
 []Get "neutronics slides introduction for grads" from Ross -> FTP
+Wednesday:
+[]Car wash
 Later:
 []Make CulBUG survey report
 []Clean out the gmail box
