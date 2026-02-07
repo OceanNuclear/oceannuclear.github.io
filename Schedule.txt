@@ -1,24 +1,25 @@
 1. YT Subscriptions, post-rock, YT playlists
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Care ADHD
-    - https://my.drdoctor.co.uk/forms
-[]council tax
-Thursday:
-[]Call Kathryn turner trust about donating the 1-seater sofa
-[]implement LaTeX equations into PROCESS
-[]Get "neutronics slides introduction for grads" from Ross -> FTP
-[]Check CulBUG email
-[]Make CulBUG report
-[]Clean out the gmail box
-[]Reply to James Hagues, Aby
+Saturday:
+[]Dismantle sofa (15 mins)
+[]Lock, sandwich, go ask the guy in Reading about key (1 hours 50 mins)
+[]Delay key collection!
+[]send photo to Warranty2000
+[]CompleteSavings -> cancel!
 []Comment on my Eurofusion Document
-Friday:
+[]Check CulBUG email (30 mins)
+Sunday:
 []Clear driveway & garden
-[]Buy phone case
 []vacuum house
 []Clean Gabbycat
+Monday:
+[]Implement LaTeX equations into PROCESS
+[]Get "neutronics slides introduction for grads" from Ross -> FTP
 Later:
+[]Make CulBUG survey report
+[]Clean out the gmail box
+[]Reply to James Hagues
 []Is there an iterative approach to the Bateman equation solving?
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
