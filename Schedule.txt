@@ -1,22 +1,17 @@
-1. YT Subscriptions, post-rock, YT playlists
+1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Saturday:
-[]sandwich, locks
-[]Check CulBUG email (30 mins)
-[]Send photo to Warranty2000
-[]Comment on my Eurofusion Document
-[]Implement LaTeX equations into PROCESS
+Thursday:
+[]Dig up unfolding algorithm paper stuff
+    []-> Graeme
+Friday:
+[]Care ADHD assessment
+[]Optical Express appointment - referral to JR
 Sunday:
-[]go ask the guy in Reading about key (2 hours and 50 mins)
-[]Attempt to delay key collection (-> push this to Monday)
-[]Clear driveway & garden
-[]vacuum house
-[]Clean Gabbycat
-Monday:
-[]Get "neutronics slides introduction for grads" from Ross -> FTP
-Wednesday:
+[]Vacuum house
 []Car wash
+Tuesday:
+[]Journal club
 Later:
 []Make CulBUG survey report
 []Clean out the gmail box
