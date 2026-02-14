@@ -1,15 +1,25 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Thursday:
+[]Clean elevator
+Saturday:
+[]Retrieve stuff from Abingdon house:
+    - finger brush(es), dishwasher pods, hand soap. vacuum cleaner, scraper
+    []box up the rest of the clothes
+    []Vacuum house
+[]Abingdon and Didcot:
+    []Check out Kathrine Turner Trust for coat stand
+    []Collect food
+    []Maybe buy more stuff from Zubr?
+[]vacuum sofa
+[]Clean the window sill moulds with scraper
+[]Write manual on how to un-jailbreak window
+    - re-install limiter slide blocks with (size 3?) allen keys, straighten latch holder.
+Sunday:
+[]Car wash
 []Dig up unfolding algorithm paper stuff
     []-> Graeme
-Friday:
-[]Care ADHD assessment
-[]Optical Express appointment - referral to JR
-Sunday:
-[]Vacuum house
-[]Car wash
+[]Timesheets
 Tuesday:
 []Journal club
 Later:
@@ -20,7 +30,7 @@ Later:
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
-    []Write down requirements of the workflow:
+    []Write down requ/home/ocean/Self/Productivityirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
