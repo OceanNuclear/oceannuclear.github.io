@@ -4,17 +4,17 @@
 Sunday:
 []Buy hand soap, bleach, dishwasher tablet
     []Clean the window sill moulds with scraper
-[]Do washing up in Abingdon house
-[]attempt to buy the coat hangar from Abingdon Oxford wood recycling centre
-[]Car wash
+[]Clean elevator
+[]Turn down heating in Abingdon house
 
 []Dig up unfolding algorithm paper stuff
     []-> Graeme
 []Timesheets
-[]Clean elevator
+Tuesday:
 []Write manual on how to un-jailbreak window
     - re-install limiter slide blocks with (generatsize 3?) allen keys, straighten latch holder.
-Tuesday:
+[]Do washing up in Abingdon house
+[]Car wash
 []vacuum sofa more  thoroughly
 []Journal club
 Later:
