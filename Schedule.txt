@@ -1,22 +1,30 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Sunday:
-[]Buy hand soap, bleach, dishwasher tablet
-    []Clean the window sill moulds with scraper
-[]Clean elevator
-[]Turn down heating in Abingdon house
-
-[]Dig up unfolding algorithm paper stuff
-    []-> Graeme
-[]Timesheets
-Tuesday:
+[]Jouranl club: GEOUNED paper
+[]Update the paper tracker
+    []Prep tomorrow's meeting
+[]Pop into bikewise for seeing if the gearbox replacement would work + my dash
+[]STUPID TRAINING GRRR
+[]Dig up unfolding algorithm paper stuff to give to Graeme
+Wednesday:
+[]Bring keyboard into office tomorrow
+Thursday:
+[]Use bedroom storage: stack boxes
+    []Put up cubicle wardrobe
+    []stack boxes
+    []Hang clothes
 []Write manual on how to un-jailbreak window
     - re-install limiter slide blocks with (generatsize 3?) allen keys, straighten latch holder.
+Thursday:
 []Do washing up in Abingdon house
 []Car wash
-[]vacuum sofa more  thoroughly
-[]Journal club
+[]vacuum sofa more thoroughly
+Friday:
+[]IKEA:
+    []shower curtain & rod
+    []Toilet brush (could also get from local store?)
+    []shelves
 Later:
 []Make CulBUG survey report
 []Clean out the gmail box
@@ -48,7 +56,6 @@ Later:
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
-[]How to help 
 []Control theory analysis: gyro monorail, bicycle
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
