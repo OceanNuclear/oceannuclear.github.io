@@ -1,27 +1,26 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Send YueFeng an email
-[]Dig up unfolding algorithm paper stuff to give to Graeme
-[]pay grade appeal
-Thursday:
-[]build up some cubicle first
+Monday:
+[]Do washing up in Abingdon house
+[]Check for more white off GLR-125 for fairings
+[]Sell the two HDMI cables
+Tuesday:
+[]Papercut for bluemira
+[]ART reviewer of the PROCESS neutronics paper
+    []Priti Kanth
 []Use bedroom storage: stack boxes
     []stack boxes
     []Hang clothes
+Wednesday:
+[]Dig up unfolding algorithm paper stuff to give to Graeme
+    []Just find the 3 locations!
+[]pay grade appeal
+Thursday:
 []Write manual on how to un-jailbreak window
     - re-install limiter slide blocks with (generatsize 3?) allen keys, straighten latch holder.
-Thursday:
-[]Sell the two HDMI cables
-[]Buy fingernail brush
-[]Do washing up in Abingdon house
 []Car wash
 []vacuum sofa more thoroughly
-Friday:
-[]IKEA:
-    []shower curtain & rod
-    []Toilet brush (could also get from local store?)
-    []shelves
 Later:
 []Make CulBUG survey report
 []Clean out the gmail box
@@ -54,6 +53,7 @@ Later:
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail, bicycle
+[]Legendre polynomials again
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
 []Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
