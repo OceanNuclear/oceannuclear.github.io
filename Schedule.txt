@@ -1,26 +1,33 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Monday:
-[]Do washing up in Abingdon house
-[]Check for more white off GLR-125 for fairings
-[]Sell the two HDMI cables
 Tuesday:
-[]Papercut for bluemira
-[]ART reviewer of the PROCESS neutronics paper
-    []Priti Kanth
 []Use bedroom storage: stack boxes
     []stack boxes
     []Hang clothes
+[]SH.uk finish the test
+[]ADHD MED TITRATION REQUEST
+    - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
+    - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW 7138224702 Final Outcome Letter .pdf
+[]Homestore: footstool
 Wednesday:
+[]Read the Prospect AGM stuff
+[]Papercut for bluemira
+[]Did I pay my council tax yet?
+[]ART reviewer of the PROCESS neutronics paper
+    []Priti Kanth
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []Just find the 3 locations!
-[]pay grade appeal
+[]Clean up flat
 Thursday:
 []Write manual on how to un-jailbreak window
     - re-install limiter slide blocks with (generatsize 3?) allen keys, straighten latch holder.
 []Car wash
 []vacuum sofa more thoroughly
+Sunday:
+[]Sell the two HDMI cables
+[]Check for more write off GLR-125 for fairings
+[]pay grade appeal
 Later:
 []Make CulBUG survey report
 []Clean out the gmail box
