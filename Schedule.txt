@@ -2,11 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Saturday:
-[]Buy shower hose, memo pad, attempt to refund the shower hose
-[]Bring final stuff back to Abingdon
-    []Buy wooden planks for footstool, check what to do with mail @ mail sorting centre
-    []Car wash
-    []Tesco's own Brita filter
 []pay rent
     []pay council tax yet?
 []spreadsheet all bills
@@ -18,7 +13,12 @@ Saturday:
     - subject to getting memo paper
     - re-install limiter slide blocks with (size 3?) allen keys, straighten latch holder.
 Sunday:
+[]Leave review for Oxford wood recycling
 []Eye hospital referral
+[]motorcycle:
+    []Ferrocerium on boot
+    []dashboard fix
+    []Do maths for clutch friction
 []clean microwave
 []vacuum sofa more thoroughly
     []Clean mirror
