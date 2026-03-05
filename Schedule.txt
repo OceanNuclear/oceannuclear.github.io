@@ -1,57 +1,58 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Wednesday:
-[]Answer Mona
-[]SH.uk finish the test
 Thursday:
 []ADHD MED TITRATION REQUEST
-        - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
+    - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
     - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW7138224702FinalOutcomeLetter.pdf
-[]Write manual on how to un-jailbreak window
-    - subject to getting memo paper
-    - re-install limiter slide blocks with (size 3?) allen keys, straighten latch holder.
 []Buy ebay yoga pants or not?
     - https://www.ebay.co.uk/itm/236435838536?var=536982516420
 Friday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
+[]Write manual on how to un-jailbreak window
+    - subject to getting memo paper
+    - re-install limiter slide blocks with (size 3?) allen keys, straighten latch limiter
+[]Put up curtain rod
 Saturday:
+9am
 []Laundry
-[]Sort out toilet
+[]Sort toiletries
 []vacuum sofa more thoroughly
     []vacuum rest of the house
+        []Vacuum cleaner filter clean (then put into bath)
 []stack boxes in bedroom temporarily
-[]CulBUG
+12pm
+[]COSTCO (meh?)
 []Make CulBUG survey report
-Sunday:
 []pay grade appeal
+[]motorcycle dashboard fix
+Sunday:
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
-Later:
-[]CB125F:
-    []Check for more write off GLR-125 for fairings
-    []dashboard fix
-[]Ferrocerium on motorcycle boot
 []Clean gmail box
 []Clean outlook mail box
+[]Sell charger, door hangar (sell/donate: filament, glasses cases, laptop bag)
+Later:
+[]Check for more write off GLR-125 for fairings
+[]Ferrocerium on motorcycle boot
 []Give dates to the tasks in Alt+Shift+W (25 mins)
+[]Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
     []Write down requ/home/ocean/Self/Productivityirements of the workflow:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Subscribe to a newspaper (preferably with audio) (2 hours)
 []Flynn Disney newsletters (2 hours)
     - free energy principles
+[]Subscribe to a newspaper (preferably with audio) (2 hours)
 []Is there an iterative approach to the Bateman equation solving?
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
 []Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
 []SoME{1,2,3}
-[]I *can* rewrite the whole Scheduler.py..., probably don't have to though.
 []I'm going to fourier analyse the frequency of the logistic map, and plot!
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
