@@ -1,7 +1,7 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Saturday:
+Monday:
 []Buy light bulb
 []ADHD MED TITRATION REQUEST
     - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
@@ -16,6 +16,8 @@ Tuesday:
 []Start booking MK snowboard thing!
 Wedneday:
 []Try running bluemira neutronics scans on the office machine
+    - Must stay within the same HCPB, same blanket thickness, but different breederzone
+    - Why WCLL is considered unfair?
 Thursday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
