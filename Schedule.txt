@@ -1,35 +1,38 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Monday:
-[]Buy light bulb
+Tuesday:
 []ADHD MED TITRATION REQUEST
     - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
     - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW7138224702FinalOutcomeLetter.pdf
+[]pay grade appeal
 []Council tax
-[]Buy ebay yoga pants or not?
-    - https://www.ebay.co.uk/itm/236435838536?var=536982516420
-Tuesday:
-[]vacuum sofa more thoroughly
-    []Vacuum cleaner filter clean (then put into bath)
-    []spray clean house
-[]Start booking MK snowboard thing!
-Wedneday:
 []Try running bluemira neutronics scans on the office machine
     - Must stay within the same HCPB, same blanket thickness, but different breederzone
     - Why WCLL is considered unfair?
+Wednesday:
+[]Buy ebay yoga pants or not?
+    - https://www.ebay.co.uk/itm/236435838536?var=536982516420
+[]vacuum sofa more thoroughly
+    []Vacuum cleaner filter clean (then put into bath)
+    []spray clean house
+[]Go gym
+[]Start booking MK snowboard booking!
 Thursday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
+Saturday:
+[]Ikea trip: bathroom stuff
 Sunday:
+[]Clean gmail box
 []Make CulBUG survey report
-[]pay grade appeal
 []motorcycle dashboard fix
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
-[]Clean gmail box
 []Clean outlook mail box
 []Sell charger, door hangar, massage gun (sell/donate: filament, glasses cases, laptop bag)
+Monday:
+[]Unpack final four boxes of documents
 Later:
 []Check for more write off GLR-125 for fairings
 []Ferrocerium on motorcycle boot
