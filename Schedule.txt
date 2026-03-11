@@ -2,14 +2,16 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Tuesday:
+[]Morrisons - return keyboard
+[]Gym
+[]Writing paper!
+
 []ADHD MED TITRATION REQUEST
     - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
     - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW7138224702FinalOutcomeLetter.pdf
-[]pay grade appeal
-[]Check oil
-[]Refill plaster in bag
 []Council tax
-Wednesday:
+Thursday:
+[]pay grade appeal
 []Try running bluemira neutronics scans on the office machine
     - Must stay within the same HCPB, same blanket thickness, but different breederzone
     - Why WCLL is considered unfair?
@@ -18,7 +20,6 @@ Wednesday:
 []vacuum sofa more thoroughly
     []Vacuum cleaner filter clean (then put into bath)
     []spray clean house
-[]Go gym
 []Start booking MK snowboard booking!
 Thursday:
 []ART reviewer of the PROCESS neutronics paper
