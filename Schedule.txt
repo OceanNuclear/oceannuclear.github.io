@@ -1,41 +1,35 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Tuesday:
-[]Writing paper!
-    []Check the MT number definitions
+[]Tidy house
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
 []ADHD MED TITRATION REQUEST
     - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
     - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW7138224702FinalOutcomeLetter.pdf
-[]Council tax
-Thursday:
-[]pay grade appeal
-[]Try running bluemira neutronics scans on the office machine
-    - Must stay within the same HCPB, same blanket thickness, but different breederzone
-    - Why WCLL is considered unfair?
-[]Buy ebay yoga pants or not?
-    - https://www.ebay.co.uk/itm/236435838536?var=536982516420
+Saturday:
+[]Writing paper!
+[]Build living room cubicle?
+    []Unpack final four boxes of documents
+Tuesday:
 []vacuum sofa more thoroughly
     []Vacuum cleaner filter clean (then put into bath)
     []spray clean house
-[]Start booking MK snowboard booking!
 Thursday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
-Saturday:
-[]Ikea trip: bathroom stuff
-Sunday:
-[]Clean gmail box
+[]Council tax
+Sunday (22/03):
 []Make CulBUG survey report
-[]motorcycle dashboard fix
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
+[]Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 []Clean outlook mail box
-[]Sell charger, door hangar, massage gun (sell/donate: filament, glasses cases, laptop bag)
-Monday:
-[]Unpack final four boxes of documents
+[]Clean gmail box
 Later:
+[]Finish reviewing paper
 []Check for more write off GLR-125 for fairings
+[]Buy ebay yoga pants or not?
+    - https://www.ebay.co.uk/itm/236435838536?var=536982516420
 []Ferrocerium on motorcycle boot
 []Give dates to the tasks in Alt+Shift+W (25 mins)
 []Refactor the whole Scheduler.py
