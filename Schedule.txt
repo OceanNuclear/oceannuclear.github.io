@@ -1,15 +1,17 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Read Titration stuff
-[]Council tax
-[]Make optimizations for Ross
-[]Incorrect cross-section
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-
+[]Read Titration stuff
 []TKMaxx exchange shorts?
+[]Laundry
+[]Tidy house
 Thursday:
 []Bedsheet
+[]Make optimizations for Ross
+    []Adjust thicknesses and then try again
+[]Incorrect cross-section
+
 []Sportsbikeshop: pinlock
     []Collect IKEA Tray table
 []ART reviewer of the PROCESS neutronics paper
