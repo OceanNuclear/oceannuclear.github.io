@@ -1,14 +1,17 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]ADHD MED TITRATION REQUEST
-    - https://mail.google.com/mail/u/0/#search/ADHD/FMfcgzQfBslFrVXrtncSkMBFWgxccTlg
-    - /home/ocean/Documents/Work/18.Health/ADHDAssessment2026/HYW7138224702FinalOutcomeLetter.pdf
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
+[]Read Titration stuff
 []Council tax
+[]Make optimizations for Ross
 []Incorrect cross-section
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
+
+[]TKMaxx exchange shorts?
 Thursday:
-[]TKMaxx exchange shorts
+[]Bedsheet
+[]Sportsbikeshop: pinlock
+    []Collect IKEA Tray table
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 []vacuum sofa more thoroughly
@@ -27,7 +30,6 @@ Later:
 []Buy ebay yoga pants or not?
     - https://www.ebay.co.uk/itm/236435838536?var=536982516420
 []Ferrocerium on motorcycle boot
-[]Give dates to the tasks in Alt+Shift+W (25 mins)
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -37,11 +39,9 @@ Later:
         - bs: ... (do I backup WON-and-work as well?)
 []Flynn Disney newsletters (2 hours)
     - free energy principles
-[]Subscribe to a newspaper (preferably with audio) (2 hours)
 []Is there an iterative approach to the Bateman equation solving?
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
-[]Sign up for Conversation over Coffee
 []Sign up for mentoring: CPhys guidance needed
 []SoME{1,2,3}
 []I'm going to fourier analyse the frequency of the logistic map, and plot!
