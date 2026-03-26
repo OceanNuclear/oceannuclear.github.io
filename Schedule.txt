@@ -1,12 +1,12 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-[]Read Titration stuff
-[]TKMaxx exchange shorts?
 []Laundry
+[]Read Titration stuff
 []Tidy house
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
 Thursday:
+[]TKMaxx exchange shorts?
 []Bedsheet
 []Make optimizations for Ross
     []Adjust thicknesses and then try again
@@ -29,8 +29,6 @@ Sunday (22/03):
 Later:
 []Finish reviewing paper
 []Check for more write off GLR-125 for fairings
-[]Buy ebay yoga pants or not?
-    - https://www.ebay.co.uk/itm/236435838536?var=536982516420
 []Ferrocerium on motorcycle boot
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
