@@ -2,12 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 []Laundry
-[]Read Titration stuff
-[]Tidy house
+[]Vacuum house
+    []spray clean house
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-Thursday:
+
 []TKMaxx exchange shorts?
 []Bedsheet
+Thursday:
+[]Read Titration stuff
 []Make optimizations for Ross
     []Adjust thicknesses and then try again
 []Incorrect cross-section
@@ -17,8 +19,6 @@ Thursday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 []vacuum sofa more thoroughly
-    []Vacuum cleaner filter clean (then put into bath)
-    []spray clean house
 Sunday (22/03):
 []Make CulBUG survey report
 []Dig up unfolding algorithm paper stuff to give to Graeme
