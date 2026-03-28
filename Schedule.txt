@@ -1,35 +1,25 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Laundry
-[]Vacuum house
-    []spray clean house
+[]Abingdon: observe the crime committer
+    []Buy lens wipes from Poundland
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-
-[]TKMaxx exchange shorts?
 []Bedsheet
-Thursday:
-[]Read Titration stuff
+[]Laundry
+[]Respond to Anne about survey
+Monday:
 []Make optimizations for Ross
     []Adjust thicknesses and then try again
 []Incorrect cross-section
-
-[]Sportsbikeshop: pinlock
-    []Collect IKEA Tray table
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 []vacuum sofa more thoroughly
-Sunday (22/03):
+Easter:
+[]Pinned tabs in browser
+    []Read Titration stuff
 []Make CulBUG survey report
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
-[]Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
-[]Clean outlook mail box
-[]Clean gmail box
-Later:
-[]Finish reviewing paper
-[]Check for more write off GLR-125 for fairings
-[]Ferrocerium on motorcycle boot
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -37,6 +27,12 @@ Later:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Clean outlook mail box
+[]Clean gmail box
+Later:
+[]Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
+[]Check for more write off GLR-125 for fairings
+[]Ferrocerium on motorcycle boot
 []Flynn Disney newsletters (2 hours)
     - free energy principles
 []Is there an iterative approach to the Bateman equation solving?
