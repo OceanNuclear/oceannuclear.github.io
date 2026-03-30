@@ -1,15 +1,15 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Abingdon: observe the crime committer
-    []Buy lens wipes from Poundland
+[]Papercut
+[]Prep for WPENS DONES monthly catchup (absence apology) -> reject meeting invite
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-[]Bedsheet
-[]Laundry
-[]Respond to Anne about survey
-Monday:
+Tuesday:
 []Make optimizations for Ross
-    []Adjust thicknesses and then try again
+    []Thicknesses fix
+[]Write abstract
+Monday:
+[]Respond to Anne about survey
 []Incorrect cross-section
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
@@ -29,6 +29,9 @@ Easter:
         - bs: ... (do I backup WON-and-work as well?)
 []Clean outlook mail box
 []Clean gmail box
+Wednesday(08/04):
+[]Motorcycle: restore one part
+    []Tighten chain
 Later:
 []Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 []Check for more write off GLR-125 for fairings
