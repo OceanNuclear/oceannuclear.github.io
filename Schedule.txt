@@ -1,23 +1,21 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Papercut
-[]Prep for WPENS DONES monthly catchup (absence apology) -> reject meeting invite
+[]Helmet cardo repositioning
+[]Gym
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-Tuesday:
-[]Make optimizations for Ross
-    []Thicknesses fix
+Wednesday:
+[]Prep for WPENS DONES monthly catchup (absence apology) -> reject meeting invite
+[]Write OOO email
 []Write abstract
-Monday:
-[]Respond to Anne about survey
-[]Incorrect cross-section
-[]ART reviewer of the PROCESS neutronics paper
-    - Priti Kanth
-[]vacuum sofa more thoroughly
+[]Thicknesses fix
+Thursday:
+[]/home/ocean/Others/PROCESS/4017/git-replies.txt
 Easter:
 []Pinned tabs in browser
     []Read Titration stuff
 []Make CulBUG survey report
+    []Respond to Anne about survey
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
 []Refactor the whole Scheduler.py
@@ -30,8 +28,12 @@ Easter:
 []Clean outlook mail box
 []Clean gmail box
 Wednesday(08/04):
+[]Incorrect cross-section
+[]vacuum sofa more thoroughly
 []Motorcycle: restore one part
     []Tighten chain
+[]ART reviewer of the PROCESS neutronics paper
+    - Priti Kanth
 Later:
 []Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 []Check for more write off GLR-125 for fairings
