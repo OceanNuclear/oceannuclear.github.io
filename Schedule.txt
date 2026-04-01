@@ -2,7 +2,6 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-[]Prep for WPENS DONES monthly catchup (absence apology) -> reject meeting invite
 []Write abstract
 []Thicknesses fix
 Thursday:
