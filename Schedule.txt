@@ -1,12 +1,8 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Helmet cardo repositioning
-[]Gym
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks.pdf
-Wednesday:
 []Prep for WPENS DONES monthly catchup (absence apology) -> reject meeting invite
-[]Write OOO email
 []Write abstract
 []Thicknesses fix
 Thursday:
@@ -30,7 +26,9 @@ Easter:
 Wednesday(08/04):
 []Incorrect cross-section
 []vacuum sofa more thoroughly
-[]Motorcycle: restore one part
+[]Motorcycle repair:
+    []re-fit brake lever
+    []new fairing
     []Tighten chain
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
