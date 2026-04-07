@@ -1,19 +1,12 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Agree with Ash on the separate beds
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
-[]Thicknesses fix
-[]Write abstract
-Thursday:
-[]/home/ocean/Others/PROCESS/4017/git-replies.txt
-Easter:
-[]Pinned tabs in browser
-    []Read Titration stuff
+[]Try to schedule KIT trip
 []Make CulBUG survey report
     []Respond to Anne about survey
-[]Dig up unfolding algorithm paper stuff to give to Graeme
-    []~/Documents/PhD/Algorithm
+[]Write abstract
+Easter:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -21,9 +14,13 @@ Easter:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Dig up unfolding algorithm paper stuff to give to Graeme
+    []~/Documents/PhD/Algorithm
 []Clean outlook mail box
 []Clean gmail box
 Wednesday(08/04):
+[]Thicknesses fix
+[]/home/ocean/Others/PROCESS/4017/git-replies.txt
 []Incorrect cross-section
 []vacuum sofa more thoroughly
 []Motorcycle repair:
