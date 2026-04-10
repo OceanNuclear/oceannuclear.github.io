@@ -8,6 +8,8 @@ Friday:
 
 []Gym
 []Collect TGTG
+
+[]Vacuum
 []Write abstract
     - /home/ocean/Self/ChrisAsheNeutronDiffusion/2ndFusionNeutronicsMeeting
 Saturday:
