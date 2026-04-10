@@ -2,9 +2,11 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday:
-[]Refunds
-    []CB125F side panel
-    []TKMAXXX shorts
+[]CB125F side panel return
+[]TKMAXXX shorts refund
+[]Buy condensed milk?
+[]Gym
+[]Collect TGTG
 []Write abstract
     - /home/ocean/Self/ChrisAsheNeutronDiffusion/2ndFusionNeutronicsMeeting
 Saturday:
