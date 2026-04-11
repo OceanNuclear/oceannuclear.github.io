@@ -2,14 +2,7 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday:
-[]CB125F side panel return
 []TKMAXXX shorts refund
-[]Buy condensed milk?
-
-[]Gym
-[]Collect TGTG
-
-[]Vacuum
 []Write abstract
     - /home/ocean/Self/ChrisAsheNeutronDiffusion/2ndFusionNeutronicsMeeting
 Saturday:
@@ -17,6 +10,10 @@ Saturday:
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Make CulBUG survey report
     []Respond to Anne about survey
+[]Vacuum
+    []swap filter
+    []Clean filter
+[]SMS replies
 Monday:
 []Try to schedule KIT trip
 []Refactor the whole Scheduler.py
@@ -42,7 +39,7 @@ Wednesday(08/04):
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 Later:
-[]Sell charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
+[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 []Check for more write off GLR-125 for fairings
 []Ferrocerium on motorcycle boot
 []Flynn Disney newsletters (2 hours)
