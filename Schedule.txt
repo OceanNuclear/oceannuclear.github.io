@@ -1,19 +1,20 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Friday:
-[]TKMAXXX shorts refund
-[]Write abstract
-    - /home/ocean/Self/ChrisAsheNeutronDiffusion/2ndFusionNeutronicsMeeting
 Saturday:
+[]SMS replies
+[]New SIM card
+[]Google Tasks
+
+[]Clean vacuum filter
+[]accumulate Instagram saved posts into Google keep
+[]Send photos to Alex
+[]Wash pacsafe backpack
+
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Make CulBUG survey report
     []Respond to Anne about survey
-[]Vacuum
-    []swap filter
-    []Clean filter
-[]SMS replies
 Monday:
 []Try to schedule KIT trip
 []Refactor the whole Scheduler.py
