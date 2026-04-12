@@ -3,14 +3,13 @@
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Sunday:
 []accumulate Instagram saved posts into Google keep
-[]Send photos to Alex
 []Wash pacsafe backpack
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Make CulBUG survey report
     []Respond to Anne about survey
 Monday:
-[]submit meter reading
+[]Submit meter reading
 []Try to schedule KIT trip
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
@@ -23,7 +22,7 @@ Monday:
     []~/Documents/PhD/Algorithm
 []Clean outlook mail box
 []Clean gmail box
-Wednesday(08/04):
+Tuesday:
 []Thicknesses fix
 []Incorrect cross-section
 []vacuum sofa more thoroughly
