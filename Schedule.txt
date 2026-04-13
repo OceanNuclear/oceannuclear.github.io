@@ -3,18 +3,24 @@
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Monday:
 []Thicknesses fix
+    - automatically transition from inboard thicknesses to outboard thicknesses
+[]Try to schedule KIT trip
 []PPMI tracker
-    []Try to schedule KIT trip
+    - move the calendar block to tomorrow
 []Use Ross' input for OpenMC
     []Despline the CAD for Ross
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 Monday (home):
+[]Dry laundry
 []Accumulate Instagram saved posts into Google keep
 []Wash pacsafe backpack
 []Incorrect cross-section
-
+[]Road signs revision
+    - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
 []Submit meter reading
+Tuesday:
+[]Check if Lightning motorcycle can be rescheduled
 []Make CulBUG survey report
     []Respond to Anne about survey
 []Refactor the whole Scheduler.py
