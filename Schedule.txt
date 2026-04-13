@@ -4,8 +4,6 @@
 Monday:
 []Thicknesses fix
     - automatically transition from inboard thicknesses to outboard thicknesses
-[]PPMI tracker
-    - move the calendar block to tomorrow
 []Use Ross' input for OpenMC
     []Despline the CAD for Ross
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
