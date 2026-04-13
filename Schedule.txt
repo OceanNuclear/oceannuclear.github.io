@@ -1,16 +1,22 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Sunday:
-[]accumulate Instagram saved posts into Google keep
-[]Wash pacsafe backpack
+Monday:
+[]Thicknesses fix
+[]PPMI tracker
+    []Try to schedule KIT trip
+[]Use Ross' input for OpenMC
+    []Despline the CAD for Ross
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
+Monday (home):
+[]Accumulate Instagram saved posts into Google keep
+[]Wash pacsafe backpack
+[]Incorrect cross-section
+
+[]Submit meter reading
 []Make CulBUG survey report
     []Respond to Anne about survey
-Monday:
-[]Submit meter reading
-[]Try to schedule KIT trip
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -23,8 +29,6 @@ Monday:
 []Clean outlook mail box
 []Clean gmail box
 Tuesday:
-[]Thicknesses fix
-[]Incorrect cross-section
 []vacuum sofa more thoroughly
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
