@@ -4,7 +4,6 @@
 Monday:
 []Thicknesses fix
     - automatically transition from inboard thicknesses to outboard thicknesses
-[]Try to schedule KIT trip
 []PPMI tracker
     - move the calendar block to tomorrow
 []Use Ross' input for OpenMC
@@ -20,6 +19,7 @@ Monday (home):
     - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
 []Submit meter reading
 Tuesday:
+[]KIT trip schedule
 []Check if Lightning motorcycle can be rescheduled
 []Make CulBUG survey report
     []Respond to Anne about survey
