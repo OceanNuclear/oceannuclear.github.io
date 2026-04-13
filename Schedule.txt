@@ -4,7 +4,7 @@
 Monday:
 []Thicknesses fix
     - automatically transition from inboard thicknesses to outboard thicknesses
-[]Use Ross' input for OpenMC
+[]Use Ross' input to benchmark OpenMC
     []Despline the CAD for Ross
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
@@ -12,13 +12,14 @@ Monday (home):
 []Dry laundry
 []Accumulate Instagram saved posts into Google keep
 []Wash pacsafe backpack
-[]Incorrect cross-section
 []Road signs revision
     - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
 []Submit meter reading
 Tuesday:
 []KIT trip schedule
 []Check if Lightning motorcycle can be rescheduled
+Wednesday:
+[]Incorrect cross-section
 []Make CulBUG survey report
     []Respond to Anne about survey
 []Refactor the whole Scheduler.py
