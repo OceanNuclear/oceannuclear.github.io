@@ -5,6 +5,7 @@
     []Despline the CAD for Ross
 []Thicknesses fix
     - automatically transition from inboard thicknesses to outboard thicknesses
+[]Tissue, exchange the shark toy
 Tuesday:
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
@@ -12,7 +13,6 @@ Tuesday:
 []Road signs revision
     - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
 Wednesday:
-[]Decide to pay lightning motorcycle lesson fee or not
 []Accumulate Instagram saved posts into Google keep
 []Wash pacsafe backpack
 Thursday:
