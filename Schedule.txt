@@ -1,10 +1,11 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Use Ross' input to benchmark OpenMC
-    []Despline the CAD for Ross
 []Thicknesses fix
     - automatically transition from inboard thicknesses to outboard thicknesses
+[]Use Ross' input to benchmark OpenMC
+    []Despline the CAD for Ross
+[]Why not convex??
 Tuesday:
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
