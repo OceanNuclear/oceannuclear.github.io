@@ -2,21 +2,22 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 []Thicknesses fix
-    - automatically transition from inboard thicknesses to outboard thicknesses
-[]Use Ross' input to benchmark OpenMC
-    []Despline the CAD for Ross
-[]Why not convex??
-Tuesday:
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Wash trousers
+[]vacuum sofa more thoroughly
+Saturday:
 []Road signs revision
     - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
+Sunday:
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
+Monday:
+[]Use Ross' input to benchmark OpenMC
+    []Despline the CAD for Ross
+[]Incorrect cross-section
 Wednesday:
 []Accumulate Instagram saved posts into Google keep
 []Wash pacsafe backpack
 Thursday:
-[]Incorrect cross-section
 []Make CulBUG survey report
     []Respond to Anne about survey
 []Dig up unfolding algorithm paper stuff to give to Graeme
@@ -24,7 +25,6 @@ Thursday:
 []Clean outlook mail box
 []Clean gmail box
 Tuesday:
-[]vacuum sofa more thoroughly
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 Later:
