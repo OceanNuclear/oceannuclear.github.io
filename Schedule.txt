@@ -1,22 +1,24 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Thicknesses fix
-[]Wash trousers
-[]vacuum sofa more thoroughly
-Saturday:
-[]Road signs revision
-    - https://images.reading.gov.uk/2020/01/Friar-Street-Eastbound.pdf
-Sunday:
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
-Monday:
+[]Vacuum sofa more thoroughly
+[]Set-up voicemail
+[]Clip fingernails
+Wednesday:
+[]Talk to Stuart & Allan for conference funding
+[]Update Abstract
+    []submit to conference
 []Use Ross' input to benchmark OpenMC
     []Despline the CAD for Ross
-[]Incorrect cross-section
-Wednesday:
+Thursday:
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
+Friday:
+[]Incorrect cross-section: NUCLEAR DATA EXTRACTION
+Sunday:
 []Accumulate Instagram saved posts into Google keep
 []Wash pacsafe backpack
+[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 Thursday:
 []Make CulBUG survey report
     []Respond to Anne about survey
@@ -28,7 +30,6 @@ Tuesday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 Later:
-[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
