@@ -1,31 +1,31 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Buy protein powder, chocolate milk, knife, bottle of sparkling not-wine
+Friday/Saturday:
+[]Tree climbing organization
+
+[]Gym
+[]Clean living room
 []Vacuum sofa more thoroughly
+[]Compress OceanWongUK photos
 []Set-up voicemail
-Wednesday:
+
 []Use Ross' input to benchmark OpenMC
     []Despline the CAD for Ross
-[]Update Abstract
-    []submit to conference
-Thursday:
-[]Tree climbing organization
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
-[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 Friday:
 []Incorrect cross-section: NUCLEAR DATA EXTRACTION
-Sunday:
-[]Accumulate Instagram saved posts into Google keep
-[]Wash pacsafe backpack
+Tuesday:
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
+[]/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
-Thursday:
 []Make CulBUG survey report
     []Respond to Anne about survey
-[]Dig up unfolding algorithm paper stuff to give to Graeme
-    []~/Documents/PhD/Algorithm
+[]Accumulate Instagram saved posts into Google keep
 []Clean outlook mail box
 []Clean gmail box
+Thursday:
+[]Dig up unfolding algorithm paper stuff to give to Graeme
+    []~/Documents/PhD/Algorithm
 Tuesday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
