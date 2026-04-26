@@ -2,18 +2,14 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Friday/Saturday:
-[]Tree climbing organization
-
-[]Gym
-[]Clean living room
 []Vacuum sofa more thoroughly
 []Compress OceanWongUK photos
 []Set-up voicemail
-
 []Use Ross' input to benchmark OpenMC
     []Despline the CAD for Ross
 Friday:
 []Incorrect cross-section: NUCLEAR DATA EXTRACTION
+[]Reply to Ross about foil selector
 Tuesday:
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
