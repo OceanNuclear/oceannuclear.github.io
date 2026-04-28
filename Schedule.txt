@@ -4,7 +4,7 @@
 Monday:
 []Take Annual leave for motorcycle and medical leave for opthalmology clinic
 []Set-up voicemail
-[]Use Ross' input to benchmark OpenMC
+[]foil selector: workshop
 Friday:
 []Incorrect cross-section: NUCLEAR DATA EXTRACTION
 Tuesday:
