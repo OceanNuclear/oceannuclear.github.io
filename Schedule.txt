@@ -1,23 +1,22 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Monday:
-[]Take Annual leave for motorcycle and medical leave for opthalmology clinic
-[]Set-up voicemail
+Saturday:
+[]Simmer sorted - reschedule meal delivery asap
+[]As Chris Cousins if he wants the part back
 []foil selector: workshop
-Friday:
-[]Incorrect cross-section: NUCLEAR DATA EXTRACTION
-Tuesday:
+    []Incorrect cross-section: NUCLEAR DATA EXTRACTION
+    []Confirm that workshop is on Monday/Tuesday
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
-[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag)
+[]Tree climbing organization
+[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag), other motorcycle stuff
 []Make CulBUG survey report
     []Respond to Anne about survey
+Monday:
 []Accumulate Instagram saved posts into Google keep
 []Clean outlook mail box
 []Clean gmail box
-Wednesday:
-[]Clean chains
 Thursday:
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
