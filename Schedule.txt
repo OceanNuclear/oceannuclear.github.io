@@ -1,19 +1,16 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Wednesday night:
-[]Tree climbing update
-[]Oil change + bike chain tightening
-    []Speak to Jam at Lateskate
-[]Toothbrush + ketchup
-[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag), other motorcycle stuff
 Thursday:
+[]Late Skate: ask about warped deck
+[]Buy ketchup and spare toothbrush
+[]Sell laptop charger, door hangar, massage gun, bicycle (sell/donate: filament, glasses cases, laptop bag), all remaining intact motorcycle parts + fairing
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/unfolding_paper_mk1.pdf
 []Incorrect cross-section: NUCLEAR DATA EXTRACTION
     []Fix git histories re: foilselector
 []PROCESS neutronics
-
 []p1 approximation
+
 []/home/ocean/Documents/PTNR/CulhamFusion/AllPapers/ReadingList/concrete_benchmarks2.pdf
 []Make CulBUG survey report
     []Respond to Anne about survey
