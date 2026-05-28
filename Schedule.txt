@@ -10,6 +10,7 @@ Thursday:
     []sh.uk
 []Tinker with mailbox lock
 []Sort CCTV footage
+[]Bike gear ratio calculator
 Monday:
 []Citizen's advice?
 []Where the fuck is my lanyard key????
