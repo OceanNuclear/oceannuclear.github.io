@@ -2,10 +2,9 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Thursday:
-[]parking ticket!!!
-[]Upgrade the voltage board longboard
 []Make Openmc simulation to prove that process neutronics works
 []LiteLok
+[]Check w/ Yuefeng about talk v.s. poster & change speaker name
 
 []Clean desk
     []sh.uk
@@ -13,7 +12,7 @@ Thursday:
 []Sort CCTV footage
 Monday:
 []Citizen's advice?
-[]Where the fuck is my lanyard and key????
+[]Where the fuck is my lanyard key????
 Wednesday:
 []Jonny's attempt at optimization
 []Sell laptop charger, door hangar, massage gun, (sell/donate: filament, glasses cases, laptop bag,) all remaining intact motorcycle parts + fairing
