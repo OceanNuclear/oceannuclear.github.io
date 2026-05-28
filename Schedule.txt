@@ -8,6 +8,7 @@ Thursday:
 
 []Clean desk
     []sh.uk
+[]Reschedule delivery for tomorrow
 []Tinker with mailbox lock
 []Sort CCTV footage
 []Bike gear ratio calculator
