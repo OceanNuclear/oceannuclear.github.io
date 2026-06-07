@@ -2,15 +2,12 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Tuesday:
-[]email 2nd fusion neutronics meeting organizers about cancellation
-[]Send Ross what I need for foil selector
-[]Clean desk
-    []sh.uk
-[]/home/ocean/Downloads/WhatsApp Image 2026-05-28 at 23.38.30.jpeg
-
+[]Book motorcycle test
+[]sh.uk
 []Jonny's attempt at optimization
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
+[]Refund ebay watch
 []Pump tyre
 Home(Thursday):
 []LiteLok
