@@ -2,15 +2,13 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Tuesday:
-[]Drop off watch for refund
-    []Send Cosi letter too
-[]Gym
-    []Maybe Lidl
-
 []Set-up samsung tracker
-[]LiteLok
 []Jonny's attempt at optimization
-[]sh.uk
+[]Confirm ebay bike sale?
+[]LiteLok
+[]Clean outlook mail box
+[]Clean gmail box
+
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
 Home(Thursday):
@@ -22,8 +20,6 @@ Home(Thursday):
 []Sell laptop charger, door hangar, (sell/donate: filament, glasses cases, laptop bag,) all remaining intact motorcycle parts + fairing
 Monday:
 []Accumulate Instagram saved posts into Google keep
-[]Clean outlook mail box
-[]Clean gmail box
 Thursday:
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
