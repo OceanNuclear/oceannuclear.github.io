@@ -2,33 +2,29 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Tuesday:
+[]Clean outlook mail box
 []Poundland: compression tube and lens wipes
 []Collect Stick vac in The Range Reading (and check out the range for homeware stuff)
 []CCTV collection
 []Climbing
 
-[]Canyoning: instagram update -> spread out the credit
-[]Clean outlook mail box
 []Clean gmail box
 []Jonny's attempt at optimization
-[]LiteLok
+[]Make CulBUG survey report
+Thursday:
+[]Bike gear ratio calculator
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
+[]Check for more write off GLR-125 for fairings
+Friday:
+[]Packing for MTB trip
+[]Canyoning: instagram update -> spread out the credit
+    []Accumulate Instagram saved posts into Google keep
+Later:
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
-Home(Tuesday):
-[]Bike gear ratio calculator
 []Tinker with mailbox lock
-[]Make CulBUG survey report
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
-Monday:
-[]Accumulate Instagram saved posts into Google keep
-Thursday:
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
-Tuesday:
-[]ART reviewer of the PROCESS neutronics paper
-    - Priti Kanth
-Later:
-[]MP - community safety
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -36,8 +32,8 @@ Later:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
-[]Check for more write off GLR-125 for fairings
 []Flynn Disney newsletters (2 hours)
     - free energy principles
 []Is there an iterative approach to the Bateman equation solving?
