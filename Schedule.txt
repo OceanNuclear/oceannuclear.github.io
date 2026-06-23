@@ -2,22 +2,23 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Tuesday:
-[]Set-up samsung tracker
-[]Jonny's attempt at optimization
-[]Confirm ebay bike sale?
-[]LiteLok
+[]Poundland: compression tube and lens wipes
+[]Collect Stick vac in The Range Reading (and check out the range for homeware stuff)
+[]CCTV collection
+[]Climbing
+
+[]Canyoning: instagram update -> spread out the credit
 []Clean outlook mail box
 []Clean gmail box
-
+[]Jonny's attempt at optimization
+[]LiteLok
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
-Home(Thursday):
-[]Pump tyre
+Home(Tuesday):
 []Bike gear ratio calculator
 []Tinker with mailbox lock
-[]Sort CCTV footage
 []Make CulBUG survey report
-[]Sell laptop charger, door hangar, (sell/donate: filament, glasses cases, laptop bag,) all remaining intact motorcycle parts + fairing
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
 Monday:
 []Accumulate Instagram saved posts into Google keep
 Thursday:
@@ -27,8 +28,7 @@ Tuesday:
 []ART reviewer of the PROCESS neutronics paper
     - Priti Kanth
 Later:
-[]Citizen's advice for my legal case
-[]Where the fuck is my lanyard key????
+[]MP - community safety
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
