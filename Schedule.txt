@@ -1,19 +1,16 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Monday:
+Wednesday:
+[]Rust talk
+[]BENCHMARKING
 []Select paper for journal club
-[]Call Jack and Sam
+[]Get parcel from downstairs
+[]Reply to Rebecca Concannon
 
-[]Take Jane to yarn supply + Nag's Head
-    []Motorcycle maintenance: ask for nut!, can't open seat
 []motorcycle maintenance: chain replacement
     []Oil change? does this work? If not refund.
-[]Vacuum again
-[]Reply to Rebecca Concannon
-Wednesday:
 []Buy gloves
-[]Get parcel from downstairs
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
 
 []Fix Chris Ashe's plotting bug
