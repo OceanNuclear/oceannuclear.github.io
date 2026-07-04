@@ -1,21 +1,28 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Wednesday:
-[]Rust talk
-[]BENCHMARKING
-[]Select paper for journal club
-[]Get parcel from downstairs
-[]Reply to Rebecca Concannon
+Thursday:
+[]Sam's 99p store, Momo Nepal
+[]Oxford supermarket
+[]Chinese supermarket
 
+[x]Bought bike
+[]Wipe floor
+[]Fix table mess
+[]Reply to Rebecca Concannon
+[]Credit card refund of £10.99 (JD gym)
+    []Check finance: how much credit card to pay before debt?
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
 []motorcycle maintenance: chain replacement
     []Oil change? does this work? If not refund.
-[]Buy gloves
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
-
+[]itinerary
+    []Book train
+Monday:
+[]Select paper for journal club
 []Fix Chris Ashe's plotting bug
-[]Check finance: how much credit card to pay before debt?
 []Make CulBUG survey report
+[]Motorcycle with Gill
+    []Check motorcycles
 []Bike gear ratio calculator
 []Check for more write off GLR-125 for fairings
 
