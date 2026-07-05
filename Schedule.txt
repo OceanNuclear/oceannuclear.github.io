@@ -1,22 +1,14 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Thursday:
-[]Sam's 99p store, Momo Nepal
-[]Oxford supermarket
-[]Chinese supermarket
-
-[x]Bought bike
-[]Wipe floor
-[]Fix table mess
-[]Reply to Rebecca Concannon
+Sunday:
+[]Add oil to bike
+[]Read stuff in backpack
+[]Bike register
 []Credit card refund of £10.99 (JD gym)
-    []Check finance: how much credit card to pay before debt?
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
+[]Check finance: how much credit card to pay before debt?
 []motorcycle maintenance: chain replacement
-    []Oil change? does this work? If not refund.
-[]itinerary
-    []Book train
+    []oil change
 Monday:
 []Select paper for journal club
 []Fix Chris Ashe's plotting bug
@@ -29,14 +21,15 @@ Monday:
 []Clean outlook mail box
 []Clean gmail box
 []Jonny's attempt at optimization
+Thursday (come back to flat):
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
+[]Ask Ning about Canyoning credit
+[]Add bike tracker
 Friday:
-[]Laundry
-[]Poundland: compression tube, lens wipes, ibuprofen
-[]Packing for MTB trip
-[]Canyoning: instagram update -> spread out the credit
-    []Accumulate Instagram saved posts into Google keep
+[]Get MORE CCTV footage
+[]Flight to Riga!
+[]Accumulate Instagram saved posts into Google keep
 Later:
-[]JU.eu reply
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
 []Tinker with mailbox lock
