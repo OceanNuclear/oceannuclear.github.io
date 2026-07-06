@@ -4,6 +4,7 @@
 []FOILSELECTOR
 []Gym
 []clean jeans
+[]Order watch
 Tuesday:
 []Fix Chris Ashe's plotting bug
 []motorcycle maintenance: chain replacement
