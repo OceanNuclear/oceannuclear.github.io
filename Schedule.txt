@@ -1,40 +1,34 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Order watch
-    []Return old watch
-[]Riga Flights
-[]Measure pull-up bar
-[]FOILSELECTOR
-[]Gym
-Tuesday:
-Wednesday:
-[]Fix Chris Ashe's plotting bug
-[]motorcycle maintenance: chain replacement
-    []oil change
+[]New strap for phone
 []clean jeans
-[]Make CulBUG survey report
-[]Bike gear ratio calculator
-[]Check for more write off GLR-125 for fairings
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
-[]Clean outlook mail box
-[]Clean gmail box
-[]Jonny's attempt at optimization
-Thursday (come back to flat):
+[]Fix Chris Ashe's plotting bug
 []Ask Ning about Canyoning credit
-[]Add bike tracker
-[]Change bike tyre
+[]Reply to Chanel
 Friday:
+[]transplant bike attachment
+    []Add bike tracker
+[]Change bike tyre?
+[]Pack for Edinburgh!
+    []Mangoes
 []Get MORE CCTV footage
 []Journal club
-[]Flight to Riga!
+[]Prep house for inspection
 []Accumulate Instagram saved posts into Google keep
+[]Clean gmail box
 Later:
-[]Check motorcycles
 []British cycling insurance cover
+[]motorcycle maintenance: chain replacement
+    []oil change
+[]Check for more write off GLR-125 for fairings
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing
+[]Bike gear ratio calculator
+[]Jonny's attempt at optimization
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
-[]Tinker with mailbox lock
+[]Make CulBUG survey report
+[]Clean outlook mail box
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
 []Refactor the whole Scheduler.py
