@@ -1,15 +1,15 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Buy groceries (food + polish fish) in Aldi, buy ginger
-[]Buy water jug
-[]Buy shorts+ razors in TK maXX
-[]Boots: anti-itch cream
-
-[]Fish out the mail
+Monday:
 []Clean jeans
-[]Decathlon: pannier rack?
-Friday:
+[]Shave
+Thursday:
+[]Vinted: Brita jugs
+[]TKMaxx: razor, short shorts, electric scale?
+    []wellhome: pillow
+[]Go Compare for bike insurance
+[]Bike register: Register bikes
 []Accumulate Instagram saved posts into Google keep
 []Clean gmail box
 Later:
@@ -21,7 +21,6 @@ Later:
     []oil change
 []Check for more write off GLR-125 for fairings
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
-[]Bike gear ratio calculator
 []Jonny's attempt at optimization
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
