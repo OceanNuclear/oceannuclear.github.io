@@ -1,34 +1,33 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Set up file sharing w/ Jane
-[]Instagram post
-Tuesday:
-[]Write the RAP (Reasonable Adjustment Plan)
-[]Go Compare for bike insurance
-    []British cycling insurance cover
+Wednesday:
+[]Collect parcel, ask stone mason place about carving knife
+[]Work on journal club
+[]Call Simon Reay about whether I have to report or not
+
 []Bike register: Register bikes
+[]Write the RAP (Reasonable Adjustment Plan)
 []Executive planning session every day?
-[]Thomas Frank
+[]Clean outlook mailbox
+[]Clean gmail box
+[]Fix Chris Ashe's plotting bug
 Thursday:
-[]Buy gifts for Jane ❤️
-[]TKMaxx: razor, short shorts, electric scale?
+[]Instagram post
+[]TKMaxx: razor, short shorts
     []wellhome: pillow
 []Accumulate Instagram saved posts into Google keep
-[]Clean gmail box
 Later:
-[]Fix Chris Ashe's plotting bug
-[]Journal club
 []Ask Ning about Canyoning credit
 []motorcycle maintenance: chain replacement
     []oil change
 []Check for more write off GLR-125 for fairings
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
+[]Get Train API data
 []Jonny's attempt at optimization
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
 []Make CulBUG survey report
-[]Clean outlook mail box
 []Dig up unfolding algorithm paper stuff to give to Graeme
     []~/Documents/PhD/Algorithm
 []Refactor the whole Scheduler.py
@@ -45,13 +44,14 @@ Later:
 []Is there an iterative approach to the Bateman equation solving?
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
-[]Sign up for mentoring: CPhys guidance needed
+[]Sign up for mentoring: sfG in the email: CPhys guidance needed
 []SoME{1,2,3}
 []I'm going to fourier analyse the frequency of the logistic map, and plot!
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Control theory analysis: gyro monorail, bicycle
+[]Surface Wetness data: download from certain API?
 []Learn Legendre polynomials again
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
