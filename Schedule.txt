@@ -2,45 +2,56 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Wednesday:
-[]Collect parcel, ask stone mason place about carving knife
-[]Work on journal club
-[]Call Simon Reay about whether I have to report or not
+[]Work on Journal Club
+[]Write the RAP (Reasonable Adjustment Plan) on Chrome:
+    - https://ukaeauk-my.sharepoint.com/:w:/g/personal/james_morris2_ukaea_uk/IQBhHwC2ySpIR4LziF2XKyIhAcTxdNUytNclU5EqqHONgdI?e=M9HgfN&isSPOFile=1&ovuser=c6ac664b-ae27-4d5d-b4e6-bb5717196fc7%2Cocean.wong%40ukaea.uk&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=cb7b9e4a-0d1d-4ce4-8f3c-935ebd4b387d&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI2MDYxMTE4MjE2In0%3D&linkOpenTime=1784557534214
+[]Ask Jane about stone carving knife
 
-[]Bike register: Register bikes
-[]Write the RAP (Reasonable Adjustment Plan)
 []Executive planning session every day?
-[]Clean outlook mailbox
 []Clean gmail box
-[]Fix Chris Ashe's plotting bug
+    []Organize mailbox
+        []trainsplit, trainpal
+        []LinkedIn
+        []Meta/social media login confirmation
+        []Eat Ping, Simmer
+        []Motorcycle stuff:
+            []DVLA
+            []Sportsbikeshop
+        []Insurance (Admiral, bicycle (go compare), )
+        []bike register
+        []home-energy, Thames Water, Prospect -> Reading Flat
+        []Prospect Union
+        []Vandem
+[]Login icloud on iphone
+[]Register second bike
+[]Gym?
+[]Clean house
 Thursday:
-[]Instagram post
+[]Read Kimberley's thesis
+[]Fix Chris Ashe's plotting bug
 []TKMaxx: razor, short shorts
     []wellhome: pillow
-[]Accumulate Instagram saved posts into Google keep
 Later:
+[]Accumulate Instagram saved posts into Google keep
+[]Instagram post
 []Ask Ning about Canyoning credit
-[]motorcycle maintenance: chain replacement
-    []oil change
-[]Check for more write off GLR-125 for fairings
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
+[]Check for more write off GLR-125 for fairings
 []Get Train API data
-[]Jonny's attempt at optimization
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
-[]Make CulBUG survey report
-[]Dig up unfolding algorithm paper stuff to give to Graeme
-    []~/Documents/PhD/Algorithm
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
-    []Write down requ/home/ocean/Self/Productivityirements of the workflow:
+    []Write down requirements of the workflow:
+        - /home/ocean/Self/Productivity
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]write to MP re: my case: community safety is at threat!
-[]Ferrocerium on motorcycle boot
 []Flynn Disney newsletters (2 hours)
     - free energy principles
+[]write to MP re: my case: community safety is at threat!
+[]Ferrocerium on motorcycle boot
 []Is there an iterative approach to the Bateman equation solving?
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
