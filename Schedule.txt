@@ -22,12 +22,13 @@ Wednesday:
         []home-energy, Thames Water, Prospect -> Reading Flat
         []Prospect Union
         []Vandem
+[]Gym?
+Thursday:
 []Login icloud on iphone
 []Register second bike
-[]Gym?
 []Clean house
-Thursday:
 []Read Kimberley's thesis
+
 []Fix Chris Ashe's plotting bug
 []TKMaxx: razor, short shorts
     []wellhome: pillow
