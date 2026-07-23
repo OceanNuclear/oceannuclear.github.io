@@ -3,18 +3,23 @@
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Wednesday:
 []Write the RAP (Reasonable Adjustment Plan) on Chrome:
-    - https://ukaeauk-my.sharepoint.com/:w:/g/personal/james_morris2_ukaea_uk/IQBhHwC2ySpIR4LziF2XKyIhAcTxdNUytNclU5EqqHONgdI?e=M9HgfN&isSPOFile=1&ovuser=c6ac664b-ae27-4d5d-b4e6-bb5717196fc7%2Cocean.wong%40ukaea.uk&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=cb7b9e4a-0d1d-4ce4-8f3c-935ebd4b387d&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI2MDYxMTE4MjE2In0%3D&linkOpenTime=1784557534214
 []Ask Jane about stone carving knife
-
-[]Executive planning session every day?
 []Floss and brush
+Friday:
+[]Incorrect cross-section: nuclear data extraction
+    []Fix git histories re: foilselector
+    []Compile the list of problems, demonstrate
+    []AI to build UI?
+[]Read Kimberley's thesis
+[]Executive planning session every day?
+[]Fix Chris Ashe's plotting bug
+[]Gym?
+[]SBS: try out clothes
+    []Get credit for top box
+
 []Login icloud on iphone
 []Register second bike
-Friday:
-[]Gym?
 []Clean house
-[]Read Kimberley's thesis
-[]Fix Chris Ashe's plotting bug
 []TKMaxx: razor, short shorts
     []wellhome: pillow
 Later:
@@ -24,8 +29,6 @@ Later:
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
 []Check for more write off GLR-125 for fairings
 []Get Train API data
-[]Incorrect cross-section: nuclear data extraction
-    []Fix git histories re: foilselector
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
