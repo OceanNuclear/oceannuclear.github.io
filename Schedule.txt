@@ -2,21 +2,21 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Wednesday:
-[]Write the RAP (Reasonable Adjustment Plan) on Chrome:
+[]Write the RAP (Reasonable Adjustment Plan) on Chrome
+    []Executive planning session every day?
 []Ask Jane about stone carving knife
 []Floss and brush
 Friday:
+[]Gym?
 []Incorrect cross-section: nuclear data extraction
     []Fix git histories re: foilselector
     []Compile the list of problems, demonstrate
     []AI to build UI?
 []Read Kimberley's thesis
-[]Executive planning session every day?
 []Fix Chris Ashe's plotting bug
-[]Gym?
+
 []SBS: try out clothes
     []Get credit for top box
-
 []Login icloud on iphone
 []Register second bike
 []Clean house
