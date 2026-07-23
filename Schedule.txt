@@ -2,33 +2,18 @@
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
 Wednesday:
-[]Work on Journal Club
 []Write the RAP (Reasonable Adjustment Plan) on Chrome:
     - https://ukaeauk-my.sharepoint.com/:w:/g/personal/james_morris2_ukaea_uk/IQBhHwC2ySpIR4LziF2XKyIhAcTxdNUytNclU5EqqHONgdI?e=M9HgfN&isSPOFile=1&ovuser=c6ac664b-ae27-4d5d-b4e6-bb5717196fc7%2Cocean.wong%40ukaea.uk&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=cb7b9e4a-0d1d-4ce4-8f3c-935ebd4b387d&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI2MDYxMTE4MjE2In0%3D&linkOpenTime=1784557534214
 []Ask Jane about stone carving knife
 
 []Executive planning session every day?
-[]Clean gmail box
-    []Organize mailbox
-        []trainsplit, trainpal
-        []LinkedIn
-        []Meta/social media login confirmation
-        []Eat Ping, Simmer
-        []Motorcycle stuff:
-            []DVLA
-            []Sportsbikeshop
-        []Insurance (Admiral, bicycle (go compare), )
-        []bike register
-        []home-energy, Thames Water, Prospect -> Reading Flat
-        []Prospect Union
-        []Vandem
-[]Gym?
-Thursday:
+[]Floss and brush
 []Login icloud on iphone
 []Register second bike
+Friday:
+[]Gym?
 []Clean house
 []Read Kimberley's thesis
-
 []Fix Chris Ashe's plotting bug
 []TKMaxx: razor, short shorts
     []wellhome: pillow
