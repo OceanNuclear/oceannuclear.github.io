@@ -38,7 +38,6 @@ Later:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 []Flynn Disney newsletters (2 hours)
-    - free energy principles
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
 []Is there an iterative approach to the Bateman equation solving?
