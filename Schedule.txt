@@ -1,20 +1,12 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-Wednesday:
 []Write the RAP (Reasonable Adjustment Plan) on Chrome
     []Executive planning session every day?
-[]Ask Jane about stone carving knife
-[]Floss and brush
-Friday:
-[]Gym?
-[]Incorrect cross-section: nuclear data extraction
-    []Fix git histories re: foilselector
-    []Compile the list of problems, demonstrate
-    []AI to build UI?
-[]Read Kimberley's thesis
 []Fix Chris Ashe's plotting bug
 
+[]Gym?
+[]Floss and Brush
 []SBS: try out clothes
     []Get credit for top box
 []Login icloud on iphone
@@ -22,6 +14,12 @@ Friday:
 []Clean house
 []TKMaxx: razor, short shorts
     []wellhome: pillow
+Monday:
+[]foilselector
+    []Meeting
+    []Debug table bug
+Tuesday:
+[]Read Kimberley's thesis
 Later:
 []Accumulate Instagram saved posts into Google keep
 []Instagram post
@@ -55,4 +53,3 @@ Interesting/recreational/entertaining:
 []Make animated visualization of Lagrangian multipliers
 []vimtutor
 []Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
-[]AI MOOC learning (pinned email to myself)
