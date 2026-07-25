@@ -1,20 +1,23 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud
 2. Add barriers to using resources for tasks other than the current one.
 3. Actually bother to use my executive function to plan out a couple of the sub-tasks.
-[]Write the RAP (Reasonable Adjustment Plan) on Chrome
-    []Executive planning session every day?
-[]Fix Chris Ashe's plotting bug
-
-[]Gym?
+Saturday:
 []Floss and Brush
+[]Collect parcel
 []SBS: try out clothes
     []Get credit for top box
-[]Login icloud on iphone
-[]Register second bike
-[]Clean house
 []TKMaxx: razor, short shorts
     []wellhome: pillow
+
+[]Gym
+[]Write the RAP (Reasonable Adjustment Plan) on Chrome
+    []Executive planning session every day?
+[]Vacuum house
+[]Organize cupboards
+Sunday:
+[]Get Whatsapp to backup again?
 Monday:
+[]Fix Chris Ashe's plotting bug
 []foilselector
     []Meeting
     []Debug table bug
