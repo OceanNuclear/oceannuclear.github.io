@@ -2,15 +2,15 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 []Write the RAP (Reasonable Adjustment Plan) on Chrome
+[]Reply to foil selector meeting minutes
+[]Read Kimberley's thesis
+[]Fix Chris Ashe's plotting bug
+[]Fix top box
 []foilselector
     []Debug table bug
     - EGAF
-    []Read about sum rule
-[]Fix top box
+    []Read IRDFF documentation :(
 Tuesday:
-[]Fix Chris Ashe's plotting bug
-[]Call JD gym
-[]Read Kimberley's thesis
 []Wellhome: pillow
 []Tkmaxx pistachio paste
 []Receive delivery -> wrap!
@@ -22,7 +22,7 @@ Wednesday:
 Later:
 []Accumulate Instagram saved posts into Google keep
 []Instagram post
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag,) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing, Boardman X7 aluminium bike
 []Check for more write off GLR-125 for fairings
 []Get Train API data
 []Refactor the whole Scheduler.py
