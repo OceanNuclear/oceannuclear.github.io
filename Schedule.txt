@@ -11,6 +11,7 @@ Tuesday:
     []Gap gap
     []Sports Direct
     []Chill cup?
+    []Toilet roll
 []Motorcycle maintenace
 []Upload insurance document
 []Pay road tax
