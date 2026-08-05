@@ -3,18 +3,29 @@
 3. Add barriers to using resources for tasks other than the current one.
 Tuesday:
 []JD Gym: membership issue
+    []Brita jug
+    []Return B&Q parcel
+    []check out that restaurant?
+[]Gap gap
+    []Chill cup?
+
 []Upload insurance document
 []Pay road tax
-[]Mental simulation of stickshift
+    []Ignore the autorenew from Lexham
 []o***es
-[]Get Train API data
-[]Sell Boardman X7 aluminium bike
-Wednesday:
 []Accumulate Instagram saved posts into Google keep
+[]Sell Boardman X7 aluminium bike
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
+[]Flynn Disney newsletters (2 hours)
+
+[]Bring cooked rice
 []Instagram post: arrest, Jane + bike trip
     - missing: HK post, 2023 climbing post?, 2023 summer post.
 []Decorate wall
 Thursday:
+[]Threadlocker
+[]Sign up for mentoring: sfG in the email: CPhys guidance needed
+[]Look at what Jane sent: UKAEA procedure
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -24,16 +35,13 @@ Thursday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Thursday (13/08):
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
-[]Flynn Disney newsletters (2 hours)
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
+[]Get Train API data
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
-[]Is there an iterative approach to the Bateman equation solving?
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
-[]Sign up for mentoring: sfG in the email: CPhys guidance needed
 []SoME{1,2,3}
 []I'm going to fourier analyse the frequency of the logistic map, and plot!
 []3D print particle on a hill
