@@ -5,7 +5,7 @@ Tuesday:
 []JD Gym: membership issue
     []Brita jug
     []Return B&Q parcel
-    []check out that restaurant?
+    []check out soul chill, morrisons
 []Gap gap
     []Chill cup?
 
@@ -47,9 +47,9 @@ Thursday (13/08):
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]vimtutor
 []Control theory analysis: gyro monorail, bicycle
 []Surface Wetness data: download from certain API?
 []Learn Legendre polynomials again
 []Make animated visualization of Lagrangian multipliers
-[]vimtutor
 []Build an interactive web Brownian motion simulation to show the concept of how fusion yields heat
