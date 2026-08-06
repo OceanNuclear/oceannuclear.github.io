@@ -2,18 +2,13 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Bring cooked rice
-[]Upload insurance document
 []Pay road tax
-    []Ignore the autorenew from Lexham
-[]Accumulate Instagram saved posts into Google keep
-
-[]Flynn Disney newsletters (2 hours)
-[]Sports Direct
-[]Threadlocker
-[]Look at what Jane sent: UKAEA procedure
+[]Ignore the autorenew from Lexham
+[]Find snacks to bring
 []Sign up for mentoring: sfG in the email: CPhys guidance needed
+[]Look at what Jane sent: UKAEA procedure
 []Refactor the whole Scheduler.py
+[]Lock motorbike
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
@@ -21,10 +16,17 @@ Thursday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Friday:
-[]Lock motorbike
+
+[]Sports Direct
+[]Apply threadlocker
+[]Scan driving license, V5, CBT-cert, mod1-mod2-cert -> save to computer
 []Sell Boardman X7 aluminium bike
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
+[]Flynn Disney newsletters (2 hours)
+[]Accumulate Instagram saved posts into Google keep
+    - https://quote.principalinsurance.co.uk/documentupload/Home/ListPolicy
+    - don't upload CBT
+Friday:
 []Instagram post: arrest, Jane + bike trip
     - missing: HK post, 2023 climbing post?, 2023 summer post.
 Thursday (13/08):
