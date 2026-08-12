@@ -2,9 +2,8 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Wednesday:
-[]Tyre change
-[]Go workout!
 []Oil up Board Unc
+[]Write HK legal letter
 
 []Sell Boardman X7 aluminium bike
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
@@ -13,6 +12,7 @@ Wednesday:
 []Instagram post: arrest, Jane + bike trip
     - missing: HK post, 2023 climbing post?, 2023 summer post.
 Thursday (13/08):
+[]Go workout!
 []Sports Direct
 []Motorcycle maintenace
     []Headset off/on
@@ -31,6 +31,7 @@ Saturday:
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Plan cinema date
+[]Plan Bath date
 []Get Train API data
 
 []write to MP re: my case: community safety is at threat!
