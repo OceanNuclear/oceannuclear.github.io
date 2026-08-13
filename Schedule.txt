@@ -2,25 +2,24 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Wednesday:
-[]Oil up Board Unc
 []Write HK legal letter
-[]CulBUG Adult cycling course
 []Put letter and cupcakes
     []Work out at park
-
-[]Sell Boardman X7 aluminium bike
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
-[]Finish clearing gmail: Flynn Disney
-[]Accumulate Instagram saved posts into Google keep
-[]Instagram post: arrest, Jane + bike trip
-    - missing: HK post, 2023 climbing post?, 2023 summer post.
-Thursday (13/08):
-[]Go workout!
-[]Sports Direct
 []Motorcycle maintenace
     []Headset off/on
     []Chain replacement
+[]Finish clearing gmail: Flynn Disney
+
+[]Sell Boardman X7 aluminium bike
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
+[]Accumulate Instagram saved posts into Google keep
+[]o***es
+Friday:
+[]Sports Direct
 []Decorate wall
+[]Instagram post: arrest, Jane + bike trip
+    - missing: HK post, 2023 climbing post?, 2023 summer post.
+    []Find velocipede meme?
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -29,19 +28,21 @@ Thursday (13/08):
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]o***es
 Saturday:
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Plan cinema date
 []Plan Bath date
 []Get Train API data
+Sunday:
+[]Oil up Board Unc
 
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
 []Take online courses, e.g. psychological safety
 []Geological timeline decor
 []SoME{1,2,3}
+[]fcitx5
 []I'm going to fourier analyse the frequency of the logistic map, and plot!
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
