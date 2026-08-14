@@ -1,26 +1,26 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-[]Motorcycle maintenace
-    []Headset off/on
-[]Put letter and cupcakes
-    []Work out at park
+Friday:
+[]Motorcycle maintenace: headset off/on
+[]Vacuum?
 []Fold laundry
-[]Vacuum
 []Threadlocker
-
 []PPMI Athoy's document
 []Write HK legal letter
-[]Drive chain replacement
-[]Sell Boardman X7 aluminium bike
-[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
 []Accumulate Instagram saved posts into Google keep
 []o***es
-Friday:
+Saturday:
+[]Plan Bath date
+[]Plan cinema date
+[]Sell Boardman X7 aluminium bike
+[]Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
+Sunday:
+[]Lube exchange for Board Unc in Jane's house
+Saturday (22/07):
 []Decorate wall
-[]Instagram post: arrest, Jane + bike trip
-    - missing: HK post, 2023 climbing post?, 2023 summer post.
+[]Plan peak district trip?
+    - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -29,14 +29,8 @@ Friday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Saturday:
-[]Plan peak district trip?
-    - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-[]Plan cinema date
-[]Plan Bath date
-[]Get Train API data
-Sunday:
-[]Lube exchange for Board Unc & Jane's house
+Later:
+[]Drive chain replacement
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
 []Take online courses, e.g. psychological safety
@@ -47,6 +41,7 @@ Sunday:
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
+[]Get Train API data
 []vimtutor
 []Control theory analysis: gyro monorail, bicycle
 []Surface Wetness data: download from certain API?
