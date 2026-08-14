@@ -2,26 +2,26 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Wednesday:
-[]PPMI Athoy's document
-[]Excel spreadsheet by Tom whatshisface
-[]Write HK legal letter
-[]Put letter and cupcakes
-    []Work out at park
+[]Sports Direct
 []Motorcycle maintenace
     []Headset off/on
-    []Chain replacement
-[]Finish clearing gmail: Flynn Disney
+[]Put letter and cupcakes
+    []Work out at park
+[]Fold laundry
+[]Vacuum
+[]Threadlocker
 
+[]PPMI Athoy's document
+[]Write HK legal letter
+[]Drive chain replacement
 []Sell Boardman X7 aluminium bike
 []Sell laptop charger, door hangar, (sell/donate: filament, laptop bag) all remaining intact motorcycle parts + fairing
 []Accumulate Instagram saved posts into Google keep
 []o***es
 Friday:
-[]Sports Direct
 []Decorate wall
 []Instagram post: arrest, Jane + bike trip
     - missing: HK post, 2023 climbing post?, 2023 summer post.
-    []Find velocipede meme?
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -37,8 +37,7 @@ Saturday:
 []Plan Bath date
 []Get Train API data
 Sunday:
-[]Oil up Board Unc
-
+[]Lube exchange for Board Unc & Jane's house
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
 []Take online courses, e.g. psychological safety
