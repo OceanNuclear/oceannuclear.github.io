@@ -1,10 +1,14 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Monday:
-[]Write HK legal letter
+Tuesday:
 []PPMI Athoy's document
-[]Draw some more cash for Brita jug collection
+[]Flynn Disney newsletters
+[]Mentorship email
+    []Chartership: apply?
+[]Papercut
+[]One final Moodle training course
+
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -13,7 +17,8 @@ Monday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Flynn Disney news letter
+[]Draw some more cash for Brita jug collection
+[]Bring shoes
 Tuesday:
 []Sell Boardman X7 aluminium bike
 []o***es
@@ -27,10 +32,10 @@ Saturday (22/07):
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 Later:
+[]Psychological safety video
 []Drive chain replacement
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
-[]Take online courses, e.g. psychological safety
 []Geological timeline decor
 []SoME{1,2,3}
 []fcitx5
