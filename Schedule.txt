@@ -2,13 +2,13 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Tuesday:
-[]PPMI Athoy's document
+[]One final Moodle training course
+[]Toothpaste
+Wednesday:
 []Flynn Disney newsletters
 []Mentorship email
     []Chartership: apply?
 []Papercut
-[]One final Moodle training course
-
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -17,20 +17,19 @@ Tuesday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Draw some more cash for Brita jug collection
-[]Bring shoes
-Tuesday:
-[]Sell Boardman X7 aluminium bike
-[]o***es
-[]Clean OceanWongUK@gmail.com storage?
-[]Plan Bath date
 Thursday:
-[]Cut tag off shirt
+[]Cut tag off shirt, take backpack back
+Friday:
+[]Plan Bath date
 Saturday (22/07):
+[]Sell Boardman X7 aluminium bike
+Sunday:
 []Replace bike chain!
 []Decorate wall
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
+[]o***es
+[]Clean OceanWongUK@gmail.com storage?
 Later:
 []Psychological safety video
 []Drive chain replacement
@@ -38,8 +37,7 @@ Later:
 []Ferrocerium on motorcycle boot
 []Geological timeline decor
 []SoME{1,2,3}
-[]fcitx5
-[]I'm going to fourier analyse the frequency of the logistic map, and plot!
+[]Fourier analyse the frequency of the logistic map, and plot!
 []3D print particle on a hill
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
