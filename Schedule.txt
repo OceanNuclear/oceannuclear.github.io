@@ -2,10 +2,10 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Cut tag off shirt
 []To Ruminate:
-    - Clutch
+    - Car clutch
     - productivity system session later today
+[]Cut tag off shirt
 []Flynn Disney newsletters
 Friday:
 []Refactor the whole Scheduler.py
@@ -18,12 +18,13 @@ Friday:
         - bs: ... (do I backup WON-and-work as well?)
 []Plan Bath date
 Saturday (22/07):
+[]Collect Boardman box
 []Post ebay parcel (CB125F side panel)
+[]Buy poundland stuff (parcel/packing, duct, masking tape; permanent marker)
 []RST warranty: get the proof of purchase
     - https://www.rst-moto.com/product-warranty-registration
 []Collect screws at Honda dealer Reading
 []Buy a Cardo
-[]Buy poundland stuff (parcel/packing, duct, masking tape; permanent marker)
 []Sell Boardman X7 aluminium bike
 Sunday:
 []Claim money back for posting
@@ -32,6 +33,7 @@ Sunday:
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []o***es
+[]Parkour vision survey
 []Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
 Later:
 []Psychological safety video
