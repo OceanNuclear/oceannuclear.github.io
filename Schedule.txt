@@ -2,7 +2,10 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Cut tag off shirt, take backpack back
+[]Cut tag off shirt
+[]To Ruminate:
+    - Clutch
+    - productivity system session later today
 []Flynn Disney newsletters
 Friday:
 []Refactor the whole Scheduler.py
@@ -13,28 +16,28 @@ Friday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-
-[]Collect Apples
 []Plan Bath date
 Saturday (22/07):
-[]Collect screws at Honda dealer Reading
+[]Post ebay parcel (CB125F side panel)
 []RST warranty: get the proof of purchase
     - https://www.rst-moto.com/product-warranty-registration
+[]Collect screws at Honda dealer Reading
 []Buy a Cardo
-[]Post ebay parcel (CB125F side panel)
-[]Buy stuff (parcel/packing,duct,masking tape; permanent marker) from Poundland
+[]Buy poundland stuff (parcel/packing, duct, masking tape; permanent marker)
 []Sell Boardman X7 aluminium bike
 Sunday:
 []Claim money back for posting
-[]Replace bike chain!
+[]Replace bicycle chain!
 []Decorate wall
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []o***es
-[]Clean OceanWongUK@gmail.com storage?
+[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
 Later:
-[]CPhys
 []Psychological safety video
+[]CPhys application
+    - RDF planner in /home/ocean/Documents/PhD/Forms/
+    []Tidy up CV
 []Drive chain replacement
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
