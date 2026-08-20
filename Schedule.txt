@@ -1,12 +1,10 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Toothpaste
-Wednesday:
+Thursday:
+[]Cut tag off shirt, take backpack back
 []Flynn Disney newsletters
-[]Mentorship email
-    []Chartership: apply?
-[]Papercut
+Friday:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -15,13 +13,19 @@ Wednesday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Thursday:
-[]Cut tag off shirt, take backpack back
-Friday:
+
+[]Collect Apples
 []Plan Bath date
 Saturday (22/07):
+[]Collect screws at Honda dealer Reading
+[]RST warranty: get the proof of purchase
+    - https://www.rst-moto.com/product-warranty-registration
+[]Buy a Cardo
+[]Post ebay parcel (CB125F side panel)
+[]Buy stuff (parcel/packing,duct,masking tape; permanent marker) from Poundland
 []Sell Boardman X7 aluminium bike
 Sunday:
+[]Claim money back for posting
 []Replace bike chain!
 []Decorate wall
 []Plan peak district trip?
@@ -29,6 +33,7 @@ Sunday:
 []o***es
 []Clean OceanWongUK@gmail.com storage?
 Later:
+[]CPhys
 []Psychological safety video
 []Drive chain replacement
 []write to MP re: my case: community safety is at threat!
