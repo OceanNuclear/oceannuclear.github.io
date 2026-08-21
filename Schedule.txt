@@ -1,11 +1,6 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Thursday:
-[]To Ruminate:
-    - Car clutch
-    - productivity system session later today
-[]Cut tag off shirt
 []Flynn Disney newsletters
 Friday:
 []Refactor the whole Scheduler.py
