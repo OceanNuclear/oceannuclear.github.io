@@ -1,7 +1,8 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Flynn Disney newsletters
+[]Flynn Disney newsletters (1 hour)
+1:20pm
 Friday:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
