@@ -1,9 +1,15 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Flynn Disney newsletters (1 hour)
-1:20pm
-Friday:
+Saturday:
+[]RST warranty: get the proof of purchase
+    - https://www.rst-moto.com/product-warranty-registration
+[]Collect screws at Honda dealer Reading
+[]Buy a Cardo
+[]Motorcycle maintenance
+[]Sell Boardman X7 aluminium bike
+Sunday:
+[]Flynn Disney newsletters
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -13,16 +19,7 @@ Friday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 []Plan Bath date
-Saturday (22/07):
-[]Collect Boardman box
-[]Post ebay parcel (CB125F side panel)
-[]Buy poundland stuff (parcel/packing, duct, masking tape; permanent marker)
-[]RST warranty: get the proof of purchase
-    - https://www.rst-moto.com/product-warranty-registration
-[]Collect screws at Honda dealer Reading
-[]Buy a Cardo
-[]Sell Boardman X7 aluminium bike
-Sunday:
+[]ADHD appointment
 []Claim money back for posting
 []Replace bicycle chain!
 []Decorate wall
