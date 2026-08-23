@@ -1,19 +1,17 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Saturday:
-[]Reply to messages
+Sunday:
+[]Bike hub: replace chain
+[]Sell Boardman X7 aluminium bike
+[]Buy a Cardo
+[]Visit BJJ Gyms?
+
 []Clean house
-    []Clean apples
     []Lube skate wheels
     []Mount bike rear reflector
     []Water plants
 []Plan Bath date
-Sunday:
-[]Sell Boardman X7 aluminium bike
-[]Bike hub: replace chain
-[]Buy a Cardo
-[]Visit BJJ Gyms?
 []Flynn Disney newsletters
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
