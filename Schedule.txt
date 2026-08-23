@@ -4,13 +4,11 @@
 Sunday:
 []Bike hub: replace chain
 []Sell Boardman X7 aluminium bike
-[]Buy a Cardo
-[]Visit BJJ Gyms?
-
 []Clean house
     []Lube skate wheels
     []Mount bike rear reflector
     []Water plants
+
 []Plan Bath date
 []Flynn Disney newsletters
 []Refactor the whole Scheduler.py
@@ -21,7 +19,8 @@ Sunday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Replace bicycle chain!
+Monday:
+[]Buy a Cardo
 []Decorate wall
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
