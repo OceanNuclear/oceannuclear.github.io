@@ -2,14 +2,10 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Sunday:
-[]Bike hub: replace chain
-[]Sell Boardman X7 aluminium bike
-[]Clean house
-    []Lube skate wheels
-    []Mount bike rear reflector
-    []Water plants
-
+[]Water plants
+[]Lube skate wheels
 []Plan Bath date
+[]Check betting market amounts
 []Flynn Disney newsletters
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
@@ -20,13 +16,15 @@ Sunday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Monday:
-[]Buy a Cardo
 []Decorate wall
+[]Buy a Cardo
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []o***es
 []Parkour vision survey
 []Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
+Saturday:
+[]Clean brakes at Bike Hub
 Later:
 []Psychological safety video
 []CPhys application
