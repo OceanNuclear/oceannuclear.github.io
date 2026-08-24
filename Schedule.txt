@@ -1,12 +1,28 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Sunday:
-[]Water plants
-[]Lube skate wheels
+Monday:
+[]CulBUG thing
+[]Measure bike seat size:
+    - smallest distance bar to bar (measured outside)
+    - Length before the bend
+    - Diameter of the bar
 []Plan Bath date
+[]Lube skate wheels
+[]Water plants
 []Check betting market amounts
+Tuesday:
+[]Collect screws
+Wednesday/Thursday:
+[]Parkour vision survey
+[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
+Thursday:
+[]Work out
+[]Plan peak district trip?
+    - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
+[]Decorate wall
 []Flynn Disney newsletters
+[]o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -15,14 +31,6 @@ Sunday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Monday:
-[]Decorate wall
-[]Buy a Cardo
-[]Plan peak district trip?
-    - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-[]o***es
-[]Parkour vision survey
-[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
 Saturday:
 []Clean brakes at Bike Hub
 Later:
