@@ -2,25 +2,28 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Wednesday/Thursday:
-[]eBay: solve buyer's problem
-[]Book Bath hotel
-[]Collect screws
-
-[]Lube skate wheels
-[]Driving lesson -> pick up Bash -> Workout
+[]Alpine warranty, Cardo warranty
 []Measure bike seat size:
     - smallest distance bar to bar (measured outside)
     - Length before the bend
     - Diameter of the bar
+[]Lube skate wheels
 []Parkour vision survey
+[]Wrap and post bike
+Friday:
+[]Chartership: email people
 []Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
-Thursday:
-[]Work out
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
+Saturday:
+[]Motorcycle maintenance
+    []oil
+    []Headset bulb? smashed?
+    []chain replacement
 []Decorate wall
 []Flynn Disney newsletters
 []o***es
+Sunday:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -29,8 +32,6 @@ Thursday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Saturday:
-[]Clean brakes at Bike Hub
 Later:
 []Psychological safety video
 []CPhys application
