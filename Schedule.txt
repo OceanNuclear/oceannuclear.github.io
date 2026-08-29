@@ -4,7 +4,6 @@
 []Lube skate wheels
 Saturday:
 10:30am
-[]Leigh: bike tracker fitting
 []Fob stopped working - fix Fob
     - check bus gate towards and disability parking space on Kings Street
 []Buy food: cereal, bread.
@@ -27,6 +26,7 @@ Sunday:
     HADDINGTON
     EH41 4PZ
 []Check CulBUG email
+[]Print tracker
 Monday:
 []Chartership: email people
 []Plan peak district trip?
