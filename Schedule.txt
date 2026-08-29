@@ -8,11 +8,17 @@ Saturday:
 []Fob stopped working - fix Fob
     - check bus gate towards and disability parking space on Kings Street
 []Buy food: cereal, bread.
-
+[]Motorcycle maintenance
+    []oil
+    []Headset bulb? smashed?
+    []chain replacement
+[]Decorate wall
+[]Flynn Disney newsletters
+[]o***es
 Saturday on car ride:
-[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
 []Parkour vision survey
 []Alpine warranty, Cardo warranty
+[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
 Sunday:
 []Wrap and post bike
     TOM MCGOVERN
@@ -25,15 +31,8 @@ Monday:
 []Chartership: email people
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-Saturday:
-[]Motorcycle maintenance
-    []oil
-    []Headset bulb? smashed?
-    []chain replacement
-[]Decorate wall
-[]Flynn Disney newsletters
-[]o***es
 Sunday:
+Later:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -42,12 +41,10 @@ Sunday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Later:
 []Psychological safety video
 []CPhys application
     - RDF planner in /home/ocean/Documents/PhD/Forms/
     []Tidy up CV
-[]Drive chain replacement
 []write to MP re: my case: community safety is at threat!
 []Ferrocerium on motorcycle boot
 []Geological timeline decor
