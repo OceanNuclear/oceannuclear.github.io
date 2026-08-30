@@ -1,35 +1,21 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Saturday:
-[]Buy chicken, almond milk, bread, alpro
-[]Wrap and post bike
-    TOM MCGOVERN
-    EAST RANGE
-    NO 2 LUGGATE STEADING
-    HADDINGTON
-    EH41 4PZ
+Sunday:
 []Lube skate wheels
-[]Motorcycle maintenance
-    []oil
-    []Headset bulb? smashed?
-    []chain replacement
-[]Decorate wall
-[]Flynn Disney newsletters
 []o***es
-Saturday on car ride:
 []Parkour vision survey
 []Alpine warranty, Cardo warranty
-[]Clean OceanWongUK@gmail.com storage to allow WhatsApp back-up again
-Sunday:
 []Check CulBUG email
-[]Print tracker
 Monday:
+[]Headset bulb? smashed?
+[]motorcycle chain replacement
+[]Print tracker holder
+[]Chat to DPD about cancelling TWO FUCKING ORDERS ORD-1788097581216937 ORD-178809911606073, PLEASE KEEP ORD-1788102021560450
 []Chartership: email people
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-Sunday:
-Later:
+Tuesday:
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -38,6 +24,9 @@ Later:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+Later:
+[]Flynn Disney newsletters
+[]Decorate wall
 []Psychological safety video
 []CPhys application
     - RDF planner in /home/ocean/Documents/PhD/Forms/
