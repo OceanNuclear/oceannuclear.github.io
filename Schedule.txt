@@ -1,22 +1,17 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]hair!
-[]Print tracker holder
-[]Bath briefing
-
-[]Check CulBUG email
-[]Parkour vision survey
-[]o***es
+Wednesday:
+[]Reply to CulBUG GlowRide
 []Alpine warranty, Cardo warranty
+[]Collect motorcycle part
+[]Lube skate wheels
+[]o***es
+Thursday:
+[]Parkour vision survey
+[]Chartership: email people
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-Wednesday:
-[]Lube skate wheels
-[]motorcycle chain replacement
-Thursday:
-[]Chartership: email people
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
