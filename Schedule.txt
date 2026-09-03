@@ -2,15 +2,16 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Send bike
 []Collect amazon parcel from concierge
-[]Instruct Jane on what to pack
 []Collect bike pannier
 []Lube skate wheels
-[]Invite Glow ride organizers
+[]Clean house
+    []Vacuum
+    []kitchen clean
 
 []Alpine warranty, Cardo warranty
 []o***es
+
 []Chartership: email people
 []Parkour vision survey
 []Plan peak district trip?
