@@ -1,15 +1,18 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-[]Reply to CulBUG GlowRide
-[]Alpine warranty, Cardo warranty
-[]Collect motorcycle part
-[]Lube skate wheels
-[]o***es
 Thursday:
-[]Parkour vision survey
+[]Send bike
+[]Collect amazon parcel from concierge
+[]Instruct Jane on what to pack
+[]Collect bike pannier
+[]Lube skate wheels
+[]Invite Glow ride organizers
+
+[]Alpine warranty, Cardo warranty
+[]o***es
 []Chartership: email people
+[]Parkour vision survey
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Refactor the whole Scheduler.py
