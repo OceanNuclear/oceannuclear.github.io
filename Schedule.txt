@@ -2,8 +2,7 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Friday:
-[x]Vacuum
-[]email CornerStone
+[]phone CornerStone
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Post about Glow Ride
