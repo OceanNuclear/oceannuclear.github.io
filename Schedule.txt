@@ -2,18 +2,15 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Friday:
-[]Return Amazon velcro strap
-[]Lube skate wheels
-[]Pack bike!
-[]Vacuum
-[]Chartership: email people
+[x]Vacuum
 []email CornerStone
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
-
 []Post about Glow Ride
-[]Refactor the whole Scheduler.py
+Monday:
+[]Chartership: email people
 []o***es
+[]Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
