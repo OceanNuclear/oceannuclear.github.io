@@ -1,22 +1,19 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Thursday:
-[]Collect amazon parcel from concierge
-[]Collect bike pannier
+Friday:
+[]Return Amazon velcro strap
 []Lube skate wheels
-[]Clean house
-    []Vacuum
-    []kitchen clean
-
-[]Alpine warranty, Cardo warranty
-[]o***es
-
+[]Pack bike!
+[]Vacuum
 []Chartership: email people
-[]Parkour vision survey
+[]email CornerStone
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
+
+[]Post about Glow Ride
 []Refactor the whole Scheduler.py
+[]o***es
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
     []Write down requirements of the workflow:
