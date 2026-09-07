@@ -4,6 +4,7 @@
 Tuesday:
 []CulBUG: start Whatsapp Chat
 []Book driving test
+    - Find out her driving license
 []Fix diffusion equation
 []APS
 []Chartership: email people
