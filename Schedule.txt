@@ -1,12 +1,13 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Friday:
-[]APS
-[]Chartership: email people
 Tuesday:
 []CulBUG: start Whatsapp Chat
+[]Fix diffusion equation
+[]APS
+[]Chartership: email people
 Wednesday:
+[]Foil selector pls
 []o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
