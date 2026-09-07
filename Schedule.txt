@@ -6,8 +6,10 @@ Friday:
 []Plan peak district trip?
     - https://www.peakdistrict.gov.uk/visiting/things-to-do/camping
 []Post about Glow Ride
-Monday:
+[]IKEA, ride in Reading, plant pots?
+[]APS
 []Chartership: email people
+Monday:
 []o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
