@@ -2,8 +2,13 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Wednesday:
-[]Conservation of flux across all groups at random points.
-    []Adherence to the diffusion equation
+[]Conservation of flux across all groups at random points
+    []5-5
+    []2-2
+    []4-4
+[]Adherence to the diffusion equation
+    []5-5
+    []2-2
 []APS
 []Chartership: email people
 
