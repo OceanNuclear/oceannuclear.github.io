@@ -1,14 +1,13 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]CulBUG: start Whatsapp Chat
-[]Book driving test
-    - Find out her driving license
-[]Fix diffusion equation
+Wednesday:
+[]Conservation of flux across all groups at random points.
+    []Adherence to the diffusion equation
 []APS
 []Chartership: email people
-Wednesday:
+
+[]CulBUG: start Whatsapp Chat
 []Foil selector pls
 []o***es
 []Refactor the whole Scheduler.py
