@@ -1,19 +1,16 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-[]Conservation of flux across all groups at random points
-    []5-5
-    []2-2
-    []4-4
-[]Adherence to the diffusion equation
-    []5-5
-    []2-2
-[]APS
-[]Chartership: email people
-
+Friday:
+[]Find what contributes to the current
 []CulBUG: start Whatsapp Chat
+    []Cycle UK resources -> posters, reflective/fluorescent/phosphorescent sticksers,
+    []poster -> women's network
+[]Clear toilet for repair on Monday
+[]Clean spilled plant
+[]GP response
 []Foil selector pls
+
 []o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
