@@ -2,13 +2,20 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Friday:
-[]Find what contributes to the current
+[]Get antibiotics
+[]Fold Laundry
+
+[]Is the scatter-in→scatter-out↓ matrix correct?
+    - why some of them goes to 0 in-scatter cross-section?
+[]Plot the terms as a graph
+[]Derive what contributes to the neutron current
+
 []CulBUG: start Whatsapp Chat
     []Cycle UK resources -> posters, reflective/fluorescent/phosphorescent sticksers,
     []poster -> women's network
+[]Sell bike pannier rack
 []Clear toilet for repair on Monday
 []Clean spilled plant
-[]GP response
 []Foil selector pls
 
 []o***es
@@ -21,6 +28,7 @@ Friday:
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
 Later:
+[]Change drive chain and rear brake
 []Flynn Disney newsletters
 []Decorate wall
 []Psychological safety video
