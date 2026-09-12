@@ -2,23 +2,16 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Friday:
-[]Get antibiotics
-[]Fold Laundry
-
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-[]Plot the terms as a graph
-[]Derive what contributes to the neutron current
-
-[]CulBUG: start Whatsapp Chat
-    []Cycle UK resources -> posters, reflective/fluorescent/phosphorescent sticksers,
-    []poster -> women's network
 []Sell bike pannier rack
-[]Clear toilet for repair on Monday
 []Clean spilled plant
-[]Foil selector pls
-
+Friday:
 []o***es
+[]Clear toilet for repair on Monday
+[]Foil selector pls
+Monday:
+[]Glow Ride poster -> women's network
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
