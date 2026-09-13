@@ -1,17 +1,14 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Friday:
+[]Make IG post
+[]Track the determinant size, maybe that's why we had an issue?
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
 []Sell bike pannier rack
-[]Clean spilled plant
-Friday:
-[]o***es
-[]Clear toilet for repair on Monday
-[]Foil selector pls
 Monday:
-[]Glow Ride poster -> women's network
+[]Foil selector pls
+[]o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -20,6 +17,7 @@ Monday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Glow Ride poster -> women's network
 Later:
 []Change drive chain and rear brake
 []Flynn Disney newsletters
