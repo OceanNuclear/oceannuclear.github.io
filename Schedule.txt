@@ -1,14 +1,19 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Make IG post
-[]Track the determinant size, maybe that's why we had an issue?
+Wednesday:
+8am
+[]Marshall Honda Reading: end cap
+[]Add APS objective on PROCESS 1D neutronics
+[]Check if there's anything to do after Yuefeng's presentation
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
+Friday:
 []Sell bike pannier rack
-Monday:
+[]Bring eyepatch
 []Foil selector pls
 []o***es
+[]Make IG post
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -35,6 +40,7 @@ Later:
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Get Train API data
+    []App to show a buffering dead ticket screen??
 []vimtutor
 []Control theory analysis: gyro monorail, bicycle
 []Surface Wetness data: download from certain API?
