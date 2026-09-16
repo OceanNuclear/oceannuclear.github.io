@@ -1,9 +1,7 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Wednesday:
-8am
-[]Marshall Honda Reading: end cap
+Thursday:
 []Add APS objective on PROCESS 1D neutronics
 []Check if there's anything to do after Yuefeng's presentation
 []Is the scatter-in→scatter-out↓ matrix correct?
