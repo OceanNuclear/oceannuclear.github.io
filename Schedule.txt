@@ -2,6 +2,7 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
+[]Call around to order a 90304-KYA-601 M10 flange nut
 []Add APS objective on PROCESS 1D neutronics
 []Check if there's anything to do after Yuefeng's presentation
 []Is the scatter-in→scatter-out↓ matrix correct?
