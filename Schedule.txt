@@ -2,11 +2,13 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Call around to order a 90304-KYA-601 M10 flange nut
 []Add APS objective on PROCESS 1D neutronics
+[]CulBUG group chat
 []Check if there's anything to do after Yuefeng's presentation
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
+[]Add method to tabulate all of the bases
+[]Buy nut splitter (B&Q 5055143908183) and M10 flange nut from Botley (B&Q, Wickes, toolstation)
 Friday:
 []Foil selector pls
 []o***es
