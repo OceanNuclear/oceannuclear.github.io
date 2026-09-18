@@ -2,10 +2,10 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]GWR refund
 []Add method to tabulate all of the bases
 []CulBUG group chat
 []Check if there's anything to do after Yuefeng's presentation
+[]Book driving test again
 Monday:
 []Add APS objective on PROCESS 1D neutronics
 []Is the scatter-in→scatter-out↓ matrix correct?
