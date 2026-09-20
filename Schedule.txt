@@ -1,12 +1,14 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Why the fuck is Ubuntu only connecting some times
-Sunday:
 []CulBUG group chat
-[]Check if there's anything to do after Yuefeng's presentation
+Sunday:
+[]Screwfix return
+[]Buy creatine
+
 []Add method to tabulate all of the bases
 []Why does it feel like off-diagonal coefficient calculations is too early?
+[]Check if there's anything to do after Yuefeng's presentation
 Monday:
 []Add APS objective on PROCESS 1D neutronics
 []Is the scatter-in→scatter-out↓ matrix correct?
