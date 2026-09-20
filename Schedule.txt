@@ -10,10 +10,12 @@ Monday:
 []Add APS objective on PROCESS 1D neutronics
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
+Wednesday:
+[]Headphones repair (glue)
 Friday:
+[]Hang up bike
 []Foil selector pls
 []o***es
-[]Make IG post
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -25,7 +27,6 @@ Friday:
 []Glow Ride poster -> women's network
 Later:
 []Install Frankie's app
-[]Change drive chain and rear brake
 []Flynn Disney newsletters
 []Decorate wall
 []Psychological safety video
