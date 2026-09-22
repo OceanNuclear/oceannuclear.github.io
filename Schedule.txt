@@ -3,10 +3,8 @@
 3. Add barriers to using resources for tasks other than the current one.
 Monday:
 []CulBUG group chat
-
-[]Sainsbury's gas station to get gloves
-    []Holloway autoparts brake cleaners
-        []Boots to get pregnancy test
+[]PRINT THING
+[]Brake cleaner
 Tuesday:
 []REPLY TO Yuefeng!!!
 []Timesheet
