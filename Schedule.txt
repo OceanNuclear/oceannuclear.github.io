@@ -9,7 +9,6 @@ Tuesday:
 []Add APS objective on PROCESS 1D neutronics
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-[]Reset off-diagonal indices every time
 Friday:
 []Headphones repair (glue)
 []Hang up bike
