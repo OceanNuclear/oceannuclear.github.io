@@ -1,18 +1,15 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Monday:
-[]CulBUG group chat
-[]PRINT THING
-[]Brake cleaner
 Tuesday:
+[]Strap up phone
+[]CulBUG group chat
 []REPLY TO Yuefeng!!!
 []Timesheet
 []Add APS objective on PROCESS 1D neutronics
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-Wednesday:
-[]Motorcycle repair!
+[]Reset off-diagonal indices every time
 Friday:
 []Headphones repair (glue)
 []Hang up bike
