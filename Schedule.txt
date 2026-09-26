@@ -1,17 +1,26 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]Strap up phone
-[]CulBUG group chat
+Saturday:
+[]drain sink bags
+[]Call scrap metal collection
+    - https://www.rogersmm.co.uk/contact-us/
+    - https://www.thomasmetalrecycling.co.uk/scrap-metal
+    - https://www.a1groupuk.com/
+[]fry rice
+][vacuum house
+[]Headphones repair (glue)
+[]Cast iron pan exchange with Jane
+
 []REPLY TO Yuefeng!!!
-[]Timesheet
+[]CulBUG group chat
+
 []Add APS objective on PROCESS 1D neutronics
+[]Strap up phone
+Monday:
+[]Hang up bike
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-Friday:
-[]Headphones repair (glue)
-[]Hang up bike
 []Foil selector pls
 []o***es
 []Refactor the whole Scheduler.py
