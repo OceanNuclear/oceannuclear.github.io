@@ -1,24 +1,20 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Saturday:
-[]drain sink bags
-[]Call scrap metal collection
-    - https://www.rogersmm.co.uk/contact-us/
-    - https://www.thomasmetalrecycling.co.uk/scrap-metal
-    - https://www.a1groupuk.com/
-[]vacuum house
-[]fry rice
-[]Headphones repair (glue)
-[]Cast iron pan exchange with Jane
-
-[]REPLY TO Yuefeng!!!
+Tuesday:
+[]reply to Yuefeng!!!
 []CulBUG group chat
-
-[]Add APS objective on PROCESS 1D neutronics
 []Strap up phone
-Monday:
+[]Headphones repair (glue)
+Wednesday:
+[]Fusion Training Program slides
+    - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
+[]Recycle metal in Tilehurst
+    - Alternative is at https://www.rogersmm.co.uk/contact-us/
+[]Cardo fix
+Thursday:
 []Hang up bike
+[]Cast iron pan exchange with Jane
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
 []Foil selector pls
