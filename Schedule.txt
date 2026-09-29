@@ -3,6 +3,9 @@
 3. Add barriers to using resources for tasks other than the current one.
 Tuesday:
 []CulBUG group chat
+[]Foil selector?
+[]run stuff for Athoy
+
 []Strap up phone
 []Headphones repair (glue)
 Wednesday:
@@ -10,7 +13,6 @@ Wednesday:
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
 []Recycle metal in Tilehurst
     - Alternative is at https://www.rogersmm.co.uk/contact-us/
-[]Cardo fix
 Thursday:
 []Hang up bike
 []Cast iron pan exchange with Jane
