@@ -1,24 +1,24 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]CulBUG group chat
-[]Foil selector?
+[]Clear laundry
+Thursday:
 []run stuff for Athoy
-
-[]Strap up phone
-[]Headphones repair (glue)
-Wednesday:
+[]Motorbike oil
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
 []Recycle metal in Tilehurst
-    - Alternative is at https://www.rogersmm.co.uk/contact-us/
 Thursday:
+[]Print off the risk assessment form
+[]Foil selector?
+Saturday:
 []Hang up bike
 []Cast iron pan exchange with Jane
+[]Scrap metal recycling, get nuts from Piero
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-[]Foil selector pls
+Friday:
+[]Do nice things for Jane (flowers, card)
 []o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
