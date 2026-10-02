@@ -1,10 +1,9 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Thursday:
+Friday:
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-Friday:
 []Run stuff for Athoy
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
