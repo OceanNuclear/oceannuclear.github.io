@@ -2,16 +2,20 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Monday:
+[]Papercut
+[]Continue debugging my plotting functions
+Tuesday:
 []Pot plants
 []Decorate wall
 []Psychological safety video
 []Install Frankie's app
-Tuesday:
 []Replace sheets
 []Clean house
 []Film cycling on insta360
+[]Home Energy - better rates available?
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
+Tuesday:
 []Run stuff for Athoy
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
