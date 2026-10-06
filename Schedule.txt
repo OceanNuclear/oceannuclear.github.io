@@ -1,8 +1,6 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Monday:
-[]Papercut
 Tuesday:
 []Pot plants
 []Decorate wall
@@ -15,7 +13,9 @@ Tuesday:
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
 Tuesday:
-[]Run stuff for Athoy
+[]Ruff up the process neutronics
+[]CulBUG short blurb for broadcast
+[]Copy over survey
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
 []Foil selector?
