@@ -1,36 +1,26 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Tuesday:
-[]Call Capital One
-[]Copy over survey
-[]Clean house
-    []Replace sheets
-    []Clear laundry ... again
-    []Put away air conditioner
+Thursday:
+[]Document all past phone calls
+[]Reply to Georgie
+[]Sell physio tape on eBay
+[]Key fob copying
+[]Shopping as was written on my tasks
 
-[]Bleach and pocket tissue
 []Pot plants
 []Decorate wall
-[]Film cycling on insta360
+[]Ruff up the process neutronics
 []Home Energy - better rates available?
-
-[]Psychological safety video
+Friday:
 []Install Frankie's app
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-Tuesday:
-[]Ruff up the process neutronics
-[]CulBUG short blurb for broadcast
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
+Thursday:
 []Foil selector?
-Wednesday:
-[]Cast iron pan exchange with Jane
-[]Get flowers
-[]Replace nut on Margarita's horn
 Friday:
-[]Do nice things for Jane (flowers, card)
 []o***es
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
