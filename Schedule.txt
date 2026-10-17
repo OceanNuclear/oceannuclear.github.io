@@ -4,22 +4,18 @@
 Thursday:
 []Document all past phone calls
 []Reply to Georgie
-[]Sell physio tape on eBay
-[]Key fob copying
-[]Shopping as was written on my tasks
 
+[]Sell physio tape on eBay
 []Pot plants
 []Decorate wall
 []Ruff up the process neutronics
 []Home Energy - better rates available?
-Friday:
+Sunday:
 []Install Frankie's app
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
-Thursday:
-[]Foil selector?
 Friday:
 []o***es
 []Refactor the whole Scheduler.py
