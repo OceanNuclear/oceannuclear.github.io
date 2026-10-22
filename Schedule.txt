@@ -2,15 +2,11 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Send stuff to Georgie
 []TVP complaint
-[]Sell physio tape on eBay
-Thursday:
-[]Fuckin walk in for Boots flu jab anyways
-[]Mark them bikes according to the TVP advice
-[]Wait for DPD delivery
 Friday:
-[]Bike component swap
+[]Send stuff to Georgie
+[]Sell physio tape on eBay
+[]Mark them bikes according to the TVP advice
 []Build bed
 []Decorate wall
 []Pot plants
@@ -23,6 +19,9 @@ Sunday:
     - why some of them goes to 0 in-scatter cross-section?
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
+Monday:
+[]Bike component swap
+[]Buy stuff from Sportsbikeshop
 Friday:
 []o***es
 []Refactor the whole Scheduler.py
