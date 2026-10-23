@@ -3,13 +3,10 @@
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
 []TVP complaint
-Friday:
 []Send stuff to Georgie
 []Sell physio tape on eBay
+Friday:
 []Mark them bikes according to the TVP advice
-[]Build bed
-[]Decorate wall
-[]Pot plants
 []Ruff up the process neutronics
 Saturday:
 []Home Energy - better rates available?
@@ -20,6 +17,9 @@ Sunday:
 []Fusion Training Program slides
     - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
 Monday:
+[]Decorate wall
+[]Pot plants
+[]Build bed
 []Bike component swap
 []Buy stuff from Sportsbikeshop
 Friday:
