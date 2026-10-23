@@ -3,7 +3,6 @@
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
 []TVP complaint
-[]Send stuff to Georgie
 []Sell physio tape on eBay
 Friday:
 []Mark them bikes according to the TVP advice
