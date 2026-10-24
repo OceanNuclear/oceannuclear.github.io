@@ -1,26 +1,23 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-Thursday:
-[]TVP complaint
-[]Sell physio tape on eBay
-Friday:
-[]Mark them bikes according to the TVP advice
-[]Ruff up the process neutronics
 Saturday:
+[]Sell physio tape on eBay
+[]Mark them bikes according to the TVP advice
 []Home Energy - better rates available?
+[]TVP complaint
+
+[]Take bike kickstand from Reading?
+[]Buy stuff from Reading SBS store
 Sunday:
 []Install Frankie's app
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
-[]Fusion Training Program slides
-    - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT/2026-Nov-my-slides
 Monday:
 []Decorate wall
 []Pot plants
 []Build bed
 []Bike component swap
-[]Buy stuff from Sportsbikeshop
 Friday:
 []o***es
 []Refactor the whole Scheduler.py
