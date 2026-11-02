@@ -2,17 +2,24 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Monday:
+[]Wrap two kickstands
+[]Wrap USB-C cable parcel
+[]Fit kickstand
 []Clean top box
-[]Return two kickstands
-[]Send USB-C cable parcel
-[]Ikea: tub, divider, and socket adapter
-
+    []Chain alignment
+[]Longboard maintenance
+[]Lactase and mints refill
+[]Where is my driving license???
+[]Build bed
+Tuesday:
+[]Cut keys
+[]Send off parcels
+[]FUCKING CAPITAL ONE MESSED UP AGAIN YOU PIECE OF SHIT
 []Sell physio tape on eBay
 []Home Energy - better rates available?
 []TVP complaint
 Tuesday:
 []Mark the bikes according to the TVP advice
-[]Build bed
 []Install Frankie's app
 []Is the scatter-in→scatter-out↓ matrix correct?
     - why some of them goes to 0 in-scatter cross-section?
