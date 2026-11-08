@@ -13,7 +13,8 @@ Monday:
 []Post eBay remote
 []Clean top box
     []Chain alignment
-    []Try adding the new quadlock?
+    []Collect second quadlock parcel
+            []Try adding the new quadlock
 []Build bed
 []Cut keys
 Tuesday:
