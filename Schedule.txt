@@ -3,33 +3,6 @@
 3. Add barriers to using resources for tasks other than the current one.
 []Home Energy - better rates available?
     - /home/ocean/Documents/Work/6.House/Reading/energy-comparison.xlsx
-[]Unpack
-[]Eat Ping collection
-    []Rest of the orders: Evan Cycles
-    []Skip eat-ping
-[]driving license card in the envelope???
-[]New phone?
-Monday:
-[]Post eBay remote
-[]Clean top box
-    []Chain alignment
-    []Collect second quadlock parcel
-            []Try adding the new quadlock
-[]Build bed
-[]Cut keys
-Tuesday:
-[]Get dosimetry badge again
-[]IKEA buying trip (socket adapter, divider, another tub)
-[]Sell physio tape on eBay
-[]TVP complaint
-[]Mark the bikes according to the TVP advice
-[]Install Frankie's app
-[]Is the scatter-in→scatter-out↓ matrix correct?
-    - why some of them goes to 0 in-scatter cross-section?
-Later:
-[]Decorate wall
-[]Pot plants
-[]Bike component swap
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -38,6 +11,34 @@ Later:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Travel pre-authorization
+[]Papercuts
+[]Write a bit of my paper?
+[]Quarterly meeting
+Monday:
+[]Cut keys
+[]Build bed
+[]Clean top-box
+[]Collect ebay quadlock
+[]Check then re-list ebay pannier rack
+
+[]Driving license whereeeeee
+    []Get a D1 form from post office
+[]New phone?
+Tuesday:
+[]Get dosimetry badge again
+[]IKEA buying trip (socket adapter, divider, another tub)
+[]Sell physio tape on eBay
+[]TVP complaint
+    - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
+[]Mark the bikes according to the TVP advice
+[]Install Frankie's app
+[]Is the scatter-in→scatter-out↓ matrix correct?
+    - why some of them goes to 0 in-scatter cross-section?
+Later:
+[]Decorate wall
+[]Pot plants
+[]Bike component swap
 []Flynn Disney newsletters
 []CPhys application
     - RDF planner in /home/ocean/Documents/PhD/Forms/
