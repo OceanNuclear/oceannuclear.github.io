@@ -11,7 +11,8 @@
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Travel pre-authorization
+[]Finish Travel Request
+[]Finish Request dosimetry badge
 []Papercuts
 []Write a bit of my paper?
 []Quarterly meeting
@@ -19,14 +20,10 @@ Monday:
 []Cut keys
 []Build bed
 []Clean top-box
-[]Collect ebay quadlock
-[]Check then re-list ebay pannier rack
-
 []Driving license whereeeeee
     []Get a D1 form from post office
 []New phone?
 Tuesday:
-[]Get dosimetry badge again
 []IKEA buying trip (socket adapter, divider, another tub)
 []Sell physio tape on eBay
 []TVP complaint
