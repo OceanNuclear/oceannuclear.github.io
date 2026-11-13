@@ -1,10 +1,8 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Papercuts
-[]Madrid trip
 []Get a D1 form from post office
-Thursday:
+Saturday:
 []Home Energy - better rates available?
     - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
 []Refactor the whole Scheduler.py
@@ -15,27 +13,26 @@ Thursday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-Thursday:
 []IKEA buying trip (socket adapter, divider, another tub, shoe horn?)
 []Sweep the garage parking space floor
 []Do I already have a 17 spanner?
     []Place amazon order
-Friday:
 []Cut keys
-[]Build bed
+Sunday:
 []Clean top-box
-[]New phone?
-Saturday:
-[]Sell physio tape on eBay
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
+[]Sell physio tape on eBay
 []Mark the bikes according to the TVP advice
 []Install Frankie's app
-[]Is the scatter-in→scatter-out↓ matrix correct?
-    - why some of them goes to 0 in-scatter cross-section?
+Monday:
+[]Madrid trip
+[]Build bed
+[]New phone?
 Later:
 []Decorate wall
 []Pot plants
+[]Sell bikes?
 []Bike component swap
 []Flynn Disney newsletters
 []CPhys application
