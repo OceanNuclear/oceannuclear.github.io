@@ -1,14 +1,12 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Write a bit of my paper?
 []Papercuts
-[]Finish Travel Request
-
+[]Madrid trip
 []Get a D1 form from post office
 Thursday:
 []Home Energy - better rates available?
-    - /home/ocean/Documents/Work/6.House/Reading/energy-comparison.xlsx
+    - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
