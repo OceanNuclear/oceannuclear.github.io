@@ -1,19 +1,10 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
-[]Change the direction of my quadlock
-[]Put away charged motorcycle stuff
-[]Get a D1 form from post office
-    []Buy some envelopes
-        []Mail croc back
-            - Elira Xhani, 26 Tudbury way, Salford, M3 6TW
-[]boots
-[]Buy cake? Celebration of some sort for Jane
-[]IKEA buying trip (socket adapter, another tub, shoe horn?)
-[]Cut keys
-[]Collect eBay parcel
-[]Clean top-box
 Saturday:
+[]IKEA buying trip (socket adapter, another tub, shoe horn, funnel)
+[]Buy sushi? Buy gap gap from £land
+[]Cut keys in Oxford
 []Home Energy - better rates available?
     - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
 []Refactor the whole Scheduler.py
