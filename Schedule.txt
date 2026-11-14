@@ -2,6 +2,13 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 []Get a D1 form from post office
+    []Mail croc back
+[]boots
+[]Buy cake? Celebration of some sort for Jane
+[]IKEA buying trip (socket adapter, another tub, shoe horn?)
+[]Cut keys
+[]Collect eBay parcel
+[]Clean top-box
 Saturday:
 []Home Energy - better rates available?
     - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
@@ -13,13 +20,8 @@ Saturday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]IKEA buying trip (socket adapter, divider, another tub, shoe horn?)
 []Sweep the garage parking space floor
-[]Do I already have a 17 spanner?
-    []Place amazon order
-[]Cut keys
 Sunday:
-[]Clean top-box
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
 []Sell physio tape on eBay
