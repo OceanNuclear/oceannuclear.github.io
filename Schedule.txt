@@ -2,7 +2,7 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Saturday:
-[]IKEA buying trip (socket adapter, another tub, shoe horn, funnel)
+[x]IKEA buying trip (socket adapter, another tub, shoe horn, funnel)
 []Buy sushi? Buy gap gap from £land
 []Cut keys in Oxford
 []Home Energy - better rates available?
