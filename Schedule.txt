@@ -6,8 +6,6 @@ Saturday:
 []Cut keys in Oxford
 
 []Sell physio tape on eBay
-[]Home Energy - better rates available?
-    - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
 []Refactor the whole Scheduler.py
 []Alt+Shift+W auto save instead (5 hours)
     []Move both into "/home/ocean/todo"
@@ -16,6 +14,7 @@ Saturday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
+[]Search for driving license in all of the cracks of my house, all of my pockets.
 Sunday:
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
