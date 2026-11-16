@@ -2,9 +2,10 @@
 2. Executive planning session daily.
 3. Add barriers to using resources for tasks other than the current one.
 Saturday:
-[x]IKEA buying trip (socket adapter, another tub, shoe horn, funnel)
 []Buy sushi? Buy gap gap from £land
 []Cut keys in Oxford
+
+[]Sell physio tape on eBay
 []Home Energy - better rates available?
     - /home/ocean/Documents/Work/6.House/Reading/energy-comparison2.xlsx
 []Refactor the whole Scheduler.py
@@ -15,11 +16,9 @@ Saturday:
         - ctrl+S on gedit Schedule.txt: ...
         - ctrl+S on gedit WON-and-work.txt: ...
         - bs: ... (do I backup WON-and-work as well?)
-[]Sweep the garage parking space floor
 Sunday:
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
-[]Sell physio tape on eBay
 []Mark the bikes according to the TVP advice
 []Install Frankie's app
 Monday:
