@@ -2,12 +2,13 @@
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
 Saturday:
-[]Alt+Shift+W auto save instead (5 hours)
-    []Move both into "/home/ocean/todo"
-    []bs should back it up too
-    []Run all of the backup commands
-        []Export and save all keyboard shortcut snapshots?
-        []Save .bashrc as well
+[o]Alt+Shift+W auto save instead (5 hours)
+    [o]Move both into "/home/ocean/todo"
+    [o]bs should back it up too
+[]Run all of the backup commands
+    []Export and save all keyboard shortcut snapshots?
+    []Save .bashrc as well
+[]Motorbike add oil
 []Sell physio tape on eBay
 []Buy sushi? Buy gap gap from £land, Screwfix light switch
 []Collect ebay flipflops
