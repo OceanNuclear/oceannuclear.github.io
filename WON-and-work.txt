@@ -1,0 +1,121 @@
+____foil selector
+activate_foilselector; cd /home/ocean/Self/FoilSelector/SampleHFTM/
+ipython
+from foilselector.script.simulate import main
+mass_record, effective_foil_matrices, effective_foil_peaks, foil_precision, foil_accuracy = main("solid_liquid_elements.json", ["../JEFF/JEFF33-n/endf6/", "../decay_2020/"], 28512000, 7862400, 1814400, (20, 2700, 0.3))
+cd /home/ocean/Self/foilselector/foilselector; activate_foilselector
+subl /home/ocean/Self/foilselector/tests/table_warn_list.txt
+________
+[]foilselector: WPENS (finish by 2026)
+    []unit test
+        []Confirm nuclear data is correctly extracted
+        []Confirm decay formula is correctly calculated, including the initial convolution (0-a).
+    []ruff-cleanup
+    []vulture
+    []MT Sum rule: implement correctly
+        - Helen
+    []Step 3: examine:
+        []Highlight highest sensitivity part of the spectrum
+            []Make confusion matrix.
+        []Max thickness shall be calculated by "total counts (b-c) < threshold",
+            - given in terms of # of atoms
+        []Yuefeng's table: columns for nuclide, reaction, decay pathway, half-life, characteristic gamma-peaks, activation energy (if any)
+    []Try using endf-parserpy instead of openmc to make installation easier
+[]Process 1D neutronics
+    []OpenMC benchmarking
+    []We're still outputting @summarize_values; def groupwise_... values in floats. Is that why we've been failing?
+    []Make the groupwise_*_in_layer method have the signature (n, num_layer, x), rather than the desired (num_layer, group, x). Can we fix that?
+    []Is the scatter-in→scatter-out↓ matrix correct?
+        - why some of them goes to 0 in-scatter cross-section?
+[]Make CulBUG survey report for 2025-2026
+[]Help with Jonny's attempt at fitting nuclides' cross section using the liquid drop model with the addition of even-odd etc. parity.
+    - data was passed to me in the chat
+[]Dig up unfolding algorithm paper stuff to give to Graeme
+    []~/Documents/PhD/Algorithm
+[]Implement Depth First Search on Steve Bradnam's gammaspectools
+    - https://gitlab.ukaea.uk/neutronics/toolbox/gstools/-/blob/master/scripts/CascadeCorrection.py
+[]Sign up to IoP membership
+    []CPhys chartership
+        - RDF planner in /home/ocean/Documents/PhD/Forms/
+        []Tidy up CV
+    []Look for conferences to join (ITER conferences page)
+[]Choose a nuclear institute course/ IoP course to join
+[]fast_ctd development:
+    []Step 1 Incomplete: failing at the simulation stage for blanket
+        - /home/ocean/Others/fast_ctd/examples/data/blanket isn't working
+        []Check the position of the blanket model (i.e. origin hasn't shifted to somewhere crazy) with onshape
+        []plot in openmc to confirm that it works
+            - `openmc.run(plot mode)` or something like that
+        []run a small batch openmc simulation for each h5m file
+    []2. modifies fast_ctd
+        []modify fast_ctd so it can read in multiple files
+        - merge /home/ocean/Others/fast_ctd/examples/data/*.stp into ONE h5m
+        []plot again
+        []run a small batch openmc simulation for the h5m file
+        []send to James Hagues to verify that it's correctly meshed
+            - Also tell him that XDG exists
+    []Get materials from James Hagues anyways
+[]Look for trainings too - preferably AI trainings
+[]CulBUG: announce to committee about the analytics added
+    []Blog spot for website:
+        - CoHSAT
+        - WhatsApp groups
+____Development day:
+[]Technology Dept. fusion lectures
+    - /home/ocean/Documents/UKAEA/36.FusionTrainingProgram-FT
+[]Psychological safety
+    - https://ukaeauk.sharepoint.com/sites/QSHERA-NucleusHosting/SHE%20Group%20Media%20Library/Forms/All%20media.aspx
+[]SeptembRSE
+    - https://docs.google.com/spreadsheets/d/1jX9VRxq1gI775YoLQz0lqA4UwDpTbxYpGvqvvZqYtTs/
+_______________________________________________________________________________________________________
+____Work order numbers
+14216-1012 : Foil selector/DONES work
+14319-1001 : ENI (bm and Process)
+13874-1020 : Journal Article! (paper writing)
+14216-1033 : Eurofusion Travel
+13312-1000 : Recruitment
+13307-1001 : APS (non-managers time)
+12262-1001 : travel and subsistence
+13311-1000 : Training (mandatory/online Moodle courses)
+13311-1001 : Training (other essential)
+
+?????-???? : LIBRTI?
+13310-1000 : UKAEA activities and events (Fusion /all-hands talks?)
+13309-1000 : Divisional activities and events (Division talks?)
+
+____Expired work order numbers:
+13514-1008 : CARS RP 295 - Whole Plant Analysis - Computing (Resource Package) FY25/26 - Fusion Technology Resources
+13445-1012 : Journal article
+14319-1000 : Code maintenance (bluemira)
+14216-1002 : ENI
+13445-1027 : ENI (temporary, for March 2026)
+13253-1020 : ENS Concrete benchmark
+13253-1029 : TSVV-14 - 2025 (eurofusion)
+13307-1001 : Job description update
+12570-1018 : Tech-growth
+12623-1001 : LIBRTI Facility Build (labour hours only) (0.4 FTE, i.e. 2 days/ week)???
+13445-1020 : PPMI Code Maintenace
+12623-1007 : WPENS foil selection for IFMIF-DONES HFTM (Hari) (0.4 FTE, i.e. 2 days/ week)???
+
+12261-1000 : Training : Any training related to ongoing resposibilities that aren't directly linked to projects. E.g. personal development training such as project management training or recruitment
+
+12249-1013 : Chantal's WON for Foil Selector (Radiometrics Workflow Development)
+12613-1000 : neutron SOURCE (neutromak)
+
+____Available time codes: (See TIMESHEET GUIDE on nucleus)
+ABHIST  Absence - Historic TOIL
+OTTOIL  Absence - Overtime Toil
+*ZBTOIL  Absence - TOIL
+    (See accumulated TOIL: Unit4 -> Reports -> PCB -> TOIL)
+*AH      TOIL accrued
+*T&OT    TOIL & Overtime Combined    <- only use this one
+
+OP      Overtime (Paid)
+OT      Overtime (Not Paid)
+(* are the important ones)
+____Total number of working hours:
+Working days:   252-2.5 days = 249.5 days
+Working hours:  249.5 days * 7.5 hours/ day = 1871.25 hours
+Annual Leave:   1871.25 - 210.0 hours = 1661.25 hours
+True pay per hour worked/AL-ed:   £35520/1661.25 = £21.38/ hour
+    Listed pay per hour worked:   £18.462/ hour
