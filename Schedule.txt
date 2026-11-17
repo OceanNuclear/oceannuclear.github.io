@@ -2,17 +2,19 @@
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
 Saturday:
-[]Run all of the backup commands
-    []Export and save all keyboard shortcut snapshots?
-    []Save .bashrc as well
-[]Motorbike add oil
-[]Sell physio tape on eBay
-[]Buy sushi? Buy gap gap from £land, Screwfix light switch
-[]Collect ebay flipflops
-[]More snacks from Sam's 99p store
 []Search for driving license in all of the cracks of my house, all of my pockets.
+[]Motorbike add oil
+
+[]Collect ebay flipflops
+[]Collect amazon parcel
+[]Screwfix light switch
+
 Wednesday:
 []Cut keys in Oxford (before acro)
+Thursday:
+[]More snacks from Sam's 99p store
+[]Buy sushi? Buy gap gap from £land
+[]Sell physio tape on eBay
 Sunday:
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
