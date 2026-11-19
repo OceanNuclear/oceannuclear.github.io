@@ -2,34 +2,39 @@
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Clean bedroom
-[]Clean desk
-    []find license, if not, make license replacement request
-[]Sell physio tape on eBay
-[]Sell 1/2" nuts
+[]Sell on ebay:
+    []physio tape
+    []flip flops 
+    []1/2" nuts
 Friday:
-[]Collect parcel from concierge
-[]Cut keys @ Timpson's
 []Formal wear for dinner
-[]Recover thick trousers from Jane's house
-    []Try to find my single glove + driving license + 20 1/2" nuts from her house as well
+[]Collect parcel from concierge
+
+[]Raise amazon return request
 []Prep for Madrid trip
 []Prep for Monday meeting
+
+[]Copy key fob
+[]Recover thick trousers from Jane's house
+    []Try to find my single glove + driving license + 20 1/2" nuts from her house as well
 Sunday:
-[]Return amazon stuff
+[]Return Amazon stuff: gloves, earplugs
 []Swap tyres
     []Try cleats
+[]Sell bike on ebay
 []More snacks from Sam's 99p store
 []Buy sushi? Buy gap gap from £land
-[]Copy key fob
+[]Clean bedroom
+    []Build bed
+[]Clean desk
+    []find license, if not, make license replacement request
+
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
 []Mark the bikes according to the TVP advice
 []Install Frankie's app
-Monday:
-[]Build bed
-[]New phone?
 Later:
+[]New phone?
 []Decorate wall
 []Pot plants
 []Sell bikes?
