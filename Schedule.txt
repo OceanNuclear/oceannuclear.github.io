@@ -2,10 +2,6 @@
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
 Thursday:
-[]Sell on ebay:
-    []physio tape
-    []flip flops 
-    []1/2" nuts
 Friday:
 []Formal wear for dinner
 []Collect parcel from concierge
@@ -28,6 +24,10 @@ Sunday:
     []Build bed
 []Clean desk
     []find license, if not, make license replacement request
+[]Sell on ebay:
+    []physio tape
+    []flip flops 
+    []1/2" nuts
 
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
