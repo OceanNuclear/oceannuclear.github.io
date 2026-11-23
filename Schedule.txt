@@ -4,8 +4,9 @@
 []Make slides for Monday meeting
 []Prep for Madrid (identify flights and buses)
 Monday:
-[]Bring T-shirt and gap gap to Jane
+[]Bring T-shirt, keys, and gap gap to Jane
 
+[]Find the hand wrap thing from the physio/exercise box
 []Return Amazon stuff: gloves, earplugs
 []Sell physio tape
     - https://www.ebay.co.uk/sch/i.html?_nkw=thumb+tape&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=tenaci+tape&_osacat=0
@@ -37,7 +38,7 @@ Later:
 []Geological timeline decor
 []SoME{1,2,3}
 []Fourier analyse the frequency of the logistic map, and plot!
-[]3D print particle on a hill
+[]3D print particle on a saddle point
 ----Make the barrier to doing your fun recreational task as low as possible.
 Interesting/recreational/entertaining:
 []Get Train API data
