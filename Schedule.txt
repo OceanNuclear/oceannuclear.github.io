@@ -1,21 +1,22 @@
 1. YT podcast playlist, YT Subscriptions, post-rock, SoundCloud.
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
-[]PACK!
-[]OT pre-authorization
 Tuesday:
-[]Prep for Madrid (identify flights and buses)
 []Make GM#5 Neutronics slides
+[]Find bus to Leonardo hotel
+[]Find the schedule for CIEMAT
+[]Reply to Social media analysis?
 []Sell physio tape
     - https://www.ebay.co.uk/sch/i.html?_nkw=thumb+tape&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=tenaci+tape&_osacat=0
     - https://www.instagram.com/tenacitape/
     - https://web.archive.org/web/20210303031933/https://tenacitapeco.com/
     - Easy Tear EAB (elastic adhesive bandage) - google images
-[]Clean bedroom
-[]Clean desk
-Friday:
+Thursday:
 []Update project tracker with the slides
     []Roadmap -> README.md
+Friday:
+[]Clean bedroom
+[]Clean desk
 []TVP complaint
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
 []Mark the bikes according to the TVP advice
