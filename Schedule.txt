@@ -3,7 +3,7 @@
 3. Add barriers to using resources for tasks other than the current one.
 Tuesday:
 []Make GM#5 Neutronics slides
-[]Find bus to Leonardo hotel
+
 []Find the schedule for CIEMAT
 []Reply to Social media analysis?
 []Sell physio tape
@@ -15,6 +15,7 @@ Thursday:
 []Update project tracker with the slides
     []Roadmap -> README.md
 Friday:
+[]Order 紙拖把
 []Clean bedroom
 []Clean desk
 []TVP complaint
