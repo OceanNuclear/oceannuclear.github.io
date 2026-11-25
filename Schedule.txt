@@ -9,8 +9,6 @@ Tuesday:
     - https://web.archive.org/web/20210303031933/https://tenacitapeco.com/
     - Easy Tear EAB (elastic adhesive bandage) - google images
 Thursday:
-[]Update project tracker with the slides
-    []Roadmap -> README.md
 Friday:
 []Order paper dusting broom
 []Clean bedroom
