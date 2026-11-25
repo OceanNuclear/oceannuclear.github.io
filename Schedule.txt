@@ -2,7 +2,12 @@
 2. Executive planning session daily
 3. Add barriers to using resources for tasks other than the current one.
 Tuesday:
-[]Reply to Social media analysis?
+[]Analysis:
+    []Frequency anomaly analysis as posted on social media
+    []Engine speed
+        - What's the start up term?
+        []Compare clutch strategies
+[]Calisthenics
 []Sell physio tape
     - https://www.ebay.co.uk/sch/i.html?_nkw=thumb+tape&_sacat=0&_from=R40&_trksid=p2334524.m570.l1313&_odkw=tenaci+tape&_osacat=0
     - https://www.instagram.com/tenacitape/
