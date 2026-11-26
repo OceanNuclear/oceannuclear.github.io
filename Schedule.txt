@@ -19,6 +19,9 @@ Friday:
     - /home/ocean/Documents/Work/65.BikeTheft/Retrieval-2026-10/TVP-complaint.txt
 []Mark the bikes according to the TVP advice
 []Install Frankie's app
+Saturday:
+[]Check contract
+    []Reply to Nancy
 Later:
 []Build bed
     []Return hex keys to Screwfix
